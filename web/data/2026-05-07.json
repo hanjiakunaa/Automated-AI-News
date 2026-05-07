@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T17:11:49+08:00",
+  "generated_at": "2026-05-07T17:29:05+08:00",
   "stats": {
     "new_count": 52,
     "total_seen": 240
@@ -141,8 +141,8 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-06T15:06:37",
-        "score": 585,
-        "summary": "💬 637 评论 · ⭐ 585 分",
+        "score": 588,
+        "summary": "💬 645 评论 · ⭐ 588 分",
         "extra": {}
       },
       {
@@ -151,8 +151,8 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-06T21:58:43",
-        "score": 234,
-        "summary": "💬 64 评论 · ⭐ 234 分",
+        "score": 242,
+        "summary": "💬 63 评论 · ⭐ 242 分",
         "extra": {}
       },
       {
@@ -176,13 +176,13 @@
         "extra": {}
       },
       {
-        "title": "How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs",
+        "title": "Making LLM Training Faster with Unsloth and NVIDIA",
         "url": "https://unsloth.ai/blog/nvidia-collab",
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-07T07:15:11",
-        "score": 16,
-        "summary": "💬 1 评论 · ⭐ 16 分",
+        "score": 25,
+        "summary": "💬 2 评论 · ⭐ 25 分",
         "extra": {}
       },
       {
@@ -191,8 +191,8 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-07T06:12:25",
-        "score": 16,
-        "summary": "💬 0 评论 · ⭐ 16 分",
+        "score": 17,
+        "summary": "💬 1 评论 · ⭐ 17 分",
         "extra": {}
       },
       {
@@ -263,8 +263,8 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-06T16:17:33",
-        "score": 458,
-        "summary": "💬 418 评论 · ⭐ 458 分",
+        "score": 459,
+        "summary": "💬 419 评论 · ⭐ 459 分",
         "extra": {}
       },
       {
