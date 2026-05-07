@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+
+# 截图等临时文件（仅根目录）
+/ScreenShot*.png
+/*.png
+
+# Node / Next.js
+web/node_modules/
+web/.next/
+web/out/
+web/.vercel/
+web/*.log
+
+# 注意：web/data/*.json 是产出物，要提交到 git，不在这里忽略

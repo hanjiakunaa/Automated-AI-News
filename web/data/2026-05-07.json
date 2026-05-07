@@ -1,0 +1,353 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T14:57:01+08:00",
+  "stats": {
+    "new_count": 85,
+    "total_seen": 221
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [],
+    "news": [
+      {
+        "title": "xAI will be dissolved as a separate entity.",
+        "url": "https://i.redd.it/tzexewkj2lzg1.jpeg",
+        "source": "r/singularity",
+        "source_kind": "reddit",
+        "published_at": "2026-05-07T05:15:33",
+        "score": 1002,
+        "summary": "⬆ 1002 · 💬 279",
+        "extra": {}
+      },
+      {
+        "title": "Anthropic partnered with SpaceX to use colossus 1 to increase their rate limits",
+        "url": "https://i.redd.it/9x97c08dnjzg1.jpeg",
+        "source": "r/singularity",
+        "source_kind": "reddit",
+        "published_at": "2026-05-07T00:28:44",
+        "score": 961,
+        "summary": "⬆ 961 · 💬 260",
+        "extra": {}
+      },
+      {
+        "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+        "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-06T23:06:37",
+        "score": 545,
+        "summary": "💬 580 评论 · ⭐ 545 分",
+        "extra": {}
+      },
+      {
+        "title": "Genesis AI's Gene'26.5",
+        "url": "https://v.redd.it/ono27ibnbkzg1",
+        "source": "r/singularity",
+        "source_kind": "reddit",
+        "published_at": "2026-05-07T02:45:04",
+        "score": 210,
+        "summary": "⬆ 210 · 💬 65",
+        "extra": {}
+      },
+      {
+        "title": "SQLite Is a Library of Congress Recommended Storage Format",
+        "url": "https://sqlite.org/locrsf.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T05:58:43",
+        "score": 160,
+        "summary": "💬 34 评论 · ⭐ 160 分",
+        "extra": {}
+      },
+      {
+        "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
+        "url": "https://tilde.run/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-06T23:58:34",
+        "score": 152,
+        "summary": "💬 105 评论 · ⭐ 152 分",
+        "extra": {}
+      },
+      {
+        "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+        "url": "https://play.templatical.com",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T00:20:00",
+        "score": 129,
+        "summary": "💬 31 评论 · ⭐ 129 分",
+        "extra": {}
+      },
+      {
+        "title": "ProgramBench: Can LLMs rebuild programs from scratch?",
+        "url": "https://www.reddit.com/r/singularity/comments/1t582ln/programbench_can_llms_rebuild_programs_from/",
+        "source": "r/singularity",
+        "source_kind": "reddit",
+        "published_at": "2026-05-06T17:43:52",
+        "score": 86,
+        "summary": "⬆ 86 · 💬 40",
+        "extra": {}
+      },
+      {
+        "title": "DeepSeek Targets $50B Valuation in First Fundraising, Escalating Global AI Race",
+        "url": "https://www.financership.com/deepseek-50-billion-valuation-first-fundraising-ai/",
+        "source": "r/singularity",
+        "source_kind": "reddit",
+        "published_at": "2026-05-07T03:00:35",
+        "score": 75,
+        "summary": "⬆ 75 · 💬 8",
+        "extra": {}
+      },
+      {
+        "title": "AI lets chemists design molecules by simply describing them",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+        "source": "r/singularity",
+        "source_kind": "reddit",
+        "published_at": "2026-05-07T00:41:28",
+        "score": 69,
+        "summary": "⬆ 69 · 💬 5",
+        "extra": {}
+      },
+      {
+        "title": "Dawkins: AI consciousness isn't coming, it’s already here",
+        "url": "https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt",
+        "source": "r/singularity",
+        "source_kind": "reddit",
+        "published_at": "2026-05-07T10:17:51",
+        "score": 0,
+        "summary": "⬆ 0 · 💬 105",
+        "extra": {}
+      },
+      {
+        "title": "千问PC端上线AI语音输入",
+        "url": "https://36kr.com/newsflashes/3798860284156928?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T06:40:31",
+        "score": 0,
+        "summary": "36氪获悉，5月7日，千问在PC端上线AI语音输入能力，用户通过快捷键即可在各类桌面应用中直接使用。千问语音输入法支持对口语内容去语气词、纠错、格式化整理等，能够基于上下文智能回复，还可直接下达创作、问答、翻译等指令。",
+        "extra": {}
+      }
+    ],
+    "models": [
+      {
+        "title": "Sam Altman texts Mira Murati. November 19, 2023. [This document is from Musk v. Altman (2026).]",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1t5tn1n/sam_altman_texts_mira_murati_november_19_2023/",
+        "source": "r/OpenAI",
+        "source_kind": "reddit",
+        "published_at": "2026-05-07T07:31:58",
+        "score": 1284,
+        "summary": "⬆ 1284 · 💬 346",
+        "extra": {}
+      },
+      {
+        "title": "2.5x faster inference with Qwen 3.6 27B using MTP - Finally a viable option for local agentic coding - 262k context on 48GB - Fixed chat template - Drop-in OpenAI and Anthropic API endpoints",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t57xuu/25x_faster_inference_with_qwen_36_27b_using_mtp/",
+        "source": "r/LocalLLaMA",
+        "source_kind": "reddit",
+        "published_at": "2026-05-06T17:35:42",
+        "score": 992,
+        "summary": "⬆ 992 · 💬 292",
+        "extra": {}
+      },
+      {
+        "title": "Bad news: Apple drops high-memory Mac Studio configs",
+        "url": "https://9to5mac.com/2026/05/05/apples-most-powerful-mac-studio-loses-its-last-remaining-ram-upgrade-option/",
+        "source": "r/LocalLLaMA",
+        "source_kind": "reddit",
+        "published_at": "2026-05-06T19:13:02",
+        "score": 457,
+        "summary": "⬆ 457 · 💬 115",
+        "extra": {}
+      },
+      {
+        "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+        "url": "https://www.anthropic.com/news/higher-limits-spacex",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T00:17:33",
+        "score": 450,
+        "summary": "💬 397 评论 · ⭐ 450 分",
+        "extra": {}
+      },
+      {
+        "title": "The answer came from nowhere.",
+        "url": "https://i.redd.it/qw6zrcov7mzg1.jpeg",
+        "source": "r/OpenAI",
+        "source_kind": "reddit",
+        "published_at": "2026-05-07T09:07:15",
+        "score": 441,
+        "summary": "⬆ 441 · 💬 8",
+        "extra": {}
+      },
+      {
+        "title": "None of this will ever get stolen",
+        "url": "https://i.redd.it/ln5useqj5jzg1.png",
+        "source": "r/LocalLLaMA",
+        "source_kind": "reddit",
+        "published_at": "2026-05-06T22:53:07",
+        "score": 321,
+        "summary": "⬆ 321 · 💬 253",
+        "extra": {}
+      },
+      {
+        "title": "ZAYA1-8B: Frontier intelligence density, trained on AMD",
+        "url": "https://www.zyphra.com/post/zaya1-8b",
+        "source": "r/LocalLLaMA",
+        "source_kind": "reddit",
+        "published_at": "2026-05-07T03:43:52",
+        "score": 259,
+        "summary": "⬆ 259 · 💬 79",
+        "extra": {}
+      },
+      {
+        "title": "\"Water wars.\"",
+        "url": "https://i.redd.it/7lup0fqcthzg1.png",
+        "source": "r/OpenAI",
+        "source_kind": "reddit",
+        "published_at": "2026-05-06T18:18:42",
+        "score": 204,
+        "summary": "⬆ 204 · 💬 62",
+        "extra": {}
+      },
+      {
+        "title": "Three key areas Anthropic is working on for their next models",
+        "url": "https://i.redd.it/jq3ulquzzkzg1.png",
+        "source": "r/singularity",
+        "source_kind": "reddit",
+        "published_at": "2026-05-07T05:15:08",
+        "score": 158,
+        "summary": "⬆ 158 · 💬 24",
+        "extra": {}
+      },
+      {
+        "title": "Qwen3.6-27B with MTP grafted on Unsloth UD XL: 2.5x throughput via unmerged llama.cpp PR",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t5ageq/qwen3627b_with_mtp_grafted_on_unsloth_ud_xl_25x/",
+        "source": "r/LocalLLaMA",
+        "source_kind": "reddit",
+        "published_at": "2026-05-06T19:45:46",
+        "score": 149,
+        "summary": "⬆ 149 · 💬 72",
+        "extra": {}
+      },
+      {
+        "title": "Stop letting LLMs edit your .bib [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1t5anla/stop_letting_llms_edit_your_bib_d/",
+        "source": "r/MachineLearning",
+        "source_kind": "reddit",
+        "published_at": "2026-05-06T19:54:57",
+        "score": 146,
+        "summary": "⬆ 146 · 💬 24",
+        "extra": {}
+      },
+      {
+        "title": "Analysis of the 100 most popular hardware setups on Hugging Face",
+        "url": "https://i.redd.it/3li41g4iojzg1.png",
+        "source": "r/LocalLLaMA",
+        "source_kind": "reddit",
+        "published_at": "2026-05-07T00:35:47",
+        "score": 136,
+        "summary": "⬆ 136 · 💬 37",
+        "extra": {}
+      }
+    ],
+    "github": [
+      {
+        "title": "addyosmani/agent-skills",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 800,
+        "summary": "Production-grade engineering skills for AI coding agents. · Shell · ⭐ +800 今日",
+        "extra": {}
+      },
+      {
+        "title": "anthropics/financial-services",
+        "url": "https://github.com/anthropics/financial-services",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 641,
+        "summary": "Python · ⭐ +641 今日",
+        "extra": {}
+      },
+      {
+        "title": "InsForge/InsForge",
+        "url": "https://github.com/InsForge/InsForge",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 230,
+        "summary": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents. · TypeScript · ⭐ +230 今日",
+        "extra": {}
+      },
+      {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 200,
+        "summary": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship. · Python · ⭐ +200 今日",
+        "extra": {}
+      },
+      {
+        "title": "Q00/ouroboros",
+        "url": "https://github.com/Q00/ouroboros",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 143,
+        "summary": "Agent OS: Stop prompting. Start specifying. · Python · ⭐ +143 今日",
+        "extra": {}
+      },
+      {
+        "title": "onyx-dot-app/onyx",
+        "url": "https://github.com/onyx-dot-app/onyx",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 116,
+        "summary": "Open Source AI Platform - AI Chat with advanced features that works with every LLM · Python · ⭐ +116 今日",
+        "extra": {}
+      },
+      {
+        "title": "hsliuping/TradingAgents-CN",
+        "url": "https://github.com/hsliuping/TradingAgents-CN",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 116,
+        "summary": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 · Python · ⭐ +116 今日",
+        "extra": {}
+      },
+      {
+        "title": "pytorch/pytorch",
+        "url": "https://github.com/pytorch/pytorch",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 49,
+        "summary": "Tensors and Dynamic neural networks in Python with strong GPU acceleration · Python · ⭐ +49 今日",
+        "extra": {}
+      },
+      {
+        "title": "kyutai-labs/pocket-tts",
+        "url": "https://github.com/kyutai-labs/pocket-tts",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 49,
+        "summary": "A TTS that fits in your CPU (and pocket) · Python · ⭐ +49 今日",
+        "extra": {}
+      }
+    ]
+  }
+}

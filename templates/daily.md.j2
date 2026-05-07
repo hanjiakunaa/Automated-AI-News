@@ -1,0 +1,24 @@
+# 🛰️ AI News Radar · {{ date }}
+
+> 今日新增 **{{ new_count }}** 条 · 累计追踪 **{{ total_seen }}** 条 · 生成于 {{ generated_at }}
+
+{% if new_count == 0 %}
+今日各源暂无新增内容。可能是太早了——稍后再跑一次试试。
+{% endif %}
+
+{% for key, items in sections.items() %}
+{% if items %}
+
+## {{ section_titles[key] }}（{{ items|length }}）
+
+{% for it in items %}
+- **[{{ it.title }}]({{ it.url }})** — `{{ it.source }}`{% if it.published_at %} · {{ it.published_at|fmt_dt }}{% endif %}
+{% if it.summary %}
+  - {{ it.summary }}
+{% endif %}
+{% endfor %}
+{% endif %}
+{% endfor %}
+
+---
+*由 AI News Radar 自动生成。源代码见同目录 `main.py`。*
