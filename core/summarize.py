@@ -20,23 +20,26 @@ CLAUDE_DEFAULT_MODEL = "claude-opus-4-7"
 DEEPSEEK_DEFAULT_MODEL = "deepseek-chat"
 DEEPSEEK_API = "https://api.deepseek.com/chat/completions"
 
-_SYSTEM_PROMPT = """你是一名为微信公众号撰稿的中文 AI 资讯编辑。
+_SYSTEM_PROMPT = """你是一名为微信公众号撰稿的中文 AI 资讯编辑。受众是国内开发者 / 产品经理，他们看不到外网，需要从你的摘要里就拿到关键信息。
 
 任务：给定一组 AI 圈资讯（含标题和原文摘要），为每一条写：
-1. **中文标题** —— 把英文标题改写成读者一眼能 Get 重点的中文短句（10-22 字），中文原标题保留即可
-2. **中文摘要** —— 80-150 字，让国人不用点链接也能掌握「发生了什么 / 为什么重要 / 关键数据或公司」
+1. **title_zh（中文标题）** —— 10-22 字，动词驱动、有信息量、保留具体公司/模型名
+2. **summary（中文摘要）** —— 150-220 字，结构化两段：
+   - 第 1 句：「发生了什么」—— 一句话事实陈述
+   - 第 2-3 句：「为什么重要 / 关键数据 / 影响」—— 必须带具体数字、公司名、对比基准、应用场景中的至少 1-2 个
+3. **key_points（关键标签）** —— 2-3 个 3-6 字的短词标签，用于在卡片上做 tag 展示（例：["开源", "Apache 2.0", "推理加速"] 或 ["多模态", "文生视频", "Sora 2 对标"]）
 
 写作要求：
-- 标题：动词驱动、有信息量、不要标题党。例：「Anthropic 与 SpaceX 合作扩容 Claude 速率限制」「Qwen 3.6 27B 推理提速 2.5 倍」
-- 摘要：抓住「这条资讯到底说了什么 / 解决了什么 / 谁做的 / 影响是什么」
-- 涉及具体的产品名、公司名、模型名保留原文（GPT-5.5、Claude 4.7、DeepSeek V4 等）
-- GitHub 项目：摘要里说明「它做什么、解决什么问题、技术亮点」，不要只重述 README
-- Reddit/HN 讨论帖：摘要里给出「讨论的核心观点和分歧」
-- 语气客观、信息密度高，不要"震惊体"或营销腔
-- 不要套话开头（"近日"、"据悉"、"据报道"）
+- 标题示例：「Anthropic 与 SpaceX 合作扩容 Claude 速率限制」「Qwen 3.6 27B 推理提速 2.5 倍」「字节豆包发布 80B MoE 视觉模型」
+- 摘要要带具体数字（参数量、价格、性能、增长率、融资金额、用户数等任何能找到的）
+- 涉及产品名、公司名、模型名、版本号必须保留原文（GPT-5.5、Claude 4.7、DeepSeek V4、Sora 2 等）
+- GitHub 项目：「它做什么 + 解决什么 + 技术亮点 + star 增长 + 协议」
+- Reddit/HN 讨论帖：「讨论的核心观点 + 主要分歧 + 谁在说」
+- 语气客观、信息密度高，不要"震惊体"、不要营销腔、不要"近日/据悉/据报道"开头
 - 中文输入的标题（量子位、36氪等），title_zh 直接照抄原标题
+- key_points 是名词或短语，不要句子；尽量提炼最具记忆点的关键词
 
-输出严格按 JSON schema：每条 {index, title_zh, summary}，index 与输入对应。"""
+输出严格按 JSON schema：每条 {index, title_zh, summary, key_points}，index 与输入对应。"""
 
 _OUTPUT_SCHEMA = {
     "type": "object",
@@ -49,6 +52,11 @@ _OUTPUT_SCHEMA = {
                     "index": {"type": "integer"},
                     "title_zh": {"type": "string"},
                     "summary": {"type": "string"},
+                    "key_points": {
+                        "type": "array",
+                        "items": {"type": "string"},
+                        "maxItems": 3,
+                    },
                 },
                 "required": ["index", "title_zh", "summary"],
                 "additionalProperties": False,
@@ -71,7 +79,7 @@ def _build_user_message(items: list[Item]) -> str:
 
 
 def _apply_summaries(items: list[Item], data: dict) -> int:
-    """把 LLM 返回的 summaries / title_zh 写回 items。返回成功条数。"""
+    """把 LLM 返回的 summaries / title_zh / key_points 写回 items。返回成功条数。"""
     n = 0
     for entry in data.get("summaries", []):
         idx = entry.get("index")
@@ -79,12 +87,18 @@ def _apply_summaries(items: list[Item], data: dict) -> int:
             continue
         summary = (entry.get("summary") or "").strip()
         title_zh = (entry.get("title_zh") or "").strip()
+        key_points = entry.get("key_points") or []
         if summary:
             items[idx].summary = summary
             n += 1
         if title_zh:
             # 翻译过的中文标题存到 extra，notify.py 优先用这个
             items[idx].extra["title_zh"] = title_zh
+        if isinstance(key_points, list) and key_points:
+            # 过滤空字符串并截断长标签，最多 3 个
+            cleaned = [str(p).strip()[:12] for p in key_points if p and str(p).strip()]
+            if cleaned:
+                items[idx].extra["key_points"] = cleaned[:3]
     return n
 
 

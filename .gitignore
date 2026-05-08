@@ -20,4 +20,7 @@ web/out/
 web/.vercel/
 web/*.log
 
+# og:image 抓取缓存（运行时产物，不入库）
+data/og_cache.json
+
 # 注意：web/data/*.json 是产出物，要提交到 git，不在这里忽略

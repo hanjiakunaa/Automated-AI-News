@@ -14,6 +14,7 @@ from config import GH_TRENDING_URLS, REDDIT_SUBS, RSS_FEEDS, TIMEZONE
 from core import notify
 from core.classify import bucketize
 from core.dedupe import Dedupe
+from core.enrich import fetch_og_images
 from core.filter import filter_items
 from core.report import render
 from core.summarize import summarize
@@ -87,6 +88,9 @@ def main() -> int:
 
     # v0.2: 如果设置了 ANTHROPIC_API_KEY，用 Claude 生成中文一句话摘要
     summarize(fresh)
+
+    # v0.3: 给没图的条目抓 og:image（公众号视觉重点）
+    fetch_og_images(fresh)
 
     buckets = bucketize(fresh)
     total_seen = dedupe.total_count()
