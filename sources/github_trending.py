@@ -37,6 +37,8 @@ def fetch(name: str, url: str) -> list[Item]:
         meta = f"⭐ +{stars_today} 今日"
         if lang:
             meta = f"{lang} · {meta}"
+        owner = repo_path.split("/")[0] if "/" in repo_path else repo_path
+        avatar = f"https://github.com/{owner}.png?size=120"
         items.append(
             Item(
                 title=repo_path,
@@ -45,6 +47,7 @@ def fetch(name: str, url: str) -> list[Item]:
                 source_kind="github",
                 score=stars_today,
                 summary=(desc + (" · " if desc else "") + meta).strip(" ·"),
+                extra={"image": avatar, "language": lang},
             )
         )
     return items

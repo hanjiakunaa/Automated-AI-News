@@ -1,10 +1,8 @@
 name: Daily AI News
 
 on:
-  schedule:
-    # 北京时间 10:07 = UTC 02:07
-    # 故意避开 :00 整点 —— 全世界用 "0 X * * *" 的太多，GitHub 队列拥堵会延迟 30 分钟+
-    - cron: "7 2 * * *"
+  # 由 cron-job.org 通过 GitHub API 触发 workflow_dispatch（每天北京 10:00）
+  # 不再使用 GitHub 自带 cron —— 它的整点拥堵延迟太大
   workflow_dispatch:
 
 permissions:
@@ -49,7 +47,9 @@ jobs:
         env:
           PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           AI_NEWS_MODEL: ${{ vars.AI_NEWS_MODEL }}
+          WEB_URL: ${{ secrets.WEB_URL }}
         run: python main.py
 
       - name: Commit results

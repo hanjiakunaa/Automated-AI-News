@@ -75,5 +75,10 @@ GH_TRENDING_URLS = [
 # 每个板块在报告里展示的最大条数
 SECTION_LIMIT = 12
 
-# 微信推送时每个板块取多少条（推送内容要短，否则 PushPlus 会截断）
-PUSH_TOP_PER_SECTION = 3
+# 微信推送时每个板块取多少条
+PUSH_TOP_PER_SECTION = 5
+# 推送顶部「今日必看」抽几条（跨板块按 score 取）
+PUSH_HIGHLIGHT_COUNT = 3
+# Vercel 部署的网页地址，用于推送底部「查看完整列表」按钮（可选）
+import os as _os
+WEB_URL = _os.environ.get("WEB_URL", "").strip()

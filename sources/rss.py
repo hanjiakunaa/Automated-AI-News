@@ -19,6 +19,7 @@ _TAG_RE = re.compile(r"<[^>]+>")
 _WS_RE = re.compile(r"\s+")
 # Product Hunt RSS 尾巴：「 Discussion | Link」之类
 _PH_TAIL_RE = re.compile(r"\s*(Discussion\s*\|\s*Link)\s*$", re.IGNORECASE)
+_IMG_SRC_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.IGNORECASE)
 
 
 def _strip_html(text: str) -> str:
@@ -39,6 +40,40 @@ def _to_datetime(struct_time) -> datetime | None:
         return None
 
 
+def _pick_image(entry) -> str:
+    """按优先级提取一张代表图：media:thumbnail > media:content > enclosure > description 里的 <img>。"""
+    # 1. media:thumbnail
+    thumbs = entry.get("media_thumbnail") or []
+    if thumbs and isinstance(thumbs, list):
+        u = thumbs[0].get("url")
+        if u:
+            return u
+    # 2. media:content（image 类型）
+    contents = entry.get("media_content") or []
+    if contents and isinstance(contents, list):
+        for c in contents:
+            u = c.get("url")
+            t = (c.get("type") or "").lower()
+            if u and (t.startswith("image/") or not t):
+                return u
+    # 3. enclosure
+    encs = entry.get("enclosures") or []
+    for e in encs:
+        u = e.get("href") or e.get("url")
+        t = (e.get("type") or "").lower()
+        if u and t.startswith("image/"):
+            return u
+    # 4. content/summary 里的第一张 <img>
+    blob = ""
+    if entry.get("content"):
+        blob = entry["content"][0].get("value", "") if isinstance(entry["content"], list) else ""
+    blob = blob or entry.get("summary") or entry.get("description") or ""
+    m = _IMG_SRC_RE.search(blob)
+    if m:
+        return m.group(1)
+    return ""
+
+
 def fetch(name: str, url: str, kind: str = "rss") -> list[Item]:
     """抓单个 RSS。失败抛异常，由上层捕获。"""
     resp = requests.get(url, headers=HTTP_HEADERS, timeout=HTTP_TIMEOUT)
@@ -54,6 +89,7 @@ def fetch(name: str, url: str, kind: str = "rss") -> list[Item]:
         if len(summary) > 200:
             summary = summary[:200].rstrip() + "…"
         published = _to_datetime(entry.get("published_parsed") or entry.get("updated_parsed"))
+        image = _pick_image(entry)
         items.append(
             Item(
                 title=title,
@@ -62,6 +98,7 @@ def fetch(name: str, url: str, kind: str = "rss") -> list[Item]:
                 source_kind=kind,
                 published_at=published,
                 summary=summary,
+                extra={"image": image} if image else {},
             )
         )
     return items

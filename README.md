@@ -125,16 +125,26 @@ AI-News/
    - GitHub 仓库 → Settings → Secrets and variables → Actions → New secret
      - Name: `PUSHPLUS_TOKEN`，Value: 你的 token
 
-3. **（可选）配置 Claude 摘要**：
-   - 添加 secret：`ANTHROPIC_API_KEY` = 你的 Anthropic API key
+3. **（可选）配置 AI 中文摘要**（强烈推荐，体验差异巨大）：
+   选其一即可，程序会按优先级自动用：
+   - `ANTHROPIC_API_KEY`（首选，质量最佳，约 ¥0.3–0.8/天）
+   - `DEEPSEEK_API_KEY`（便宜，约 ¥0.01/天，OpenAI 兼容）
 
-4. **部署网页到 Vercel**：
+   还可加一条 `AI_NEWS_MODEL` 指定模型：
+   - Claude：`claude-opus-4-7`（默认）/ `claude-haiku-4-5`（便宜）
+   - DeepSeek：`deepseek-chat`（默认）/ `deepseek-reasoner`
+
+4. **（可选）网页跳转链接**：
+   - 添加 secret：`WEB_URL` = 你的 Vercel 部署域名（例如 `https://xxx.vercel.app`）
+   - 设置后，每条微信推送底部会有「查看完整列表」按钮
+
+5. **部署网页到 Vercel**：
    - 打开 https://vercel.com/ → Import Git Repository → 选择你刚推的仓库
    - **Root Directory** 设置为 `web/`（重要！否则会构建失败）
    - Framework 自动识别 Next.js，点 Deploy
-   - 几十秒后拿到 `xxx.vercel.app` 域名
+   - 几十秒后拿到 `xxx.vercel.app` 域名（拿到后回填上面 Step 4 的 `WEB_URL` secret）
 
-5. **手动触发一次验证**：
+6. **手动触发一次验证**：
    - GitHub 仓库 → Actions → Daily AI News → Run workflow
    - 跑完会看到一条 commit `data: 2026-XX-XX`，Vercel 自动重新部署
    - 手机微信收到一条 PushPlus 推送

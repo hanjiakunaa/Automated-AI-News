@@ -89,9 +89,10 @@ def main() -> int:
     summarize(fresh)
 
     buckets = bucketize(fresh)
+    total_seen = dedupe.total_count()
     out = render(
         buckets,
-        total_seen=dedupe.total_count(),
+        total_seen=total_seen,
         new_count=len(fresh),
     )
     dedupe.close()
@@ -100,7 +101,7 @@ def main() -> int:
 
     # 推送到微信（设置了 PUSHPLUS_TOKEN 才会真的发）
     today = datetime.now(ZoneInfo(TIMEZONE)).date()
-    notify.push(buckets, today, new_count=len(fresh))
+    notify.push(buckets, today, new_count=len(fresh), total_seen=total_seen)
     return 0
 
 
