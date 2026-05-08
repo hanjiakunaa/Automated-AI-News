@@ -1,0 +1,324 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T10:38:01+08:00",
+  "stats": {
+    "new_count": 49,
+    "total_seen": 289
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "Bluespine",
+        "url": "https://www.producthunt.com/products/bluespine",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-05T18:18:35",
+        "score": 0,
+        "summary": "AI claims review for employer health plans",
+        "extra": {}
+      }
+    ],
+    "news": [
+      {
+        "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+        "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T15:56:33",
+        "score": 480,
+        "summary": "💬 178 评论 · ⭐ 480 分",
+        "extra": {}
+      },
+      {
+        "title": "AI slop is killing online communities",
+        "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T18:46:25",
+        "score": 464,
+        "summary": "💬 452 评论 · ⭐ 464 分",
+        "extra": {}
+      },
+      {
+        "title": "Dirtyfrag: Universal Linux LPE",
+        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T19:21:32",
+        "score": 439,
+        "summary": "💬 197 评论 · ⭐ 439 分",
+        "extra": {}
+      },
+      {
+        "title": "Agents need control flow, not more prompts",
+        "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T16:43:35",
+        "score": 342,
+        "summary": "💬 186 评论 · ⭐ 342 分",
+        "extra": {}
+      },
+      {
+        "title": "DeepSeek 4 Flash local inference engine for Metal",
+        "url": "https://github.com/antirez/ds4",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T15:40:24",
+        "score": 304,
+        "summary": "💬 86 评论 · ⭐ 304 分",
+        "extra": {}
+      },
+      {
+        "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+        "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T15:23:23",
+        "score": 249,
+        "summary": "💬 290 评论 · ⭐ 249 分",
+        "extra": {}
+      },
+      {
+        "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+        "url": "https://deepmind.google/blog/alphaevolve-impact/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T15:02:20",
+        "score": 247,
+        "summary": "💬 102 评论 · ⭐ 247 分",
+        "extra": {}
+      },
+      {
+        "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+        "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T17:54:02",
+        "score": 203,
+        "summary": "💬 69 评论 · ⭐ 203 分",
+        "extra": {}
+      },
+      {
+        "title": "ZAYA1-8B matches DeepSeek-R1 on math with less than 1B active parameters",
+        "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T08:56:51",
+        "score": 95,
+        "summary": "💬 53 评论 · ⭐ 95 分",
+        "extra": {}
+      },
+      {
+        "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
+        "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T13:25:31",
+        "score": 88,
+        "summary": "💬 68 评论 · ⭐ 88 分",
+        "extra": {}
+      },
+      {
+        "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+        "url": "https://ahk.cardor.dev",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T10:45:59",
+        "score": 75,
+        "summary": "💬 22 评论 · ⭐ 75 分",
+        "extra": {}
+      },
+      {
+        "title": "Principles for agent-native CLIs",
+        "url": "https://twitter.com/trevin/status/2051316002730991795",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T17:40:05",
+        "score": 65,
+        "summary": "💬 37 评论 · ⭐ 65 分",
+        "extra": {}
+      }
+    ],
+    "models": [
+      {
+        "title": "Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude Code",
+        "url": "https://github.com/kubetail-org/kstack",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T05:24:23",
+        "score": 17,
+        "summary": "💬 7 评论 · ⭐ 17 分",
+        "extra": {}
+      },
+      {
+        "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+        "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T13:00:00",
+        "score": 0,
+        "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+        "extra": {}
+      },
+      {
+        "title": "Parloa builds service agents customers want to talk to",
+        "url": "https://openai.com/index/parloa",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T11:00:00",
+        "score": 0,
+        "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+        "extra": {}
+      },
+      {
+        "title": "Advancing voice intelligence with new models in the API",
+        "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T10:00:00",
+        "score": 0,
+        "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+        "extra": {}
+      },
+      {
+        "title": "Introducing Trusted Contact in ChatGPT",
+        "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T00:00:00",
+        "score": 0,
+        "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+        "extra": {}
+      },
+      {
+        "title": "Testing ads in ChatGPT",
+        "url": "https://openai.com/index/testing-ads-in-chatgpt",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T00:00:00",
+        "score": 0,
+        "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+        "extra": {}
+      },
+      {
+        "title": "Simplex rethinks software development with Codex",
+        "url": "https://openai.com/index/simplex",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T00:00:00",
+        "score": 0,
+        "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
+        "extra": {}
+      }
+    ],
+    "github": [
+      {
+        "title": "VectifyAI/PageIndex",
+        "url": "https://github.com/VectifyAI/PageIndex",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 943,
+        "summary": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG · Python · ⭐ +943 今日",
+        "extra": {}
+      },
+      {
+        "title": "z-lab/dflash",
+        "url": "https://github.com/z-lab/dflash",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 671,
+        "summary": "DFlash: Block Diffusion for Flash Speculative Decoding · Python · ⭐ +671 今日",
+        "extra": {}
+      },
+      {
+        "title": "aaif-goose/goose",
+        "url": "https://github.com/aaif-goose/goose",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 390,
+        "summary": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM · Rust · ⭐ +390 今日",
+        "extra": {}
+      },
+      {
+        "title": "decolua/9router",
+        "url": "https://github.com/decolua/9router",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 149,
+        "summary": "🇻🇳 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. · JavaScript · ⭐ +149 今日",
+        "extra": {}
+      },
+      {
+        "title": "vercel-labs/open-agents",
+        "url": "https://github.com/vercel-labs/open-agents",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 131,
+        "summary": "An open source template for building cloud agents. · TypeScript · ⭐ +131 今日",
+        "extra": {}
+      },
+      {
+        "title": "Blaizzy/mlx-vlm",
+        "url": "https://github.com/Blaizzy/mlx-vlm",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 50,
+        "summary": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX. · Python · ⭐ +50 今日",
+        "extra": {}
+      },
+      {
+        "title": "awslabs/aidlc-workflows",
+        "url": "https://github.com/awslabs/aidlc-workflows",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 31,
+        "summary": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents · Python · ⭐ +31 今日",
+        "extra": {}
+      },
+      {
+        "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+        "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 25,
+        "summary": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms · Python · ⭐ +25 今日",
+        "extra": {}
+      },
+      {
+        "title": "xming521/WeClone",
+        "url": "https://github.com/xming521/WeClone",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 20,
+        "summary": "🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案 · Python · ⭐ +20 今日",
+        "extra": {}
+      },
+      {
+        "title": "openai/plugins",
+        "url": "https://github.com/openai/plugins",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 17,
+        "summary": "OpenAI Plugins · Python · ⭐ +17 今日",
+        "extra": {}
+      }
+    ]
+  }
+}
