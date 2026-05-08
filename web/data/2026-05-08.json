@@ -1,8 +1,8 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-08T10:56:37+08:00",
+  "generated_at": "2026-05-08T11:12:37+08:00",
   "stats": {
-    "new_count": 79,
+    "new_count": 48,
     "total_seen": 319
   },
   "section_titles": {
@@ -20,7 +20,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-05T18:18:35",
         "score": 0,
-        "summary": "AI claims review for employer health plans",
+        "summary": "Bluespine 用 AI 自动审核雇主健康保险理赔。",
         "extra": {}
       }
     ],
@@ -30,9 +30,9 @@
         "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
         "source": "Hacker News",
         "source_kind": "hackernews",
-        "published_at": "2026-05-07T23:56:33",
-        "score": 483,
-        "summary": "💬 180 评论 · ⭐ 483 分",
+        "published_at": "2026-05-07T15:56:33",
+        "score": 488,
+        "summary": "Chrome 删除了设备端 AI 不向谷歌发送数据的声明。",
         "extra": {}
       },
       {
@@ -40,9 +40,9 @@
         "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
         "source": "Hacker News",
         "source_kind": "hackernews",
-        "published_at": "2026-05-08T02:46:25",
-        "score": 476,
-        "summary": "💬 458 评论 · ⭐ 476 分",
+        "published_at": "2026-05-07T18:46:25",
+        "score": 481,
+        "summary": "AI 生成的低质量内容正在摧毁在线社区。",
         "extra": {}
       },
       {
@@ -50,9 +50,9 @@
         "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
         "source": "Hacker News",
         "source_kind": "hackernews",
-        "published_at": "2026-05-08T03:21:32",
-        "score": 452,
-        "summary": "💬 198 评论 · ⭐ 452 分",
+        "published_at": "2026-05-07T19:21:32",
+        "score": 456,
+        "summary": "Dirtyfrag 是一个影响 Linux 系统的通用本地提权漏洞。",
         "extra": {}
       },
       {
@@ -60,9 +60,9 @@
         "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
         "source": "Hacker News",
         "source_kind": "hackernews",
-        "published_at": "2026-05-08T00:43:35",
-        "score": 348,
-        "summary": "💬 185 评论 · ⭐ 348 分",
+        "published_at": "2026-05-07T16:43:35",
+        "score": 353,
+        "summary": "Agent 需要控制流而非更多提示词来提升效果。",
         "extra": {}
       },
       {
@@ -70,9 +70,9 @@
         "url": "https://github.com/antirez/ds4",
         "source": "Hacker News",
         "source_kind": "hackernews",
-        "published_at": "2026-05-07T23:40:24",
-        "score": 307,
-        "summary": "💬 89 评论 · ⭐ 307 分",
+        "published_at": "2026-05-07T15:40:24",
+        "score": 311,
+        "summary": "DeepSeek 4 Flash 是专为 Metal 优化的本地推理引擎。",
         "extra": {}
       },
       {
@@ -80,9 +80,9 @@
         "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
         "source": "Hacker News",
         "source_kind": "hackernews",
-        "published_at": "2026-05-07T23:23:23",
-        "score": 249,
-        "summary": "💬 290 评论 · ⭐ 249 分",
+        "published_at": "2026-05-07T15:23:23",
+        "score": 250,
+        "summary": "AI 需求导致主板短缺，销量大幅下滑。",
         "extra": {}
       },
       {
@@ -90,9 +90,9 @@
         "url": "https://deepmind.google/blog/alphaevolve-impact/",
         "source": "Hacker News",
         "source_kind": "hackernews",
-        "published_at": "2026-05-07T23:02:20",
-        "score": 248,
-        "summary": "💬 104 评论 · ⭐ 248 分",
+        "published_at": "2026-05-07T15:02:20",
+        "score": 250,
+        "summary": "AlphaEvolve 是基于 Gemini 的编码 Agent，可跨领域扩展。",
         "extra": {}
       },
       {
@@ -100,9 +100,9 @@
         "url": "https://www.anthropic.com/research/natural-language-autoencoders",
         "source": "Hacker News",
         "source_kind": "hackernews",
-        "published_at": "2026-05-08T01:54:02",
-        "score": 208,
-        "summary": "💬 69 评论 · ⭐ 208 分",
+        "published_at": "2026-05-07T17:54:02",
+        "score": 214,
+        "summary": "自然语言自编码器可将 Claude 的内部表征转为文本。",
         "extra": {}
       },
       {
@@ -110,9 +110,9 @@
         "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
         "source": "Hacker News",
         "source_kind": "hackernews",
-        "published_at": "2026-05-07T16:56:51",
+        "published_at": "2026-05-07T08:56:51",
         "score": 96,
-        "summary": "💬 53 评论 · ⭐ 96 分",
+        "summary": "ZAYA1-8B 以不到 1B 活跃参数在数学任务上媲美 DeepSeek-R1。",
         "extra": {}
       },
       {
@@ -120,9 +120,9 @@
         "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
         "source": "Hacker News",
         "source_kind": "hackernews",
-        "published_at": "2026-05-07T21:25:31",
+        "published_at": "2026-05-07T13:25:31",
         "score": 89,
-        "summary": "💬 68 评论 · ⭐ 89 分",
+        "summary": "Cloudflare 分享了应对 Copy Fail Linux 漏洞的响应措施。",
         "extra": {}
       },
       {
@@ -130,9 +130,9 @@
         "url": "https://ahk.cardor.dev",
         "source": "Hacker News",
         "source_kind": "hackernews",
-        "published_at": "2026-05-07T18:45:59",
+        "published_at": "2026-05-07T10:45:59",
         "score": 75,
-        "summary": "💬 22 评论 · ⭐ 75 分",
+        "summary": "Agent-harness-kit 提供多 Agent 工作流的脚手架，支持 MCP。",
         "extra": {}
       },
       {
@@ -140,151 +140,81 @@
         "url": "https://twitter.com/trevin/status/2051316002730991795",
         "source": "Hacker News",
         "source_kind": "hackernews",
-        "published_at": "2026-05-08T01:40:05",
+        "published_at": "2026-05-07T17:40:05",
         "score": 68,
-        "summary": "💬 39 评论 · ⭐ 68 分",
+        "summary": "提出了面向 Agent 原生命令行界面的设计原则。",
         "extra": {}
       }
     ],
     "models": [
       {
-        "title": "WARNING: Open-OSS/privacy-filter MALWARE",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t6febk/warning_openossprivacyfilter_malware/",
-        "source": "r/LocalLLaMA",
-        "source_kind": "reddit",
-        "published_at": "2026-05-08T00:20:54",
-        "score": 680,
-        "summary": "There's this new \"model\" on Hugging Face titled `Open-OSS/privacy-filter` which is actually a customized infostealer virus. It's a fake version of the OpenAI privacy filter and it uses a Python-based…",
+        "title": "Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude Code",
+        "url": "https://github.com/kubetail-org/kstack",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T05:24:23",
+        "score": 18,
+        "summary": "Kstack 是用于在 Claude Code 中监控和排查 K8s 的技能包。",
         "extra": {}
       },
       {
-        "title": "Random Twitch guy be like",
-        "url": "https://i.redd.it/kofbiob8kpzg1.jpeg",
-        "source": "r/OpenAI",
-        "source_kind": "reddit",
-        "published_at": "2026-05-07T20:21:48",
-        "score": 374,
-        "summary": "This is from the leaked texts, of Altman getting fired.",
-        "extra": {
-          "image": "https://i.redd.it/kofbiob8kpzg1.jpeg"
-        }
+        "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+        "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T13:00:00",
+        "score": 0,
+        "summary": "OpenAI 推出 GPT-5.5 和 GPT-5.5-Cyber 以加速网络安全研究。",
+        "extra": {}
       },
       {
-        "title": "Collected the infinity stones",
-        "url": "https://i.redd.it/vf2d4tkimszg1.jpeg",
-        "source": "r/LocalLLaMA",
-        "source_kind": "reddit",
-        "published_at": "2026-05-08T06:39:57",
-        "score": 306,
-        "summary": "2.3 TB of ram in here. 400+ vCores. All thats left is plugging it to the blackwell with the driver to do RDMA, and it’s over. Using Blackwells for prefill, RDMA to the studio mesh for decode. I think…",
-        "extra": {
-          "image": "https://i.redd.it/vf2d4tkimszg1.jpeg"
-        }
+        "title": "Parloa builds service agents customers want to talk to",
+        "url": "https://openai.com/index/parloa",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T11:00:00",
+        "score": 0,
+        "summary": "Parloa 利用 OpenAI 模型构建可扩展的语音客服 Agent。",
+        "extra": {}
       },
       {
-        "title": "AMD Intros Instinct MI350P Accelerator: CDNA 4 Comes to PCIe Cards",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t6b2x8/amd_intros_instinct_mi350p_accelerator_cdna_4/",
-        "source": "r/LocalLLaMA",
-        "source_kind": "reddit",
-        "published_at": "2026-05-07T21:47:49",
-        "score": 221,
-        "summary": "[https://www.servethehome.com/amd-intros-instinct-mi350p-accelerator-cdna-4-comes-to-pcie-cards/](https://www.servethehome.com/amd-intros-instinct-mi350p-accelerator-cdna-4-comes-to-pcie-cards/)  No w…",
-        "extra": {
-          "image": "https://preview.redd.it/tcd7csafzpzg1.png?width=140&amp;height=78&amp;auto=webp&amp;s=fbce938331399eb65607f932cd35cf6a15064c6d"
-        }
+        "title": "Advancing voice intelligence with new models in the API",
+        "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T10:00:00",
+        "score": 0,
+        "summary": "OpenAI API 新增实时语音模型，支持推理、翻译和转录。",
+        "extra": {}
       },
       {
-        "title": "We’re introducing three audio models in the API that unlock a new class of voice apps for developers.",
-        "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/",
-        "source": "r/OpenAI",
-        "source_kind": "reddit",
-        "published_at": "2026-05-08T01:32:51",
-        "score": 168,
-        "summary": "⬆ 168 · 💬 25",
-        "extra": {
-          "image": "https://external-preview.redd.it/1Pq4m6KQf87RRt5C0PHBnCppXhVZe9P9NseHl3UyiiQ.png?auto=webp&s=b95a4b16f4b30d88a88b090a649b72cbfaed5f24"
-        }
+        "title": "Introducing Trusted Contact in ChatGPT",
+        "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T00:00:00",
+        "score": 0,
+        "summary": "ChatGPT 新增可信联系人功能，用于检测自伤风险时通知。",
+        "extra": {}
       },
       {
-        "title": "found footage of AI's business model",
-        "url": "https://v.redd.it/4ezlyfn6aozg1",
-        "source": "r/OpenAI",
-        "source_kind": "reddit",
-        "published_at": "2026-05-07T16:05:15",
-        "score": 120,
-        "summary": "⬆ 120 · 💬 17",
-        "extra": {
-          "image": "https://external-preview.redd.it/bXdvcmRja2dhb3pnMYvqQT461qz9u7APhHOZENo4fG8mbBneJ-h1OXjnAFlW.png?format=pjpg&auto=webp&s=608980e972140151a0de0ead526d8309400a3fc2"
-        }
+        "title": "Testing ads in ChatGPT",
+        "url": "https://openai.com/index/testing-ads-in-chatgpt",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T00:00:00",
+        "score": 0,
+        "summary": "OpenAI 开始在 ChatGPT 中测试广告，以支持免费访问。",
+        "extra": {}
       },
       {
-        "title": "AMD to release slottable GPU",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t6gcw0/amd_to_release_slottable_gpu/",
-        "source": "r/LocalLLaMA",
-        "source_kind": "reddit",
-        "published_at": "2026-05-08T00:54:57",
-        "score": 77,
-        "summary": "Might be another option of us local LLM folks. I am very curious on the price.       [https://www.theregister.com/ai-and-ml/2026/05/07/amd-takes-aim-at-enterprise-ai-with-pcie-based-instinct-gpus/5231…",
-        "extra": {
-          "image": "https://external-preview.redd.it/CZh-9AOuOfTJSoleW-55yweyq4VyIkoSXdBiqwr0Q4U.jpeg?auto=webp&s=160cb60166895d89a515db6bfa59449726583dca"
-        }
-      },
-      {
-        "title": "feat: Add Mimo v2.5 model support by AesSedai · Pull Request #22493 · ggml-org/llama.cpp",
-        "url": "https://github.com/ggml-org/llama.cpp/pull/22493",
-        "source": "r/LocalLLaMA",
-        "source_kind": "reddit",
-        "published_at": "2026-05-07T19:23:28",
-        "score": 76,
-        "summary": "[https://huggingface.co/XiaomiMiMo/MiMo-V2.5](https://huggingface.co/XiaomiMiMo/MiMo-V2.5)  # Model Summary  * **Architecture**: Sparse MoE (Mixture of Experts), 310B total / 15B activated parameters…",
-        "extra": {
-          "image": "https://external-preview.redd.it/obkOwhD5BZKXQlVroQs_l1aDFht2vcn9I07quGq3xnQ.png?auto=webp&s=7639a9a4e3177278d910304dea5482159477235f"
-        }
-      },
-      {
-        "title": "DIY market declining amid high RAM prices",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t6gmcn/diy_market_declining_amid_high_ram_prices/",
-        "source": "r/LocalLLaMA",
-        "source_kind": "reddit",
-        "published_at": "2026-05-08T01:03:58",
-        "score": 57,
-        "summary": "Asus shipped 15 million motherboards in 2025.  Only expected to ship 10 million in 2026.  CPU prices are also rising.  [https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?CnlID=1&amp;Cat=40&amp;id=0000…",
-        "extra": {
-          "image": "https://external-preview.redd.it/PuP1qL8DIQa3xculEpK0IftVrZEJ_K4GxSkGZYr8Llg.jpeg?auto=webp&s=b92657ffdea06ccb5c1b778244cfbc6f823f1677"
-        }
-      },
-      {
-        "title": "\"Total global energy consumption.updated version.\"",
-        "url": "https://i.redd.it/2ns1risz9pzg1.png",
-        "source": "r/OpenAI",
-        "source_kind": "reddit",
-        "published_at": "2026-05-07T19:24:26",
-        "score": 56,
-        "summary": "Note: this post is strictly focused on total energy consumption metrics. I am not debating ethics, copyright, or aesthetics here. Let's keep the discussion grounded in the data and the energy numbers…",
-        "extra": {
-          "image": "https://i.redd.it/2ns1risz9pzg1.png"
-        }
-      },
-      {
-        "title": "guys what this new update do!!",
-        "url": "https://i.redd.it/p0uwkiuc0qzg1.png",
-        "source": "r/OpenAI",
-        "source_kind": "reddit",
-        "published_at": "2026-05-07T21:52:12",
-        "score": 52,
-        "summary": "can anyone explain me what it do and how it works, i feed it some queries but response return error.",
-        "extra": {
-          "image": "https://i.redd.it/p0uwkiuc0qzg1.png"
-        }
-      },
-      {
-        "title": "Are local models becoming “good enough” faster than expected?",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t6p0zk/are_local_models_becoming_good_enough_faster_than/",
-        "source": "r/LocalLLaMA",
-        "source_kind": "reddit",
-        "published_at": "2026-05-08T06:04:25",
-        "score": 50,
-        "summary": "One thing we’ve been noticing lately is that a surprisingly large percentage of day-to-day AI workflows no longer seem to require frontier-scale cloud models 24/7.  For a lot of practical tasks:  * co…",
+        "title": "Simplex rethinks software development with Codex",
+        "url": "https://openai.com/index/simplex",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T00:00:00",
+        "score": 0,
+        "summary": "Simplex 借助 ChatGPT Enterprise 和 Codex 加速软件开发。",
         "extra": {}
       }
     ],
@@ -296,7 +226,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 943,
-        "summary": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG · Python · ⭐ +943 今日",
+        "summary": "PageIndex 为无向量、基于推理的 RAG 提供文档索引。",
         "extra": {
           "image": "https://github.com/VectifyAI.png?size=120",
           "language": "Python"
@@ -309,7 +239,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 671,
-        "summary": "DFlash: Block Diffusion for Flash Speculative Decoding · Python · ⭐ +671 今日",
+        "summary": "DFlash 通过块扩散实现快速推测解码。",
         "extra": {
           "image": "https://github.com/z-lab.png?size=120",
           "language": "Python"
@@ -322,7 +252,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 390,
-        "summary": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM · Rust · ⭐ +390 今日",
+        "summary": "Goose 是开源可扩展的 AI Agent，支持安装、执行、编辑和测试。",
         "extra": {
           "image": "https://github.com/aaif-goose.png?size=120",
           "language": "Rust"
@@ -335,7 +265,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 149,
-        "summary": "🇻🇳 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. · JavaScript · ⭐ +149 今日",
+        "summary": "9router 提供免费 AI 编程，连接多种模型并自动回退。",
         "extra": {
           "image": "https://github.com/decolua.png?size=120",
           "language": "JavaScript"
@@ -348,7 +278,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 131,
-        "summary": "An open source template for building cloud agents. · TypeScript · ⭐ +131 今日",
+        "summary": "Open Agents 是构建云端 Agent 的开源模板。",
         "extra": {
           "image": "https://github.com/vercel-labs.png?size=120",
           "language": "TypeScript"
@@ -361,7 +291,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 50,
-        "summary": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX. · Python · ⭐ +50 今日",
+        "summary": "MLX-VLM 支持在 Mac 上使用 MLX 推理和微调视觉语言模型。",
         "extra": {
           "image": "https://github.com/Blaizzy.png?size=120",
           "language": "Python"
@@ -374,7 +304,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 31,
-        "summary": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents · Python · ⭐ +31 今日",
+        "summary": "AI-DLC 工作流为 AI 编码 Agent 提供自适应规则。",
         "extra": {
           "image": "https://github.com/awslabs.png?size=120",
           "language": "Python"
@@ -387,7 +317,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 25,
-        "summary": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms · Python · ⭐ +25 今日",
+        "summary": "Open-LLM-VTuber 实现与 LLM 的免提语音交互和 Live2D 形象。",
         "extra": {
           "image": "https://github.com/Open-LLM-VTuber.png?size=120",
           "language": "Python"
@@ -400,7 +330,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 20,
-        "summary": "🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案 · Python · ⭐ +20 今日",
+        "summary": "WeClone 通过聊天记录微调 LLM 创建 AI 数字分身。",
         "extra": {
           "image": "https://github.com/xming521.png?size=120",
           "language": "Python"
@@ -413,7 +343,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 17,
-        "summary": "OpenAI Plugins · Python · ⭐ +17 今日",
+        "summary": "OpenAI 官方插件仓库。",
         "extra": {
           "image": "https://github.com/openai.png?size=120",
           "language": "Python"
