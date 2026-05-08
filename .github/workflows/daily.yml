@@ -2,8 +2,9 @@ name: Daily AI News
 
 on:
   schedule:
-    # 北京时间 09:00 = UTC 01:00
-    - cron: "0 1 * * *"
+    # 北京时间 09:07 = UTC 01:07
+    # 故意避开 :00 整点 —— 全世界用 "0 1 * * *" 的太多，GitHub 队列拥堵会延迟 30 分钟+
+    - cron: "7 1 * * *"
   workflow_dispatch:
 
 permissions:
