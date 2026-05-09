@@ -520,19 +520,17 @@ def _render_hero(highlights: list[Item], *, summary_max: int = 120, with_pair: b
 def _section_header(key: str, count: int, *, with_subtitle: bool = True) -> str:
     theme = _THEME[key]
     title = SECTION_TITLES.get(key, key)
-    sub = f'<div style="font-size:11px;opacity:.85;margin-top:2px;">{_esc(theme["subtitle"])}</div>' if with_subtitle else ""
+    sub = f'<div style="font-size:11px;opacity:.85;margin-top:1px;">{_esc(theme["subtitle"])}</div>' if with_subtitle else ""
+    badge = f'<span style="float:right;background:rgba(255,255,255,.22);font-size:11px;font-weight:700;padding:1px 8px;border-radius:8px;margin-top:3px;">{count}</span>'
     return (
-        f'<div style="background:{theme["gradient"]};color:#fff;padding:12px 16px;border-radius:10px 10px 0 0;margin:18px 0 0;">'
-        f'<table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;"><tr>'
-        f'<td style="vertical-align:middle;"><div style="font-size:17px;font-weight:800;">{_esc(title)}</div>{sub}</td>'
-        f'<td style="vertical-align:middle;text-align:right;">'
-        f'<span style="background:rgba(255,255,255,.22);font-size:12px;font-weight:700;padding:2px 10px;border-radius:10px;">{count} 条</span>'
-        f'</td></tr></table></div>'
+        f'<div style="background:{theme["gradient"]};color:#fff;padding:10px 14px;border-radius:9px 9px 0 0;margin:14px 0 0;">'
+        f'{badge}<div style="font-size:16px;font-weight:800;">{_esc(title)}</div>{sub}'
+        f'</div>'
     )
 
 
 def _section_body_open() -> str:
-    return f'<div style="background:{_C["bg_card"]};border:1px solid {_C["border"]};border-top:none;border-radius:0 0 12px 12px;padding:6px;margin-bottom:6px;">'
+    return f'<div style="background:#fff;border:1px solid {_C["border"]};border-top:none;border-radius:0 0 9px 9px;padding:4px;margin-bottom:4px;">'
 
 
 def _section_body_close() -> str:
@@ -542,18 +540,23 @@ def _section_body_close() -> str:
 # ----- 紧凑卡（低档位用，~350 字/张，去除大量装饰元素） -----
 
 def _card_slim(it: Item, idx: int, *, color: str, summary_max: int = 120, with_source: bool = True) -> str:
-    """所有板块通用的紧凑列表卡，单张约 270-330 字。视觉简但信息齐：编号 + 标题 + (可选)来源 + 摘要。"""
+    """所有板块通用的紧凑列表卡，单张约 270-330 字。视觉简但信息齐：外框彩色编号 + 标题 + (可选)来源 + 摘要。"""
     title_main, _ = _display_title(it)
     summary = it.summary if _has_real_summary(it.summary) else ""
     if summary and len(summary) > summary_max:
         summary = summary[:summary_max].rstrip() + "…"
     sm_html = f'<div style="color:#475569;font-size:12px;line-height:1.55;margin-top:2px;">{_esc(summary)}</div>' if summary else ""
     src_html = f'<span style="color:#94a3b8;font-size:11px;"> · {_esc(it.source)}</span>' if with_source else ""
+    # 外框彩色数字徽章：1px 边框 + 透明背景 + 同色数字
+    badge = (
+        f'<span style="display:inline-block;border:1px solid {color};color:{color};'
+        f'font-size:11px;font-weight:800;padding:0 6px;border-radius:4px;margin-right:6px;'
+        f'min-width:14px;text-align:center;line-height:18px;">{idx}</span>'
+    )
     return (
-        f'<a href="{_esc(it.url)}" style="display:block;padding:7px 11px;border-bottom:1px solid #eef2f7;color:inherit;text-decoration:none;">'
+        f'<a href="{_esc(it.url)}" style="display:block;padding:8px 11px;border-bottom:1px solid #eef2f7;color:inherit;text-decoration:none;">'
         f'<div style="font-size:14px;font-weight:700;line-height:1.5;color:#0f172a;">'
-        f'<b style="color:{color};">{idx}.</b> {_esc(title_main)}{src_html}'
-        f'</div>{sm_html}</a>'
+        f'{badge}{_esc(title_main)}{src_html}</div>{sm_html}</a>'
     )
 
 
@@ -624,6 +627,7 @@ def _render_products(items: list[Item], *, summary_max: int = 90, with_subtitle:
 # ----- 新闻（引用式列表） -----
 
 def _card_news(it: Item, idx: int, *, summary_max: int = 320) -> str:
+    """News 轻量 rich 卡：彩色左边条 + 顶部图（如有）+ 紧凑 meta + 标题 + 摘要。约 700-800 字/张。"""
     color = _THEME[NEWS]["main"]
     title_main, title_sub = _display_title(it)
     summary = it.summary if _has_real_summary(it.summary) else ""
@@ -632,28 +636,22 @@ def _card_news(it: Item, idx: int, *, summary_max: int = 320) -> str:
     has_img = _has_image(it)
     image = (it.extra or {}).get("image", "") if has_img else ""
 
-    top_img = f'<img src="{_esc(image)}" alt="" style="width:100%;height:130px;object-fit:cover;display:block;border-radius:7px 7px 0 0;" />' if has_img else ""
-    sub = f'<div style="color:{_C["text_3"]};font-size:11px;font-style:italic;margin-top:4px;">{_esc(title_sub[:80])}</div>' if title_sub else ""
-    summary_html = f'<div style="color:{_C["text_2"]};font-size:13px;line-height:1.7;margin-top:8px;">{_esc(summary)}</div>' if summary else ""
-    tags = _key_points_tags(it, color)
+    top_img = f'<img src="{_esc(image)}" alt="" style="width:100%;height:120px;object-fit:cover;display:block;" />' if has_img else ""
     score = _score_text(it)
     t = _fmt_time(it.published_at)
-    meta_bits = []
-    if score:
-        meta_bits.append(f'<span style="color:{_C["muted"]};font-size:11px;">{_esc(score)}</span>')
-    if t:
-        meta_bits.append(f'<span style="color:{_C["muted"]};font-size:11px;">⏱ {_esc(t)}</span>')
-    meta_html = f'<div style="margin-top:8px;">{" · ".join(meta_bits)}</div>' if meta_bits else ""
-
+    meta_bits = [f'<b style="color:{color};">#{idx}</b>', _esc(it.source)]
+    if score: meta_bits.append(_esc(score))
+    if t:     meta_bits.append(f'⏱ {_esc(t)}')
+    sub = f'<div style="color:{_C["text_3"]};font-size:11px;font-style:italic;margin-top:3px;">{_esc(title_sub[:80])}</div>' if title_sub else ""
+    summary_html = f'<div style="color:{_C["text_2"]};font-size:13px;line-height:1.65;margin-top:6px;">{_esc(summary)}</div>' if summary else ""
+    tags = _key_points_tags(it, color)
     return (
         f'<a href="{_esc(it.url)}" style="text-decoration:none;color:inherit;display:block;">'
-        f'<div style="background:{_C["bg_card"]};border:1px solid {_C["border"]};border-left:3px solid {color};border-radius:8px;margin:8px 6px;overflow:hidden;">'
-        f'{top_img}<div style="padding:12px 14px;">'
-        f'<div style="margin-bottom:5px;">'
-        f'<span style="display:inline-block;background:{color};color:#fff;border-radius:5px;font-size:11px;font-weight:800;padding:1px 7px;margin-right:6px;">{idx}</span>'
-        f'{_hot_badge(it)}{_source_badge(it)}</div>'
+        f'<div style="background:#fff;border:1px solid {_C["border"]};border-left:3px solid {color};border-radius:7px;margin:7px 6px;overflow:hidden;">'
+        f'{top_img}<div style="padding:10px 13px;">'
+        f'<div style="color:#94a3b8;font-size:11px;margin-bottom:3px;">{" · ".join(meta_bits)}</div>'
         f'<div style="font-size:15px;font-weight:700;color:{_C["text"]};line-height:1.5;">{_esc(title_main)}</div>'
-        f'{sub}{summary_html}{tags}{meta_html}</div></div></a>'
+        f'{sub}{summary_html}{tags}</div></div></a>'
     )
 
 
@@ -670,6 +668,7 @@ def _render_news(items: list[Item], *, summary_max: int = 320, with_subtitle: bo
 # ----- 模型（重点卡） -----
 
 def _card_models(it: Item, idx: int, *, summary_max: int = 320) -> str:
+    """Models 轻量 rich 卡：紫色左边条 + 缩略图（如有）+ 紧凑 meta + 标题 + 摘要。约 700-800 字/张。"""
     color = _THEME[MODELS]["main"]
     title_main, title_sub = _display_title(it)
     summary = it.summary if _has_real_summary(it.summary) else ""
@@ -681,24 +680,22 @@ def _card_models(it: Item, idx: int, *, summary_max: int = 320) -> str:
     thumb = ""
     if has_img:
         thumb = (
-            f'<td style="width:88px;vertical-align:top;padding-right:12px;">'
-            f'<img src="{_esc(image)}" alt="" style="width:88px;height:88px;object-fit:cover;border-radius:8px;display:block;" /></td>'
+            f'<td style="width:80px;vertical-align:top;padding-right:10px;">'
+            f'<img src="{_esc(image)}" alt="" style="width:80px;height:80px;object-fit:cover;border-radius:6px;display:block;" /></td>'
         )
-
-    sub = f'<div style="color:{_C["text_3"]};font-size:11px;font-style:italic;margin-top:4px;">{_esc(title_sub[:80])}</div>' if title_sub else ""
-    summary_html = f'<div style="color:{_C["text_2"]};font-size:13px;line-height:1.7;margin-top:6px;">{_esc(summary)}</div>' if summary else ""
-    tags = _key_points_tags(it, color)
     score = _score_text(it)
-    score_html = f'<span style="color:{_C["muted"]};font-size:11px;margin-left:6px;">· {_esc(score)}</span>' if score else ""
+    meta_bits = [f'<b style="color:{color};">#{idx}</b>', _esc(it.source)]
+    if score: meta_bits.append(_esc(score))
+    sub = f'<div style="color:{_C["text_3"]};font-size:11px;font-style:italic;margin-top:3px;">{_esc(title_sub[:80])}</div>' if title_sub else ""
+    summary_html = f'<div style="color:{_C["text_2"]};font-size:13px;line-height:1.65;margin-top:6px;">{_esc(summary)}</div>' if summary else ""
+    tags = _key_points_tags(it, color)
 
     return (
         f'<a href="{_esc(it.url)}" style="text-decoration:none;color:inherit;display:block;">'
-        f'<div style="background:{_C["bg_card"]};border:1px solid {_C["border"]};border-left:3px solid {color};border-radius:8px;padding:12px 14px;margin:8px 6px;">'
+        f'<div style="background:#fff;border:1px solid {_C["border"]};border-left:3px solid {color};border-radius:7px;padding:10px 13px;margin:7px 6px;">'
         f'<table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;"><tr>{thumb}'
         f'<td style="vertical-align:top;">'
-        f'<div style="margin-bottom:5px;">'
-        f'<span style="background:{_THEME[MODELS]["soft"]};color:{color};font-size:11px;font-weight:800;padding:2px 8px;border-radius:8px;margin-right:6px;">#{idx} 模型</span>'
-        f'{_source_badge(it)}{score_html}</div>'
+        f'<div style="color:#94a3b8;font-size:11px;margin-bottom:3px;">{" · ".join(meta_bits)}</div>'
         f'<div style="font-size:15px;font-weight:700;color:{_C["text"]};line-height:1.5;">{_esc(title_main)}</div>'
         f'{sub}{summary_html}{tags}</td></tr></table></div></a>'
     )
@@ -717,6 +714,7 @@ def _render_models(items: list[Item], *, summary_max: int = 320, with_subtitle: 
 # ----- GitHub（代码卡风格 - 深色） -----
 
 def _card_github(it: Item, idx: int, *, summary_max: int = 220) -> str:
+    """GitHub 轻量深色卡：保留终端绿色风格 + 头像 + stars。约 800-900 字/张。"""
     title_main, _ = _display_title(it)
     summary = it.summary if _has_real_summary(it.summary) else ""
     if summary and len(summary) > summary_max:
@@ -724,34 +722,26 @@ def _card_github(it: Item, idx: int, *, summary_max: int = 220) -> str:
     lang = (it.extra or {}).get("language") or ""
     lang_color = _GH_LANG_COLOR.get(lang, "#22c55e")
     image = (it.extra or {}).get("image", "")
-    if image:
-        avatar = f'<img src="{_esc(image)}" alt="" style="width:32px;height:32px;border-radius:6px;background:#fff;display:block;" />'
-    else:
-        avatar = f'<div style="width:32px;height:32px;border-radius:6px;background:#1f2937;color:#94a3b8;font-size:14px;font-weight:800;text-align:center;line-height:32px;">⌘</div>'
-
-    stars = f'<span style="color:#facc15;font-size:13px;font-weight:800;">⭐ +{it.score}</span>' if it.score else ""
-    lang_html = (
-        f'<span style="color:#cbd5e1;font-size:11px;font-weight:600;margin-right:8px;">'
-        f'<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:{lang_color};margin-right:3px;vertical-align:middle;"></span>{_esc(lang)}</span>'
-        if lang else ""
+    avatar = (
+        f'<img src="{_esc(image)}" alt="" style="width:28px;height:28px;border-radius:5px;background:#fff;display:block;" />'
+        if image else
+        f'<div style="width:28px;height:28px;border-radius:5px;background:#1f2937;color:#94a3b8;font-size:13px;font-weight:800;text-align:center;line-height:28px;">⌘</div>'
     )
+    stars = f'<span style="color:#facc15;font-size:13px;font-weight:800;">⭐ +{it.score}</span>' if it.score else ""
+    lang_html = f'<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:{lang_color};margin-right:4px;vertical-align:middle;"></span>{_esc(lang)} · ' if lang else ""
+    summary_html = f'<div style="color:#cbd5e1;font-size:13px;line-height:1.6;margin-top:6px;">{_esc(summary)}</div>' if summary else ""
     tags = _key_points_tags(it, "#22c55e")
-    summary_html = f'<div style="color:#cbd5e1;font-size:13px;line-height:1.65;margin-top:8px;">{_esc(summary)}</div>' if summary else ""
 
     return (
         f'<a href="{_esc(it.url)}" style="text-decoration:none;color:inherit;display:block;">'
-        f'<div style="background:#0f172a;border:1px solid #1e293b;border-radius:10px;padding:12px 14px;margin:8px 6px;">'
+        f'<div style="background:#0f172a;border-left:3px solid #22c55e;border-radius:7px;padding:10px 13px;margin:7px 6px;">'
         f'<table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;"><tr>'
-        f'<td style="width:32px;vertical-align:top;padding-right:10px;">{avatar}</td>'
+        f'<td style="width:28px;vertical-align:top;padding-right:9px;">{avatar}</td>'
         f'<td style="vertical-align:top;">'
-        f'<div style="font-size:11px;color:#22c55e;font-weight:700;font-family:\'SF Mono\',monospace;">$ git clone #{idx}</div>'
+        f'<div style="color:#22c55e;font-size:11px;font-weight:700;">$ #{idx} · <span style="color:#94a3b8;font-weight:400;">{lang_html}github.com</span></div>'
         f'<div style="font-size:14px;color:#f1f5f9;font-weight:700;line-height:1.45;margin-top:2px;">{_esc(title_main)}</div>'
-        f'</td>'
-        f'<td style="vertical-align:top;text-align:right;padding-left:6px;">{stars}</td>'
-        f'</tr></table>'
-        f'<div style="margin-top:8px;padding-top:8px;border-top:1px solid #1e293b;">'
-        f'<div>{lang_html}<span style="color:#64748b;font-size:11px;">github.com</span></div>'
-        f'{summary_html}{tags}</div></div></a>'
+        f'</td><td style="vertical-align:top;text-align:right;padding-left:6px;">{stars}</td>'
+        f'</tr></table>{summary_html}{tags}</div></a>'
     )
 
 
@@ -769,20 +759,17 @@ def _footer() -> str:
     web_link = ""
     if WEB_URL:
         web_link = (
-            f'<div style="text-align:center;margin:28px 0 16px;">'
-            f'<a href="{_esc(WEB_URL)}" style="display:inline-block;background:linear-gradient(135deg,#0f172a,#334155);color:#fff;padding:13px 30px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none;box-shadow:0 4px 12px rgba(15,23,42,0.2);letter-spacing:0.5px;">📖 查看完整列表（网页版）</a>'
+            f'<div style="text-align:center;margin:18px 0 10px;">'
+            f'<a href="{_esc(WEB_URL)}" style="display:inline-block;background:#0f172a;color:#fff;padding:10px 24px;border-radius:6px;font-size:13px;font-weight:600;text-decoration:none;">📖 查看完整列表（网页版）</a>'
             f'</div>'
         )
-    return f"""
-{web_link}
-<div style="background:{_C['bg_card']};border:1px solid {_C['border']};border-radius:10px;padding:16px;margin-top:18px;text-align:center;">
-  <div style="color:{_C['text_2']};font-size:12px;line-height:1.8;">
-    🛰️ <b>AI News Radar</b> · 自动抓取 + AI 翻译整理<br/>
-    <span style="color:{_C['muted']};">RSS · Hacker News · Reddit · GitHub Trending</span>
-  </div>
-  <div style="margin-top:10px;color:{_C['muted']};font-size:11px;">每日 10:00 北京时间更新 · 仅供参考</div>
-</div>
-""".strip()
+    return (
+        f'{web_link}'
+        f'<div style="background:#fff;border:1px solid {_C["border"]};border-radius:8px;padding:12px;margin-top:12px;text-align:center;color:{_C["text_2"]};font-size:12px;line-height:1.7;">'
+        f'🛰️ <b>AI News Radar</b> · 自动抓取 + AI 翻译整理<br/>'
+        f'<span style="color:{_C["muted"]};font-size:11px;">每日 10:00 北京时间更新 · 仅供参考</span>'
+        f'</div>'
+    )
 
 
 # ============ 必看挑选 ============
@@ -890,23 +877,23 @@ def render_html(buckets: dict, today: date, *, new_count: int, total_seen: int) 
 
     # 每档：per, hero, summary_max, hero_sm, cover_wall, hero_pair, bars, subtitle, compact_cards, with_source
     ladders = [
-        # ——— L0-L5: rich 杂志风 ———
-        (PUSH_TOP_PER_SECTION, PUSH_HIGHLIGHT_COUNT, 280, 120, True,  True,  True,  True,  False, True),
-        (10, 6, 220, 110, True,  True,  True,  True,  False, True),   # L1
-        (9,  5, 200, 100, False, True,  True,  True,  False, True),   # L2 去图片墙
-        (9,  4, 160, 90,  False, True,  True,  True,  False, True),   # L3
-        (8,  3, 130, 80,  False, True,  True,  True,  False, True),   # L4
-        (8,  2, 100, 70,  False, False, False, True,  False, True),   # L5 rich 收尾
-        # ——— L6-L12: compact 列表卡（每张 ~330 字带 source / ~270 字无 source）———
-        (12, 1, 200, 80,  False, False, True,  True,  True,  True),   # L6 起点：12 条/板块 + hero
-        (12, 1, 150, 60,  False, False, False, True,  True,  True),   # L7
-        (12, 0, 130, 0,   False, False, False, False, True,  True),   # L8 去 hero+副标题
-        (10, 0, 100, 0,   False, False, False, False, True,  True),   # L9 摘要 100
-        (10, 0, 80,  0,   False, False, False, False, True,  True),   # L10 摘要 80（保留 source）
-        (10, 0, 80,  0,   False, False, False, False, True,  False),  # L11 去 source
-        (8,  0, 60,  0,   False, False, False, False, True,  False),  # L12
-        (6,  0, 40,  0,   False, False, False, False, True,  False),  # L13
-        (5,  0, 20,  0,   False, False, False, False, True,  False),  # L14 最低兜底
+        # ——— L0-L4: rich 杂志风 / per=5 主力档 ———
+        (5, 4, 200, 100, True,  True,  True,  True,  False, True),   # L0 完整：图墙 + 4 必看 + 5 条/板块
+        (5, 3, 200, 90,  False, True,  True,  True,  False, True),   # L1 去图墙
+        (5, 2, 180, 80,  False, False, True,  True,  False, True),   # L2 去并排
+        (5, 0, 160, 0,   False, False, False, True,  False, True),   # L3 去 hero
+        (5, 0, 130, 0,   False, False, False, False, False, True),   # L4 去副标
+        # ——— L5-L7: rich 减条数 / per=4-3 ———
+        (4, 0, 130, 0,   False, False, False, True,  False, True),   # L5
+        (4, 0, 100, 0,   False, False, False, False, False, True),   # L6
+        (3, 0, 100, 0,   False, False, False, False, False, True),   # L7
+        # ——— L8-L13: compact 列表卡兜底 ———
+        (12, 0, 130, 0,  False, False, False, True,  True,  True),   # L8 切到 compact
+        (10, 0, 100, 0,  False, False, False, False, True,  True),   # L9
+        (10, 0, 80,  0,  False, False, False, False, True,  False),  # L10 去 source
+        (8,  0, 60,  0,  False, False, False, False, True,  False),  # L11
+        (6,  0, 40,  0,  False, False, False, False, True,  False),  # L12
+        (5,  0, 20,  0,  False, False, False, False, True,  False),  # L13 最低兜底
     ]
     last = ""
     last_chars = 0
