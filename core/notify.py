@@ -272,51 +272,45 @@ def _img_or_initial(it: Item, *, w: int, h: int, radius: int = 10, fontsize: int
 
 # ============ 顶部三件套 ============
 
-def _banner(today: date, *, new_count: int, total_seen: int, buckets: dict, image_count: int) -> str:
-    # 4 板块横向条形图（按各板块条数比例）
-    counts = [(SECTION_TITLES.get(k, k), len(buckets.get(k, [])), _THEME[k]["main"]) for k in (PRODUCTS, NEWS, MODELS, GITHUB)]
-    max_n = max((c for _, c, _ in counts), default=1) or 1
-    bars_html = ""
-    for label, n, color in counts:
-        pct = max(6, int(n / max_n * 100)) if n else 4
-        bars_html += (
-            f'<div style="margin-top:8px;">'
-            f'  <div style="display:flex;justify-content:space-between;font-size:11px;color:rgba(255,255,255,0.85);margin-bottom:3px;">'
-            f'    <span>{_esc(label)}</span><span style="font-weight:700;">{n}</span>'
-            f'  </div>'
-            f'  <div style="height:6px;background:rgba(255,255,255,0.15);border-radius:3px;overflow:hidden;">'
-            f'    <div style="width:{pct}%;height:6px;background:{color};border-radius:3px;"></div>'
-            f'  </div>'
-            f'</div>'
-        )
+def _banner(today: date, *, new_count: int, total_seen: int, buckets: dict, image_count: int,
+            with_bars: bool = True) -> str:
+    """顶部封面卡。with_bars 控制是否渲染板块分布柱状图（关掉省 ~700 字）。"""
     cov_pct = int(image_count * 100 / max(new_count, 1)) if new_count else 0
-    return f"""
-<div style="background:linear-gradient(135deg,#0f172a 0%,#1e293b 60%,#3730a3 100%);color:#fff;padding:26px 22px 22px;border-radius:16px;margin-bottom:18px;box-shadow:0 12px 28px rgba(15,23,42,0.22);">
-  <div style="display:inline-block;background:rgba(255,255,255,0.14);font-size:11px;letter-spacing:2.5px;padding:4px 10px;border-radius:4px;margin-bottom:12px;font-weight:600;">DAILY · 北京 10:00</div>
-  <div style="font-size:26px;font-weight:800;letter-spacing:0.5px;line-height:1.25;">🛰️ AI News Radar</div>
-  <div style="font-size:13px;margin-top:6px;opacity:0.82;">{today.isoformat()} · 自动汇编自 RSS / Hacker News / Reddit / GitHub Trending</div>
-  <table cellpadding="0" cellspacing="0" border="0" style="width:100%;margin-top:14px;border-collapse:separate;border-spacing:8px 0;">
-    <tr>
-      <td style="background:rgba(255,255,255,0.1);padding:10px 12px;border-radius:8px;width:33%;">
-        <div style="font-size:11px;opacity:0.7;">今日新增</div>
-        <div style="font-size:22px;font-weight:800;line-height:1.1;margin-top:2px;">{new_count}<span style="font-size:11px;font-weight:400;opacity:0.7;"> 条</span></div>
-      </td>
-      <td style="background:rgba(255,255,255,0.1);padding:10px 12px;border-radius:8px;width:33%;">
-        <div style="font-size:11px;opacity:0.7;">累计追踪</div>
-        <div style="font-size:22px;font-weight:800;line-height:1.1;margin-top:2px;">{total_seen}<span style="font-size:11px;font-weight:400;opacity:0.7;"> 条</span></div>
-      </td>
-      <td style="background:rgba(255,255,255,0.1);padding:10px 12px;border-radius:8px;width:34%;">
-        <div style="font-size:11px;opacity:0.7;">图片覆盖</div>
-        <div style="font-size:22px;font-weight:800;line-height:1.1;margin-top:2px;">{cov_pct}<span style="font-size:11px;font-weight:400;opacity:0.7;">%</span></div>
-      </td>
-    </tr>
-  </table>
-  <div style="margin-top:14px;padding-top:12px;border-top:1px solid rgba(255,255,255,0.1);">
-    <div style="font-size:11px;opacity:0.7;letter-spacing:1px;font-weight:600;">板块分布</div>
-    {bars_html}
-  </div>
-</div>
-""".strip()
+    bars_html = ""
+    if with_bars:
+        counts = [(SECTION_TITLES.get(k, k), len(buckets.get(k, [])), _THEME[k]["main"]) for k in (PRODUCTS, NEWS, MODELS, GITHUB)]
+        max_n = max((c for _, c, _ in counts), default=1) or 1
+        rows = ""
+        for label, n, color in counts:
+            pct = max(6, int(n / max_n * 100)) if n else 4
+            rows += (
+                f'<tr><td style="font-size:11px;color:rgba(255,255,255,.8);padding:3px 0;">{_esc(label)}</td>'
+                f'<td style="padding:3px 0;"><div style="height:5px;background:rgba(255,255,255,.15);border-radius:3px;">'
+                f'<div style="width:{pct}%;height:5px;background:{color};border-radius:3px;"></div></div></td>'
+                f'<td style="font-size:11px;color:#fff;font-weight:700;text-align:right;padding:3px 0 3px 6px;">{n}</td></tr>'
+            )
+        bars_html = (
+            f'<div style="margin-top:12px;padding-top:10px;border-top:1px solid rgba(255,255,255,.12);">'
+            f'<div style="font-size:11px;opacity:.7;font-weight:600;margin-bottom:4px;">板块分布</div>'
+            f'<table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">{rows}</table></div>'
+        )
+    return (
+        f'<div style="background:linear-gradient(135deg,#0f172a,#1e293b 60%,#3730a3);color:#fff;padding:22px;border-radius:14px;margin-bottom:14px;">'
+        f'<div style="display:inline-block;background:rgba(255,255,255,.14);font-size:11px;padding:3px 9px;border-radius:4px;margin-bottom:10px;font-weight:600;">DAILY · 北京 10:00</div>'
+        f'<div style="font-size:24px;font-weight:800;line-height:1.25;">🛰️ AI News Radar</div>'
+        f'<div style="font-size:12px;margin-top:5px;opacity:.82;">{today.isoformat()} · RSS / Hacker News / Reddit / GitHub</div>'
+        f'<table cellpadding="0" cellspacing="0" border="0" style="width:100%;margin-top:12px;border-collapse:separate;border-spacing:6px 0;"><tr>'
+        f'<td style="background:rgba(255,255,255,.1);padding:8px 10px;border-radius:6px;width:33%;">'
+        f'<div style="font-size:11px;opacity:.7;">今日新增</div>'
+        f'<div style="font-size:20px;font-weight:800;">{new_count}<span style="font-size:11px;font-weight:400;opacity:.7;"> 条</span></div></td>'
+        f'<td style="background:rgba(255,255,255,.1);padding:8px 10px;border-radius:6px;width:33%;">'
+        f'<div style="font-size:11px;opacity:.7;">累计追踪</div>'
+        f'<div style="font-size:20px;font-weight:800;">{total_seen}<span style="font-size:11px;font-weight:400;opacity:.7;"> 条</span></div></td>'
+        f'<td style="background:rgba(255,255,255,.1);padding:8px 10px;border-radius:6px;width:34%;">'
+        f'<div style="font-size:11px;opacity:.7;">图片覆盖</div>'
+        f'<div style="font-size:20px;font-weight:800;">{cov_pct}<span style="font-size:11px;font-weight:400;opacity:.7;">%</span></div></td>'
+        f'</tr></table>{bars_html}</div>'
+    )
 
 
 def _cover_wall(buckets: dict) -> str:
@@ -378,13 +372,14 @@ def _cover_wall(buckets: dict) -> str:
 
 # ============ 杂志级 Hero ============
 
-def _hero_top(it: Item) -> str:
+def _hero_top(it: Item, *, summary_max: int = 120) -> str:
     """第 1 条：超大封面 + 标题压底 + 摘要一两句。"""
     image = (it.extra or {}).get("image", "")
     title_main, title_sub = _display_title(it)
     summary = it.summary if _has_real_summary(it.summary) else ""
-    if summary and len(summary) > 120:
-        summary = summary[:120].rstrip() + "…"
+    cap = min(summary_max, 140)
+    if summary and len(summary) > cap:
+        summary = summary[:cap].rstrip() + "…"
 
     if image:
         cover = (
@@ -423,13 +418,15 @@ def _hero_top(it: Item) -> str:
 """.strip()
 
 
-def _hero_pair(it_a: Item, it_b: Item) -> str:
+def _hero_pair(it_a: Item, it_b: Item, *, summary_max: int = 80) -> str:
     """第 2、3 条：并排 2 列中卡（用 table 兼容老微信）。"""
+    cap = min(summary_max, 90)
+
     def col(it: Item) -> str:
         title_main, _ = _display_title(it)
         summary = it.summary if _has_real_summary(it.summary) else ""
-        if summary and len(summary) > 80:
-            summary = summary[:80].rstrip() + "…"
+        if summary and len(summary) > cap:
+            summary = summary[:cap].rstrip() + "…"
         cover = _img_or_initial(it, w=300, h=128, radius=8, fontsize=42)
         # 上面那个 _img_or_initial 返回固定宽，但表格 td 会自动伸缩——img 用 max-width 兜底
         cover = cover.replace(f'width:300px', 'width:100%').replace(f'height:128px', 'height:128px')
@@ -461,12 +458,13 @@ def _hero_pair(it_a: Item, it_b: Item) -> str:
 """.strip()
 
 
-def _hero_compact(it: Item, n: int) -> str:
+def _hero_compact(it: Item, n: int, *, summary_max: int = 90) -> str:
     """第 4-6 条：紧凑横长卡（80×80 图 + 紧凑文字）。"""
     title_main, _ = _display_title(it)
     summary = it.summary if _has_real_summary(it.summary) else ""
-    if summary and len(summary) > 90:
-        summary = summary[:90].rstrip() + "…"
+    cap = min(summary_max, 100)
+    if summary and len(summary) > cap:
+        summary = summary[:cap].rstrip() + "…"
     cover = _img_or_initial(it, w=80, h=80, radius=8, fontsize=24)
     sm = f'<div style="color:{_C["text_3"]};font-size:12px;line-height:1.55;margin-top:4px;'\
          f'overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;">'\
@@ -492,7 +490,7 @@ def _hero_compact(it: Item, n: int) -> str:
 """.strip()
 
 
-def _render_hero(highlights: list[Item]) -> str:
+def _render_hero(highlights: list[Item], *, summary_max: int = 120, with_pair: bool = True) -> str:
     if not highlights:
         return ""
     parts = [
@@ -501,37 +499,36 @@ def _render_hero(highlights: list[Item]) -> str:
         f'  <div style="font-size:12px;opacity:0.92;margin-top:3px;">编辑精选最值得花 30 秒读的几条</div>'
         f'</div>'
     ]
-    parts.append(_hero_top(highlights[0]))
-    if len(highlights) >= 3:
-        parts.append(_hero_pair(highlights[1], highlights[2]))
-    elif len(highlights) == 2:
-        parts.append(_hero_top(highlights[1]))
-    rest = highlights[3:]
-    for i, it in enumerate(rest, start=4):
-        parts.append(_hero_compact(it, i))
+    parts.append(_hero_top(highlights[0], summary_max=summary_max))
+    if with_pair and len(highlights) >= 3:
+        parts.append(_hero_pair(highlights[1], highlights[2], summary_max=summary_max))
+        rest = highlights[3:]
+        start_idx = 4
+    elif with_pair and len(highlights) == 2:
+        parts.append(_hero_top(highlights[1], summary_max=summary_max))
+        return "\n".join(parts)
+    else:
+        rest = highlights[1:]
+        start_idx = 2
+    for i, it in enumerate(rest, start=start_idx):
+        parts.append(_hero_compact(it, i, summary_max=summary_max))
     return "\n".join(parts)
 
 
 # ============ 4 个板块各异风格 ============
 
-def _section_header(key: str, count: int) -> str:
+def _section_header(key: str, count: int, *, with_subtitle: bool = True) -> str:
     theme = _THEME[key]
     title = SECTION_TITLES.get(key, key)
-    return f"""
-<div style="background:{theme['gradient']};color:#fff;padding:14px 18px;border-radius:12px 12px 0 0;margin:24px 0 0;box-shadow:0 -2px 12px rgba(0,0,0,0.04);">
-  <table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
-    <tr>
-      <td style="vertical-align:middle;">
-        <div style="font-size:18px;font-weight:800;letter-spacing:0.5px;">{_esc(title)}</div>
-        <div style="font-size:12px;opacity:0.88;margin-top:3px;">{_esc(theme['subtitle'])}</div>
-      </td>
-      <td style="vertical-align:middle;text-align:right;">
-        <span style="background:rgba(255,255,255,0.22);font-size:12px;font-weight:700;padding:3px 12px;border-radius:12px;letter-spacing:0.5px;">{count} 条</span>
-      </td>
-    </tr>
-  </table>
-</div>
-""".strip()
+    sub = f'<div style="font-size:11px;opacity:.85;margin-top:2px;">{_esc(theme["subtitle"])}</div>' if with_subtitle else ""
+    return (
+        f'<div style="background:{theme["gradient"]};color:#fff;padding:12px 16px;border-radius:10px 10px 0 0;margin:18px 0 0;">'
+        f'<table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;"><tr>'
+        f'<td style="vertical-align:middle;"><div style="font-size:17px;font-weight:800;">{_esc(title)}</div>{sub}</td>'
+        f'<td style="vertical-align:middle;text-align:right;">'
+        f'<span style="background:rgba(255,255,255,.22);font-size:12px;font-weight:700;padding:2px 10px;border-radius:10px;">{count} 条</span>'
+        f'</td></tr></table></div>'
+    )
 
 
 def _section_body_open() -> str:
@@ -542,13 +539,46 @@ def _section_body_close() -> str:
     return '</div>'
 
 
-# ----- 产品（双列网格） -----
+# ----- 紧凑卡（低档位用，~350 字/张，去除大量装饰元素） -----
 
-def _card_product(it: Item) -> str:
+def _card_slim(it: Item, idx: int, *, color: str, summary_max: int = 120, with_source: bool = True) -> str:
+    """所有板块通用的紧凑列表卡，单张约 270-330 字。视觉简但信息齐：编号 + 标题 + (可选)来源 + 摘要。"""
     title_main, _ = _display_title(it)
     summary = it.summary if _has_real_summary(it.summary) else ""
-    if summary and len(summary) > 90:
-        summary = summary[:90].rstrip() + "…"
+    if summary and len(summary) > summary_max:
+        summary = summary[:summary_max].rstrip() + "…"
+    sm_html = f'<div style="color:#475569;font-size:12px;line-height:1.55;margin-top:2px;">{_esc(summary)}</div>' if summary else ""
+    src_html = f'<span style="color:#94a3b8;font-size:11px;"> · {_esc(it.source)}</span>' if with_source else ""
+    return (
+        f'<a href="{_esc(it.url)}" style="display:block;padding:7px 11px;border-bottom:1px solid #eef2f7;color:inherit;text-decoration:none;">'
+        f'<div style="font-size:14px;font-weight:700;line-height:1.5;color:#0f172a;">'
+        f'<b style="color:{color};">{idx}.</b> {_esc(title_main)}{src_html}'
+        f'</div>{sm_html}</a>'
+    )
+
+
+def _render_section_slim(items: list[Item], section_key: str, *,
+                         summary_max: int, with_subtitle: bool, with_source: bool = True) -> str:
+    """紧凑模式下的板块渲染：和 rich 模式共用 header，但卡片用 _card_slim。"""
+    if not items:
+        return ""
+    color = _THEME[section_key]["main"]
+    parts = [_section_header(section_key, len(items), with_subtitle=with_subtitle)]
+    parts.append(f'<div style="background:#fff;border:1px solid {_C["border"]};border-top:none;border-radius:0 0 10px 10px;margin-bottom:6px;">')
+    for i, it in enumerate(items, start=1):
+        parts.append(_card_slim(it, i, color=color, summary_max=summary_max, with_source=with_source))
+    parts.append('</div>')
+    return "".join(parts)
+
+
+# ----- 产品（双列网格） -----
+
+def _card_product(it: Item, *, summary_max: int = 90) -> str:
+    title_main, _ = _display_title(it)
+    summary = it.summary if _has_real_summary(it.summary) else ""
+    cap = min(summary_max, 110)
+    if summary and len(summary) > cap:
+        summary = summary[:cap].rstrip() + "…"
     cover = _img_or_initial(it, w=300, h=120, radius=8, fontsize=42)
     cover = cover.replace('width:300px', 'width:100%')
     tags = _key_points_tags(it, _THEME[PRODUCTS]["main"])
@@ -570,16 +600,16 @@ def _card_product(it: Item) -> str:
     )
 
 
-def _render_products(items: list[Item]) -> str:
+def _render_products(items: list[Item], *, summary_max: int = 90, with_subtitle: bool = True) -> str:
     if not items:
         return ""
-    parts = [_section_header(PRODUCTS, len(items)), _section_body_open()]
+    parts = [_section_header(PRODUCTS, len(items), with_subtitle=with_subtitle), _section_body_open()]
     # 两列一行
     rows = [items[i:i+2] for i in range(0, len(items), 2)]
     for row in rows:
         cells = ""
         for it in row:
-            cells += f'<td style="width:50%;vertical-align:top;padding:6px;">{_card_product(it)}</td>'
+            cells += f'<td style="width:50%;vertical-align:top;padding:6px;">{_card_product(it, summary_max=summary_max)}</td>'
         if len(row) == 1:
             cells += '<td style="width:50%;"></td>'
         parts.append(
@@ -593,27 +623,18 @@ def _render_products(items: list[Item]) -> str:
 
 # ----- 新闻（引用式列表） -----
 
-def _card_news(it: Item, idx: int) -> str:
+def _card_news(it: Item, idx: int, *, summary_max: int = 320) -> str:
     color = _THEME[NEWS]["main"]
     title_main, title_sub = _display_title(it)
     summary = it.summary if _has_real_summary(it.summary) else ""
-    if summary and len(summary) > 320:
-        summary = summary[:320].rstrip() + "…"
+    if summary and len(summary) > summary_max:
+        summary = summary[:summary_max].rstrip() + "…"
     has_img = _has_image(it)
     image = (it.extra or {}).get("image", "") if has_img else ""
 
-    # 顶部图片（如有）— 横向 16:5 比例
-    top_img = (
-        f'<img src="{_esc(image)}" alt="" style="width:100%;height:140px;object-fit:cover;display:block;border-radius:8px 8px 0 0;" />'
-        if has_img else ""
-    )
-
-    sub = f'<div style="color:{_C["text_3"]};font-size:11px;font-style:italic;margin-top:4px;">{_esc(title_sub[:90])}</div>' if title_sub else ""
-    summary_html = (
-        f'<div style="background:{_THEME[NEWS]["soft"]};border-left:3px solid {color};color:{_C["text_2"]};'
-        f'font-size:13px;line-height:1.78;padding:10px 12px;border-radius:0 6px 6px 0;margin-top:10px;">{_esc(summary)}</div>'
-        if summary else ""
-    )
+    top_img = f'<img src="{_esc(image)}" alt="" style="width:100%;height:130px;object-fit:cover;display:block;border-radius:7px 7px 0 0;" />' if has_img else ""
+    sub = f'<div style="color:{_C["text_3"]};font-size:11px;font-style:italic;margin-top:4px;">{_esc(title_sub[:80])}</div>' if title_sub else ""
+    summary_html = f'<div style="color:{_C["text_2"]};font-size:13px;line-height:1.7;margin-top:8px;">{_esc(summary)}</div>' if summary else ""
     tags = _key_points_tags(it, color)
     score = _score_text(it)
     t = _fmt_time(it.published_at)
@@ -622,169 +643,124 @@ def _card_news(it: Item, idx: int) -> str:
         meta_bits.append(f'<span style="color:{_C["muted"]};font-size:11px;">{_esc(score)}</span>')
     if t:
         meta_bits.append(f'<span style="color:{_C["muted"]};font-size:11px;">⏱ {_esc(t)}</span>')
-    meta = " · ".join(meta_bits)
-    meta_html = f'<div style="margin-top:10px;">{meta}</div>' if meta else ""
+    meta_html = f'<div style="margin-top:8px;">{" · ".join(meta_bits)}</div>' if meta_bits else ""
 
-    return f"""
-<a href="{_esc(it.url)}" style="text-decoration:none;color:inherit;display:block;">
-  <div style="background:{_C['bg_card']};border:1px solid {_C['border']};border-left:4px solid {color};border-radius:8px;margin:8px 6px;overflow:hidden;">
-    {top_img}
-    <div style="padding:14px 16px;">
-      <div style="margin-bottom:6px;">
-        <span style="display:inline-block;width:22px;height:22px;line-height:22px;text-align:center;background:{color};color:#fff;border-radius:6px;font-size:11px;font-weight:800;margin-right:8px;">{idx}</span>
-        {_hot_badge(it)}{_source_badge(it)}
-      </div>
-      <div style="font-size:15px;font-weight:700;color:{_C['text']};line-height:1.55;">{_esc(title_main)}</div>
-      {sub}{summary_html}{tags}{meta_html}
-    </div>
-  </div>
-</a>
-""".strip()
+    return (
+        f'<a href="{_esc(it.url)}" style="text-decoration:none;color:inherit;display:block;">'
+        f'<div style="background:{_C["bg_card"]};border:1px solid {_C["border"]};border-left:3px solid {color};border-radius:8px;margin:8px 6px;overflow:hidden;">'
+        f'{top_img}<div style="padding:12px 14px;">'
+        f'<div style="margin-bottom:5px;">'
+        f'<span style="display:inline-block;background:{color};color:#fff;border-radius:5px;font-size:11px;font-weight:800;padding:1px 7px;margin-right:6px;">{idx}</span>'
+        f'{_hot_badge(it)}{_source_badge(it)}</div>'
+        f'<div style="font-size:15px;font-weight:700;color:{_C["text"]};line-height:1.5;">{_esc(title_main)}</div>'
+        f'{sub}{summary_html}{tags}{meta_html}</div></div></a>'
+    )
 
 
-def _render_news(items: list[Item]) -> str:
+def _render_news(items: list[Item], *, summary_max: int = 320, with_subtitle: bool = True) -> str:
     if not items:
         return ""
-    parts = [_section_header(NEWS, len(items)), _section_body_open()]
+    parts = [_section_header(NEWS, len(items), with_subtitle=with_subtitle), _section_body_open()]
     for i, it in enumerate(items, start=1):
-        parts.append(_card_news(it, i))
+        parts.append(_card_news(it, i, summary_max=summary_max))
     parts.append(_section_body_close())
     return "\n".join(parts)
 
 
 # ----- 模型（重点卡） -----
 
-def _card_models(it: Item, idx: int) -> str:
+def _card_models(it: Item, idx: int, *, summary_max: int = 320) -> str:
     color = _THEME[MODELS]["main"]
     title_main, title_sub = _display_title(it)
     summary = it.summary if _has_real_summary(it.summary) else ""
-    if summary and len(summary) > 320:
-        summary = summary[:320].rstrip() + "…"
+    if summary and len(summary) > summary_max:
+        summary = summary[:summary_max].rstrip() + "…"
     has_img = _has_image(it)
     image = (it.extra or {}).get("image", "") if has_img else ""
 
-    # 顶部色条
-    top_bar = f'<div style="height:4px;background:{_THEME[MODELS]["gradient"]};"></div>'
-
-    # 缩略图
     thumb = ""
     if has_img:
         thumb = (
-            f'<td style="width:104px;vertical-align:top;padding-right:14px;">'
-            f'<img src="{_esc(image)}" alt="" style="width:104px;height:104px;object-fit:cover;border-radius:8px;display:block;" />'
-            f'</td>'
+            f'<td style="width:88px;vertical-align:top;padding-right:12px;">'
+            f'<img src="{_esc(image)}" alt="" style="width:88px;height:88px;object-fit:cover;border-radius:8px;display:block;" /></td>'
         )
 
-    sub = f'<div style="color:{_C["text_3"]};font-size:11px;font-style:italic;margin-top:4px;">{_esc(title_sub[:90])}</div>' if title_sub else ""
-    summary_html = (
-        f'<div style="color:{_C["text_2"]};font-size:13px;line-height:1.75;margin-top:8px;">{_esc(summary)}</div>'
-        if summary else ""
-    )
+    sub = f'<div style="color:{_C["text_3"]};font-size:11px;font-style:italic;margin-top:4px;">{_esc(title_sub[:80])}</div>' if title_sub else ""
+    summary_html = f'<div style="color:{_C["text_2"]};font-size:13px;line-height:1.7;margin-top:6px;">{_esc(summary)}</div>' if summary else ""
     tags = _key_points_tags(it, color)
     score = _score_text(it)
     score_html = f'<span style="color:{_C["muted"]};font-size:11px;margin-left:6px;">· {_esc(score)}</span>' if score else ""
 
-    return f"""
-<a href="{_esc(it.url)}" style="text-decoration:none;color:inherit;display:block;">
-  <div style="background:{_C['bg_card']};border:1px solid {_C['border']};border-radius:10px;overflow:hidden;margin:8px 6px;">
-    {top_bar}
-    <div style="padding:14px 16px;">
-      <table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
-        <tr>
-          {thumb}
-          <td style="vertical-align:top;">
-            <div style="margin-bottom:6px;">
-              <span style="display:inline-block;background:{_THEME[MODELS]['soft']};color:{color};font-size:11px;font-weight:800;padding:3px 10px;border-radius:10px;margin-right:6px;letter-spacing:0.3px;">#{idx} 模型动态</span>
-              {_source_badge(it)}{score_html}
-            </div>
-            <div style="font-size:15px;font-weight:700;color:{_C['text']};line-height:1.5;">{_esc(title_main)}</div>
-            {sub}{summary_html}{tags}
-          </td>
-        </tr>
-      </table>
-    </div>
-  </div>
-</a>
-""".strip()
+    return (
+        f'<a href="{_esc(it.url)}" style="text-decoration:none;color:inherit;display:block;">'
+        f'<div style="background:{_C["bg_card"]};border:1px solid {_C["border"]};border-left:3px solid {color};border-radius:8px;padding:12px 14px;margin:8px 6px;">'
+        f'<table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;"><tr>{thumb}'
+        f'<td style="vertical-align:top;">'
+        f'<div style="margin-bottom:5px;">'
+        f'<span style="background:{_THEME[MODELS]["soft"]};color:{color};font-size:11px;font-weight:800;padding:2px 8px;border-radius:8px;margin-right:6px;">#{idx} 模型</span>'
+        f'{_source_badge(it)}{score_html}</div>'
+        f'<div style="font-size:15px;font-weight:700;color:{_C["text"]};line-height:1.5;">{_esc(title_main)}</div>'
+        f'{sub}{summary_html}{tags}</td></tr></table></div></a>'
+    )
 
 
-def _render_models(items: list[Item]) -> str:
+def _render_models(items: list[Item], *, summary_max: int = 320, with_subtitle: bool = True) -> str:
     if not items:
         return ""
-    parts = [_section_header(MODELS, len(items)), _section_body_open()]
+    parts = [_section_header(MODELS, len(items), with_subtitle=with_subtitle), _section_body_open()]
     for i, it in enumerate(items, start=1):
-        parts.append(_card_models(it, i))
+        parts.append(_card_models(it, i, summary_max=summary_max))
     parts.append(_section_body_close())
     return "\n".join(parts)
 
 
 # ----- GitHub（代码卡风格 - 深色） -----
 
-def _card_github(it: Item, idx: int) -> str:
+def _card_github(it: Item, idx: int, *, summary_max: int = 220) -> str:
     title_main, _ = _display_title(it)
     summary = it.summary if _has_real_summary(it.summary) else ""
-    if summary and len(summary) > 220:
-        summary = summary[:220].rstrip() + "…"
+    if summary and len(summary) > summary_max:
+        summary = summary[:summary_max].rstrip() + "…"
     lang = (it.extra or {}).get("language") or ""
     lang_color = _GH_LANG_COLOR.get(lang, "#22c55e")
     image = (it.extra or {}).get("image", "")
-    avatar = ""
     if image:
-        avatar = (
-            f'<img src="{_esc(image)}" alt="" style="width:36px;height:36px;border-radius:8px;'
-            f'background:#fff;display:block;" />'
-        )
+        avatar = f'<img src="{_esc(image)}" alt="" style="width:32px;height:32px;border-radius:6px;background:#fff;display:block;" />'
     else:
-        avatar = (
-            f'<div style="width:36px;height:36px;border-radius:8px;background:#1f2937;'
-            f'display:flex;align-items:center;justify-content:center;color:#94a3b8;font-size:14px;font-weight:800;">⌘</div>'
-        )
+        avatar = f'<div style="width:32px;height:32px;border-radius:6px;background:#1f2937;color:#94a3b8;font-size:14px;font-weight:800;text-align:center;line-height:32px;">⌘</div>'
 
-    star_html = (
-        f'<div style="color:#facc15;font-size:18px;font-weight:800;line-height:1;">⭐ +{it.score}</div>'
-        f'<div style="color:#94a3b8;font-size:10px;margin-top:2px;letter-spacing:0.5px;">STARS TODAY</div>'
-        if it.score else ""
-    )
+    stars = f'<span style="color:#facc15;font-size:13px;font-weight:800;">⭐ +{it.score}</span>' if it.score else ""
     lang_html = (
-        f'<span style="display:inline-block;color:#cbd5e1;font-size:11px;font-weight:600;margin-right:10px;">'
-        f'<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:{lang_color};margin-right:4px;vertical-align:middle;"></span>'
-        f'{_esc(lang)}</span>'
+        f'<span style="color:#cbd5e1;font-size:11px;font-weight:600;margin-right:8px;">'
+        f'<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:{lang_color};margin-right:3px;vertical-align:middle;"></span>{_esc(lang)}</span>'
         if lang else ""
     )
     tags = _key_points_tags(it, "#22c55e")
-    summary_html = (
-        f'<div style="color:#cbd5e1;font-size:13px;line-height:1.7;margin-top:8px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;">{_esc(summary)}</div>'
-        if summary else ""
+    summary_html = f'<div style="color:#cbd5e1;font-size:13px;line-height:1.65;margin-top:8px;">{_esc(summary)}</div>' if summary else ""
+
+    return (
+        f'<a href="{_esc(it.url)}" style="text-decoration:none;color:inherit;display:block;">'
+        f'<div style="background:#0f172a;border:1px solid #1e293b;border-radius:10px;padding:12px 14px;margin:8px 6px;">'
+        f'<table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;"><tr>'
+        f'<td style="width:32px;vertical-align:top;padding-right:10px;">{avatar}</td>'
+        f'<td style="vertical-align:top;">'
+        f'<div style="font-size:11px;color:#22c55e;font-weight:700;font-family:\'SF Mono\',monospace;">$ git clone #{idx}</div>'
+        f'<div style="font-size:14px;color:#f1f5f9;font-weight:700;line-height:1.45;margin-top:2px;">{_esc(title_main)}</div>'
+        f'</td>'
+        f'<td style="vertical-align:top;text-align:right;padding-left:6px;">{stars}</td>'
+        f'</tr></table>'
+        f'<div style="margin-top:8px;padding-top:8px;border-top:1px solid #1e293b;">'
+        f'<div>{lang_html}<span style="color:#64748b;font-size:11px;">github.com</span></div>'
+        f'{summary_html}{tags}</div></div></a>'
     )
 
-    return f"""
-<a href="{_esc(it.url)}" style="text-decoration:none;color:inherit;display:block;">
-  <div style="background:#0f172a;border:1px solid #1e293b;border-radius:10px;padding:14px 16px;margin:8px 6px;font-family:'SF Mono','Menlo','Consolas',monospace;">
-    <table cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
-      <tr>
-        <td style="width:36px;vertical-align:top;padding-right:12px;">{avatar}</td>
-        <td style="vertical-align:top;">
-          <div style="font-size:11px;color:#22c55e;font-weight:700;letter-spacing:0.5px;font-family:'SF Mono',monospace;">$ git clone #{idx}</div>
-          <div style="font-size:14px;color:#f1f5f9;font-weight:700;line-height:1.45;margin-top:2px;font-family:'SF Mono','Menlo',monospace;">{_esc(title_main)}</div>
-        </td>
-        <td style="vertical-align:top;text-align:right;padding-left:8px;">{star_html}</td>
-      </tr>
-    </table>
-    <div style="margin-top:10px;padding-top:10px;border-top:1px solid #1e293b;">
-      <div>{lang_html}<span style="color:#64748b;font-size:11px;">github.com</span></div>
-      {summary_html}{tags}
-    </div>
-  </div>
-</a>
-""".strip()
 
-
-def _render_github(items: list[Item]) -> str:
+def _render_github(items: list[Item], *, summary_max: int = 220, with_subtitle: bool = True) -> str:
     if not items:
         return ""
-    parts = [_section_header(GITHUB, len(items)), _section_body_open()]
+    parts = [_section_header(GITHUB, len(items), with_subtitle=with_subtitle), _section_body_open()]
     for i, it in enumerate(items, start=1):
-        parts.append(_card_github(it, i))
+        parts.append(_card_github(it, i, summary_max=summary_max))
     parts.append(_section_body_close())
     return "\n".join(parts)
 
@@ -836,8 +812,16 @@ def _pick_highlights(buckets: dict, n: int) -> list[Item]:
 
 # ============ 主入口 ============
 
-def _render_with_caps(buckets: dict, today: date, *, new_count: int, total_seen: int,
-                      per_section: int, highlight_count: int, with_cover_wall: bool) -> str:
+def _render_with_caps(buckets: dict, today: date, *, new_count: int, total_seen: int, caps: dict) -> str:
+    """根据 caps 字典控制密度。caps 字段：
+    - per_section: 每板块最多多少条
+    - highlight_count: 顶部「今日必看」抽几条（0 = 不显示 hero）
+    - summary_max: 卡片摘要最大字数
+    - hero_summary_max: hero 区摘要最大字数
+    - with_cover_wall: 是否显示封面图墙
+    - with_hero_pair: 是否显示 hero 第 2/3 条的并排卡（False 则全用 compact）
+    - with_section_summary: 各板块卡片是否带摘要文字（极简档可关）
+    """
     image_count = sum(1 for items in buckets.values() for it in items if _has_image(it))
 
     parts: list[str] = []
@@ -845,26 +829,45 @@ def _render_with_caps(buckets: dict, today: date, *, new_count: int, total_seen:
         f'<div style="background:{_C["bg_page"]};padding:14px;font-family:-apple-system,BlinkMacSystemFont,'
         f'\'PingFang SC\',\'Hiragino Sans GB\',\'Microsoft YaHei\',sans-serif;color:{_C["text"]};">'
     )
-    parts.append(_banner(today, new_count=new_count, total_seen=total_seen, buckets=buckets, image_count=image_count))
+    parts.append(_banner(today, new_count=new_count, total_seen=total_seen, buckets=buckets,
+                         image_count=image_count, with_bars=caps.get("with_bars", True)))
 
-    if with_cover_wall:
+    if caps.get("with_cover_wall"):
         cw = _cover_wall(buckets)
         if cw:
             parts.append(cw)
 
-    highlights = _pick_highlights(buckets, highlight_count)
+    highlight_count = caps.get("highlight_count", 0)
+    highlights = _pick_highlights(buckets, highlight_count) if highlight_count > 0 else []
     if highlights:
-        parts.append(_render_hero(highlights))
+        parts.append(_render_hero(
+            highlights,
+            summary_max=caps.get("hero_summary_max", 120),
+            with_pair=caps.get("with_hero_pair", True),
+        ))
 
     highlight_urls = {it.url for it in highlights}
 
-    # 各板块按各自风格渲染
-    renderers = [
-        (PRODUCTS, _render_products),
-        (NEWS,     _render_news),
-        (MODELS,   _render_models),
-        (GITHUB,   _render_github),
-    ]
+    sm = caps.get("summary_max", 320)
+    sub = caps.get("with_subtitle", True)
+    compact = caps.get("compact_cards", False)
+    # 各板块按各自风格渲染（rich 模式各异；compact 模式统一走 _card_slim）
+    if compact:
+        with_source = caps.get("with_source", True)
+        renderers = [
+            (PRODUCTS, lambda items: _render_section_slim(items, PRODUCTS, summary_max=sm, with_subtitle=sub, with_source=with_source)),
+            (NEWS,     lambda items: _render_section_slim(items, NEWS,     summary_max=sm, with_subtitle=sub, with_source=with_source)),
+            (MODELS,   lambda items: _render_section_slim(items, MODELS,   summary_max=sm, with_subtitle=sub, with_source=with_source)),
+            (GITHUB,   lambda items: _render_section_slim(items, GITHUB,   summary_max=sm, with_subtitle=sub, with_source=with_source)),
+        ]
+    else:
+        renderers = [
+            (PRODUCTS, lambda items: _render_products(items, summary_max=min(sm, 110), with_subtitle=sub)),
+            (NEWS,     lambda items: _render_news(items, summary_max=sm, with_subtitle=sub)),
+            (MODELS,   lambda items: _render_models(items, summary_max=sm, with_subtitle=sub)),
+            (GITHUB,   lambda items: _render_github(items, summary_max=min(sm, 240), with_subtitle=sub)),
+        ]
+    per_section = caps.get("per_section", 10)
     for key, fn in renderers:
         items = buckets.get(key, [])
         remaining = [it for it in items if it.url not in highlight_urls][:per_section]
@@ -877,25 +880,59 @@ def _render_with_caps(buckets: dict, today: date, *, new_count: int, total_seen:
 
 
 def render_html(buckets: dict, today: date, *, new_count: int, total_seen: int) -> str:
-    """自适应裁剪：从最丰富开始，逐级缩减直到 ≤ 60KB（PushPlus 64KB 上限留 4KB 余量）。"""
-    SOFT_LIMIT = 60_000
-    # (per_section, highlight_count, with_cover_wall)
+    """自适应裁剪：双闸门 ≤ 19000 字符 且 ≤ 60000 字节（PushPlus 双重上限：2 万字 / 64KB）。
+
+    从最丰富开始逐级降密度，第一个同时满足两个上限的档位即返回。
+    板块数永远是 4，每板块至少 5 条——保证「全面」基线，被压缩的是摘要字数和装饰元素。
+    """
+    CHAR_LIMIT = 19_000   # PushPlus 上限 2 万字，留 1000 字余量
+    BYTE_LIMIT = 60_000   # PushPlus 上限 64KB，留 4KB 余量
+
+    # 每档：per, hero, summary_max, hero_sm, cover_wall, hero_pair, bars, subtitle, compact_cards, with_source
     ladders = [
-        (PUSH_TOP_PER_SECTION, PUSH_HIGHLIGHT_COUNT, True),
-        (10, 6, True),
-        (8,  5, True),
-        (7,  5, False),   # 去掉图片墙
-        (6,  4, False),
-        (5,  3, False),
+        # ——— L0-L5: rich 杂志风 ———
+        (PUSH_TOP_PER_SECTION, PUSH_HIGHLIGHT_COUNT, 280, 120, True,  True,  True,  True,  False, True),
+        (10, 6, 220, 110, True,  True,  True,  True,  False, True),   # L1
+        (9,  5, 200, 100, False, True,  True,  True,  False, True),   # L2 去图片墙
+        (9,  4, 160, 90,  False, True,  True,  True,  False, True),   # L3
+        (8,  3, 130, 80,  False, True,  True,  True,  False, True),   # L4
+        (8,  2, 100, 70,  False, False, False, True,  False, True),   # L5 rich 收尾
+        # ——— L6-L12: compact 列表卡（每张 ~330 字带 source / ~270 字无 source）———
+        (12, 1, 200, 80,  False, False, True,  True,  True,  True),   # L6 起点：12 条/板块 + hero
+        (12, 1, 150, 60,  False, False, False, True,  True,  True),   # L7
+        (12, 0, 130, 0,   False, False, False, False, True,  True),   # L8 去 hero+副标题
+        (10, 0, 100, 0,   False, False, False, False, True,  True),   # L9 摘要 100
+        (10, 0, 80,  0,   False, False, False, False, True,  True),   # L10 摘要 80（保留 source）
+        (10, 0, 80,  0,   False, False, False, False, True,  False),  # L11 去 source
+        (8,  0, 60,  0,   False, False, False, False, True,  False),  # L12
+        (6,  0, 40,  0,   False, False, False, False, True,  False),  # L13
+        (5,  0, 20,  0,   False, False, False, False, True,  False),  # L14 最低兜底
     ]
     last = ""
-    for per_section, hi, cw in ladders:
+    last_chars = 0
+    last_bytes = 0
+    for per_section, hi, sm, hsm, cw, hp, bars, sub, compact, src in ladders:
         last = _render_with_caps(
             buckets, today, new_count=new_count, total_seen=total_seen,
-            per_section=per_section, highlight_count=hi, with_cover_wall=cw,
+            caps={
+                "per_section": per_section,
+                "highlight_count": hi,
+                "summary_max": sm,
+                "hero_summary_max": hsm,
+                "with_cover_wall": cw,
+                "with_hero_pair": hp,
+                "with_bars": bars,
+                "with_subtitle": sub,
+                "compact_cards": compact,
+                "with_source": src,
+            },
         )
-        if len(last.encode("utf-8")) <= SOFT_LIMIT:
+        last_chars = len(last)
+        last_bytes = len(last.encode("utf-8"))
+        if last_chars <= CHAR_LIMIT and last_bytes <= BYTE_LIMIT:
             return last
+    # 即便跑到最后一档仍超限——返回最小档（push() 会再次校验）
+    print(f"⚠️  即使最低档位仍超限：{last_chars} 字符 / {last_bytes} 字节")
     return last
 
 
@@ -909,11 +946,9 @@ def push(buckets: dict, today: date, *, new_count: int, total_seen: int = 0) -> 
 
     title = f"🛰️ AI News · {today.isoformat()} · {new_count} 条精选"
     content = render_html(buckets, today, new_count=new_count, total_seen=total_seen)
-
     body_size = len(content.encode("utf-8"))
-    if body_size > 60_000:
-        print(f"⚠️  推送内容过大 ({body_size} 字节)，截断到 60KB")
-        content = content.encode("utf-8")[:60_000].decode("utf-8", errors="ignore") + "</div>"
+    char_count = len(content)
+    print(f"📝 推送内容：{char_count} 字符 / {body_size} 字节")
 
     try:
         resp = requests.post(
