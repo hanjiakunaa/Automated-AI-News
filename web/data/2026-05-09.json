@@ -1,0 +1,518 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T10:01:31+08:00",
+  "stats": {
+    "new_count": 67,
+    "total_seen": 386
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "KodHau",
+        "url": "https://www.producthunt.com/products/kodhau-senior-context-for-ai-agents",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T06:59:12",
+        "score": 0,
+        "summary": "KodHau 是一款 AI 工具，通过将团队决策注入 AI，防止生产环境出错。它帮助 AI 理解业务上下文，减少误操作，适用于 DevOps 和 AI 应用开发。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/bb580f88-913c-4797-bbc9-c869e535473a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Kuku: open source",
+        "url": "https://www.producthunt.com/products/kuku",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T06:52:29",
+        "score": 0,
+        "summary": "Kuku 是一个开源本地第二大脑，为所有 AI 提供知识管理。它运行在本地，保护隐私，支持多种 AI 模型，帮助用户存储和检索信息。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/16ca35e7-6678-42af-85a0-1a274b0dcfb8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Bitfield",
+        "url": "https://www.producthunt.com/products/bitfield",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T04:59:06",
+        "score": 0,
+        "summary": "Bitfield 是一个 AI 代理工具，能在 1 纳秒内读取状态，避免生成混乱的代码。它通过极速状态访问提升代理性能，适用于实时系统。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/cd2fdca1-1489-4e5c-840b-fd3c3a48f17e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Monid 2.0",
+        "url": "https://www.producthunt.com/products/monid",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T04:48:50",
+        "score": 0,
+        "summary": "Monid 2.0 是代理工具的 OpenRouter，提供统一的 API 接口来管理和路由多个 AI 代理工具。它简化了工具集成，支持动态选择。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/726a1f1e-3a5f-44ea-ac4c-ab75c3a3e6ea.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "MarkUp",
+        "url": "https://www.producthunt.com/products/markup-chrome-extension-launch",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T03:15:54",
+        "score": 0,
+        "summary": "MarkUp 允许用户通过视觉提示用 AI 编辑网站。用户可以直接在网页上标记修改区域，AI 自动生成代码，降低网站编辑门槛。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/f4978feb-2b8e-49cf-add3-81b5b5e38707.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Minions",
+        "url": "https://www.producthunt.com/products/minions",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T02:58:13",
+        "score": 0,
+        "summary": "Minions 是 Hermes 代理的开源任务控制中心，用于管理和协调多个代理。它提供监控、调度和日志功能，支持自定义工作流。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/a38598ec-1cf3-4024-960a-fa36608f4d13.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Illospace",
+        "url": "https://www.producthunt.com/products/illospace",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T23:38:55",
+        "score": 0,
+        "summary": "Illospace 是一个团队与 AI 代理共同工作的虚拟空间。它提供协作环境，支持实时交互，提升人机协作效率。",
+        "extra": {}
+      },
+      {
+        "title": "Sendly",
+        "url": "https://www.producthunt.com/products/sendly-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T22:55:21",
+        "score": 0,
+        "summary": "Sendly 为 AI 代理和开发者提供短信服务 API。它支持发送和接收短信，集成简单，适用于通知、验证码等场景。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/d39709fd-6532-4984-a8f4-d043b58aee96.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "SecureLend Agents",
+        "url": "https://www.producthunt.com/products/securelend-agents",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T22:32:29",
+        "score": 0,
+        "summary": "SecureLend Agents 是面向风投、贷款机构和保险公司的 AI 承保代理。它自动化风险评估，提高审批效率，减少人为错误。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/bf05f9a5-d890-45cf-aa33-04d0af774d53.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Cardamom",
+        "url": "https://www.producthunt.com/products/cardamom-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T21:28:11",
+        "score": 0,
+        "summary": "Cardamom 为外卖为主的餐厅提供 AI 电话订餐服务。它自动接听电话、处理订单，减少人工成本，提升顾客体验。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/32eac68e-ae34-4ea2-af2f-00b2fe514621.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Donely Knowledge Layer",
+        "url": "https://www.producthunt.com/products/donely",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T21:17:08",
+        "score": 0,
+        "summary": "Donely Knowledge Layer 构建可查询的公司知识库，并配备闭环 AI 员工。它整合企业数据，支持自然语言查询，自动化业务流程。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/27457c0f-8fa6-415f-b521-122c5ec10010.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Contral",
+        "url": "https://www.producthunt.com/products/contral",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T19:47:04",
+        "score": 0,
+        "summary": "Contral 是一个在开发过程中教学的 AI 代理。它实时指导开发者，提供代码建议和最佳实践，加速学习曲线。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/69d4b3d2-d096-48ae-85d0-9e9a26948889.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
+        "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T22:22:21",
+        "score": 897,
+        "summary": "Hacker News 讨论 Canvas 再次上线，ShinyHunters 威胁泄露学校数据，获得 897 分，609 评论。",
+        "extra": {
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332725/STK419_DEEPFAKE_CVIRGINIA_L.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        }
+      },
+      {
+        "title": "ClojureScript Gets Async/Await",
+        "url": "https://clojurescript.org/news/2026-05-07-release",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-08T07:04:24",
+        "score": 262,
+        "summary": "Hacker News 讨论 ClojureScript 获得 async/await，获得 262 分，67 评论。",
+        "extra": {
+          "image": "https://clojurescript.org/images/cljs-logo-60b.png"
+        }
+      },
+      {
+        "title": "AI is breaking two vulnerability cultures",
+        "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-08T17:55:08",
+        "score": 242,
+        "summary": "Hacker News 讨论 AI 打破两种漏洞文化，获得 242 分，102 评论。分析 AI 对安全文化的影响。",
+        "extra": {
+          "image": "https://www.jefftk.com/jefftk-glyph-framed.jpg"
+        }
+      },
+      {
+        "title": "Podman rootless containers and the Copy Fail exploit",
+        "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-08T13:22:33",
+        "score": 119,
+        "summary": "Hacker News 讨论 Podman 无根容器和 Copy Fail 漏洞，获得 119 分，23 评论。",
+        "extra": {
+          "image": "https://garrido.io/images/circle_hu_1ac61dd29ff0bbfe.png"
+        }
+      },
+      {
+        "title": "OpenAI's WebRTC problem",
+        "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T17:11:59",
+        "score": 103,
+        "summary": "Hacker News 讨论 OpenAI 的 WebRTC 问题，获得 103 分，23 评论。",
+        "extra": {
+          "image": "https://moq.dev/blog/webrtc-is-the-problem/rtt.png"
+        }
+      },
+      {
+        "title": "Show HN: Git for AI Agents",
+        "url": "https://github.com/regent-vcs/re_gent",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-08T14:15:36",
+        "score": 93,
+        "summary": "Show HN: Git for AI Agents，获得 93 分，45 评论。介绍为 AI 代理设计的版本控制工具。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/4cab328a3b880b8c1002b72a9e5807732c09ed0572e65df45a980facb2a5fd67/regent-vcs/re_gent"
+        }
+      },
+      {
+        "title": "All means are fair except solving the problem",
+        "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-06T15:52:25",
+        "score": 35,
+        "summary": "Hacker News 讨论 'All means are fair except solving the problem'，获得 35 分，39 评论。",
+        "extra": {}
+      },
+      {
+        "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+        "url": "https://36kr.com/p/3797202414820359?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T01:30:00",
+        "score": 0,
+        "summary": "星识科技完成数千万天使轮融资，由高秉强和蓝驰创投领投。公司从远景观测切入 AI 智能影像，资金用于研发和供应链。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260506/v2_cddc25888c0d4d36bc510573ca6ac0d3@6022551_oswg4134389oswg2048oswg2048_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
+        }
+      },
+      {
+        "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
+        "url": "https://36kr.com/newsflashes/3801377962090247?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T01:21:37",
+        "score": 0,
+        "summary": "谷歌旗下 Isomorphic Labs 拟融资超 20 亿美元，由 Thrive Capital 领投。该公司专注 AI 药物研发，从 DeepMind 分拆。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
+        "url": "https://36kr.com/p/3801348046151428?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T00:57:59",
+        "score": 0,
+        "summary": "DeepSeek 拟募资最高 500 亿元，成中国 AI 最大融资。其他新闻包括油价上调、SpaceX 冲刺上市等。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260509/v2_18bc794092c94013a8e6cbd5f1ae2d15@5892437_oswg81625oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center"
+        }
+      },
+      {
+        "title": "高盛：美国数据中心用电需求或在两年内翻倍",
+        "url": "https://36kr.com/newsflashes/3800643284245513?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T12:54:16",
+        "score": 0,
+        "summary": "高盛预计美国数据中心电力需求从 2025 年 31GW 增至 2027 年 66GW。得州和佐治亚州成为 AI 数据中心聚集地。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "海光DCU完成与混元Hy3 preview大模型的深度适配",
+        "url": "https://36kr.com/newsflashes/3800615656741890?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T12:26:10",
+        "score": 0,
+        "summary": "海光 DCU 完成与腾讯混元 Hy3 preview 大模型适配。该模型 295B 参数，支持 256K 上下文，提升推理和 Agent 能力。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Hardening Firefox with Claude Mythos Preview",
+        "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T16:05:33",
+        "score": 340,
+        "summary": "Hacker News 讨论用 Claude Mythos Preview 强化 Firefox，获得 340 分，150 评论。",
+        "extra": {
+          "image": "https://hacks.mozilla.org/wp-content/uploads/2026/05/Cursor_Green_1920x1080-scaled.jpeg"
+        }
+      },
+      {
+        "title": "GPT-5.5 Price Increase: What It Costs",
+        "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-08T01:02:28",
+        "score": 198,
+        "summary": "Hacker News 讨论 GPT-5.5 价格上涨，获得 198 分，61 评论。分析成本影响。",
+        "extra": {
+          "image": "https://openrouter.ai/dynamic-og?title=GPT-5.5+Price+Increase%3A+What+It+Actually+Costs&description=OpenAI+doubled+per-token+prices+with+GPT-5.5+but+the+model+is+less+verbose.+We+measured+real+usage+to+see+the+net+cost+impact."
+        }
+      },
+      {
+        "title": "Teaching Claude Why",
+        "url": "https://www.anthropic.com/research/teaching-claude-why",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-08T17:59:41",
+        "score": 92,
+        "summary": "Hacker News 讨论 'Teaching Claude Why'，获得 92 分，26 评论。探讨如何教 Claude 理解原因。",
+        "extra": {
+          "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Knot&backgroundColor=cactus"
+        }
+      },
+      {
+        "title": "Can LLMs model real-world systems in TLA+?",
+        "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-08T16:21:56",
+        "score": 32,
+        "summary": "Hacker News 讨论 LLM 能否用 TLA+ 建模真实系统，获得 32 分，4 评论。",
+        "extra": {
+          "image": "https://www.sigops.org/wp-content/uploads/2026/05/sysmobench-1672x941.jpg"
+        }
+      },
+      {
+        "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+        "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T17:41:05",
+        "score": 0,
+        "summary": "CyberSecQwen-4B 是一个小型专用本地可运行模型，用于防御性网络安全。它只有 4B 参数，可在边缘设备运行，专注于威胁检测。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b.png"
+        }
+      },
+      {
+        "title": "EMO: Pretraining mixture of experts for emergent modularity",
+        "url": "https://huggingface.co/blog/allenai/emo",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T16:03:50",
+        "score": 0,
+        "summary": "EMO 是一种混合专家预训练方法，旨在实现涌现模块化。它通过稀疏激活，提升模型效率和可解释性。",
+        "extra": {
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/zw0eFl6MyYg-hmcPSBfYw.png"
+        }
+      },
+      {
+        "title": "See what happens when creative legends use AI to make ads for small businesses.",
+        "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T15:00:00",
+        "score": 0,
+        "summary": "Google AI 展示创意传奇人物使用 AI 为小企业制作广告。案例显示 AI 辅助创意过程，降低广告制作成本。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "Running Codex safely at OpenAI",
+        "url": "https://openai.com/index/running-codex-safely",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T12:30:00",
+        "score": 0,
+        "summary": "OpenAI 介绍如何安全运行 Codex，包括沙箱、审批、网络策略和代理原生遥测。这些措施确保编码代理的安全合规。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/6Z5UXg0cKSYxr2RGkNkMCl/3087a1569ea42e3aab6b3e4decd1b140/Frame4.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价",
+        "url": "https://www.qbitai.com/2026/05/414194.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T04:35:32",
+        "score": 0,
+        "summary": "OpenAI 上新三款实时语音模型，将 GPT-5 级推理能力塞进语音模型，降低同传翻译成本。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "How ChatGPT learns about the world while protecting privacy",
+        "url": "https://openai.com/index/how-chatgpt-protects-privacy",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-06T08:00:00",
+        "score": 0,
+        "summary": "OpenAI 解释 ChatGPT 如何保护隐私，减少训练中的个人数据，并让用户控制对话是否用于改进模型。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/4ZzoLapknvX6owt0ydlQAk/15d5a9f42c0e671bb8f6e06459fce88e/how-chatgpt-protects-privacy-16_9.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "Advancing youth safety and wellbeing in EMEA",
+        "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-05T00:00:00",
+        "score": 0,
+        "summary": "OpenAI 发布欧洲青年安全蓝图和 EMEA 青年与福祉资助，推进青少年、家庭和教育者的安全负责任 AI。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/kN8xs5SYct3TOKgv94j1k/18e35564fc72b34c94196e6a353e2596/Frame__19_.png?w=1600&h=900&fit=fill"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "datawhalechina/hello-agents",
+        "url": "https://github.com/datawhalechina/hello-agents",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 667,
+        "summary": "《从零开始构建智能体》是一本从零开始的智能体原理与实践教程，今日 GitHub 获 667 星。它涵盖基础概念和代码实现。",
+        "extra": {
+          "image": "https://github.com/datawhalechina.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "HKUDS/AI-Trader",
+        "url": "https://github.com/HKUDS/AI-Trader",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 202,
+        "summary": "AI-Trader 是一个 100% 全自动代理原生交易系统，今日 GitHub 获 202 星。它利用 AI 代理执行交易策略，无需人工干预。",
+        "extra": {
+          "image": "https://github.com/HKUDS.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "PaddlePaddle/PaddleOCR",
+        "url": "https://github.com/PaddlePaddle/PaddleOCR",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 134,
+        "summary": "PaddleOCR 是一个强大的轻量级 OCR 工具包，支持 100+ 语言，可将 PDF/图像转为结构化数据。今日 GitHub 获 134 星。",
+        "extra": {
+          "image": "https://github.com/PaddlePaddle.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "lobehub/lobehub",
+        "url": "https://github.com/lobehub/lobehub",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 125,
+        "summary": "LobeHub 是一个工作与生活的终极空间，支持多代理协作和代理团队设计。它提供代理作为工作交互单元，今日 GitHub 获星。",
+        "extra": {
+          "image": "https://github.com/lobehub.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "anthropics/claude-plugins-official",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 108,
+        "summary": "anthropics/claude-plugins-official 是 Anthropic 管理的 Claude Code 插件官方目录，今日 GitHub 获 108 星。",
+        "extra": {
+          "image": "https://github.com/anthropics.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "vllm-project/vllm-ascend",
+        "url": "https://github.com/vllm-project/vllm-ascend",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 6,
+        "summary": "vllm-ascend 是 vLLM 在昇腾上的社区维护硬件插件，今日 GitHub 获 6 星。它使 vLLM 支持华为昇腾芯片。",
+        "extra": {
+          "image": "https://github.com/vllm-project.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
