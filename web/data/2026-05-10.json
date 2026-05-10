@@ -1,0 +1,456 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T10:01:10+08:00",
+  "stats": {
+    "new_count": 36,
+    "total_seen": 437
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "Staff.rip",
+        "url": "https://www.producthunt.com/products/staff-rip",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T13:43:30",
+        "score": 0,
+        "summary": "Staff.rip 是一款工具，允许用户用自然语言描述代码变更并直接提交，简化开发流程。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/a70603bd-246b-4487-92a7-28edaa143bb2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Zappy by ZapDigits",
+        "url": "https://www.producthunt.com/products/zapdigits",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T09:57:19",
+        "score": 0,
+        "summary": "Zappy by ZapDigits 是一个AI报告分析助手，帮助用户自动生成和分析报告。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/352d59db-84fb-4f90-836d-2f6b280e90b4.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "How AI-pilled are you?",
+        "url": "https://www.producthunt.com/products/how-ai-pilled-are-you",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-07T23:10:14",
+        "score": 0,
+        "summary": "该工具用于评估组织的AI素养水平，帮助了解团队对AI的掌握程度。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/c5c3240b-1c5b-4119-a190-eba3297791cc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Prism",
+        "url": "https://www.producthunt.com/products/prism-26",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-06T16:31:45",
+        "score": 0,
+        "summary": "Prism 是一款招聘工具，旨在帮助雇主找到最佳候选人，而不仅仅是那些可用的候选人。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/3635b901-a6dd-4478-a416-d3cf631472a6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "ClawTick",
+        "url": "https://www.producthunt.com/products/clawtick",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-06T10:24:51",
+        "score": 0,
+        "summary": "ClawTick 提供一行命令即可为AI代理设置定时任务，无需管理基础设施。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/1120b8b3-94ed-481d-a6b7-49f0a6f28315.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Kipps.AI Inbox",
+        "url": "https://www.producthunt.com/products/kipps-ai",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-05T06:00:27",
+        "score": 0,
+        "summary": "Kipps.AI Inbox 是一款收件箱管理工具，帮助用户集中处理应用，提升线索转化率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/128adbde-833a-4043-bc64-a5b7e1a30fb3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Nylas CLI",
+        "url": "https://www.producthunt.com/products/nylas",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-05T02:58:35",
+        "score": 0,
+        "summary": "Nylas CLI 为AI代理提供邮件、日历和联系人功能，方便集成通信能力。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/33f68980-311a-4e2b-97c0-7e0231c88fbc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "LLMs corrupt your documents when you delegate",
+        "url": "https://arxiv.org/abs/2604.15597",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-09T08:44:34",
+        "score": 355,
+        "summary": "LLM在委托任务时会损坏文档，Hacker News上137条评论讨论此问题。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Meta's embrace of A.I. is making its employees miserable",
+        "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-09T18:33:36",
+        "score": 296,
+        "summary": "Meta拥抱AI导致员工不满，Hacker News上262条评论讨论其影响。",
+        "extra": {
+          "image": "https://static01.nyt.com/images/2026/05/11/business/00meta-morale/00meta-morale-facebookJumbo.jpg"
+        }
+      },
+      {
+        "title": "Removing fsync from our local storage engine",
+        "url": "https://fractalbits.com/blog/remove-fsync/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-07T09:25:58",
+        "score": 58,
+        "summary": "讨论从本地存储引擎中移除fsync的影响，Hacker News上61条评论。",
+        "extra": {
+          "image": "https://www.fractalbits.com/logo.png"
+        }
+      },
+      {
+        "title": "The Trail of Jeremiah",
+        "url": "https://theamericanscholar.org/on-the-trail-of-jeremiah/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-06T05:01:19",
+        "score": 3,
+        "summary": "The Trail of Jeremiah 在Hacker News上获得3分，暂无评论。",
+        "extra": {
+          "image": "https://theamericanscholar.org/wp-content/uploads/2026/02/Gessner-FULL.jpg"
+        }
+      },
+      {
+        "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
+        "url": "https://36kr.com/newsflashes/3802794581991168?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-10T01:22:41",
+        "score": 0,
+        "summary": "英伟达今年AI股权投资已超400亿美元，通过投资上下游企业构建从芯片到AI模型的完整生态。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "太初元碁携龙虾一体机亮相北京科博会",
+        "url": "https://www.qbitai.com/2026/05/415027.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T12:21:08",
+        "score": 0,
+        "summary": "太初元碁携龙虾一体机亮相北京科博会，展示其AI硬件产品。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "美图RoboNeo全新升级：首创影像创作Agent Teams",
+        "url": "https://www.qbitai.com/2026/05/415010.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T09:22:38",
+        "score": 0,
+        "summary": "美图RoboNeo全新升级，首创影像创作Agent Teams，打造“赛博乙方天团”。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "光帆带摄像头AI耳机本月开售",
+        "url": "https://36kr.com/newsflashes/3801812857871876?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T08:56:08",
+        "score": 0,
+        "summary": "光帆科技将于5月15日开售全球首款带摄像头的AI耳机，具备视觉感知能力。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "Deepseek和阿里谈崩了？市场人士回应",
+        "url": "https://36kr.com/newsflashes/3801813920144901?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T08:45:06",
+        "score": 0,
+        "summary": "市场人士回应称，阿里巴巴并未与DeepSeek进行融资谈判，此前传闻不实。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "字节跳动据悉计划将AI基础设施支出增加25%",
+        "url": "https://36kr.com/newsflashes/3801787739282952?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T08:18:28",
+        "score": 0,
+        "summary": "字节跳动计划将今年AI基础设施支出增加25%至2000亿元人民币，以应对内存芯片成本上涨和加速AI布局。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "不更新参数就能强化学习！OpenAI翁家翌提出新范式：决策只需AI手搓一个.py 文件",
+        "url": "https://www.qbitai.com/2026/05/414827.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T08:07:08",
+        "score": 0,
+        "summary": "OpenAI研究员翁家翌提出新范式，不更新参数即可强化学习，决策只需AI生成一个.py文件，过程开源。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "谷歌「AI联合数学家」来了！刷新最难数学AI基准SOTA，牛津教授用它解开群论悬案",
+        "url": "https://www.qbitai.com/2026/05/414788.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T07:12:48",
+        "score": 0,
+        "summary": "谷歌AI联合数学家刷新最难数学AI基准SOTA，牛津教授用其解开群论悬案。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+        "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T18:09:28",
+        "score": 0,
+        "summary": "OncoAgent 是一个双层多智能体框架，用于隐私保护的肿瘤临床决策支持。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper.png"
+        }
+      },
+      {
+        "title": "阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一",
+        "url": "https://www.qbitai.com/2026/05/415023.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T10:29:31",
+        "score": 0,
+        "summary": "阶跃星辰最新语音模型在Artificial Analysis评测中位列中国第一。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
+        "url": "https://www.qbitai.com/2026/05/415019.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T09:53:25",
+        "score": 0,
+        "summary": "两项AI政策发布，范式智能的战略布局与产业方向高度契合，聚焦电力交易、能源调度等场景。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
+        "url": "https://www.qbitai.com/2026/05/414826.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T09:37:02",
+        "score": 0,
+        "summary": "高德ABot体系模型以0.829总成绩夺冠AGIBot全球挑战赛，实现空间智能的具身化跃迁。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "bytedance/UI-TARS-desktop",
+        "url": "https://github.com/bytedance/UI-TARS-desktop",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 552,
+        "summary": "字节跳动开源 UI-TARS-desktop，一个多模态AI代理栈，连接前沿AI模型与代理基础设施，今日获552星。",
+        "extra": {
+          "image": "https://github.com/bytedance.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "lsdefine/GenericAgent",
+        "url": "https://github.com/lsdefine/GenericAgent",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 538,
+        "summary": "GenericAgent 是一个自我进化的代理，从3300行种子代码生长出技能树，实现全系统控制且token消耗降低6倍，今日获538星。",
+        "extra": {
+          "image": "https://github.com/lsdefine.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "rohitg00/agentmemory",
+        "url": "https://github.com/rohitg00/agentmemory",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 533,
+        "summary": "agentmemory 提供基于真实世界基准的持久记忆，专为AI编码代理设计，今日获533星。",
+        "extra": {
+          "image": "https://github.com/rohitg00.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "Lordog/dive-into-llms",
+        "url": "https://github.com/Lordog/dive-into-llms",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 160,
+        "summary": "《动手学大模型Dive into LLMs》系列编程实践教程，今日获160星。",
+        "extra": {
+          "image": "https://github.com/Lordog.png?size=120",
+          "language": "Jupyter Notebook"
+        }
+      },
+      {
+        "title": "sgl-project/sglang",
+        "url": "https://github.com/sgl-project/sglang",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 153,
+        "summary": "SGLang 是一个高性能的大语言模型和多模态模型服务框架，今日获153星。",
+        "extra": {
+          "image": "https://github.com/sgl-project.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "hesreallyhim/awesome-claude-code",
+        "url": "https://github.com/hesreallyhim/awesome-claude-code",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 153,
+        "summary": "awesome-claude-code 是一个精选列表，收录Claude Code的技能、钩子、斜杠命令、代理编排器等，今日获153星。",
+        "extra": {
+          "image": "https://github.com/hesreallyhim.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "rowboatlabs/rowboat",
+        "url": "https://github.com/rowboatlabs/rowboat",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 144,
+        "summary": "Rowboat 是一个开源AI同事，具备记忆功能，今日获144星。",
+        "extra": {
+          "image": "https://github.com/rowboatlabs.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "jingyaogong/minimind",
+        "url": "https://github.com/jingyaogong/minimind",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 112,
+        "summary": "MiniMind 项目展示如何从零开始训练一个64M参数的小型LLM，仅需2小时，今日获112星。",
+        "extra": {
+          "image": "https://github.com/jingyaogong.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "HKUDS/ViMax",
+        "url": "https://github.com/HKUDS/ViMax",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 108,
+        "summary": "ViMax 是一个全能代理视频生成框架，集导演、编剧、制片和视频生成于一体，今日获108星。",
+        "extra": {
+          "image": "https://github.com/HKUDS.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "ChromeDevTools/chrome-devtools-mcp",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 107,
+        "summary": "Chrome DevTools MCP 为编码代理提供Chrome开发者工具接口，今日获107星。",
+        "extra": {
+          "image": "https://github.com/ChromeDevTools.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "oracle-devrel/oracle-ai-developer-hub",
+        "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 90,
+        "summary": "Oracle AI开发者中心提供技术资源，帮助开发者使用Oracle AI数据库和OCI服务构建应用和代理，今日获90星。",
+        "extra": {
+          "image": "https://github.com/oracle-devrel.png?size=120",
+          "language": "Jupyter Notebook"
+        }
+      },
+      {
+        "title": "anthropics/claude-agent-sdk-python",
+        "url": "https://github.com/anthropics/claude-agent-sdk-python",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 14,
+        "summary": "Anthropic 发布 Claude Agent SDK 的 Python 版本，今日获14星。",
+        "extra": {
+          "image": "https://github.com/anthropics.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
