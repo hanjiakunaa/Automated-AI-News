@@ -1,0 +1,364 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T10:01:14+08:00",
+  "stats": {
+    "new_count": 31,
+    "total_seen": 468
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "AgentPeek",
+        "url": "https://www.producthunt.com/products/agentpeek",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T22:27:11",
+        "score": 0,
+        "summary": "AgentPeek 是一款 macOS 应用，将 Claude Code 和 Codex 集成到 Mac 的刘海区域，方便开发者快速访问 AI 编码助手。它通过简洁的界面提升开发效率，无需切换窗口即可与 AI 交互。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/1054319b-1f5c-4002-be25-b24784d056cd.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Adject 2.0",
+        "url": "https://www.producthunt.com/products/adject",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-08T19:29:52",
+        "score": 0,
+        "summary": "Adject 2.0 是一款 AI 工具，能够生成超逼真的产品视觉图，帮助电商和营销人员快速创建高质量产品展示。它利用先进生成模型，无需专业摄影即可获得专业级效果。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/f2ed94cc-81a8-4535-a8d1-b234590a2c27.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "LumiChats Offline(free)",
+        "url": "https://www.producthunt.com/products/lumichats-offline",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-06T09:00:17",
+        "score": 0,
+        "summary": "LumiChats Offline 是一款完全离线、零数据收集且免费的 AI 聊天应用，保护用户隐私。它无需联网即可运行，适合对数据安全有高要求的用户。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/70d674e2-4dbb-4667-9634-667d2822c23e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "Local AI needs to be the norm",
+        "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-10T17:19:28",
+        "score": 588,
+        "summary": "Hacker News 热门帖子（588 分，275 评论）主张本地 AI 应成为常态，强调隐私、离线能力和数据主权。社区广泛支持去中心化 AI。",
+        "extra": {
+          "image": "https://unix.foo/images/brutalist_ios_main.png"
+        }
+      },
+      {
+        "title": "Task Paralysis and AI",
+        "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-10T06:20:50",
+        "score": 200,
+        "summary": "Hacker News 热门帖子（200 分，108 评论）讨论任务瘫痪与 AI 的关系，分析 AI 如何帮助或加剧决策困难。",
+        "extra": {}
+      },
+      {
+        "title": "Spain has become one of Europe’s cheapest power markets",
+        "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-10T16:31:51",
+        "score": 145,
+        "summary": "西班牙成为欧洲最便宜电力市场之一，获 145 分和 118 条评论。讨论可再生能源和电力市场改革的影响。",
+        "extra": {}
+      },
+      {
+        "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-10T21:16:58",
+        "score": 142,
+        "summary": "马里兰州居民因 AI 数据中心面临 20 亿美元电网升级费用，引发争议。帖子获 142 分和 67 条评论，讨论 AI 能源成本的社会化问题。",
+        "extra": {
+          "image": "https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-2560-80.jpg"
+        }
+      },
+      {
+        "title": "Chrome's AI features may be hogging 4GB of your computer storage",
+        "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-10T15:22:46",
+        "score": 96,
+        "summary": "Chrome 的 AI 功能可能占用高达 4GB 存储空间，引发用户担忧。帖子获 96 分和 52 条评论，讨论浏览器 AI 功能的资源消耗。",
+        "extra": {
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418650/STK114_Google_Chrome_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        }
+      },
+      {
+        "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+        "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-10T23:36:48",
+        "score": 70,
+        "summary": "PS3 模拟器开发者请求用户停止用 AI 生成的大量 PR 淹没项目，获得 70 分和 44 条评论。社区担忧 AI 贡献质量低且增加维护负担。",
+        "extra": {
+          "image": "https://kotaku.com/app/uploads/2026/03/ps3-update-1200x675.jpg"
+        }
+      },
+      {
+        "title": "You Need AI That Reduces Maintenance Costs",
+        "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-10T23:39:55",
+        "score": 20,
+        "summary": "Hacker News 帖子强调需要能降低维护成本的 AI，获得 20 分和 3 条评论。讨论 AI 在预测性维护中的应用价值。",
+        "extra": {
+          "image": "https://www.jamesshore.com/images/site/title-696x290.png"
+        }
+      },
+      {
+        "title": "Make America AI ready: Strengths, weaknesses, and recommendations",
+        "url": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-11T00:10:34",
+        "score": 16,
+        "summary": "Hacker News 讨论美国 AI 准备度的优势、劣势和建议，获得 16 分和 11 条评论。参与者分析美国在 AI 领域的领先地位及需改进之处。",
+        "extra": {
+          "image": "https://blog.citp.princeton.edu/wp-content/uploads/sites/952/2024/07/Group-3.png"
+        }
+      },
+      {
+        "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+        "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-10T23:02:31",
+        "score": 7,
+        "summary": "Hacker News 帖子探讨 Claude 作为用户空间 IP 栈响应 ping 的速度，获得 7 分。实验性测试 AI 的网络能力。",
+        "extra": {
+          "image": "https://dunkels.com/adam/assets/images/llm-ping/ping.png"
+        }
+      },
+      {
+        "title": "SAP宣布完成对主数据管理软件提供商Reltio的收购",
+        "url": "https://36kr.com/newsflashes/3804197417131526?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-11T01:09:43",
+        "score": 0,
+        "summary": "SAP 宣布完成对主数据管理软件商 Reltio 的收购，旨在将分散数据转化为 AI 就绪数据。交易金额未披露，此举强化 SAP 在数据管理领域的布局。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "报道称OpenAI允许员工出售价值至多3000万美元的股票",
+        "url": "https://36kr.com/newsflashes/3804194327453185?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-11T01:06:35",
+        "score": 0,
+        "summary": "报道称 OpenAI 允许员工出售价值至多 3000 万美元的股票，去年 10 月已有超 600 名员工售股。此举为员工提供流动性，反映公司估值增长。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "东吴证券：国产算力趋势不可逆，AI信创产业正形成五大核心主线",
+        "url": "https://36kr.com/newsflashes/3804176171425544?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-11T00:48:07",
+        "score": 0,
+        "summary": "东吴证券研报指出，国产算力趋势不可逆，AI 信创产业形成 GPU、CPU、昇腾产业链、算力租赁和信创大模型五大主线。DeepSeek V4 首次使用国产算力训练，标志产业拐点。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Gemini API File Search is now multimodal",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-10T03:22:02",
+        "score": 145,
+        "summary": "Gemini API 文件搜索功能现支持多模态，获 145 分和 39 条评论。开发者可搜索图像、音频等文件内容，扩展 AI 应用场景。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_File-Search_Social-Share_1920x1080.width-1300.png"
+        }
+      },
+      {
+        "title": "Academic Research Skills for Claude Code",
+        "url": "https://github.com/Imbad0202/academic-research-skills",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-10T13:42:00",
+        "score": 76,
+        "summary": "Hacker News 帖子介绍为 Claude Code 提供的学术研究技能，获 76 分和 25 条评论。讨论 AI 在科研中的应用。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/3103c84ddaa75795d214af33b0618c1b79615c9eb26cc3e62368f23bdac9ac3e/Imbad0202/academic-research-skills"
+        }
+      },
+      {
+        "title": "LLMorphism: When humans come to see themselves as language models",
+        "url": "https://arxiv.org/abs/2605.05419",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-10T08:22:12",
+        "score": 72,
+        "summary": "文章探讨人类开始将自己视为语言模型的现象，获 72 分和 50 条评论。讨论 AI 对人类自我认知的影响。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+        "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-10T18:44:11",
+        "score": 0,
+        "summary": "MachinaCheck 是一个基于 AMD MI300X GPU 构建的多智能体 CNC 可制造性检查系统，用于自动化评估零件设计的可制造性。该系统利用多个 AI 代理协同工作，显著提升检查效率与准确性，为制造业数字化转型提供新方案。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/lablab-ai-amd-developer-hackathon/machinacheck.png"
+        }
+      },
+      {
+        "title": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互",
+        "url": "https://www.qbitai.com/2026/05/415048.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-10T16:26:14",
+        "score": 0,
+        "summary": "浙江大学推出角色扮演 AI 框架，通过四通道消息实现沉浸式交互，可模拟福尔摩斯探案等场景。该框架提升 AI 在叙事和角色扮演中的表现力。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "NousResearch/hermes-agent",
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 1496,
+        "summary": "NousResearch/hermes-agent 是一个可成长的 AI 代理框架，支持持续学习和适应。今日获 1496 星，为开发者提供灵活构建个性化代理的基础。",
+        "extra": {
+          "image": "https://github.com/NousResearch.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "affaan-m/everything-claude-code",
+        "url": "https://github.com/affaan-m/everything-claude-code",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 1081,
+        "summary": "everything-claude-code 是一个智能体性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等提供技能、本能、记忆、安全及研究优先开发能力。今日获 1081 星，显著提升 AI 编码代理的效能。",
+        "extra": {
+          "image": "https://github.com/affaan-m.png?size=120",
+          "language": "JavaScript"
+        }
+      },
+      {
+        "title": "anthropics/skills",
+        "url": "https://github.com/anthropics/skills",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 509,
+        "summary": "anthropics/skills 是 Anthropic 发布的 Agent Skills 公共仓库，提供可复用的技能模块。今日获 509 星，助力开发者快速构建智能代理。",
+        "extra": {
+          "image": "https://github.com/anthropics.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "jundot/omlx",
+        "url": "https://github.com/jundot/omlx",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 185,
+        "summary": "jundot/omlx 是一个针对 Apple Silicon 优化的 LLM 推理服务器，支持连续批处理和 SSD 缓存，可通过 macOS 菜单栏管理。今日获 185 星，适合在 Mac 上高效运行大模型。",
+        "extra": {
+          "image": "https://github.com/jundot.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "open-webui/open-webui",
+        "url": "https://github.com/open-webui/open-webui",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 174,
+        "summary": "open-webui 是一个用户友好的 AI 界面，支持 Ollama、OpenAI API 等后端。今日获 174 星，简化大模型交互体验。",
+        "extra": {
+          "image": "https://github.com/open-webui.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "ZhuLinsen/daily_stock_analysis",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 141,
+        "summary": "daily_stock_analysis 是一个 LLM 驱动的 A/H/美股智能分析系统，整合多数据源行情、实时新闻和 LLM 决策仪表盘，支持多渠道推送且零成本运行。今日获 141 星，适合个人投资者。",
+        "extra": {
+          "image": "https://github.com/ZhuLinsen.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "zai-org/GLM-OCR",
+        "url": "https://github.com/zai-org/GLM-OCR",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 69,
+        "summary": "GLM-OCR 是智谱 AI 推出的 OCR 模型，号称准确、快速且全面。今日获 69 星，为文档数字化提供高效方案。",
+        "extra": {
+          "image": "https://github.com/zai-org.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "MemoriLabs/Memori",
+        "url": "https://github.com/MemoriLabs/Memori",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 62,
+        "summary": "Memori 是代理原生记忆基础设施，提供 LLM 无关的层，将代理执行和对话转化为结构化持久状态。今日获 62 星，适用于生产系统。",
+        "extra": {
+          "image": "https://github.com/MemoriLabs.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
