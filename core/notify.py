@@ -36,7 +36,7 @@ from config import (
 from core.classify import GITHUB, MODELS, NEWS, PRODUCTS, SECTION_TITLES
 from sources.base import Item
 
-_API = "http://www.pushplus.plus/send"
+_API = "https://www.pushplus.plus/send"
 
 # —— 视觉常量 ——
 _C = {
@@ -937,12 +937,16 @@ def push(buckets: dict, today: date, *, new_count: int, total_seen: int = 0) -> 
     char_count = len(content)
     print(f"📝 推送内容：{char_count} 字符 / {body_size} 字节")
 
+    proxy_url = os.environ.get("PUSHPLUS_PROXY", "").strip()
+    proxies = {"http": proxy_url, "https": proxy_url} if proxy_url else None
+
     try:
         resp = requests.post(
             _API,
             json={"token": token, "title": title, "content": content, "template": "html"},
             headers=HTTP_HEADERS,
             timeout=HTTP_TIMEOUT,
+            proxies=proxies,
         )
         data = resp.json() if resp.headers.get("content-type", "").startswith("application/json") else {}
         if resp.ok and data.get("code") == 200:
