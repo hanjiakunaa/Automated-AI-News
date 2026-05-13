@@ -1,0 +1,456 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T10:01:20+08:00",
+  "stats": {
+    "new_count": 48,
+    "total_seen": 571
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "Free AI SEO Auditor",
+        "url": "https://www.producthunt.com/products/free-ai-seo-auditor",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-12T01:28:35",
+        "score": 0,
+        "summary": "Free AI SEO Auditor 是一款开源工具，用于审计网站在AI搜索时代的SEO表现。它提供100%开源代码，帮助开发者优化网站以适应AI驱动的搜索引擎。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/bb3ac034-a806-45bf-8fce-842982869ef3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Whirr",
+        "url": "https://www.producthunt.com/products/whirr-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-11T20:47:05",
+        "score": 0,
+        "summary": "Whirr 是一款在Mac notch中显示AI代理活动的工具，让用户实时感知后台代理的工作状态。它通过简洁的界面提供环境感知能力。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/eecf797b-8067-4afd-b75e-d017ad98bc21.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Khaos Brain",
+        "url": "https://www.producthunt.com/products/khaos-brain",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-11T14:44:17",
+        "score": 0,
+        "summary": "Khaos Brain 为AI代理提供本地预测性记忆功能，使代理能基于历史数据预测未来行为。它运行在本地，保护隐私，提升代理的自主决策能力。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/d6cc60ff-ef47-47c9-b382-d00f312028ca.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "knooth",
+        "url": "https://www.producthunt.com/products/knooth",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-11T14:28:36",
+        "score": 0,
+        "summary": "knooth 是一款Mac屏幕录制工具，集成AI编辑功能，可自动剪辑和优化录屏内容。它面向内容创作者，简化视频制作流程。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/79328356-1fda-49dc-8d35-ba7036af65a5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "display.dev",
+        "url": "https://www.producthunt.com/products/display-dev",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-11T12:29:11",
+        "score": 0,
+        "summary": "display.dev 允许用户发布由AI代理生成的HTML页面，并通过公司认证控制访问。它解决了代理生成内容的安全发布问题。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/28407031-1018-4ee7-9540-2499028c9e5f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "EmailTemple",
+        "url": "https://www.producthunt.com/products/emailtemple",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-11T09:23:19",
+        "score": 0,
+        "summary": "EmailTemple 是一个AI工作室，用于创建高转化率且符合品牌调性的邮件。它提供模板和AI生成功能，提升邮件营销效果。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/00e313b1-bff9-47fc-9e2b-6fc0313b8988.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Pixcode",
+        "url": "https://www.producthunt.com/products/pixcode",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-11T08:53:12",
+        "score": 0,
+        "summary": "Pixcode 是一个自托管的控制台，用于管理AI编码代理。它提供集中监控和调度功能，适用于团队协作开发。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/721a1e72-f7ba-46c3-bcab-69a75ea6a295.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Hopper",
+        "url": "https://www.producthunt.com/products/hopper-4",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-11T05:25:42",
+        "score": 0,
+        "summary": "Hopper 是首个面向大型机和COBOL的代理开发环境，支持AI驱动的代码生成和调试。它旨在现代化遗留系统。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/3eb90c4e-5d29-4847-bb88-4d2a3b1228f3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "MY AI Agent",
+        "url": "https://www.producthunt.com/products/my-ai-agent",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-11T02:04:13",
+        "score": 0,
+        "summary": "MY AI Agent 通过一句话描述自动组建3-10个AI代理团队，每个代理承担不同角色。它简化了多代理系统的搭建。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/ac9790ff-2d23-460d-b06d-7fbf9fee6cde.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "ContentPilots",
+        "url": "https://www.producthunt.com/products/contentpilots",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-10T23:02:13",
+        "score": 0,
+        "summary": "ContentPilots 利用AI将任意视频转换为无限数量的Shorts和Reels，自动适配不同平台格式。它面向社交媒体内容创作者。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/5f613ee9-caea-4744-ba3a-21287267ea51.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Auvylo",
+        "url": "https://www.producthunt.com/products/auvylo",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-10T09:17:30",
+        "score": 0,
+        "summary": "Auvylo 将占星术和四柱命理转化为可对话的AI角色，用户可与这些虚拟人格互动。它融合了传统文化与AI技术。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/c6d27b1c-3b14-4c34-9bb3-568009cae47d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Vexilo",
+        "url": "https://www.producthunt.com/products/vexilo-a-field-guide-to-claude-code",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-09T14:32:03",
+        "score": 0,
+        "summary": "Vexilo 是Claude Code的规划器，集成31个代理、92个命令和121项技能，用于复杂任务编排。它提升了AI编程的自动化程度。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/ca589674-9d98-4d23-bad3-1822ebcaa5ae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "Why senior developers fail to communicate their expertise",
+        "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-12T15:08:40",
+        "score": 372,
+        "summary": "Hacker News上讨论资深开发者为何难以传达专业知识，获得182条评论和372分。用户分享沟通技巧。",
+        "extra": {
+          "image": "https://www.nair.sh/_next/image?url=%2Fimages%2Fwsdftc%2Fwsdftc_cover.png&w=3840&q=75&dpl=dpl_EJNiu3FBjkX8yJSwwGtmqoePQNU6"
+        }
+      },
+      {
+        "title": "Reimagining the mouse pointer for the AI era",
+        "url": "https://deepmind.google/blog/ai-pointer/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-12T17:40:13",
+        "score": 139,
+        "summary": "Hacker News上讨论AI时代鼠标指针的重新设计，获得116条评论和139分。用户探讨交互方式的变革。",
+        "extra": {
+          "image": "https://lh3.googleusercontent.com/6ktOlNMbk7CGwt_Oyi8aCEfeSX1B2DJUnrMF5X9bmzo0MdX9AHqW3iCCGo4RUFX2_8eN_4U3Sam_3tnc8Q0uLK6dMmcC3j5aiAyFMe9AhwYaYF59KA=w1200-h630-n-nu-rw"
+        }
+      },
+      {
+        "title": "Israel's AI targeting system: how data from a phone become a death sentence",
+        "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-10T10:51:47",
+        "score": 93,
+        "summary": "Hacker News上讨论以色列AI瞄准系统如何将手机数据转化为死亡判决，获得44条评论和93分。用户关注伦理问题。",
+        "extra": {
+          "image": "https://ca-times.brightspotcdn.com/dims4/default/2b5a390/2147483647/strip/true/crop/6015x3158+0+427/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faf%2F5f%2Fdbbf044c488da394716de14e67ea%2F2270407856.jpg"
+        }
+      },
+      {
+        "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+        "url": "https://github.com/statewright/statewright",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-12T14:24:55",
+        "score": 74,
+        "summary": "Statewright 通过可视化状态机使AI代理更可靠，获得24条评论和74分。它简化了代理行为设计。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/7e50b2905d103599445c08e4dae25f11faa51e476efb770daf8b887b54b7ec3c/statewright/statewright"
+        }
+      },
+      {
+        "title": "Show HN: Agentic interface for mainframes and COBOL",
+        "url": "https://www.hypercubic.ai/hopper",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-12T17:10:22",
+        "score": 55,
+        "summary": "展示面向大型机和COBOL的代理接口，获得33条评论和55分。用户讨论AI在遗留系统中的应用。",
+        "extra": {
+          "image": "https://www.hypercubic.ai/assets/og-image.png"
+        }
+      },
+      {
+        "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
+        "url": "https://news.ycombinator.com/item?id=48110593",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-12T16:32:54",
+        "score": 38,
+        "summary": "Gigacatalyst允许SaaS产品嵌入AI构建器，获得17条评论和38分。它帮助开发者快速添加AI功能。",
+        "extra": {
+          "image": "y18.svg"
+        }
+      },
+      {
+        "title": "Foucault's Order of Things Explained with Trading Cards [video]",
+        "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-11T20:38:40",
+        "score": 19,
+        "summary": "用交易卡解释福柯的《词与物》，获得8条评论和19分。视频以趣味方式呈现哲学概念。",
+        "extra": {}
+      },
+      {
+        "title": "FairyFuse: Multiplication-Free LLM Inference on CPUs via Fused Ternary Kernels",
+        "url": "https://arxiv.org/abs/2604.20913",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-12T17:35:51",
+        "score": 14,
+        "summary": "FairyFuse通过融合三元内核实现CPU上无乘法LLM推理，获得1条评论和14分。它针对资源受限设备优化。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "The Cost of Doing Business: How SF's Tax Structure Constrains Economic Growth [pdf]",
+        "url": "https://www.bayareaeconomy.org/files/pdf/CostofDoingBusiness_TaxStudy_May2026.pdf",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-12T23:16:41",
+        "score": 5,
+        "summary": "Hacker News上讨论旧金山税收结构如何制约经济增长，获得4条评论和5分。用户分析税收政策对企业和创新的影响。",
+        "extra": {}
+      },
+      {
+        "title": "李彦宏：“自我进化”包含智能体、人类个体、企业组织的自我进化",
+        "url": "https://36kr.com/newsflashes/3807072758734345?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T01:54:40",
+        "score": 0,
+        "summary": "李彦宏在Create2026百度AI开发者大会上提出“自我进化”三层含义：智能体、人类个体和企业组织。他强调AI从被动到主动的进化。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发",
+        "url": "https://36kr.com/p/3807039782116865?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T01:24:00",
+        "score": 0,
+        "summary": "方石机器人完成近亿元A轮融资，用于具身智能+建筑大模型研发。公司成立于2019年，解决建筑业痛点。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260513/v2_0f1e43d47d474cecaa6e69a198d0c67a@5688585_oswg871985oswg1920oswg1220_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+        }
+      },
+      {
+        "title": "国金证券：煤炭二季度业绩有望超预期，底部配置机会显现",
+        "url": "https://36kr.com/newsflashes/3807001886301702?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T00:42:34",
+        "score": 0,
+        "summary": "国金证券研报指出煤炭二季度业绩有望超预期，AI与能源双向赋能政策利好。算电协同趋势强化。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+        "url": "https://github.com/cactus-compute/needle",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-12T18:03:11",
+        "score": 280,
+        "summary": "Needle项目将Gemini的工具调用能力蒸馏到26M参数模型中，获得102条评论和280分。它展示了模型压缩的潜力。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/b7c7c851c8024ae3105677631031f4ecdf1db9ec9dc20568a51e7c329b32cae4/cactus-compute/needle"
+        }
+      },
+      {
+        "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+        "url": "https://voker.ai",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-12T15:45:20",
+        "score": 40,
+        "summary": "Voker (YC S24) 提供AI代理分析功能，获得19条评论和40分。它帮助团队监控代理性能。",
+        "extra": {
+          "image": "https://cdn.prod.website-files.com/69d57891b4f6c4aff88c95ff/69d6b90e90060e0356a63298_An%20analytics%20dashboard.avif"
+        }
+      },
+      {
+        "title": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
+        "url": "https://www.qbitai.com/2026/05/416628.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T01:23:32",
+        "score": 0,
+        "summary": "何恺明发布首个语言模型，仅105M参数，不走GPT自回归路线。它探索非自回归语言建模。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "How finance teams use Codex",
+        "url": "https://openai.com/academy/how-finance-teams-use-codex",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-12T15:00:00",
+        "score": 0,
+        "summary": "OpenAI展示财务团队如何使用Codex构建MBR、报告包等，提升效率。Codex与GPT-5.5结合，自动化财务工作流。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/3pOt7hjYa1nUIIMMXdoEhD/b6493d0ba6756155a3ef880758e0a0b0/Academy-SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
+        "url": "https://www.qbitai.com/2026/05/416582.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-12T09:35:29",
+        "score": 0,
+        "summary": "360发布OpenClaw生态安全报告，累计发现23个独立安全漏洞。AI智能体风险进入自动化审计阶段。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "How NVIDIA engineers and researchers build with Codex",
+        "url": "https://openai.com/index/nvidia",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-12T00:00:00",
+        "score": 0,
+        "summary": "NVIDIA工程师和研究人员使用Codex与GPT-5.5加速生产系统开发和实验。它展示了AI在工程中的实际应用。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/mZA9ljPFQYvXItaKRxH6g/54932934a80f76eedf4536acf6d4b622/oai_NVIDIA_SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "What Parameter Golf taught us about AI-assisted research",
+        "url": "https://openai.com/index/what-parameter-golf-taught-us",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-12T00:00:00",
+        "score": 0,
+        "summary": "Parameter Golf活动吸引1000+参与者、2000+提交，探索AI辅助研究。它聚焦于编码代理、量化和模型设计。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/6PRLQARXtH3sfsTBcHlufc/ac545b82a82009609194d64e34538e62/SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "AutoScout24 scales engineering with AI-powered workflows",
+        "url": "https://openai.com/index/autoscout24",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-12T00:00:00",
+        "score": 0,
+        "summary": "AutoScout24使用Codex和ChatGPT加速开发周期、提升代码质量。它展示了AI在规模化工程中的应用。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/71SMEQAS8V26jHdprPQzoo/b3f8e1bb52044650161982fd76b70ab0/oai_AutoScout24_SEO.png?w=1600&h=900&fit=fill"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 3867,
+        "summary": "mattpocock/skills 提供真实工程师技能，来自作者的.claude目录，今日获3867星。它包含Shell脚本等实用工具。",
+        "extra": {
+          "image": "https://github.com/mattpocock.png?size=120",
+          "language": "Shell"
+        }
+      },
+      {
+        "title": "BerriAI/litellm",
+        "url": "https://github.com/BerriAI/litellm",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 147,
+        "summary": "BerriAI/litellm 提供Python SDK和代理网关，支持100+LLM API，今日获147星。它简化多模型调用。",
+        "extra": {
+          "image": "https://github.com/BerriAI.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "huggingface/transformers",
+        "url": "https://github.com/huggingface/transformers",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 48,
+        "summary": "HuggingFace Transformers 是模型定义框架，支持文本、视觉、音频和多模态，今日获48星。它用于推理和训练。",
+        "extra": {
+          "image": "https://github.com/huggingface.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "FoundationAgents/MetaGPT",
+        "url": "https://github.com/FoundationAgents/MetaGPT",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 34,
+        "summary": "MetaGPT 是多代理框架，旨在实现自然语言编程，今日获34星。它模拟软件公司流程。",
+        "extra": {
+          "image": "https://github.com/FoundationAgents.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
