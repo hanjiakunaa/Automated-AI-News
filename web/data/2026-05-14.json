@@ -1,0 +1,514 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T10:01:28+08:00",
+  "stats": {
+    "new_count": 57,
+    "total_seen": 630
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "PitchDrop.ai",
+        "url": "https://www.producthunt.com/products/pitchdrop-ai",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T05:41:51",
+        "score": 0,
+        "summary": "PitchDrop.ai 可将演示文稿转化为带有品牌标识的实时 URL，帮助用户快速赢得交易。该工具简化了销售流程，无需技术背景即可生成专业在线演示，提升客户转化率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/1e4010bf-511d-4901-9457-48bf2869fabe.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Blaze 2.0",
+        "url": "https://www.producthunt.com/products/blaze-5",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T04:02:47",
+        "score": 0,
+        "summary": "Blaze 2.0 是一款面向中小企业的 AI 营销工具，集成了策略制定、内容生成和广告投放功能。它帮助 SMB 在预算有限的情况下实现自动化营销，提高 ROI。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/160c88e8-aa53-40a1-bcd1-59aa918f5513.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Zen Reports",
+        "url": "https://www.producthunt.com/products/zen-reports",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T03:28:58",
+        "score": 0,
+        "summary": "Zen Reports 提供网站从 ChatGPT 获得的流量数据，帮助用户了解 AI 驱动的流量来源。该工具可分析用户行为，优化内容策略以吸引更多 AI 推荐流量。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/a7f98d0d-96ab-4b57-9e57-44114cbcfa97.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "BossHogg",
+        "url": "https://www.producthunt.com/products/bosshogg",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T01:45:29",
+        "score": 0,
+        "summary": "BossHogg 是一个面向 PostHog 分析和功能标志的代理优先 CLI 工具，简化了数据查询和功能管理。开发者可通过命令行快速获取洞察，提升工作效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/db736c82-4e3a-4fd9-b69a-8c198eaef4bc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Mi",
+        "url": "https://www.producthunt.com/products/mi",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-12T22:32:34",
+        "score": 0,
+        "summary": "Mi 是一个仅需 30 行配置的零配置 CLI 代理，专注于代码修复和重构。它自动识别问题并应用修改，减少手动调试时间，适合快速迭代。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/88a30968-97bc-40d5-9926-3842c5c3f996.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Googlebook",
+        "url": "https://www.producthunt.com/products/googlebook-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-12T21:33:07",
+        "score": 0,
+        "summary": "Googlebook 是一款专为 Gemini 智能设计的新型笔记本电脑，集成了 AI 助手功能。它通过硬件优化提供无缝的 AI 交互体验，可能改变移动计算形态。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/e2347d77-360a-45f8-8a37-6fcb83f7bf47.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Linchpin",
+        "url": "https://www.producthunt.com/products/linchpin-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-12T17:11:13",
+        "score": 0,
+        "summary": "Linchpin 是一个开源、可自托管的运行时，用于管理 AI 代理。它提供灵活部署选项，支持自定义代理行为，适合需要数据隐私的企业。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/fe82de41-87b6-4b1a-9b6b-707e6142c75c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Mycelis",
+        "url": "https://www.producthunt.com/products/mycelis",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-12T16:34:28",
+        "score": 0,
+        "summary": "Mycelis 是一个无服务器 AI 工作空间，具备智能路由和 MCP 代理功能。它自动分配任务到最佳模型，降低延迟和成本，适合多模型协作场景。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/393021e7-2c4d-44e9-a8f3-e45ef5f14879.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Pipecat",
+        "url": "https://www.producthunt.com/products/pipecat-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-12T15:59:14",
+        "score": 0,
+        "summary": "Pipecat 帮助企业构建 AI 工作流和助手，无需编码即可集成到业务中。它支持自定义流程，提升自动化水平，适用于客户服务、数据分析等场景。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/7d49990e-aec2-45ee-9ca1-12d45ea9a306.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Jootle",
+        "url": "https://www.producthunt.com/products/jootle",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-12T13:11:31",
+        "score": 0,
+        "summary": "Jootle 是一个 AI 原生运营平台，通过自动化优化企业运营流程。它利用机器学习预测问题并推荐行动，减少人工干预，提高效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/76473685-c0be-4c87-8a86-786dfd53246f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Whisper Internet Infra AI Context",
+        "url": "https://www.producthunt.com/products/whisper-internet-infra-ai-context",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-12T09:29:30",
+        "score": 0,
+        "summary": "Whisper Internet Infra AI Context 提供免费的 MCP 安全 AI 上下文，包括实时 BGP、DNS 和威胁图。它帮助安全团队快速获取网络基础设施情报，增强威胁检测能力。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/56c5cff8-dfe9-42f9-afa1-9f6c8d6c6f4e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "claude-share",
+        "url": "https://www.producthunt.com/products/claude-share",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-12T08:51:44",
+        "score": 0,
+        "summary": "claude-share 允许用户安全地与朋友共享 Claude Code 会话。它通过加密和权限控制保护代码隐私，促进协作而不泄露敏感信息。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/cc4ab916-67ce-4676-b135-f737c32eb5ef.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "Setting up a free *.city.state.us locality domain (2025)",
+        "url": "https://fredchan.org/blog/locality-domains-guide/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-13T14:45:18",
+        "score": 491,
+        "summary": "教程介绍如何设置免费的 *.city.state.us 本地域名，获 491 分。评论称赞其简化了本地网络服务配置。",
+        "extra": {
+          "image": "https://fredchan.org/assets/images/crow_solid.webp"
+        }
+      },
+      {
+        "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-11T01:05:59",
+        "score": 296,
+        "summary": "新不锈钢可在海水中承受氢生产条件，获 296 分。评论关注其对清洁能源的潜在影响，但质疑成本。",
+        "extra": {
+          "image": "https://www.sciencedaily.com/images/1920/ultra-stainless-steel.webp"
+        }
+      },
+      {
+        "title": "\"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage",
+        "url": "https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-13T19:01:54",
+        "score": 178,
+        "summary": "文章揭露美国健康保险公司以“非医疗必需”为由拒绝赔付，引发 169 条评论。讨论 AI 在保险理赔中的角色和伦理问题。",
+        "extra": {
+          "image": "https://www.propublica.org/wp-content/uploads/2024/10/20241022-evicore-denials1x1a.jpg?resize=1600,1600"
+        }
+      },
+      {
+        "title": "The US is winning the AI race where it matters most: commercialization",
+        "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-13T13:53:53",
+        "score": 165,
+        "summary": "文章称美国在 AI 商业化竞赛中领先，467 条评论中，多数同意但质疑长期可持续性。分歧在于中国是否在应用侧追赶。",
+        "extra": {}
+      },
+      {
+        "title": "Meta won't let you block its AI account on Threads",
+        "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-13T20:22:21",
+        "score": 112,
+        "summary": "Meta 不允许用户在 Threads 上屏蔽其 AI 账户，引发隐私担忧。45 条评论中，多数批评 Meta 强制用户接触 AI 内容。",
+        "extra": {
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        }
+      },
+      {
+        "title": "Making the news available at no cost is a victory",
+        "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-13T19:14:47",
+        "score": 110,
+        "summary": "Hacker News 讨论免费提供新闻的胜利，112 条评论中，观点分歧：一方认为免费促进信息平等，另一方担心损害新闻业。",
+        "extra": {
+          "image": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FMFWKNROUFZCPDOTHJBTDE5VQAE.jpg?auth=0b197fa085388446f12129fbd4cecd789bfcdb0a95226ce20c1361d0a33d79b2&width=1200"
+        }
+      },
+      {
+        "title": "Nailing jelly to a wall: is it possible? (2005)",
+        "url": "https://greem.co.uk/otherbits/jelly.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-09T16:50:51",
+        "score": 75,
+        "summary": "2005 年文章探讨“将果冻钉在墙上是否可能”，获 75 分。评论幽默讨论物理可行性，无实际应用。",
+        "extra": {
+          "image": "./jellypics/materials.jpg"
+        }
+      },
+      {
+        "title": "The Other Half of AI Safety",
+        "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-14T00:27:20",
+        "score": 41,
+        "summary": "Hacker News 上讨论 AI 安全的另一半，强调除技术安全外，还需关注社会影响。评论分歧在于是否应优先考虑对齐问题。",
+        "extra": {
+          "image": "https://substackcdn.com/image/fetch/$s_!OqTc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe489daa-6478-4628-96e2-8c0894af3810_1672x941.png"
+        }
+      },
+      {
+        "title": "36氪首发 | 九号领投一家AI智能影像设备公司，在巨头夹缝中年增长近4倍",
+        "url": "https://36kr.com/p/3807831328300549?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T01:30:37",
+        "score": 0,
+        "summary": "智能体育影像品牌 XbotGo 完成近亿元融资，由九号资本领投，元禾控股等跟投。其产品聚焦青少年体育训练，在美国市场年增长近 4 倍，覆盖超 3000 万青少年。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260513/v2_a8ffac8f6d564abf9c9017907080d1a3@5836910_oswg70173oswg1080oswg565_img_000?x-oss-process=image/format,jpg/interlace,1"
+        }
+      },
+      {
+        "title": "可灵AI登顶42国App Store总榜",
+        "url": "https://36kr.com/newsflashes/3808438911983107?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T01:04:24",
+        "score": 0,
+        "summary": "可灵 AI 3.0 生成的“棒球现场特效”视频在社交平台刷屏，带动可灵 AI 于 5 月 12 日登顶 42 国 App Store 总榜。该视频展示了 AI 在创意内容领域的病毒式传播潜力。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "Arm、软银据悉在AI算力公司Cerebras上市前最后关头曾试图收购该公司",
+        "url": "https://36kr.com/newsflashes/3808409777446664?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T00:53:38",
+        "score": 0,
+        "summary": "Arm 和软银在 AI 算力公司 Cerebras 上市前试图收购，但遭拒绝。Cerebras 计划 IPO，估值未公开，此举凸显 AI 芯片领域的战略争夺。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥",
+        "url": "https://36kr.com/p/3808362853834502?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T23:50:37",
+        "score": 0,
+        "summary": "前阿里千问负责人林俊旸创业，新公司估值约 20 亿美金，方向包括世界模型和具身大脑。他已招募字节、腾讯等背景成员，接触红杉中国等基金。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260514/v2_477178f447af4cf09162b0e6dbe0359c@1200352198_oswg82800oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+        "url": "https://news.ycombinator.com/item?id=48128003",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-13T21:40:18",
+        "score": 170,
+        "summary": "用户投诉 Claude Design 在取消订阅后丢失项目访问权限，引发 60 条评论。讨论焦点是服务条款的公平性和数据可移植性。",
+        "extra": {
+          "image": "y18.svg"
+        }
+      },
+      {
+        "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+        "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-13T21:24:14",
+        "score": 57,
+        "summary": "Medicare 新支付模式专为 AI 设计，但科技界大多不知情。评论认为这将是 AI 在医疗领域的重要应用，可能改变报销方式。",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-877394926.jpg?resize=1200,800"
+        }
+      },
+      {
+        "title": "挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改",
+        "url": "https://www.qbitai.com/2026/05/416978.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T14:04:35",
+        "score": 0,
+        "summary": "字节跳动提出视觉生成第三种路线，让模型像人类一样边画边改，相同参数量下超越扩散自回归模型。该方法在图像生成质量和效率上取得突破。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "Building a safe, effective sandbox to enable Codex on Windows",
+        "url": "https://openai.com/index/building-codex-windows-sandbox",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T11:00:00",
+        "score": 0,
+        "summary": "OpenAI 为 Codex 在 Windows 上构建了安全沙箱，通过受控文件访问和网络限制实现安全的编码代理。该沙箱旨在防止恶意操作，同时保持高效开发，为 Codex 在 Windows 环境中的部署提供了关键安全基础。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/4YUb3Fcl0pX59NNvNBcorz/9d6800e02d977fbde37a34cbc48a49e3/SEO_images.png?w=1600&h=900&fit=fill"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 1401,
+        "summary": "obra/superpowers 是一个代理技能框架和软件开发方法论，今日获 1401 星。它提供结构化方法构建 AI 代理，提升开发效率和可靠性。",
+        "extra": {
+          "image": "https://github.com/obra.png?size=120",
+          "language": "Shell"
+        }
+      },
+      {
+        "title": "danielmiessler/Personal_AI_Infrastructure",
+        "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 435,
+        "summary": "danielmiessler/Personal_AI_Infrastructure 是一个增强人类能力的代理 AI 基础设施，今日获 435 星。它提供模块化工具构建个人 AI 系统。",
+        "extra": {
+          "image": "https://github.com/danielmiessler.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "MervinPraison/PraisonAI",
+        "url": "https://github.com/MervinPraison/PraisonAI",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 411,
+        "summary": "MervinPraison/PraisonAI 提供 24/7 AI 劳动力，5 行代码部署自主代理，今日获 411 星。它内置记忆、RAG，支持 100+ LLM，简化代理开发。",
+        "extra": {
+          "image": "https://github.com/MervinPraison.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "trycua/cua",
+        "url": "https://github.com/trycua/cua",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 245,
+        "summary": "trycua/cua 是计算机使用代理的开源基础设施，提供沙箱、SDK 和基准测试，今日获 245 星。它支持训练和评估控制桌面（macOS/Linux/Windows）的 AI 代理。",
+        "extra": {
+          "image": "https://github.com/trycua.png?size=120",
+          "language": "HTML"
+        }
+      },
+      {
+        "title": "opendatalab/MinerU",
+        "url": "https://github.com/opendatalab/MinerU",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 129,
+        "summary": "opendatalab/MinerU 将 PDF 和 Office 文档转换为 LLM 就绪的 markdown/JSON，今日获 129 星。它优化了文档处理，为代理工作流提供高质量输入。",
+        "extra": {
+          "image": "https://github.com/opendatalab.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "K-Dense-AI/scientific-agent-skills",
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 99,
+        "summary": "K-Dense-AI/scientific-agent-skills 提供一组即用型代理技能，用于研究、科学、工程等，今日获 99 星。它加速科学计算和数据分析任务。",
+        "extra": {
+          "image": "https://github.com/K-Dense-AI.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "openai/whisper",
+        "url": "https://github.com/openai/whisper",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 68,
+        "summary": "openai/whisper 是一个鲁棒语音识别系统，通过大规模弱监督训练，今日获 68 星。它支持多语言转录和翻译，准确率高。",
+        "extra": {
+          "image": "https://github.com/openai.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "EleutherAI/lm-evaluation-harness",
+        "url": "https://github.com/EleutherAI/lm-evaluation-harness",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 22,
+        "summary": "EleutherAI/lm-evaluation-harness 是一个语言模型少样本评估框架，今日获 22 星。它提供标准化评估流程，支持多种模型和任务。",
+        "extra": {
+          "image": "https://github.com/EleutherAI.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "ton-blockchain/acton",
+        "url": "https://github.com/ton-blockchain/acton",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 18,
+        "summary": "ton-blockchain/acton 是 TON 智能合约开发工具链，今日获 18 星。它简化了 TON 区块链上的合约开发和部署。",
+        "extra": {
+          "image": "https://github.com/ton-blockchain.png?size=120",
+          "language": "Rust"
+        }
+      },
+      {
+        "title": "ansible/ansible",
+        "url": "https://github.com/ansible/ansible",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 18,
+        "summary": "ansible/ansible 是一个极简 IT 自动化平台，通过 SSH 管理配置、部署等，今日获 13 星。它使用接近英语的语言，无需代理即可远程执行。",
+        "extra": {
+          "image": "https://github.com/ansible.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "influxdata/telegraf",
+        "url": "https://github.com/influxdata/telegraf",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 13,
+        "summary": "influxdata/telegraf 是一个指标、日志等数据收集代理，今日获 13 星。它支持多种输入输出插件，广泛用于监控和数据处理。",
+        "extra": {
+          "image": "https://github.com/influxdata.png?size=120",
+          "language": "Go"
+        }
+      },
+      {
+        "title": "huggingface/pytorch-image-models",
+        "url": "https://github.com/huggingface/pytorch-image-models",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 8,
+        "summary": "huggingface/pytorch-image-models 是最大的 PyTorch 图像编码器集合，今日获 22 星。它包含 ResNet、ViT 等预训练模型，支持训练和推理。",
+        "extra": {
+          "image": "https://github.com/huggingface.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
