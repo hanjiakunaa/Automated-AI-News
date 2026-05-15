@@ -1,0 +1,461 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:01:10+08:00",
+  "stats": {
+    "new_count": 61,
+    "total_seen": 691
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "Storecraft",
+        "url": "https://www.producthunt.com/products/storecraft",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T06:54:40",
+        "score": 0,
+        "summary": "Storecraft 是一个用于快速构建 AI 驱动的无头电商后端的工具。它支持 AI 集成，帮助开发者高效搭建电商平台，减少重复工作。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/916a21de-77e3-4831-8916-cb74162123c1.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Raindrop Workshop",
+        "url": "https://www.producthunt.com/products/raindrop",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T06:50:48",
+        "score": 0,
+        "summary": "Raindrop Workshop 是一款开源、免费的 AI 代理本地调试器。开发者可以离线调试 AI 代理行为，提升开发效率，无需依赖云端服务。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/505f6841-0116-48db-9ae8-fa8d4e0861f5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Comie.dev",
+        "url": "https://www.producthunt.com/products/comie-dev",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T06:09:16",
+        "score": 0,
+        "summary": "Comie.dev 为 AI 提供生产上下文，集成日志、数据库和错误追踪。它帮助 AI 更好地理解应用状态，提升代码生成和问题诊断的准确性。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/7411c7e5-925f-4863-a868-3f748a1a63f4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Agent FM for Claude Code & Codex",
+        "url": "https://www.producthunt.com/products/agent-fm-for-claude-code-codex",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T03:29:24",
+        "score": 0,
+        "summary": "Agent FM for Claude Code & Codex 是一个音频工具，让用户通过耳机实时监听 AI 代理的工作进展。它帮助开发者保持对代理任务的掌控。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/cb44fbc8-8f8f-4eef-a5e6-bad9a8baf37b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Enjo Help Center",
+        "url": "https://www.producthunt.com/products/enjo-help-center",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T03:01:38",
+        "score": 0,
+        "summary": "Enjo Help Center 利用 AI 自动构建帮助中心，并能从团队中学习。它持续更新内容，减少人工维护成本，提升客户支持效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/a84c3abb-9d9e-4758-bd08-59b6119a8f4c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "transfa.sh",
+        "url": "https://www.producthunt.com/products/transfa-sh",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T01:12:10",
+        "score": 0,
+        "summary": "transfa.sh 是一个专为 AI 代理设计的文件传输服务，类似 WeTransfer。它简化了代理间文件共享流程，支持大文件快速传输。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/993d06cf-9916-47c2-bb54-d1ef1b883063.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "The Augmented AI",
+        "url": "https://www.producthunt.com/products/the-augmented-ai-live-ai-cortex",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T01:09:28",
+        "score": 0,
+        "summary": "The Augmented AI 提供实时会议洞察，不打断对话。它分析会议内容，生成摘要和行动项，提升团队协作效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/5301fdf7-ba13-41da-b4f7-41889b7da2f6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Crystal",
+        "url": "https://www.producthunt.com/products/crystal-7",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T23:42:49",
+        "score": 0,
+        "summary": "Crystal 是一款 AI 驱动的岩石、水晶和宝石识别应用。用户拍照即可获得即时鉴定结果，适用于收藏家和地质爱好者。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/b58bd632-7c77-4df8-ac1e-0cbd11111bcf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Tenure",
+        "url": "https://www.producthunt.com/products/tenure",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T22:57:53",
+        "score": 0,
+        "summary": "Tenure 是一款让 AI 学会与用户自然对话的工具。它通过个性化交互，提升 AI 助手的沟通效果，适用于客户服务和教育场景。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/30165223-eb43-4bb6-a457-1e073a509b73.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Higgsfield Supercomputer",
+        "url": "https://www.producthunt.com/products/higgsfield",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T21:15:33",
+        "score": 0,
+        "summary": "Higgsfield Supercomputer 允许用户通过一个聊天代理运行整个创意管线。它整合了视频生成、编辑等任务，简化创意工作流。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/5f9db866-81f7-47b3-9256-2320fe41e244.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Ace",
+        "url": "https://www.producthunt.com/products/ace-9",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T16:26:37",
+        "score": 0,
+        "summary": "Ace 是一套完整的 AI 工具包，用于面试和销售电话。它提供实时提示、分析和记录功能，帮助用户提升表现。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/6fa0fe0e-6d3e-484a-93c0-cf87c929700f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Slop Goggles",
+        "url": "https://www.producthunt.com/products/slop-goggles",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T15:42:22",
+        "score": 0,
+        "summary": "Slop Goggles 是一款浏览器扩展，用于检测 Reddit 上的 AI 生成评论和帖子。它帮助用户识别低质量内容，维护社区真实性。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/9e2fa862-a05b-4cba-b81a-93a1038fb218.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+        "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-14T15:47:31",
+        "score": 491,
+        "summary": "RTX 5090 和 M4 MacBook Air 的游戏性能对比引发热议。评论者讨论硬件升级对游戏体验的实际影响。",
+        "extra": {
+          "image": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/macos-egpu.jpg"
+        }
+      },
+      {
+        "title": "AI is making me dumb",
+        "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-14T18:19:28",
+        "score": 432,
+        "summary": "HN 热帖“AI 让我变笨”引发 266 条评论。用户担忧过度依赖 AI 导致批判性思维和技能退化。",
+        "extra": {
+          "image": "https://jpain.io/static/og-image.png"
+        }
+      },
+      {
+        "title": "Codex is now in the ChatGPT mobile app",
+        "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-14T20:06:14",
+        "score": 178,
+        "summary": "OpenAI 将 Codex 集成到 ChatGPT 移动应用。用户可在手机上进行代码生成和调试，扩展了 AI 编程的便捷性。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/4i08f39LTE7HOZ0R3EKaKA/74f6008bbde015cfef96a14209f7673b/16_9.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+        "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-14T22:37:40",
+        "score": 100,
+        "summary": "安大略审计发现医生使用的 AI 笔记工具频繁出错，包括基本事实错误。这引发对医疗 AI 可靠性的担忧。",
+        "extra": {
+          "image": "https://image.theregister.com/5240796.jpg?imageId=5240796&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        }
+      },
+      {
+        "title": "Have a Coherent AI Policy",
+        "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-14T23:24:45",
+        "score": 40,
+        "summary": "HN 讨论呼吁制定一致的 AI 政策。评论者认为当前监管碎片化，需要统一框架以平衡创新与风险。",
+        "extra": {
+          "image": "https://sa.brianmeeker.me/noscript.gif"
+        }
+      },
+      {
+        "title": "OpenData Vector: MIT-Licensed Vector Search on Object Storage",
+        "url": "https://www.opendata.dev/blog/introducing-vector/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-14T18:19:08",
+        "score": 33,
+        "summary": "OpenData Vector 是一个 MIT 许可的向量搜索库，基于对象存储。它提供低成本、可扩展的相似性搜索方案。",
+        "extra": {
+          "image": "https://www.opendata.dev/blog/introducing-vector/og.png"
+        }
+      },
+      {
+        "title": "Safari and Firefox change how big sites render based on the domain",
+        "url": "https://denodell.com/blog/browsers-treat-big-sites-differently",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-14T15:33:16",
+        "score": 27,
+        "summary": "Safari 和 Firefox 根据域名改变大网站渲染方式。这影响页面加载和兼容性，开发者需注意适配。",
+        "extra": {
+          "image": "https://denodell.com/_astro/browsers-treat-big-sites-differently.Db_-AE3U_Z2fX3pi.jpg"
+        }
+      },
+      {
+        "title": "EditLens: Quantifying the extent of AI editing in text (2025)",
+        "url": "https://arxiv.org/abs/2510.03154",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-13T19:22:14",
+        "score": 25,
+        "summary": "EditLens 量化文本中 AI 编辑的程度。该工具用于检测 AI 辅助写作，维护学术和内容原创性。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Best \"Brain\" for Agents Is Just Versioned Folders of Markdown Files",
+        "url": "https://extency.com/blog/markdown-versioned-folders-agent-brain-2026",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-14T20:15:26",
+        "score": 20,
+        "summary": "HN 文章认为代理的最佳“大脑”是版本化的 Markdown 文件夹。这种方法简单有效，优于复杂知识库。",
+        "extra": {
+          "image": "https://extency.com/assets/10x_logo.svg"
+        }
+      },
+      {
+        "title": "I built a live map for tracking military aircraft activity worldwide",
+        "url": "https://skyrane.com/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-15T00:03:21",
+        "score": 6,
+        "summary": "开发者构建了一个全球军用飞机活动实时追踪地图。该工具利用公开数据可视化飞行轨迹，引发对隐私和安全的讨论。",
+        "extra": {
+          "image": "https://skyrane.com/og-image.png"
+        }
+      },
+      {
+        "title": "抢跑618，iPhone 17 Pro系列首次官方降价",
+        "url": "https://36kr.com/newsflashes/3809908500225540?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T01:59:20",
+        "score": 0,
+        "summary": "iPhone 17 Pro 系列首次官方降价，最高优惠 1000 元。活动从 5 月 15 日持续至 6 月 21 日，多款产品参与。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
+        "url": "https://36kr.com/p/3807527591058948?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T01:25:50",
+        "score": 0,
+        "summary": "阿里巴巴 Q1 营收 2433.8 亿元，同比增长 3%。云业务增长 38% 成主要驱动力，外卖大战趋于平稳。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260514/v2_e426bf0101414fe0badfe568b47e21ae@1934172915_oswg854697oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Claude for Small Business",
+        "url": "https://www.anthropic.com/news/claude-for-small-business",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-14T03:59:35",
+        "score": 507,
+        "summary": "Anthropic 推出 Claude for Small Business，针对中小企业需求。评论者探讨其定价和功能是否匹配小型团队预算。",
+        "extra": {
+          "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Store&backgroundColor=clay"
+        }
+      },
+      {
+        "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+        "url": "https://github.com/DrCatHicks/learning-opportunities",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-14T03:13:31",
+        "score": 220,
+        "summary": "一个 Claude Code 和 Codex 技能包旨在促进刻意技能发展。它通过结构化练习帮助开发者提升编程能力。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/aabb3608f3c076b1ebb381eb9763a48a003d05fe85359849d7d02425daa9775d/DrCatHicks/learning-opportunities"
+        }
+      },
+      {
+        "title": "Claude for Legal",
+        "url": "https://github.com/anthropics/claude-for-legal",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-14T21:05:05",
+        "score": 67,
+        "summary": "Anthropic 推出 Claude for Legal，专为法律行业优化。评论者讨论其在合同分析和法律研究中的潜力与局限性。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/3871162509f7eead17d1c88fdd42db6cd92f478bee0886345981881666d84c60/anthropics/claude-for-legal"
+        }
+      },
+      {
+        "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T18:55:01",
+        "score": 0,
+        "summary": "IBM 发布 Granite Embedding Multilingual R2，开源 Apache 2.0 多语言嵌入模型，支持 32K 上下文，在子 1 亿参数模型中检索质量最佳。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ibm-granite/granite-embedding-multilingual-r2.png"
+        }
+      },
+      {
+        "title": "Unlocking asynchronicity in continuous batching",
+        "url": "https://huggingface.co/blog/continuous_async",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T00:00:00",
+        "score": 0,
+        "summary": "Hugging Face 博客探讨连续批处理中的异步性优化。该技术可提升推理吞吐量，降低延迟，对大规模部署至关重要。",
+        "extra": {
+          "image": "https://huggingface.co/blog/assets/continuous_async/thumbnail.png"
+        }
+      },
+      {
+        "title": "Helping ChatGPT better recognize context in sensitive conversations",
+        "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T00:00:00",
+        "score": 0,
+        "summary": "OpenAI 更新 ChatGPT 安全功能，提升敏感对话中的上下文感知能力。新机制可随时间检测风险并更安全地回应。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/1dJ8mhpIbtQbsP5wzMfoRe/a1bd2866bd1b5afb6b3e9d4bda5a42c2/SEO_Safety.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "Our response to the TanStack npm supply chain attack",
+        "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T00:00:00",
+        "score": 0,
+        "summary": "OpenAI 回应 TanStack npm 供应链攻击，详述保护措施。macOS 用户必须更新 OpenAI 应用以修复安全漏洞。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/5sVkleeWkpnumrq0G1UkIW/138a18ce1af4678fc72e12fe691f3ad8/Frame-1.png?w=1600&h=900&fit=fill"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "garrytan/gstack",
+        "url": "https://github.com/garrytan/gstack",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 915,
+        "summary": "Garry Tan 开源其 Claude Code 配置，包含 23 个定制工具。该设置模拟 CEO、设计师等角色，今日获 915 星。",
+        "extra": {
+          "image": "https://github.com/garrytan.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "OthmanAdi/planning-with-files",
+        "url": "https://github.com/OthmanAdi/planning-with-files",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 124,
+        "summary": "OthmanAdi 发布 Claude Code 技能，实现 Manus 风格的持久化 Markdown 规划。该模式源于 20 亿美元收购案，今日获 124 星。",
+        "extra": {
+          "image": "https://github.com/OthmanAdi.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "zubair-trabzada/geo-seo-claude",
+        "url": "https://github.com/zubair-trabzada/geo-seo-claude",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 80,
+        "summary": "zubair-trabzada 推出 GEO 优先的 Claude Code SEO 技能。它提供可引用性评分、AI 爬虫分析等，优化网站 AI 搜索可见性。",
+        "extra": {
+          "image": "https://github.com/zubair-trabzada.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+        "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 62,
+        "summary": "NVIDIA 开源视频搜索与摘要蓝图，用于构建 GPU 加速视觉代理。该套件支持视频分析应用，今日获 62 星。",
+        "extra": {
+          "image": "https://github.com/NVIDIA-AI-Blueprints.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "awslabs/agent-plugins",
+        "url": "https://github.com/awslabs/agent-plugins",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 8,
+        "summary": "AWS 开源 Agent Plugins，为 AI 编码代理提供 AWS 操作技能。它帮助代理架构、部署和管理云资源，今日获 8 星。",
+        "extra": {
+          "image": "https://github.com/awslabs.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
