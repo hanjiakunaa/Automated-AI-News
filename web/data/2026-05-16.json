@@ -1,0 +1,435 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T10:01:01+08:00",
+  "stats": {
+    "new_count": 51,
+    "total_seen": 742
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "OpenIT",
+        "url": "https://www.producthunt.com/products/openit",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T07:00:30",
+        "score": 0,
+        "summary": "OpenIT 是一个开源的 ServiceNow 替代品，运行在 ClaudeCode 上，旨在提供企业级 IT 服务管理功能。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/794849c3-fcaf-4502-86ae-5058bee7bb77.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Kimi WebBridge",
+        "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T05:16:54",
+        "score": 0,
+        "summary": "Kimi WebBridge 是一个连接 AI 代理与实时网络的桥梁，使代理能够访问和交互在线信息。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/b73d85fd-45e2-4650-8395-f85246618717.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Nimbus",
+        "url": "https://www.producthunt.com/products/nimbus-10",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T04:58:07",
+        "score": 0,
+        "summary": "Nimbus 是一个具有 Claude Code 用户体验的代理浏览器，允许用户通过自然语言指令控制浏览器执行任务。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/58bb5ecf-46f2-4ff2-ab0b-0a132196d330.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Agent-Sin",
+        "url": "https://www.producthunt.com/products/agent-sin",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T02:36:56",
+        "score": 0,
+        "summary": "Agent-Sin 是一个 AI 代理，通过可复用的技能处理重复性任务，提高自动化效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/27172344-c4da-4493-8b4e-6884eed4b90d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Autograph.video Beta",
+        "url": "https://www.producthunt.com/products/autograph-video-beta",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T22:33:43",
+        "score": 0,
+        "summary": "Autograph.video Beta 是一个拖放式动态设计工具，用于快速替换创意素材，简化视频制作流程。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/01f02b5a-baff-4550-8337-139c9a19e9ba.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "DramaBox by Resemble AI",
+        "url": "https://www.producthunt.com/products/resemble-clone",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T19:55:25",
+        "score": 0,
+        "summary": "DramaBox by Resemble AI 将场景描述转化为语音表演，为内容创作提供 AI 驱动的配音解决方案。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/73eb468c-1c57-444c-8480-e5979a57bacf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Mantel",
+        "url": "https://www.producthunt.com/products/mantel-color-coded-macos-terminal",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T18:46:16",
+        "score": 0,
+        "summary": "Mantel 帮助用户管理 Claude Code 会话和终端窗口，避免混淆，提升开发效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/c9817da2-c572-4ca0-aed5-a6825ee59028.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Cleo AI",
+        "url": "https://www.producthunt.com/products/cleo-ai",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T18:03:05",
+        "score": 0,
+        "summary": "Cleo AI 是一个面向 AI 原生团队的产品运营工具，自动化产品管理任务。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/860af202-52db-4385-b360-259e033d1a58.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "AgentRail",
+        "url": "https://www.producthunt.com/products/agentrail",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T14:51:39",
+        "score": 0,
+        "summary": "AgentRail 是一个本地控制平面，用于管理 AI 编码代理，提供集中化的监控和配置。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/5e522f0a-4ab2-42aa-ac4a-20fab842dd37.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "PromptScout",
+        "url": "https://www.producthunt.com/products/promptscout",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T13:13:48",
+        "score": 0,
+        "summary": "PromptScout 追踪品牌在 AI 模型中的可见度，帮助企业了解其品牌在 AI 输出中的表现。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/f04b4e45-aacb-4f0a-918a-bc57a70c9550.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Standboy",
+        "url": "https://www.producthunt.com/products/standboy",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T13:02:59",
+        "score": 0,
+        "summary": "Standboy 是一个类似 Game Boy 的设备，在代理工作时唤醒，提供娱乐或状态显示功能。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/0e196410-8961-4bd8-9a7c-ec733539d4b1.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Atter AI",
+        "url": "https://www.producthunt.com/products/atter-ai-ai-transcription-for-meetings",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T10:15:38",
+        "score": 0,
+        "summary": "Atter AI 是一款 AI 转录应用，将会议记录转化为可执行的任务项，提升会议效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/3156d84e-0155-4b14-856a-48891ebb89c5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "I believe there are entire companies right now under AI psychosis",
+        "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-15T20:26:47",
+        "score": 817,
+        "summary": "Hacker News 上354条评论讨论“整个公司处于AI精神病状态”的观点，评分817。",
+        "extra": {
+          "image": "https://abs.twimg.com/emoji/v2/svg/26a0.svg"
+        }
+      },
+      {
+        "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+        "url": "https://github.com/oven-sh/bun/issues/30719",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-15T16:51:25",
+        "score": 367,
+        "summary": "Bun的Rust重写因代码库未通过基本miri检查，允许在安全Rust中出现未定义行为，引发252条评论。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/427fba4dc723eabcde82665aa205921beeaffd509535e7282d79d15d57f53d59/oven-sh/bun/issues/30719"
+        }
+      },
+      {
+        "title": "A 0-click exploit chain for the Pixel 10",
+        "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-15T13:39:54",
+        "score": 340,
+        "summary": "Hacker News 讨论Pixel 10的0点击漏洞利用链，有157条评论。",
+        "extra": {
+          "image": "https://projectzero.google/images/preview_image.png"
+        }
+      },
+      {
+        "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+        "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-15T13:28:55",
+        "score": 317,
+        "summary": "亚马逊员工被迫增加AI使用量，甚至编造任务，引发346条评论。",
+        "extra": {}
+      },
+      {
+        "title": "Show HN: Watch a neural net learn to play Snake",
+        "url": "https://ppo.gradexp.xyz/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-14T15:35:14",
+        "score": 122,
+        "summary": "Show HN: 观看神经网络学习玩贪吃蛇，有31条评论。",
+        "extra": {
+          "image": "https://ppo.gradexp.xyz/og-image.png?v=7105f23"
+        }
+      },
+      {
+        "title": "The main thing about P2P meth is that there's so much of it (2022)",
+        "url": "https://dynomight.net/p2p-meth/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-15T23:37:32",
+        "score": 47,
+        "summary": "Hacker News 讨论P2P甲基苯丙胺的主要问题是供应过剩，有23条评论。",
+        "extra": {
+          "image": "https://dynomight.net/img/p2p-meth/meth4.jpg"
+        }
+      },
+      {
+        "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
+        "url": "https://github.com/sleuth-io/sx",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-15T17:03:22",
+        "score": 35,
+        "summary": "Show HN: Sx 是一个开源包管理器，用于AI技能、MCP和命令，有22条评论。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/a0fc2493e413b23f5c4523f105439ed5a08463a075a6c7b3acda266a0d3a74c2/sleuth-io/sx"
+        }
+      },
+      {
+        "title": "The 52-Page Memo That Nearly Destroyed OpenAI: Ilya Sutskever's Deposition",
+        "url": "https://medium.com/@prateekj24/the-52-page-memo-that-nearly-destroyed-openai-inside-ilya-sutskevers-deposition-acef91208a1c",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-15T19:55:32",
+        "score": 25,
+        "summary": "Hacker News 讨论Ilya Sutskever的证词，涉及一份几乎摧毁OpenAI的52页备忘录，有3条评论。",
+        "extra": {
+          "image": "https://miro.medium.com/v2/resize:fit:1200/0*CDKSx3TFQUUlm7Vn.jpg"
+        }
+      },
+      {
+        "title": "Is China using fentanyl as a weapon against the United States?",
+        "url": "https://en.unav.edu/web/global-affairs/esta-china-usando-el-fentanilo-como-arma-contra-estados-unidos",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-16T00:44:33",
+        "score": 10,
+        "summary": "Hacker News 讨论中国是否将芬太尼用作对抗美国的武器，有10条评论。",
+        "extra": {
+          "image": "https://www.unav.edu/o/investigacion-theme/images/unav-black-logo.svg"
+        }
+      },
+      {
+        "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
+        "url": "https://github.com/chiennv2000/orthrus",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-15T22:38:58",
+        "score": 6,
+        "summary": "Orthrus-Qwen3 在 Qwen3 上实现高达 7.8 倍的 tokens/forward 加速，且输出分布相同，有1条评论。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/4fe84745a5223d1a2b9df6cbf8eca53c8ceb910cb776e9e869ddd7e9a8c38685/chiennv2000/orthrus"
+        }
+      },
+      {
+        "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
+        "url": "https://36kr.com/p/3811265856626440?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-16T01:03:11",
+        "score": 0,
+        "summary": "36氪报道：央视以6000万美元获得2026年世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260516/v2_37725b6cea9448d087cd0e02d2b12d6f@1200352198_oswg82800oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center"
+        }
+      },
+      {
+        "title": "2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代",
+        "url": "https://36kr.com/p/3810607581634056?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T13:50:58",
+        "score": 0,
+        "summary": "韶音在2026 Shokz Day发布OpenDots 2、OpenSwim Pro 2和OpenDots Air三款新品，提出「随我动听」品牌主张。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260515/v2_a78610fede9d498c8a9e9a567fe37783@517825446_oswg1262134oswg4925oswg3283_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
+        "url": "https://www.qbitai.com/2026/05/418140.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T08:18:22",
+        "score": 0,
+        "summary": "容联云发布以AI Agent为核心的“数字员工”级平台，重塑大模型联络中心。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
+        "url": "https://www.qbitai.com/2026/05/418027.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T07:36:09",
+        "score": 0,
+        "summary": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程，支持Windows、macOS和Linux。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "A new personal finance experience in ChatGPT",
+        "url": "https://openai.com/index/personal-finance-chatgpt",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T00:00:00",
+        "score": 0,
+        "summary": "OpenAI 为美国 Pro 用户推出 ChatGPT 个人理财体验，可连接金融账户获取 AI 驱动的洞察和建议。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/LOx9hwb9FayMVDsvnMHBI/a50d14deb15ce97f1ae869a7e4afc964/SEO-Personal-Finance.jpg?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+        "url": "https://openai.com/index/databricks",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T00:00:00",
+        "score": 0,
+        "summary": "Databricks 将 GPT-5.5 用于企业代理工作流，该模型在 OfficeQA Pro 基准上达到新 SOTA。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/4QntwWTKj3ZZzB1IY3llsp/3b10f6ca5dc53144f8a6a7da26c27cd1/oai_Databricks_SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "Sea's View on the Future of Agentic Software Development with Codex",
+        "url": "https://openai.com/index/sea-david-chen",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-14T20:30:00",
+        "score": 0,
+        "summary": "Sea Limited 的 CPO 解释为何在工程团队中部署 Codex，以加速亚洲的 AI 原生软件开发。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/3GtC4ObJd8RLwLe2OIIsyb/06f9c687583df8c348fa7c9ceac493ab/EF_Ep20_16.9.png?w=1600&h=900&fit=fill"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "joeseesun/qiaomu-anything-to-notebooklm",
+        "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 438,
+        "summary": "joeseesun/qiaomu-anything-to-notebooklm 是一个 Claude Skill，支持将微信文章、网页、YouTube、PDF、Markdown 等转换为播客/PPT/思维导图/测验，今日获 438 星。",
+        "extra": {
+          "image": "https://github.com/joeseesun.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "github/awesome-copilot",
+        "url": "https://github.com/github/awesome-copilot",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 105,
+        "summary": "github/awesome-copilot 是一个社区贡献的指令、代理、技能和配置集合，帮助充分利用 GitHub Copilot，今日获 105 星。",
+        "extra": {
+          "image": "https://github.com/github.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "czlonkowski/n8n-mcp",
+        "url": "https://github.com/czlonkowski/n8n-mcp",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 68,
+        "summary": "czlonkowski/n8n-mcp 是一个 MCP 工具，用于在 Claude Desktop / Claude Code / Windsurf / Cursor 中构建 n8n 工作流，今日获 68 星。",
+        "extra": {
+          "image": "https://github.com/czlonkowski.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "PostHog/posthog",
+        "url": "https://github.com/PostHog/posthog",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 24,
+        "summary": "PostHog/posthog 是一个全栈开发者平台，提供产品分析、会话重放、错误跟踪等功能，今日获 5 星。",
+        "extra": {
+          "image": "https://github.com/PostHog.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "NVIDIA-NeMo/NeMo",
+        "url": "https://github.com/NVIDIA-NeMo/NeMo",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 5,
+        "summary": "NVIDIA-NeMo/NeMo 是一个可扩展的生成式 AI 框架，支持大语言模型、多模态和语音 AI，今日获 5 星。",
+        "extra": {
+          "image": "https://github.com/NVIDIA-NeMo.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
