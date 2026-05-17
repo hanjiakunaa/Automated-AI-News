@@ -1,0 +1,312 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T10:01:00+08:00",
+  "stats": {
+    "new_count": 31,
+    "total_seen": 773
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [],
+    "news": [
+      {
+        "title": "Moving away from Tailwind, and learning to structure my CSS",
+        "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-16T09:14:26",
+        "score": 437,
+        "summary": "作者分享从 Tailwind 迁移到结构化 CSS 的经验。Hacker News 上 282 条评论，437 分，开发者激烈讨论 CSS 方法论。",
+        "extra": {}
+      },
+      {
+        "title": "Frontier AI has broken the open CTF format",
+        "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-16T07:01:55",
+        "score": 339,
+        "summary": "前沿 AI 已经打破了传统的 CTF（夺旗赛）形式。Hacker News 上 331 条评论，339 分，讨论 AI 对安全竞赛的影响。",
+        "extra": {}
+      },
+      {
+        "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+        "url": "https://www.seangoedecke.com/steering-vectors/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-16T14:58:16",
+        "score": 213,
+        "summary": "DeepSeek-V4-Flash 的发布使 LLM 控制（steering）重新变得有趣。Hacker News 上 70 条评论，213 分，讨论其技术突破和潜在应用。",
+        "extra": {
+          "image": "https://www.seangoedecke.com/og-image.jpg"
+        }
+      },
+      {
+        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+        "url": "https://crates.io/crates/zerostack/1.0.0",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-16T22:23:50",
+        "score": 164,
+        "summary": "Zerostack 是一个受 Unix 启发的编码代理，完全用 Rust 编写。Hacker News 上获得 164 分，46 条评论，讨论其设计理念和性能优势。",
+        "extra": {}
+      },
+      {
+        "title": "Gaining control of every projector and camera on campus",
+        "url": "https://www.edna.land/blogs/posts/scanning/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-14T02:37:22",
+        "score": 103,
+        "summary": "作者展示了如何获得校园内所有投影仪和摄像头的控制权。Hacker News 上 32 条评论，103 分，讨论安全漏洞和道德问题。",
+        "extra": {
+          "image": "https://www.edna.land/blogs/posts/scanning/1.png"
+        }
+      },
+      {
+        "title": "My Favorite Bugs: Invalid Surrogate Pairs",
+        "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-16T12:49:07",
+        "score": 88,
+        "summary": "文章讨论了无效替代对（Invalid Surrogate Pairs）这一常见但有趣的 bug。Hacker News 上 43 条评论，88 分，开发者分享相关经验。",
+        "extra": {
+          "image": "https://georgemandis.s3-us-west-1.amazonaws.com/preview.png"
+        }
+      },
+      {
+        "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+        "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-16T20:14:06",
+        "score": 64,
+        "summary": "OpenAI 与马耳他政府合作，向所有公民推出 ChatGPT Plus。Hacker News 上 69 条评论，64 分，讨论政府推广 AI 的隐私和成本问题。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/25iIHzkpMZU6D9guaSf5JD/fdbc74ef48943e248e832d406c68695c/SEO_Card__2_.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "知乎CEO周源：AI时代真实创作者价值不可替代",
+        "url": "https://36kr.com/newsflashes/3812678434250498?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-17T01:36:44",
+        "score": 0,
+        "summary": "知乎 CEO 周源在第十二届新知青年大会上表示，AI 时代真实创作者的价值不可替代，新知来自真实的人。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "印度股市市值蒸发9240亿美元，错失人工智能浪潮",
+        "url": "https://36kr.com/newsflashes/3812663316274949?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-17T01:28:35",
+        "score": 0,
+        "summary": "印度股市市值蒸发 9240 亿美元，因错失人工智能浪潮，资金从印度流向芯片制造、算力基建和 AI 模型领域。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+        "url": "https://www.qbitai.com/2026/05/418620.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-16T13:44:16",
+        "score": 0,
+        "summary": "5 月 19 日至 20 日，北京亦庄将举办 AI 落地实战大会，邀请各方参与。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "阿里健康正式发布医学AI助手“氢离子”",
+        "url": "https://36kr.com/newsflashes/3811712103423746?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-16T08:34:03",
+        "score": 0,
+        "summary": "阿里健康发布医学 AI 助手“氢离子”，与 BMJ 集团独家合作，接入其 70 本期刊十年内容，采用四层架构，300+ 中国临床专家参与。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+        "url": "https://36kr.com/newsflashes/3811663965560329?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-16T08:01:59",
+        "score": 0,
+        "summary": "网易新闻和网易小蜜蜂接入 DeepSeek-V4 大模型，升级新闻分发、内容创作、社区服务等场景，并推出“校园龙虾养成计划”。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "δ-mem: Efficient Online Memory for Large Language Models",
+        "url": "https://arxiv.org/abs/2605.12357",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-16T09:30:06",
+        "score": 194,
+        "summary": "δ-mem 是一种用于大型语言模型的高效在线记忆方法。Hacker News 上 53 条评论，194 分，讨论其技术细节和性能提升。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行",
+        "url": "https://www.qbitai.com/2026/05/418518.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-16T06:35:05",
+        "score": 0,
+        "summary": "GitHub 上 20k 星的项目将全网变成命令行，避免模型浪费 token。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "How business operations teams use Codex",
+        "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T00:00:00",
+        "score": 0,
+        "summary": "OpenAI 展示了业务运营团队如何使用 Codex 创建倡议简报、战略更新、领导决策包等，从实际工作输入生成文档。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/3pOt7hjYa1nUIIMMXdoEhD/b6493d0ba6756155a3ef880758e0a0b0/Academy-SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "How data science teams use Codex",
+        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T00:00:00",
+        "score": 0,
+        "summary": "OpenAI 展示了数据科学团队如何使用 Codex 构建根本原因简报、影响报告、KPI 备忘录等，从实际工作输入生成分析文档。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/3pOt7hjYa1nUIIMMXdoEhD/b6493d0ba6756155a3ef880758e0a0b0/Academy-SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "How sales teams use Codex",
+        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T00:00:00",
+        "score": 0,
+        "summary": "OpenAI 展示了销售团队如何使用 Codex 创建管道简报、会议准备包、预测审查等，从实际工作输入生成销售文档。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/3pOt7hjYa1nUIIMMXdoEhD/b6493d0ba6756155a3ef880758e0a0b0/Academy-SEO.png?w=1600&h=900&fit=fill"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "colbymchenry/codegraph",
+        "url": "https://github.com/colbymchenry/codegraph",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 416,
+        "summary": "Codegraph 是一个预索引的代码知识图谱工具，专为 Claude Code 设计，可减少 token 消耗和工具调用，完全本地运行。今日 GitHub 星标增长 +416。",
+        "extra": {
+          "image": "https://github.com/colbymchenry.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "HKUDS/CLI-Anything",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 333,
+        "summary": "CLI-Anything 旨在让所有软件都成为 Agent 原生，提供 CLI-Hub 平台，今日 GitHub 星标增长 +333。",
+        "extra": {
+          "image": "https://github.com/HKUDS.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "Anil-matcha/Open-Generative-AI",
+        "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 317,
+        "summary": "Open-Generative-AI 是一个开源的 AI 图像与视频生成平台，提供 200+ 模型（Flux、Midjourney、Kling、Sora、Veo），无内容过滤，可自托管，采用 MIT 协议。今日 GitHub 星标增长 +317。",
+        "extra": {
+          "image": "https://github.com/Anil-matcha.png?size=120",
+          "language": "JavaScript"
+        }
+      },
+      {
+        "title": "dograh-hq/dograh",
+        "url": "https://github.com/dograh-hq/dograh",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 287,
+        "summary": "Dograh 是一个开源语音代理平台，用 Python 编写，今日 GitHub 星标增长 +287。",
+        "extra": {
+          "image": "https://github.com/dograh-hq.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "luongnv89/claude-howto",
+        "url": "https://github.com/luongnv89/claude-howto",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 165,
+        "summary": "Claude-howto 是一个视觉化的 Claude Code 指南，从基础到高级代理，提供可复制模板，今日 GitHub 星标增长 +165。",
+        "extra": {
+          "image": "https://github.com/luongnv89.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "PurpleAILAB/Decepticon",
+        "url": "https://github.com/PurpleAILAB/Decepticon",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 39,
+        "summary": "Decepticon 是一个用于红队的自主黑客代理，用 Python 编写，今日 GitHub 星标增长 +39。",
+        "extra": {
+          "image": "https://github.com/PurpleAILAB.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "confident-ai/deepeval",
+        "url": "https://github.com/confident-ai/deepeval",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 22,
+        "summary": "Deepeval 是一个 LLM 评估框架，用 Python 编写，今日 GitHub 星标增长 +22。",
+        "extra": {
+          "image": "https://github.com/confident-ai.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
