@@ -1,0 +1,358 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T10:00:49+08:00",
+  "stats": {
+    "new_count": 36,
+    "total_seen": 809
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "Vivago Video Agent",
+        "url": "https://www.producthunt.com/products/viva",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-13T13:02:37",
+        "score": 0,
+        "summary": "Vivago Video Agent 是一款无需提示即可生成连贯视频的 AI 工具，旨在简化视频制作流程。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/4dcfd370-3aa9-4b64-ac9f-9eb88ea18639.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "I don't think AI will make your processes go faster",
+        "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-17T12:13:45",
+        "score": 497,
+        "summary": "Hacker News 上热门讨论“AI 不会加速流程”，获得 497 分和 351 条评论。",
+        "extra": {
+          "image": "https://frederickvanbrabant.com/images/posts/2026-05-15%20I%20don%27t%20think%20AI%20will%20make%20your%20processes%20go%20faster/header.jpg"
+        }
+      },
+      {
+        "title": "AI is a technology not a product",
+        "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-17T13:11:20",
+        "score": 331,
+        "summary": "Hacker News 上热议“AI 是技术而非产品”，获得 331 分和 135 条评论。",
+        "extra": {
+          "image": "https://daringfireball.net/graphics/df-wide-card.png"
+        }
+      },
+      {
+        "title": "Prolog Basics Explained with Pokémon",
+        "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-15T11:02:14",
+        "score": 209,
+        "summary": "用宝可梦解释 Prolog 基础，Hacker News 上获得 209 分和 33 条评论。",
+        "extra": {
+          "image": "./images/pikachu.png"
+        }
+      },
+      {
+        "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+        "url": "https://github.com/MinishLab/semble",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-17T15:37:07",
+        "score": 173,
+        "summary": "Semble 是一款代码搜索工具，比 grep 少用 98% 的 token，专为 AI agent 设计，Hacker News 上获得 173 分和 41 条评论。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/3e2dc49d6ea4116cfa45d7ab008ee688f182e8a2d433c4de1bfc017eb431c7f4/MinishLab/semble"
+        }
+      },
+      {
+        "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+        "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-17T21:45:30",
+        "score": 94,
+        "summary": "两架 EA-18 战斗机在 Mountain Home 航展相撞，飞行员安全弹射，Hacker News 上获得 94 分和 75 条评论。",
+        "extra": {
+          "image": "https://idahonews.com/resources/media2/16x9/922/1320/100x1/90/c2f82f89-feb1-4f16-a22d-5b2789a14048-Crash1.jpg"
+        }
+      },
+      {
+        "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
+        "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-17T12:03:04",
+        "score": 81,
+        "summary": "针对退伍军人的试验表明伊博格碱可能成为 PTSD 新疗法，Hacker News 上获得 81 分和 89 条评论。",
+        "extra": {
+          "image": "https://ychef.files.bbci.co.uk/624x351/p0nl9sxf.jpg"
+        }
+      },
+      {
+        "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+        "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-17T21:56:40",
+        "score": 56,
+        "summary": "Hacker News 上关于 ThinkPad 从 IBM 到联想 AI 工作站的演变历史讨论，获得 56 分和 27 条评论。",
+        "extra": {
+          "image": "https://www.jdhodges.com/wp-content/uploads/2026/05/thinkpad-trackpoint-macro-x220-jd-2011-1200x795.webp"
+        }
+      },
+      {
+        "title": "University of Arizona students boo Eric Schmidt's AI cheerleading",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-17T18:37:59",
+        "score": 52,
+        "summary": "亚利桑那大学学生嘘 Eric Schmidt 的 AI 宣传，Hacker News 上获得 52 分，暂无评论。",
+        "extra": {
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23350482/1328571726.jpg?quality=90&strip=all&crop=0%2C10.675926728958%2C100%2C78.648146542083&w=1200"
+        }
+      },
+      {
+        "title": "Agentic Trading with Safe Guardrails",
+        "url": "https://github.com/ShurikenTrade/shuriken-skills",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-17T12:44:24",
+        "score": 44,
+        "summary": "Hacker News 上讨论带安全护栏的 Agentic 交易，获得 44 分和 23 条评论。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/de59ad2714442c888512d186a393be2681df3494050b7a819725656c7f8f23bb/ShurikenTrade/shuriken-skills"
+        }
+      },
+      {
+        "title": "AI Wearables Are Coming but They'll Need to Pass the Coffee Shop Test to Survive",
+        "url": "https://www.inc.com/connor-jewiss/ai-wearables-are-coming-but-theyll-need-to-pass-this-crucial-coffee-shop-test-to-survive/91345526",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-17T21:49:44",
+        "score": 17,
+        "summary": "Hacker News 上讨论 AI 可穿戴设备需通过“咖啡店测试”才能生存，获得 17 分和 9 条评论。",
+        "extra": {}
+      },
+      {
+        "title": "Japan Team Successfully Test Engine for Mach 5 Aircraft, Eyeing 2HR Trip to US",
+        "url": "https://mainichi.jp/english/articles/20260511/p2a/00m/0sc/015000c",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-17T21:28:19",
+        "score": 15,
+        "summary": "日本团队成功测试 Mach 5 飞机发动机，目标实现 2 小时飞抵美国，Hacker News 上获得 15 分和 7 条评论。",
+        "extra": {
+          "image": "https://cdn.mainichi.jp/vol1/2026/05/11/20260511p2a00m0sc014000p/0c10.jpg?1"
+        }
+      },
+      {
+        "title": "The Four Horsemen of the LLM Apocalypse",
+        "url": "https://anarc.at/blog/2026-05-16-four-horsemen/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-17T19:58:27",
+        "score": 8,
+        "summary": "Hacker News 上关于 LLM 末日的四骑士讨论，获得 8 分，暂无评论。",
+        "extra": {
+          "image": "https://anarc.at/apple-touch-icon.png"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+        "url": "https://www.qbitai.com/2026/05/418814.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-17T03:42:11",
+        "score": 0,
+        "summary": "研究指出多模态大模型 SFT 后直接 RL 可能带伤训练，应先修复 SFT 问题。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+        "url": "https://www.qbitai.com/2026/05/418737.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-17T03:37:07",
+        "score": 0,
+        "summary": "开源项目 academic-research-skills 用 Claude Code 写论文，已获 6.4k 星，提供透明费用参考。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "microsoft/ai-agents-for-beginners",
+        "url": "https://github.com/microsoft/ai-agents-for-beginners",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 485,
+        "summary": "Microsoft 的 AI Agents for Beginners 提供 12 课教程，帮助入门构建 AI agent，今日 GitHub 星增 485。",
+        "extra": {
+          "image": "https://github.com/microsoft.png?size=120",
+          "language": "Jupyter Notebook"
+        }
+      },
+      {
+        "title": "NVlabs/Sana",
+        "url": "https://github.com/NVlabs/Sana",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 472,
+        "summary": "SANA 是高效高分辨率图像合成模型，基于线性扩散 Transformer，今日 GitHub 星增 472。",
+        "extra": {
+          "image": "https://github.com/NVlabs.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "knadh/listmonk",
+        "url": "https://github.com/knadh/listmonk",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 242,
+        "summary": "listmonk 是高性能自托管新闻通讯管理器，单二进制应用，今日 GitHub 星增 242。",
+        "extra": {
+          "image": "https://github.com/knadh.png?size=120",
+          "language": "Go"
+        }
+      },
+      {
+        "title": "tech-leads-club/agent-skills",
+        "url": "https://github.com/tech-leads-club/agent-skills",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 225,
+        "summary": "agent-skills 是专业 AI 编码 agent 的安全技能注册表，可扩展 Antigravity、Claude Code 等，今日 GitHub 星增 225。",
+        "extra": {
+          "image": "https://github.com/tech-leads-club.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "Andyyyy64/whichllm",
+        "url": "https://github.com/Andyyyy64/whichllm",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 209,
+        "summary": "whichllm 工具可根据硬件性能推荐最佳本地 LLM，基于实时基准而非参数，今日 GitHub 星增 209。",
+        "extra": {
+          "image": "https://github.com/Andyyyy64.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "KeygraphHQ/shannon",
+        "url": "https://github.com/KeygraphHQ/shannon",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 200,
+        "summary": "Shannon Lite 是自主白盒 AI 渗透测试工具，分析源码并执行真实漏洞利用，今日 GitHub 星增 200。",
+        "extra": {
+          "image": "https://github.com/KeygraphHQ.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "NirDiamant/agents-towards-production",
+        "url": "https://github.com/NirDiamant/agents-towards-production",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 172,
+        "summary": "agents-towards-production 提供从原型到企业部署的端到端 GenAI agent 教程，今日 GitHub 星增 172。",
+        "extra": {
+          "image": "https://github.com/NirDiamant.png?size=120",
+          "language": "Jupyter Notebook"
+        }
+      },
+      {
+        "title": "langflow-ai/langflow",
+        "url": "https://github.com/langflow-ai/langflow",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 155,
+        "summary": "Langflow 是构建和部署 AI agent 及工作流的强大工具，今日 GitHub 星增 155。",
+        "extra": {
+          "image": "https://github.com/langflow-ai.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "yichuan-w/LEANN",
+        "url": "https://github.com/yichuan-w/LEANN",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 146,
+        "summary": "LEANN 实现 RAG 存储节省 97%，在个人设备上运行快速、准确且私密的 RAG 应用，今日 GitHub 星增 146。",
+        "extra": {
+          "image": "https://github.com/yichuan-w.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "Light-Heart-Labs/DreamServer",
+        "url": "https://github.com/Light-Heart-Labs/DreamServer",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 112,
+        "summary": "DreamServer 是一个本地 AI 平台，支持 LLM 推理、聊天、语音、agent、工作流、RAG 和图像生成，无需云服务，今日 GitHub 星增 112。",
+        "extra": {
+          "image": "https://github.com/Light-Heart-Labs.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "GuDong2003/xianyu-auto-reply-fix",
+        "url": "https://github.com/GuDong2003/xianyu-auto-reply-fix",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 93,
+        "summary": "闲鱼智能客服系统支持多账号、AI 自动回复、自动发货，提供 Web 管理后台，今日 GitHub 星增 93。",
+        "extra": {
+          "image": "https://github.com/GuDong2003.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "simular-ai/Agent-S",
+        "url": "https://github.com/simular-ai/Agent-S",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 29,
+        "summary": "Agent-S 是一个开源 agent 框架，让 AI 像人类一样使用电脑，今日 GitHub 星增 29。",
+        "extra": {
+          "image": "https://github.com/simular-ai.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
