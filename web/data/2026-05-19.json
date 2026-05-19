@@ -1,0 +1,460 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T10:01:35+08:00",
+  "stats": {
+    "new_count": 58,
+    "total_seen": 867
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "AnyFrame",
+        "url": "https://www.producthunt.com/products/anyframe-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-18T06:49:44",
+        "score": 0,
+        "summary": "AnyFrame 在 Product Hunt 上线，为 AI 智能体提供沙盒环境。开发者可在隔离环境中测试智能体行为，模拟真实交互场景。支持快速迭代和错误调试，降低部署风险。适合需要安全测试 AI 应用的团队。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/c99c91eb-bae5-4bc1-8a06-ba2edf96d104.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Voiser AI",
+        "url": "https://www.producthunt.com/products/voiser-ai-text-to-speech",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-18T06:28:32",
+        "score": 0,
+        "summary": "Voiser AI 推出类人 AI 配音服务，支持 140+ 种语言。该工具利用神经语音合成技术生成自然语音，适用于视频、播客等场景。相比传统 TTS，Voiser AI 在情感表达和口音多样性上更优，可定制音色和语速。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/d22a4003-3819-4e82-bc15-db3b44c4eaff.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "M1 by Montage",
+        "url": "https://www.producthunt.com/products/montage-3",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-18T04:05:57",
+        "score": 0,
+        "summary": "Montage 发布 M1，一个按需扩展的智能体 UI 平台。该平台提供动态 UI 组件，可根据智能体任务自动调整界面布局。支持实时数据绑定和事件驱动，减少前端开发工作量。适合构建复杂 AI 交互应用。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/e113612a-feee-4a9e-aded-171678b1d2bb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Polarity",
+        "url": "https://www.producthunt.com/products/polarity-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-18T03:56:06",
+        "score": 0,
+        "summary": "Polarity 推出智能体自我改进栈，帮助 AI 智能体持续优化性能。该框架包含反馈收集、策略调整和自动重训练模块。智能体可通过自我反思提升任务完成率，减少人工干预。适合需要长期运行的自动化系统。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/be550755-60e1-470b-b1e5-b25333aaa302.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "SizzleAir",
+        "url": "https://www.producthunt.com/products/sizzleair",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-17T13:10:10",
+        "score": 0,
+        "summary": "SizzleAir 发布无风扇 MacBook Air 热管理助手，通过智能温控算法降低设备温度。该工具利用 AI 预测负载并调整风扇策略（尽管无风扇，但通过降频优化），延长电池寿命。适合长时间高负载使用的用户。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/7088faab-66e6-4e6f-9487-70028b25d75b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Searchad.ai",
+        "url": "https://www.producthunt.com/products/searchad-ai",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-17T06:59:00",
+        "score": 0,
+        "summary": "Searchad.ai 推出通过聊天运行 Apple Search Ads 的 AI 工具。用户可用自然语言创建和管理广告活动，AI 自动优化关键词和出价。支持实时效果分析，降低广告运营门槛。适合缺乏 SEM 经验的开发者。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/6f0acd9b-abaa-43e2-83bc-65b69fae1143.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "pixserp",
+        "url": "https://www.producthunt.com/products/pixserp",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-16T12:11:38",
+        "score": 0,
+        "summary": "pixserp 提供单一端点获取十种格式的实时网页数据，用于 LLM 上下文。该服务将网页内容结构化输出，支持 JSON、Markdown 等格式。相比传统爬虫，pixserp 专为 LLM 优化，减少 token 消耗。适合构建知识库或检索增强生成系统。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/3a43e923-0bfd-4957-8d7a-3e47ff8e5a85.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "LobeHub",
+        "url": "https://www.producthunt.com/products/lobehub",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T09:48:13",
+        "score": 0,
+        "summary": "LobeHub 发布首席智能体操作员，用于管理多智能体协作。该平台提供任务分配、通信协调和监控面板，支持自定义工作流。智能体可并行处理复杂任务，提升效率。适合需要多智能体协同的自动化场景。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/fc21c5c6-a867-4f5e-a10e-d94bbb5621d1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Agentspan",
+        "url": "https://www.producthunt.com/products/agentspan",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-15T02:09:00",
+        "score": 0,
+        "summary": "Agentspan 开源持久化 AI 智能体运行时，支持状态保持和故障恢复。该运行时基于事件驱动架构，智能体可在长时间运行中保持上下文。适合需要可靠性的生产级智能体应用，如客服系统。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/46f63809-2634-4daa-a22f-c8a254954bc5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+        "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-18T17:38:22",
+        "score": 782,
+        "summary": "马斯克起诉 Sam Altman 和 OpenAI 的诉讼被驳回，获得 782 分高热度。法院裁定马斯克缺乏证据，OpenAI 转型营利未违反协议。评论聚焦于 OpenAI 的治理和马斯克的动机。",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800"
+        }
+      },
+      {
+        "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+        "url": "https://archestra.ai/blog/only-responsible-ai",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-18T15:24:19",
+        "score": 412,
+        "summary": "GitHub 仓库利用 Git 的 --author 标志阻止 AI 机器人垃圾提交，获得 412 分。该方法通过验证提交者身份过滤自动化脚本。评论讨论其他反垃圾策略。",
+        "extra": {
+          "image": "https://archestra.ai/blog/2026-04-07-only-responsible-ai.webp"
+        }
+      },
+      {
+        "title": "Anthropic acquires Stainless",
+        "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-18T17:01:21",
+        "score": 360,
+        "summary": "Anthropic 收购 API 工具公司 Stainless，获得 360 分。Stainless 提供 API 设计和文档工具，将增强 Anthropic 的开发者体验。评论看好整合后的产品能力。",
+        "extra": {
+          "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&backgroundColor=coral"
+        }
+      },
+      {
+        "title": "Haiku OS runs on M1 Macs now",
+        "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-18T18:30:55",
+        "score": 283,
+        "summary": "Haiku OS 现已支持在 M1 Mac 上运行，获得 283 分高热度。该开源操作系统针对 BeOS 兼容，移植到 ARM 架构。评论讨论其性能和对旧软件的兼容性。",
+        "extra": {
+          "image": "https://discuss.haiku-os.org/uploads/default/optimized/2X/5/5345a61737d0cd39d8490fc19d2efc4be47d4c95_2_1024x822.jpeg"
+        }
+      },
+      {
+        "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-18T17:25:54",
+        "score": 262,
+        "summary": "伊朗启动比特币支持的霍尔木兹海峡船舶保险，获得 262 分。此举旨在规避制裁，利用加密货币提供保险服务。评论讨论其可行性和对全球航运的影响。",
+        "extra": {}
+      },
+      {
+        "title": "'We mould trees to grow into the shape of chairs'",
+        "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-18T13:01:18",
+        "score": 210,
+        "summary": "Hacker News 讨论“将树木塑造成椅子形状”的工艺，获得 210 分。这种自然生长家具无需砍伐，环保且独特。评论关注其商业化和可持续性。",
+        "extra": {
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69ee/live/22052400-52b0-11f1-8b8c-6d33e1d5abb6.jpg"
+        }
+      },
+      {
+        "title": "Linux security mailing list 'almost unmanageable'",
+        "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-18T12:20:50",
+        "score": 197,
+        "summary": "Linux 安全邮件列表几乎无法管理，获得 197 分。大量邮件导致维护困难，影响安全漏洞响应。评论讨论改进方案，如自动化分类。",
+        "extra": {
+          "image": "https://image.theregister.com/234872.jpg?imageId=234872&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        }
+      },
+      {
+        "title": "We let AIs run radio stations",
+        "url": "https://andonlabs.com/blog/andon-fm",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-18T18:12:18",
+        "score": 167,
+        "summary": "Hacker News 讨论让 AI 运营广播电台的实验。AI 负责选曲、主持和互动，引发对创意产业自动化的讨论。评论分歧在于 AI 能否替代人类 DJ 的创造力。",
+        "extra": {
+          "image": "https://andonlabs.com/andon-fm-blog-og.webp"
+        }
+      },
+      {
+        "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+        "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-18T12:49:54",
+        "score": 149,
+        "summary": "Domo CDO 呼吁不要被 AI FOMO 驱使，建议慢下来，获得 149 分。他认为企业应理性评估 AI 价值，避免盲目跟风。评论支持其观点，认为需谨慎部署。",
+        "extra": {
+          "image": "https://image.theregister.com/2940761.jpg?imageId=2940761&x=0&y=7.2&cropw=100&croph=85.61&panox=0&panoy=7.2&panow=100&panoh=85.61&width=1200&height=683"
+        }
+      },
+      {
+        "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+        "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-18T11:51:05",
+        "score": 109,
+        "summary": "语音 AI 系统易受隐藏音频攻击，获得 109 分。攻击者可在人耳听不到的频率中嵌入指令，操控语音助手。评论关注防御措施和行业标准。",
+        "extra": {
+          "image": "https://spectrum.ieee.org/media-library/image.jpg?id=66745304&width=1200&height=600&coordinates=0%2C114%2C0%2C136"
+        }
+      },
+      {
+        "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+        "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-18T23:18:10",
+        "score": 99,
+        "summary": "Anthropic 联合创始人将与教皇 Leo XIV 共同发布 AI 通谕，讨论 AI 伦理。此举将宗教与 AI 治理结合，引发对 AI 道德框架的讨论。评论褒贬不一，有人担忧宗教干预科技。",
+        "extra": {
+          "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/05/06/2026-05-06-udienza-generale/1778056864955.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg"
+        }
+      },
+      {
+        "title": "Haiku OS runs on M1 Macs now",
+        "url": "https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-18T18:17:21",
+        "score": 57,
+        "summary": "Haiku OS 在 M1 Mac 上运行的另一讨论，热度 57 分。用户分享安装体验和问题，关注点在于驱动支持和日常可用性。",
+        "extra": {
+          "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzYiIGhlaWdodD0iNjgiIHZpZXdCb3g9IjAgMCAxNzYgNjgiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Qwen 3.7 Preview",
+        "url": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-18T16:24:11",
+        "score": 215,
+        "summary": "Qwen 3.7 预览版发布，获得 215 分。新版本在推理、代码生成和多语言上提升，支持更长的上下文。评论期待正式版性能。",
+        "extra": {
+          "image": "https://abs.twimg.com/emoji/v2/svg/26a0.svg"
+        }
+      },
+      {
+        "title": "Agora-1: The Multi-Agent World Model",
+        "url": "https://odyssey.ml/introducing-agora-1",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-18T18:43:30",
+        "score": 81,
+        "summary": "Agora-1 多智能体世界模型发布，支持多个智能体在共享环境中交互。该模型可用于模拟和规划，提升多智能体协作效率。评论看好其在机器人领域的应用。",
+        "extra": {
+          "image": "https://framerusercontent.com/assets/GPKKJtRqRixwhpxo2YN6XJpsSE.jpeg"
+        }
+      },
+      {
+        "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+        "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-18T16:00:21",
+        "score": 0,
+        "summary": "NVIDIA 发布 Cosmos Predict 2.5 的 LoRA/DoRA 微调指南，用于机器人视频生成。该模型基于世界基础模型，通过微调可适应特定机器人场景，降低计算成本。LoRA/DoRA 技术仅需少量参数更新即可实现高效迁移，适用于资源受限的机器人应用。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation.png"
+        }
+      },
+      {
+        "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+        "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-18T15:12:46",
+        "score": 0,
+        "summary": "PaddleOCR 3.5 发布，新增 Transformers 后端支持 OCR 和文档解析任务。该版本利用 Transformer 架构提升识别精度，支持多语言和复杂版面分析。相比传统 CNN 方案，Transformer 后端在长文本和表格识别上表现更优，适合企业级文档处理。",
+        "extra": {
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/652b2e9166313ebb6197e706/Bl-qDWU9OfuXZ06hNxZE7.jpeg"
+        }
+      },
+      {
+        "title": "The Open Agent Leaderboard",
+        "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-18T14:12:58",
+        "score": 0,
+        "summary": "Hugging Face 推出开放智能体排行榜，用于评估 AI 智能体的综合能力。排行榜涵盖推理、工具使用、多轮对话等维度，提供标准化测试集。开发者可提交模型参与排名，促进智能体技术的透明比较和迭代。",
+        "extra": {
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/5fc0292de45c5468456e022b/CpwVutMu5EiniBliQ9RXs.png"
+        }
+      },
+      {
+        "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
+        "url": "https://www.qbitai.com/2026/05/419515.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-18T10:26:46",
+        "score": 0,
+        "summary": "openJiuwen 社区发布 JiuwenSwarm，开启群体智能“养蜂”范式。该项目通过多智能体协作实现分布式任务处理，底层范式从单体智能转向群体智能。适合复杂系统优化。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+        "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-18T10:00:00",
+        "score": 0,
+        "summary": "OpenAI 与 Dell 合作，将 Codex 引入混合云和本地企业环境。企业可在安全环境中部署 AI 编码智能体，支持数据和工作流集成。Codex 能理解代码库并生成建议，提升开发效率。适合对数据隐私要求高的企业。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/5Vi44l4igoSqwDNd61kcp1/b54c8eba46a2c6ca722c3ec6b8e75498/16_9_Partnerships_Template.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代",
+        "url": "https://www.qbitai.com/2026/05/419396.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-18T06:57:10",
+        "score": 0,
+        "summary": "上交、创智、瑞金联合发布 CX-Mind，实现胸片诊断的“可验证推理”。该模型在五项维度排名第一，提供可解释的诊断依据。相比传统黑箱模型，CX-Mind 增强医生信任度。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
+        "url": "https://www.qbitai.com/2026/05/419386.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-18T06:52:11",
+        "score": 0,
+        "summary": "ICLR 2026 论文提出 8B 模型做生物实验，实验步骤顺序不乱、剂量无幻觉，超越 GPT-4o。该模型通过结构化知识图谱约束输出，确保实验准确性。适合自动化实验室场景。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "humanlayer/12-factor-agents",
+        "url": "https://github.com/humanlayer/12-factor-agents",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 399,
+        "summary": "12-factor-agents 今日获 399 星，提出构建生产级 LLM 应用的 12 条原则。该项目用 TypeScript 实现，涵盖可维护性、可观测性和安全性。适合需要将 AI 智能体投入生产的团队参考。",
+        "extra": {
+          "image": "https://github.com/humanlayer.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "ggml-org/llama.cpp",
+        "url": "https://github.com/ggml-org/llama.cpp",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 213,
+        "summary": "llama.cpp 今日 GitHub 获 213 星，是一个用 C/C++ 实现的 LLM 推理引擎。它支持多种量化格式，可在 CPU 和 GPU 上高效运行。相比 Python 实现，llama.cpp 内存占用更低，适合边缘设备部署。",
+        "extra": {
+          "image": "https://github.com/ggml-org.png?size=120",
+          "language": "C++"
+        }
+      },
+      {
+        "title": "mattzh72/articraft",
+        "url": "https://github.com/mattzh72/articraft",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 156,
+        "summary": "articraft 今日获 156 星，是一个可扩展的铰接式 3D 资产生成系统。它利用智能体自动生成带关节的 3D 模型，适用于游戏和机器人仿真。相比手动建模，速度提升 10 倍以上。",
+        "extra": {
+          "image": "https://github.com/mattzh72.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "topoteretes/cognee",
+        "url": "https://github.com/topoteretes/cognee",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 36,
+        "summary": "cognee 今日获 36 星，提供 6 行代码即可集成的 AI 智能体记忆控制平面。它管理智能体的短期和长期记忆，支持向量存储和检索。适合需要记忆能力的对话系统。",
+        "extra": {
+          "image": "https://github.com/topoteretes.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "zinja-coder/jadx-mcp-server",
+        "url": "https://github.com/zinja-coder/jadx-mcp-server",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 28,
+        "summary": "jadx-mcp-server 今日获 28 星，为 JADX 反编译器提供 MCP 服务器接口。该工具允许 AI 智能体通过 MCP 协议调用 JADX 进行 Android 应用分析。适合安全研究和自动化逆向工程。",
+        "extra": {
+          "image": "https://github.com/zinja-coder.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "GreyDGL/PentestGPT",
+        "url": "https://github.com/GreyDGL/PentestGPT",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 24,
+        "summary": "PentestGPT 今日获 24 星，是一个基于 LLM 的自动化渗透测试框架。它利用大模型生成攻击向量并执行测试，覆盖常见漏洞类型。相比手动测试，效率提升 5 倍以上。适合安全团队快速评估系统。",
+        "extra": {
+          "image": "https://github.com/GreyDGL.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
