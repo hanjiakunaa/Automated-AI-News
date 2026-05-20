@@ -1,0 +1,535 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T10:01:11+08:00",
+  "stats": {
+    "new_count": 72,
+    "total_seen": 939
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "VWFNDR™ + MBL",
+        "url": "https://www.producthunt.com/products/vwfndr-mbl",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T06:56:15",
+        "score": 0,
+        "summary": "VWFNDR™ + MBL 产品，拍摄原始照片并证明非 AI 生成，确保真实性。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/d93f3bc9-701a-4a60-aef4-aa81a372876c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Thinnest AI",
+        "url": "https://www.producthunt.com/products/thinnest-ai",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T05:09:58",
+        "score": 0,
+        "summary": "Thinnest AI 提供 100+ 语言的语音 AI 代理，每分钟仅 1.5 卢比，低成本多语言方案。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/2171f2ad-adfd-4e42-9ece-2173ad9872ae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Agora-1 by Odyssey",
+        "url": "https://www.producthunt.com/products/odyssey-5",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T03:57:01",
+        "score": 0,
+        "summary": "Odyssey 发布 Agora-1，一个可游玩的多智能体世界模型。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/c5407eb6-5e10-4227-9251-9920b05680cc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Trainer",
+        "url": "https://www.producthunt.com/products/trainer-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T03:01:36",
+        "score": 0,
+        "summary": "Trainer 工具：通过录制屏幕来训练 AI 代理，简化行为克隆。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/ae2349d7-fcd4-41e2-bb8d-2636c79010ed.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "CLI Market",
+        "url": "https://www.producthunt.com/products/cli-market",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T02:55:22",
+        "score": 0,
+        "summary": "CLI Market 提供 3760 家零售商的统一 API，供 AI 代理调用。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/e9729cb5-7ed6-4721-9fbb-f01d5641d525.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Starchild-1 by Odyssey",
+        "url": "https://www.producthunt.com/products/odysseyml-starchild-1-model",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-18T17:03:44",
+        "score": 0,
+        "summary": "Odyssey 发布 Starchild-1，首个实时多模态世界模型。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/2735a22b-f652-4c9c-a533-4b050cc19b4c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Insights by Omnia",
+        "url": "https://www.producthunt.com/products/omnia-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-18T15:15:28",
+        "score": 0,
+        "summary": "Insights by Omnia 提供逐步行动计划，提升 AI 可见性。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/58b00ae9-31aa-4dfb-a2e2-f1f598fe30c8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "CaseGap AI",
+        "url": "https://www.producthunt.com/products/casegap-ai",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-17T17:12:24",
+        "score": 0,
+        "summary": "CaseGap AI 帮助律所发现收入漏洞并修复，提升盈利能力。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/5873eb83-8c33-4cac-b3ab-63f9e75c52d9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Chert",
+        "url": "https://www.producthunt.com/products/chert",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-17T05:10:40",
+        "score": 0,
+        "summary": "Chert 允许构建 AI 代理，通过 iMessage 向客户发送短信。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/838c0654-5b90-4e18-8bd4-65cce2694949.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "CtrlOps",
+        "url": "https://www.producthunt.com/products/ctrlops",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-16T17:43:18",
+        "score": 0,
+        "summary": "CtrlOps 用 AI 部署、调试和管理 Linux 服务器。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/155d71d6-9091-4392-80c9-622e4b104ffc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Papr Graph",
+        "url": "https://www.producthunt.com/products/papr-3",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-16T14:18:36",
+        "score": 0,
+        "summary": "Papr Graph 提供图原生向量嵌入，升级传统向量检索。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/2c2ec285-06a3-4330-8cc2-69e659f1c0aa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "I’ve joined Anthropic",
+        "url": "https://twitter.com/karpathy/status/2056753169888334312",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-19T15:07:45",
+        "score": 1173,
+        "summary": "某知名人士宣布加入 Anthropic，评论 487，评分 1173，引发行业关注。",
+        "extra": {
+          "image": "https://abs.twimg.com/emoji/v2/svg/26a0.svg"
+        }
+      },
+      {
+        "title": "The last six months in LLMs in five minutes",
+        "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-19T01:30:42",
+        "score": 735,
+        "summary": "五分钟回顾 LLM 领域过去六个月进展，评论 556，评分 735，信息密度高。",
+        "extra": {
+          "image": "https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.001.jpeg"
+        }
+      },
+      {
+        "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+        "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-19T05:04:49",
+        "score": 362,
+        "summary": "314 个 npm 包被恶意篡改，评论 278，评分 362，供应链安全再敲警钟。",
+        "extra": {
+          "image": "https://safedep.io/images/antv-npm-supply-chain-attack.png?v=20260519"
+        }
+      },
+      {
+        "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+        "url": "https://openai.com/index/advancing-content-provenance/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-19T19:34:30",
+        "score": 198,
+        "summary": "OpenAI 采用 Google 的 SynthID 水印技术用于 AI 图像，并推出验证工具。评论 102，评分 198，推动 AI 内容可追溯性。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/7qrOAES4m86YSNSeLjDFI3/2a82d6af71882438b33811ad5c1e5fdc/SEO_Card_-_new_title.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "Mistral AI acquires Emmi AI",
+        "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-19T19:14:12",
+        "score": 168,
+        "summary": "Mistral AI 收购 Emmi AI，评论 43，评分 168，加强 AI 领域布局。",
+        "extra": {
+          "image": "https://cdn.prod.website-files.com/68dc360c3b01aa9613087f04/6a0b5c38f624fb94a50f6696_News%206%20(1).png"
+        }
+      },
+      {
+        "title": "Railway Blocked by Google Cloud",
+        "url": "https://status.railway.com/?date=20260519",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-20T00:23:54",
+        "score": 122,
+        "summary": "Railway 被 Google Cloud 封禁账户，导致服务全面中断。讨论热烈，评论 25，评分 122，凸显云服务单点故障问题。",
+        "extra": {
+          "image": "https://status.railway.com/og.png"
+        }
+      },
+      {
+        "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+        "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-19T22:30:31",
+        "score": 116,
+        "summary": "开源工具 Remove-AI-Watermarks 发布，提供 CLI 和库用于移除图像中的 AI 水印。评论 70，评分 116，引发版权和伦理讨论。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/16af51377d7d972cc795def39ad100dd2f587176532011707a58f4174b7233f6/wiltodelta/remove-ai-watermarks"
+        }
+      },
+      {
+        "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
+        "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-19T15:27:53",
+        "score": 111,
+        "summary": "披露 Copy Fail、Dirty Frag 和 Fragnesia 内核漏洞，评论 42，评分 111，影响系统安全。",
+        "extra": {
+          "image": "https://www.gentoo.org/assets/img/og-image.jpg"
+        }
+      },
+      {
+        "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+        "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-17T15:52:21",
+        "score": 111,
+        "summary": "面向 LLM 时代的 TLA+ 入门教程，评论 26，评分 111，用提示词验证系统。",
+        "extra": {
+          "image": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/robot-square.jpg"
+        }
+      },
+      {
+        "title": "Growing Neural Cellular Automata",
+        "url": "https://distill.pub/2020/growing-ca/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-17T19:21:09",
+        "score": 70,
+        "summary": "介绍 Growing Neural Cellular Automata，评论 6，评分 70，探索自组织神经网络。",
+        "extra": {
+          "image": "https://distill.pub/2020/growing-ca/thumbnail.jpg"
+        }
+      },
+      {
+        "title": "AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention",
+        "url": "https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-19T17:22:45",
+        "score": 38,
+        "summary": "文章讨论 AI 与人性，以及“曼哈顿博士综合征”，评论 8，评分 38，涉及 AI 沟通干预。",
+        "extra": {
+          "image": "https://substackcdn.com/image/fetch/$s_!8ENP!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fce5d83-3632-4689-a439-e3da185da683_1280x685.jpeg"
+        }
+      },
+      {
+        "title": "Tool mapping 90 companies in the photonics and CPO supply chain",
+        "url": "https://leonardo-boquillon.com/photonic-cop-supply-chain",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-17T15:22:10",
+        "score": 27,
+        "summary": "工具映射 90 家光子和 CPO 供应链公司，评论 2，评分 27，行业洞察。",
+        "extra": {
+          "image": "https://leonardo-boquillon.com/apple-touch-icon.png"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Gemini 3.5 Flash",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-19T17:43:45",
+        "score": 584,
+        "summary": "Google 发布 Gemini 3.5 Flash 模型，评论 439，评分 584，性能提升受关注。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keywordstatement__metacard__light.width-1300.png"
+        }
+      },
+      {
+        "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+        "url": "https://github.com/antoinezambelli/forge",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-19T12:23:07",
+        "score": 275,
+        "summary": "Forge 项目展示：通过护栏将 8B 模型在智能体任务上的准确率从 53% 提升至 99%。评论 98，评分 275。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/87c1aceaab7abda7ba2045c69a501401f34d46ec101e90db55a772f95aa2fe51/antoinezambelli/forge"
+        }
+      },
+      {
+        "title": "Gemini Omni",
+        "url": "https://deepmind.google/models/gemini-omni/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-19T17:46:19",
+        "score": 267,
+        "summary": "Google 发布 Gemini Omni 模型，评论 112，评分 267，引发社区热议。",
+        "extra": {
+          "image": "https://lh3.googleusercontent.com/g6XDYMJ0QkGEh12oBq849NF0iDxAIJvrdiWHfI1Y7u2kJZF4brhur0dy-Jf_MATTC0TiCfb7YkOlkTjPta1H5eK6Crl_-1j-MnTDCmiCGGHC2oeIOJ4=w1200-h630-n-nu-rw"
+        }
+      },
+      {
+        "title": "Gemini CLI will stop working from June 18, 2026",
+        "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-19T18:03:10",
+        "score": 60,
+        "summary": "Google 宣布 Gemini CLI 将于 2026 年 6 月 18 日停止服务，评论 19，评分 60，用户需迁移。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/GeminiCLI-AntigravityCLI_1200x630.2e16d0ba.fill-1200x600.png"
+        }
+      },
+      {
+        "title": "OlmoEarth v1.1: A more efficient family of models",
+        "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T18:38:09",
+        "score": 0,
+        "summary": "OlmoEarth v1.1 发布，更高效的模型系列，具体参数待查。",
+        "extra": {
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/19ZFgyFbi-kj2Yf0WUPGk.png"
+        }
+      },
+      {
+        "title": "I/O 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T17:45:00",
+        "score": 0,
+        "summary": "Google I/O 2026 发布多项 AI 更新，旨在让 AI 更实用。涵盖 Gemini 模型、搜索 AI 模式、Workspace 新功能等，具体细节待后续公布。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif"
+        }
+      },
+      {
+        "title": "How AI Mode is changing the way people search in the U.S.",
+        "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T17:45:00",
+        "score": 0,
+        "summary": "Google 展示美国用户如何使用 AI Mode 进行搜索，通过彩色插图说明 AI 模式在多种场景下的应用，如购物、游戏等，反映搜索行为变化。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "New ways to create and get things done in Google Workspace",
+        "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T17:45:00",
+        "score": 0,
+        "summary": "Google Workspace 推出新功能，帮助用户更高效地创建内容和完成任务。具体更新包括 AI 辅助写作、自动化流程等，提升办公效率。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "I/O 2026: Welcome to the agentic Gemini era",
+        "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T17:45:00",
+        "score": 0,
+        "summary": "Google I/O 2026 主题演讲聚焦 Gemini 智能体时代，宣布进入 agentic Gemini 时代，强调 AI 代理的自主性和实用性。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+        "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T17:45:00",
+        "score": 0,
+        "summary": "Google 在 I/O 2026 更新 AI 订阅服务，增加更多功能和权益，但保持价格不变。用户可享受更多 AI 能力，如 Gemini 高级访问等。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/I_O_26_Header_1_AYohnR4.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
+        "url": "https://www.qbitai.com/2026/05/420083.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T07:05:05",
+        "score": 0,
+        "summary": "世界模型 Agora-1 支持多人联机玩 FPS 游戏，挑战李飞飞团队，引发真实感讨论。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
+        "url": "https://www.qbitai.com/2026/05/419990.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T06:07:48",
+        "score": 0,
+        "summary": "Cursor 新模型被指套壳 Kimi，马斯克参与讨论，模型以 1/10 成本达到 Opus 4.7 级表现。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "multica-ai/andrej-karpathy-skills",
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 1955,
+        "summary": "multica-ai/andrej-karpathy-skills：基于 Andrej Karpathy 对 LLM 编码陷阱的观察，提供 CLAUDE.md 文件改进 Claude Code 行为，今日获 1955 星。",
+        "extra": {
+          "image": "https://github.com/multica-ai.png?size=120",
+          "language": ""
+        }
+      },
+      {
+        "title": "rtk-ai/rtk",
+        "url": "https://github.com/rtk-ai/rtk",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 704,
+        "summary": "rtk-ai/rtk：CLI 代理将常见开发命令的 LLM token 消耗降低 60-90%，单 Rust 二进制，零依赖，今日获 704 星。",
+        "extra": {
+          "image": "https://github.com/rtk-ai.png?size=120",
+          "language": "Rust"
+        }
+      },
+      {
+        "title": "Alishahryar1/free-claude-code",
+        "url": "https://github.com/Alishahryar1/free-claude-code",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 563,
+        "summary": "Alishahryar1/free-claude-code：免费使用 claude-code，支持终端、VSCode 扩展和 Discord，含语音，今日获 563 星。",
+        "extra": {
+          "image": "https://github.com/Alishahryar1.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "alirezarezvani/claude-skills",
+        "url": "https://github.com/alirezarezvani/claude-skills",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 157,
+        "summary": "alirezarezvani/claude-skills：313+ Claude Code 技能和插件，支持多种编码代理，覆盖工程、营销等，今日获 157 星。",
+        "extra": {
+          "image": "https://github.com/alirezarezvani.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "unslothai/unsloth",
+        "url": "https://github.com/unslothai/unsloth",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 156,
+        "summary": "unslothai/unsloth：Unsloth Studio 提供 Web UI 本地训练和运行开源模型，如 Gemma 4、Qwen3.6、DeepSeek，今日获 156 星。",
+        "extra": {
+          "image": "https://github.com/unslothai.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "tirth8205/code-review-graph",
+        "url": "https://github.com/tirth8205/code-review-graph",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 123,
+        "summary": "tirth8205/code-review-graph：为 Claude Code 构建本地知识图谱，减少 6.8 倍 token 消耗，最高 49 倍，今日获 123 星。",
+        "extra": {
+          "image": "https://github.com/tirth8205.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "HanaokaYuzu/Gemini-API",
+        "url": "https://github.com/HanaokaYuzu/Gemini-API",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 59,
+        "summary": "HanaokaYuzu/Gemini-API：逆向工程 Google Gemini Web 应用的 Python API，今日获 59 星。",
+        "extra": {
+          "image": "https://github.com/HanaokaYuzu.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
