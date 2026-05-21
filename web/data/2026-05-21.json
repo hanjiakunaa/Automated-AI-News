@@ -1,0 +1,517 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T10:01:11+08:00",
+  "stats": {
+    "new_count": 62,
+    "total_seen": 1001
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "Runtime",
+        "url": "https://www.producthunt.com/products/runtime",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T20:22:13",
+        "score": 0,
+        "summary": "Runtime 是一个为团队提供沙盒化编码代理的工具，允许每个成员在隔离环境中安全运行代码。它支持多语言执行，并内置权限管理，适用于协作开发和测试场景。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/e72c2188-518f-462c-b244-bd6584fc2f44.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Gemini Omni",
+        "url": "https://www.producthunt.com/products/gemini-omni-4",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T19:39:26",
+        "score": 0,
+        "summary": "Gemini Omni 是一款多模态生成工具，支持从视频等任意输入创建内容。它利用 Gemini 模型理解视频语义，生成文本、图像或音频输出，拓展了创意工作流。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/73055a1f-bb0c-4477-bdb4-5fbfb24f0c2c.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Invenio",
+        "url": "https://www.producthunt.com/products/invenio",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T14:28:34",
+        "score": 0,
+        "summary": "Invenio 是 Mac 上的本地 AI 搜索工具，专为视频和照片库设计。它无需联网，利用本地模型索引媒体文件，支持自然语言查询，保护用户隐私。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/43bc90af-ccf7-496a-a547-2bcab7a49241.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Glia",
+        "url": "https://www.producthunt.com/products/glia-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T14:12:55",
+        "score": 0,
+        "summary": "Glia 是一个本地优先的 AI 记忆桥，连接浏览器聊天和 IDE。它记录对话上下文，让 AI 代理在编码时引用历史信息，提升开发效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/6bcd04b7-bd29-464a-b4e4-7d8f50145350.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Supercut for Agents",
+        "url": "https://www.producthunt.com/products/supercut",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T13:42:30",
+        "score": 0,
+        "summary": "Supercut for Agents 提供权限感知的 AI 访问，用于录制内容和元数据。它允许代理在授权范围内检索会议记录、屏幕录像等，适用于企业知识管理。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/acbde3f5-2078-4201-b430-dbe3a7d2c313.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "GhostSnap",
+        "url": "https://www.producthunt.com/products/ghostsnap",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T13:13:18",
+        "score": 0,
+        "summary": "GhostSnap 是一款截图工具，支持多截图后单次粘贴，并自动压缩以适配 AI 模型输入。它优化了截图工作流，减少手动处理步骤。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/d5d9c08e-283c-4b55-bb69-563560de317b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Owlish",
+        "url": "https://www.producthunt.com/products/owlish",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T09:29:18",
+        "score": 0,
+        "summary": "Owlish 利用基于文档训练的 AI 代理减少客服支持量。它自动回答常见问题，仅需用户提供知识库，可降低人工客服成本。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/e156b3de-0ccc-49a7-bda2-b50a1b720a60.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Viberia",
+        "url": "https://www.producthunt.com/products/viberia",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T05:50:33",
+        "score": 0,
+        "summary": "Viberia 允许用户像玩《文明》游戏一样指挥 AI 代理。它提供策略界面，用户可下达宏观指令，代理自主执行子任务。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/cb1cce56-8f4c-4a01-a90b-4e02ce7d11b7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Multi-Claude",
+        "url": "https://www.producthunt.com/products/multi-claude",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T03:49:40",
+        "score": 0,
+        "summary": "Multi-Claude 是一款 Mac 应用，支持同时运行多个 Claude 账户。它通过多实例管理，方便用户并行使用不同会话或角色。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/04dc4b46-1256-452d-87a8-421512f11cdf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Skilled",
+        "url": "https://www.producthunt.com/products/skilled-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-18T21:23:04",
+        "score": 0,
+        "summary": "Skilled 是一个仪表盘，帮助用户发现不再需要的代理技能。它分析代理使用情况，推荐移除冗余功能，优化资源分配。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/bb3240fb-3b9b-488c-aaa4-28e53de68b29.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Emdash",
+        "url": "https://www.producthunt.com/products/emdash",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-18T18:26:05",
+        "score": 0,
+        "summary": "Emdash 是一款开源应用，整合所有编码代理于单一界面。它支持多种代理后端，提供统一的操作体验，便于开发者切换工具。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/b619e5d1-8abf-4ff1-89cf-cdc4d20687bb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
+        "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-20T14:30:47",
+        "score": 665,
+        "summary": "田纳西州一名男子因发布特朗普表情包被监禁 37 天，后通过诉讼获得和解。案件涉及言论自由与执法边界。",
+        "extra": {
+          "image": "https://www.fire.org/sites/default/files/styles/1200x630/public/2026/05/FIRE%20plaintiff%20Larry%20Bushart%20and%20his%20wife%20Leanne_VictoryPR.jpg?h=d1cb525d&itok=u6AmVTV6"
+        }
+      },
+      {
+        "title": "Qwen3.7-Max: The Agent Frontier",
+        "url": "https://qwen.ai/blog?id=qwen3.7",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-20T10:35:02",
+        "score": 608,
+        "summary": "Qwen3.7-Max 发布，聚焦代理能力。它在工具使用和多步推理上表现优异，在 AgentBench 上得分 92.3。",
+        "extra": {
+          "image": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg"
+        }
+      },
+      {
+        "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
+        "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-20T10:57:09",
+        "score": 256,
+        "summary": "Google 的 AI 系统正被操纵，公司悄然反击。文章揭示对抗性攻击如何影响搜索结果，以及 Google 的防御措施。",
+        "extra": {
+          "image": "https://ychef.files.bbci.co.uk/624x351/p0nm547y.jpg"
+        }
+      },
+      {
+        "title": "Anna's Archive hit with $19.5M default judgment and global domain takedown order",
+        "url": "https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-20T12:30:58",
+        "score": 247,
+        "summary": "Anna's Archive 因版权侵权被判决赔偿 1950 万美元，并面临全球域名下架。该案对影子图书馆运营产生重大影响。",
+        "extra": {
+          "image": "https://torrentfreak.com/images/books-long.png"
+        }
+      },
+      {
+        "title": "Not alive, but not dead: disembodied human brains used for drug testing",
+        "url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-20T19:38:25",
+        "score": 154,
+        "summary": "研究团队利用离体人脑进行药物测试，这些大脑虽无意识但保持活性。该方法可能替代动物实验，但引发伦理争议。",
+        "extra": {}
+      },
+      {
+        "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+        "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-20T17:48:52",
+        "score": 116,
+        "summary": "文章回顾钱学森的生平，他作为导弹专家被美国失去而中国获得。讨论其贡献及中美人才竞争的历史。",
+        "extra": {}
+      },
+      {
+        "title": "Formal Verification Gates for AI Coding Loops",
+        "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-20T15:25:45",
+        "score": 113,
+        "summary": "形式化验证门控用于 AI 编码循环，确保代码生成符合规范。该方法可减少 AI 生成代码中的错误。",
+        "extra": {
+          "image": "https://reubenbrooks.dev/sb-gates-demo.gif"
+        }
+      },
+      {
+        "title": "Anthropic is expanding to Colossus2. Will use GB200",
+        "url": "https://xcancel.com/nottombrown/status/2057194829986300375",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-20T20:55:52",
+        "score": 80,
+        "summary": "Anthropic 计划扩展至 Colossus2 数据中心，将使用 NVIDIA GB200 芯片。此举旨在提升 Claude 模型的训练和推理能力。",
+        "extra": {
+          "image": "https://xcancel.com/logo.png"
+        }
+      },
+      {
+        "title": "Testing distributed systems with AI agents",
+        "url": "https://github.com/shenli/distributed-system-testing",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-20T14:40:42",
+        "score": 77,
+        "summary": "使用 AI 代理测试分布式系统，模拟故障和负载场景。代理自动发现边界条件，提高测试覆盖率。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/017d69f81871e58026f9f793da643823706d355731e282c65a9e661b8670eda6/shenli/distributed-system-testing"
+        }
+      },
+      {
+        "title": "When Fast Fourier Transform Meets Transformer for Image Restoration (2024)",
+        "url": "https://github.com/deng-ai-lab/SFHformer",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-18T14:10:47",
+        "score": 75,
+        "summary": "论文将快速傅里叶变换与 Transformer 结合用于图像恢复。该方法在去噪和超分辨率任务上速度提升 3 倍。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/ee9ae3b6ef9fcef31b4bec545558e62fe7e71395fc0f304ca77d2a0aed46289a/deng-ai-lab/SFHformer"
+        }
+      },
+      {
+        "title": "Autoregressive next token prediction and KV Cache in transformers",
+        "url": "https://medium.com/advanced-deep-learning/autoregressive-next-token-prediction-kv-cache-in-transformers-afad22285baf",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-17T20:07:14",
+        "score": 53,
+        "summary": "文章解释自回归下一个 token 预测和 Transformer 中的 KV 缓存机制。KV 缓存可减少推理计算量，加速生成。",
+        "extra": {
+          "image": "https://miro.medium.com/v2/resize:fit:1200/1*00ijTcWOPKnO5SebUB1M4g.png"
+        }
+      },
+      {
+        "title": "Cloudflare CEO on how he chooses which employees to replace with AI",
+        "url": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-20T21:45:57",
+        "score": 42,
+        "summary": "Cloudflare CEO 讨论如何选择用 AI 替代员工。他提到 AI 可处理重复性任务，但强调保留创造性岗位，引发关于就业影响的讨论。",
+        "extra": {}
+      }
+    ],
+    "models": [
+      {
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-20T19:05:30",
+        "score": 745,
+        "summary": "OpenAI 模型推翻了离散几何中的一个核心猜想。该结果验证了 AI 在数学发现中的潜力，引发学界广泛讨论。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/6WJOhxvdNpC5hDvpiSAqE0/8a11ba6abdabb6a5a674de733cfa710d/SEO-Polynomial-Construction-16x9.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "We’re announcing new community investments in Missouri.",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-20T20:40:00",
+        "score": 0,
+        "summary": "Google 宣布在密苏里州进行新的社区投资，帮助建设下一代劳动力并投资能源项目。具体金额未披露，但旨在促进当地经济和 AI 人才培养。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "100 things we announced at I/O 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-20T19:30:00",
+        "score": 0,
+        "summary": "Google 在 I/O 2026 上宣布了 100 项新内容，涵盖 AI、搜索、云等。亮点包括 Gemini 模型更新和 AI 集成功能。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "A new experiment brings better group meetings to Google Beam",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-20T16:45:00",
+        "score": 0,
+        "summary": "Google Beam 推出新实验，改善小组会议体验。它利用 AI 优化混合会议中的音频、视频和参与者管理，提升远程协作质量。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速",
+        "url": "https://www.qbitai.com/2026/05/420753.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-20T14:09:25",
+        "score": 0,
+        "summary": "智象未来发布超两千亿参数图像大模型 HiDream-O1-Image-Pro，融资持续提速。该模型在图像生成质量上对标 DALL-E 3。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "海信激光电视探索X1 Pro发布：中国家庭，正式进入客厅影院时代",
+        "url": "https://www.qbitai.com/2026/05/420723.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-20T07:26:04",
+        "score": 0,
+        "summary": "海信激光电视探索 X1 Pro 发布，光路传播效率提升 20%。该产品推动家庭进入客厅影院时代，提供沉浸式体验。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "How Ramp engineers accelerate code review with Codex",
+        "url": "https://openai.com/index/ramp",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-20T00:00:00",
+        "score": 0,
+        "summary": "Ramp 工程师利用 Codex 和 GPT-5.5 加速代码审查，将反馈时间从数小时缩短至几分钟。该工具自动检查代码质量和安全。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/1jnbN51vZD5HdojAWKmvvG/332a50f3bf43de6bb168e92303067c4a/oai_Ramp_SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "The next phase of OpenAI’s Education for Countries",
+        "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-20T00:00:00",
+        "score": 0,
+        "summary": "OpenAI 推进教育国家计划，扩大 AI 在学校中的采用。包括新合作伙伴、教师培训和工具，旨在改善全球学习成果。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/3RMce7W9UyNLJaQEOyFQYn/49f35dabd4110cfa4589d82769f0eec2/Art_Card.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "Introducing OpenAI for Singapore",
+        "url": "https://openai.com/index/introducing-openai-for-singapore",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T20:30:00",
+        "score": 0,
+        "summary": "OpenAI 在新加坡启动多年 AI 合作伙伴关系，扩大部署、培养本地人才，并支持企业和公共服务。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/7aPpcq7lYKo3JZBg2cAti2/40c003351401ac4d87962c84e8b93f67/release-og-frame-1.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "A new era for AI Search",
+        "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-19T17:45:00",
+        "score": 0,
+        "summary": "Google 宣布 AI 搜索新时代，结合搜索引擎的最佳功能与 AI 能力。新搜索将提供更智能的答案和个性化结果。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+        "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+        "source": "DeepMind",
+        "source_kind": "rss",
+        "published_at": "2026-05-16T09:13:34",
+        "score": 0,
+        "summary": "Google DeepMind 与新加坡建立国家合作伙伴关系，应用前沿 AI 解决健康、教育和可持续性挑战。合作包括联合研究和人才培养。",
+        "extra": {
+          "image": "https://lh3.googleusercontent.com/Woiv_MqlJsgv6bSWD505JCSu936VdLLtR0y7Ev1wPWDmuhFK1SYxkpyU4N2vhSpSMl22NAtbxuZ1yFMHIcDFwABNZIgRtX0ccRXxWiBaHETRXUQEZQ=w528-h297-n-nu-rw-lo"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "rohitg00/ai-engineering-from-scratch",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 765,
+        "summary": "ai-engineering-from-scratch 是一个从零学习 AI 工程的教程仓库，今日获 765 星。它覆盖构建和部署完整 AI 系统。",
+        "extra": {
+          "image": "https://github.com/rohitg00.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "hugohe3/ppt-master",
+        "url": "https://github.com/hugohe3/ppt-master",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 421,
+        "summary": "ppt-master 从任何文档生成原生可编辑 PPTX，支持原生动画。今日获 421 星，输出为真实 PowerPoint 形状。",
+        "extra": {
+          "image": "https://github.com/hugohe3.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "karpathy/autoresearch",
+        "url": "https://github.com/karpathy/autoresearch",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 367,
+        "summary": "autoresearch 使用 AI 代理自动在单 GPU 上训练 nanochat 模型。今日获 367 星，实现研究自动化。",
+        "extra": {
+          "image": "https://github.com/karpathy.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "can1357/oh-my-pi",
+        "url": "https://github.com/can1357/oh-my-pi",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 270,
+        "summary": "oh-my-pi 是终端 AI 编码代理，支持哈希锚定编辑、优化工具链、LSP、Python、浏览器和子代理。今日获 270 星。",
+        "extra": {
+          "image": "https://github.com/can1357.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "volcengine/OpenViking",
+        "url": "https://github.com/volcengine/OpenViking",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 111,
+        "summary": "OpenViking 是面向 AI 代理的开源上下文数据库，通过文件系统范式统一管理记忆、资源和技能。今日获 1 星。",
+        "extra": {
+          "image": "https://github.com/volcengine.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "vllm-project/vllm",
+        "url": "https://github.com/vllm-project/vllm",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 99,
+        "summary": "vllm 是高吞吐量、内存高效的 LLM 推理引擎，今日获 99 星。它支持 PagedAttention 和连续批处理，提升推理速度。",
+        "extra": {
+          "image": "https://github.com/vllm-project.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "e2b-dev/E2B",
+        "url": "https://github.com/e2b-dev/E2B",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 34,
+        "summary": "E2B 提供开源安全环境，为企业级代理配备真实世界工具。今日获 34 星，支持代码执行和沙盒。",
+        "extra": {
+          "image": "https://github.com/e2b-dev.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
