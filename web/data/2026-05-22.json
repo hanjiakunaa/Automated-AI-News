@@ -1,0 +1,421 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T10:01:10+08:00",
+  "stats": {
+    "new_count": 44,
+    "total_seen": 1045
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "Tacet",
+        "url": "https://www.producthunt.com/products/tacet",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T06:42:39",
+        "score": 0,
+        "summary": "Tacet 是一款通过脑电监测评估认知健康分数的设备，帮助用户了解大脑状态。该产品面向关注脑健康的人群，提供量化认知评分，但具体技术细节和准确度尚待验证。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/857a4c9c-451b-4707-be91-b3f91a93aaa5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Tycoon AI",
+        "url": "https://www.producthunt.com/products/tycoon-us",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T02:08:22",
+        "score": 0,
+        "summary": "Tycoon AI 允许用户完全使用 AI 智能体运营一人公司，涵盖从营销到客服的全流程。这代表了 AI 自动化在商业运营中的前沿应用，可能大幅降低创业门槛，但实际效果取决于智能体的可靠性和集成度。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/64329f50-ad0a-4246-90f5-3fe90d0a6da1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "AlliHat",
+        "url": "https://www.producthunt.com/products/allihat",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T01:40:49",
+        "score": 0,
+        "summary": "AlliHat 是一款 Safari 扩展，将 Claude AI 集成到侧边栏，方便用户随时调用。它简化了 AI 助手的访问方式，提升浏览效率，但功能可能受限于 Claude 的能力和扩展权限。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/6c5f6769-ebd8-4ed4-b083-5667524e4f66.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Mixpanel Headless",
+        "url": "https://www.producthunt.com/products/mixpanel",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-20T21:59:00",
+        "score": 0,
+        "summary": "Mixpanel Headless 提供产品分析的可编程接口，供智能体和开发者直接访问数据。这使 AI 代理能自主获取用户行为数据，驱动自动化决策，但需要开发者具备集成能力。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/379ca85e-4c87-450e-989f-39fdae7990fe.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Slideshot",
+        "url": "https://www.producthunt.com/products/slideshot",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-20T14:38:49",
+        "score": 0,
+        "summary": "Slideshot 利用 AI 代理自动录制产品演示视频，无需人工操作。它简化了演示制作流程，适合快速生成产品介绍，但视频质量和定制化程度可能有限。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/f21f22e2-db20-4222-82ce-3c588273b88d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "AutoSubtitles 2.0",
+        "url": "https://www.producthunt.com/products/autosubtitles",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-20T12:23:35",
+        "score": 0,
+        "summary": "AutoSubtitles 2.0 升级了 AI 字幕和动画字幕功能，编辑速度更快。它提升了视频字幕制作的效率，适合内容创作者，但动画效果可能仍需手动调整。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/38321284-b59f-4e20-93d3-737245de15cb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "InstaVM",
+        "url": "https://www.producthunt.com/products/instavm",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-20T07:05:28",
+        "score": 0,
+        "summary": "InstaVM 为 AI 代理提供即时可用的虚拟计算机环境，支持快速部署和运行。这降低了 AI 代理的运维成本，但安全性和资源管理需关注。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/b089bb01-6afd-4906-910f-96b174ca5606.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Google Antigravity 2.0",
+        "url": "https://www.producthunt.com/products/google-antigravity",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-20T05:24:04",
+        "score": 0,
+        "summary": "Google Antigravity 2.0 是一款桌面应用，用于编排多智能体工作流。它简化了复杂 AI 系统的协调，适合开发者和企业，但可能依赖 Google 生态。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/a303cd08-7a9d-4897-9269-15bf1cd7ebf0.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "Project Hail Mary – Stellar Navigation Chart",
+        "url": "https://valhovey.github.io/gaia-mary/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-21T16:23:11",
+        "score": 576,
+        "summary": "Project Hail Mary 的恒星导航图引发热议，评论聚焦其科学准确性和科幻价值，部分人质疑实用性。",
+        "extra": {
+          "image": "https://valhovey.github.io/gaia-mary/featured.png"
+        }
+      },
+      {
+        "title": "Google's Antigravity bait and switch",
+        "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-21T13:50:59",
+        "score": 538,
+        "summary": "Google 的 Antigravity 被指“诱饵调包”，用户批评其功能缩水。评论普遍不满，认为 Google 应更透明。",
+        "extra": {}
+      },
+      {
+        "title": "Throwing AI-generated walls of text into conversations",
+        "url": "https://noslopgrenade.com/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-21T09:31:15",
+        "score": 501,
+        "summary": "讨论 AI 生成的长文本涌入对话，评论分歧：有人视为效率提升，有人认为是噪音，需平衡。",
+        "extra": {
+          "image": "https://noslopgrenade.com/og-image.png"
+        }
+      },
+      {
+        "title": "Anthropic is expanding to Colossus2. Will use GB200",
+        "url": "https://twitter.com/nottombrown/status/2057194829986300375",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-20T20:55:52",
+        "score": 287,
+        "summary": "Anthropic 将扩展至 Colossus2 并使用 GB200 芯片。评论关注算力提升，但担忧成本和能耗。",
+        "extra": {
+          "image": "https://abs.twimg.com/emoji/v2/svg/26a0.svg"
+        }
+      },
+      {
+        "title": "OpenAI Is Preparing to File for an IPO Soon",
+        "url": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-20T16:24:42",
+        "score": 182,
+        "summary": "OpenAI 准备 IPO，评论热议估值和时机，部分人认为 AI 泡沫风险，另一些看好长期增长。",
+        "extra": {}
+      },
+      {
+        "title": "Fender escalates legal campaign against S-style guitars",
+        "url": "https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-19T05:28:30",
+        "score": 105,
+        "summary": "Fender 扩大对 S 型吉他的法律诉讼，评论认为可能影响吉他制造业，但 Fender 专利有效性存疑。",
+        "extra": {
+          "image": "https://cdn.mos.cms.futurecdn.net/is96NiZo4w5euoMCDi3T7j-2000-80.jpg"
+        }
+      },
+      {
+        "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+        "url": "https://news.ycombinator.com/item?id=48225596",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-21T16:42:34",
+        "score": 60,
+        "summary": "Agent.email 允许通过 curl 注册，再用人类 OTP 认领，实现自动化邮箱创建。评论赞赏其简洁性，但担忧滥用风险。",
+        "extra": {
+          "image": "y18.svg"
+        }
+      },
+      {
+        "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+        "url": "https://arxiv.org/abs/2605.12460",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-21T19:37:26",
+        "score": 58,
+        "summary": "新论文提出多流 LLM 架构，并行化提示、思考和 I/O。评论认为这能提升推理效率，但实现复杂，可能增加硬件需求。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+        "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T01:30:45",
+        "score": 7,
+        "summary": "三星芯片工人因 AI 利润飙升将获平均 34 万美元奖金。这反映了 AI 热潮对半导体行业的巨大推动，但奖金分配可能引发内部公平性讨论。",
+        "extra": {
+          "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2272013141-300x200.jpg"
+        }
+      },
+      {
+        "title": "Shira: Anti Phishing Training Platform",
+        "url": "https://shira.app/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-21T21:55:23",
+        "score": 7,
+        "summary": "Shira 是一个反钓鱼培训平台，旨在提升员工安全意识。评论认为此类工具必要但效果有限，需结合技术防护。",
+        "extra": {
+          "image": "https://shira.app/img/shira-social-card.png"
+        }
+      },
+      {
+        "title": "联想集团Q4营收利润双创新高，兑现历史最佳财年",
+        "url": "https://www.qbitai.com/2026/05/422127.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T00:46:43",
+        "score": 0,
+        "summary": "联想集团 Q4 营收利润双创新高，调整后净利润同比增长 42.1%，兑现历史最佳财年。AI 需求驱动增长，但可持续性待观察。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "中信证券：具身智能、半导体、AI上游装备&材料、世界杯的主题热情有望爆发",
+        "url": "https://36kr.com/newsflashes/3819720760217733?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T00:20:53",
+        "score": 0,
+        "summary": "中信证券研报指出，特朗普访华后市场波动，具身智能、半导体、AI 上游装备等主题有望爆发。建议关注相关板块，但风险未消。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+        "url": "https://www.runtm.com/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-21T16:07:13",
+        "score": 67,
+        "summary": "Runtime (YC P26) 为团队提供沙盒编码代理，确保安全协作。评论看好其安全设计，但认为定价和扩展性待观察。",
+        "extra": {
+          "image": "https://runtm.com/og-image.png"
+        }
+      },
+      {
+        "title": "Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)",
+        "url": "https://github.com/FredAntB/Spec-Driven-Development",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-21T12:49:07",
+        "score": 19,
+        "summary": "开发者制作了 Claude 技能用于规范驱动开发（SDD），自动生成代码。评论认为有趣，但质疑实际效果。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/4f5335c21640d234e88ed8984c1c47d68161ee45afbe3aba83170e67bbd804c4/FredAntB/Spec-Driven-Development"
+        }
+      },
+      {
+        "title": "39万！雷军发布小米最贵SUV",
+        "url": "https://www.qbitai.com/2026/05/422088.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T00:50:05",
+        "score": 0,
+        "summary": "雷军发布小米最贵 SUV，售价 39 万，特斯拉前厂长宋钢加盟后首秀。此举冲击高端市场，但定价和品牌力面临挑战。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+        "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+        "source": "DeepMind",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T19:46:42",
+        "score": 0,
+        "summary": "Google DeepMind 在亚太启动加速器计划，聚焦环境风险应对。该计划将支持初创企业利用 AI 解决环境问题，但具体资助规模和入选标准未公布。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Image_for_APAC_GDM_Accelerator.max-1440x810.png"
+        }
+      },
+      {
+        "title": "AdventHealth advances whole-person care with OpenAI",
+        "url": "https://openai.com/index/adventhealth",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T12:00:00",
+        "score": 0,
+        "summary": "AdventHealth 使用 OpenAI 的 ChatGPT for Healthcare 简化工作流程，减少行政负担，增加患者护理时间。这展示了医疗 AI 落地的实际价值，但需关注数据隐私。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/2SyV42dJu9Qxe9mQyiIkXo/d8eb4d513aea9968e097e85ae7e9dee1/oai_AdventHealth_SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
+        "url": "https://www.qbitai.com/2026/05/422068.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T09:48:42",
+        "score": 0,
+        "summary": "腾讯混元开源翻译模型 Hy-MT2，并上线小程序「腾讯 Hy 翻译」，指令遵循能力显著提升。开源促进社区应用，但性能对比需基准测试。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
+        "url": "https://www.qbitai.com/2026/05/422032.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T09:36:23",
+        "score": 0,
+        "summary": "OpenAI 非数学模型首次自主突破 80 年未解数学难题，推演 125 页。菲尔兹奖得主震惊，但方法可解释性存疑。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "Artificial Analysis放榜：千问3.7问鼎国产模型冠军，全球前五",
+        "url": "https://www.qbitai.com/2026/05/422009.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T09:16:12",
+        "score": 0,
+        "summary": "Artificial Analysis 榜单显示千问 3.7 问鼎国产模型冠军，全球前五。Qwen3.7-Max 即将上线阿里云百炼 API，性能对标国际。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "Lum1104/Understand-Anything",
+        "url": "https://github.com/Lum1104/Understand-Anything",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 666,
+        "summary": "Lum1104/Understand-Anything 将代码转化为交互式知识图谱，支持搜索和问答。今日获 666 星，兼容多种 AI 工具，适合代码理解和学习。",
+        "extra": {
+          "image": "https://github.com/Lum1104.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "multica-ai/multica",
+        "url": "https://github.com/multica-ai/multica",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 534,
+        "summary": "multica-ai/multica 是一个开源托管代理平台，将编码代理转化为团队成员，支持任务分配和进度跟踪。今日获 534 星，用 Go 编写，适合团队协作。",
+        "extra": {
+          "image": "https://github.com/multica-ai.png?size=120",
+          "language": "Go"
+        }
+      },
+      {
+        "title": "teng-lin/notebooklm-py",
+        "url": "https://github.com/teng-lin/notebooklm-py",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 186,
+        "summary": "teng-lin/notebooklm-py 是 Google NotebookLM 的非官方 Python API 和代理技能，提供 Web UI 未公开的功能。今日获 186 星，支持 Claude Code 等代理，但非官方可能不稳定。",
+        "extra": {
+          "image": "https://github.com/teng-lin.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "dotnet/skills",
+        "url": "https://github.com/dotnet/skills",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 129,
+        "summary": "dotnet/skills 是一个 GitHub 仓库，提供技能库以辅助 AI 编码代理处理 .NET 和 C# 任务。今日获 129 星，适合 .NET 开发者提升 AI 辅助编程效率。",
+        "extra": {
+          "image": "https://github.com/dotnet.png?size=120",
+          "language": "C#"
+        }
+      },
+      {
+        "title": "google/adk-samples",
+        "url": "https://github.com/google/adk-samples",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 33,
+        "summary": "google/adk-samples 提供基于 Agent Development Kit 的示例代理，今日获 33 星。适合开发者学习构建 AI 代理。",
+        "extra": {
+          "image": "https://github.com/google.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
