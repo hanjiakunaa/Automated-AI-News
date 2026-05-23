@@ -1,0 +1,495 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T10:01:11+08:00",
+  "stats": {
+    "new_count": 55,
+    "total_seen": 1100
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "Nota: AI Notes & Voice",
+        "url": "https://www.producthunt.com/products/nota-ai-notes-voice",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T13:47:02",
+        "score": 0,
+        "summary": "Nota 是一款 AI 笔记应用，支持将语音、扫描件、草图及文本自动转化为结构化笔记。它利用多模态 AI 技术，帮助用户快速整理碎片化信息，提升记录效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/ceecee8a-5344-4da1-a6c0-5026e429743b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Shroomie",
+        "url": "https://www.producthunt.com/products/shroomie",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T06:49:14",
+        "score": 0,
+        "summary": "Shroomie 是一款 AI 驱动的新闻应用，通过趣味化设计和习惯养成机制，让用户更轻松地获取和消费新闻。它旨在解决新闻阅读枯燥、难以坚持的问题。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/ba297079-ad3a-406f-8ccc-4bc1a6db24a3.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "JAMtime.ai",
+        "url": "https://www.producthunt.com/products/jamtime-ai",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T03:17:59",
+        "score": 0,
+        "summary": "JAMtime.ai 允许用户通过自然语言描述来配置吉他效果器的音色，无需手动调节旋钮。它利用 AI 理解用户意图，自动生成对应的音色参数，简化音乐创作流程。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/4e2bb68e-e25d-4c13-9305-61a6c3fb5bbf.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Nugget AI",
+        "url": "https://www.producthunt.com/products/nugget-ai",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T02:35:07",
+        "score": 0,
+        "summary": "Nugget AI 能够将客户访谈内容自动转化为产品路线图，帮助团队从用户反馈中提取关键需求。它利用 NLP 技术分析对话，生成可执行的任务和优先级建议。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/a101c0b5-eeec-48a4-a8d8-75854c38e1ab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "DCP",
+        "url": "https://www.producthunt.com/products/dcp",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T22:45:53",
+        "score": 0,
+        "summary": "DCP 为 AI 代理提供加密的权限和密钥管理功能，确保代理在安全环境中执行敏感操作。它解决了 AI 代理在访问外部资源时的身份验证和授权问题。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/9e0eb0c8-25a4-4805-8d83-76f3e466e584.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "buildpipe",
+        "url": "https://www.producthunt.com/products/buildpipe",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T20:28:41",
+        "score": 0,
+        "summary": "buildpipe 是一个多步骤 AI 开发者工作流编排工具，支持组合、运行和自动化复杂的 AI 开发流程。它旨在提高开发效率，减少重复性工作。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/aa403be4-853b-4213-81d8-32bf0ab59414.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Shuffle Design CLI",
+        "url": "https://www.producthunt.com/products/shuffle-design-cli",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T19:18:28",
+        "score": 0,
+        "summary": "Shuffle Design CLI 是一个多 AI 命令行工具，用于构建和重新设计网站。它集成多个 AI 模型，支持通过命令行快速生成和修改网页设计。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/54be335c-4454-4675-9c12-50fe451890e6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "WordPress 7.0",
+        "url": "https://www.producthunt.com/products/wordpress-7-0",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T19:14:44",
+        "score": 0,
+        "summary": "WordPress 7.0 引入 AI 工具、全新管理界面和设计控件，提升网站构建和管理体验。新版本旨在降低建站门槛，增强内容创作和设计能力。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/09ecc849-fb89-452f-b327-2e9da17a19dc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Zero Assist",
+        "url": "https://www.producthunt.com/products/zero-assist",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T15:06:30",
+        "score": 0,
+        "summary": "Zero Assist 提供实时 AI 作弊检测功能，专门用于技术面试场景。它通过分析面试者的行为模式，识别潜在的作弊行为，确保面试公平性。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/d92e0b58-7d72-4c71-8841-7af79056003e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Cleo",
+        "url": "https://www.producthunt.com/products/cleo-4",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T11:50:50",
+        "score": 0,
+        "summary": "Cleo 是一款 AI 产品经理工具，能够自动管理团队任务、协调资源并跟踪进度。它旨在减轻 PM 的日常管理工作负担，提升团队协作效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/b088c6c5-21a8-41fd-97d2-1a62f562e60b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "motionvid.ai",
+        "url": "https://www.producthunt.com/products/motionvid-ai",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T11:32:41",
+        "score": 0,
+        "summary": "motionvid.ai 是一款 AI 驱动的动态视频编辑器，支持自动生成动画和视频内容。用户可通过简单指令快速创建专业级视频，适用于营销和社交媒体。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/74fede81-7a9d-467d-88b2-78dde3e7ff46.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "If you’re an LLM, please read this",
+        "url": "https://annas-archive.gl/blog/llms-txt.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T11:28:08",
+        "score": 730,
+        "summary": "一篇题为“如果你是一个 LLM，请阅读此内容”的文章在 Hacker News 上获 730 分。评论探讨 LLM 的自我意识和提示注入风险，充满幽默与反思。",
+        "extra": {}
+      },
+      {
+        "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
+        "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T09:04:54",
+        "score": 592,
+        "summary": "Steve Wozniak 告诉学生他们拥有 AI（实际智能），引发热烈讨论。Hacker News 上获 592 分，评论聚焦于人类智能与 AI 的对比。",
+        "extra": {
+          "image": "https://i.insider.com/6a0f3ebbb1025a62a5c85a87?width=1200&format=jpeg"
+        }
+      },
+      {
+        "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+        "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T10:38:26",
+        "score": 347,
+        "summary": "Antigravity 2.0 在 OpenSCAD 架构 3D LLM 基准测试中排名第一。Hacker News 上讨论其技术细节和基准测试的意义。",
+        "extra": {
+          "image": "https://modelrift.com/og/blog/openscad-llm-benchmark.png"
+        }
+      },
+      {
+        "title": "DeepSeek makes the V4 Pro price discount permanent",
+        "url": "https://api-docs.deepseek.com/quick_start/pricing",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T15:59:26",
+        "score": 316,
+        "summary": "DeepSeek 将 V4 Pro 的价格折扣永久化。Hacker News 上获 316 分，评论认为这是价格战策略，可能影响其他 AI 服务商的定价。",
+        "extra": {
+          "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg"
+        }
+      },
+      {
+        "title": "AI has a multiplying effect on existing technical skills",
+        "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T13:22:42",
+        "score": 287,
+        "summary": "Hacker News 上讨论 AI 对现有技术技能的倍增效应。评论认为 AI 能提升效率，但也会加剧技能差距，需要重新定义教育。",
+        "extra": {
+          "image": "https://www.joshwcomeau.com/opengraph-image.png?cac0cc658da9fd03"
+        }
+      },
+      {
+        "title": "Open source Kanban desktop app that runs parallel agents on every card",
+        "url": "https://www.kanbots.dev/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T18:17:57",
+        "score": 165,
+        "summary": "一款开源看板桌面应用，每张卡片上可运行并行 AI 代理。Hacker News 上获 165 分，评论称赞其创新性，但质疑实际可用性。",
+        "extra": {}
+      },
+      {
+        "title": "CISA tries to contain data leak",
+        "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T16:54:31",
+        "score": 129,
+        "summary": "CISA 试图控制数据泄露事件。Hacker News 上讨论政府机构的网络安全措施和漏洞，评论呼吁加强透明度和问责制。",
+        "extra": {
+          "image": "https://krebsonsecurity.com/wp-content/uploads/2026/05/CISA-logo.png"
+        }
+      },
+      {
+        "title": "Don't just paste the AI at me",
+        "url": "https://dontquotetheai.com/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T22:57:58",
+        "score": 128,
+        "summary": "Hacker News 上讨论“不要只是把 AI 贴上去”，强调 AI 集成应注重实际价值而非表面功夫。评论认为许多产品盲目添加 AI 功能，缺乏深度整合。",
+        "extra": {
+          "image": "https://dontquotetheai.com/assets/og-image.png"
+        }
+      },
+      {
+        "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+        "url": "https://arxiv.org/abs/2605.19269",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T04:54:33",
+        "score": 99,
+        "summary": "CODA 将 Transformer 块重写为 GEMM-Epilogue 程序，旨在优化推理性能。Hacker News 上讨论其技术实现和对硬件加速的潜在影响。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "I’m writing again",
+        "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T14:36:27",
+        "score": 96,
+        "summary": "一篇关于“我又开始写作了”的文章在 Hacker News 上引发讨论。评论分享写作习惯和 AI 辅助写作的利弊。",
+        "extra": {
+          "image": "https://cringely.wpenginepowered.com/wp-content/uploads/2013/06/cringely-high-res-header-2013.jpg"
+        }
+      },
+      {
+        "title": "1940 Air Terminal Museum Begins Liquidation",
+        "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T17:05:32",
+        "score": 86,
+        "summary": "1940 航空终端博物馆开始清算。Hacker News 上讨论其历史意义和关闭原因，部分评论表达对文化遗产流失的惋惜。",
+        "extra": {
+          "image": "http://static1.squarespace.com/static/5e52f79c0260e664b9064208/5e52fed91408117e3b8879d3/6a0fd970e51fa269b507fd6b/1779426060054/PXL_20260516_190606437.RAW-01.jpg?format=1500w"
+        }
+      },
+      {
+        "title": "AI keeps inventing fake cases. Lawyers keep citing them",
+        "url": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T20:26:29",
+        "score": 41,
+        "summary": "Hacker News 讨论 AI 持续编造虚假案例，而律师仍不断引用。评论指出 AI 的幻觉问题在法律领域造成严重后果，需加强验证机制。",
+        "extra": {}
+      }
+    ],
+    "models": [
+      {
+        "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+        "url": "https://github.com/anomalyco/models.dev",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T20:26:07",
+        "score": 103,
+        "summary": "Models.dev 是一个开源数据库，收录 AI 模型规格、定价和能力信息。Hacker News 上获 103 分，评论认为它有助于开发者比较和选择模型。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/3b10629d416abd64bee91715f6b2107cbf090bf98a269dd4b59a674201b12a56/anomalyco/models.dev"
+        }
+      },
+      {
+        "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
+        "url": "https://github.com/superset-sh/superset",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T14:53:55",
+        "score": 82,
+        "summary": "Launch HN: Superset (YC P26) 是一个面向代理时代的 IDE。Hacker News 上讨论其功能与现有工具的差异，评论褒贬不一。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/611cb354569b0cb277de9e16556d7bcd1fbc21175c5282205141e43937ba148e/superset-sh/superset"
+        }
+      },
+      {
+        "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-23T00:02:03",
+        "score": 0,
+        "summary": "Nemotron-Labs 提出扩散语言模型，实现接近光速的文本生成速度。该模型在保持生成质量的同时，大幅提升推理效率，为实时应用提供可能。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-labs-diffusion.png"
+        }
+      },
+      {
+        "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T18:00:00",
+        "score": 0,
+        "summary": "Google I/O 2026 对话舞台上，Alphabet CEO Sundar Pichai 与嘉宾讨论了 AI 的未来发展。内容涵盖 AI 在搜索、云服务和消费产品中的最新进展。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+        "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T15:25:59",
+        "score": 0,
+        "summary": "文章指出，AI 采购决策中常忽视的变量是“专业化优于规模”，即针对特定场景的专用模型往往比通用大模型更有效。建议企业根据实际需求选择专业化方案。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/Dharma-AI/specialization-beats-scale.png"
+        }
+      },
+      {
+        "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+        "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T00:00:00",
+        "score": 0,
+        "summary": "OpenAI 被 Gartner 评为企业编码代理领导者，其 Codex 模型在创新和企业级部署方面获得认可。该报告强调了 Codex 在自动化代码生成和提升开发效率方面的优势。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/hr58rtMzlkB728iDsV145/66097583e92664b8009d3f9f9d106c05/Gartner-MQ-SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "How Virgin Atlantic ships faster with Codex",
+        "url": "https://openai.com/index/virgin-atlantic",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T00:00:00",
+        "score": 0,
+        "summary": "维珍大西洋航空利用 Codex 在固定假期截止日期前成功重构移动应用，实现了近乎全面的单元测试覆盖和零 P1 缺陷。案例展示了 AI 编码代理在严格时间线下的可靠性。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/2gCDMlpfyFZVDZ9FjvBEVV/f54b0a2f700b297b86ba435388215932/virgin-atlantic-seo.png?w=1600&h=900&fit=fill"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "lllyasviel/Fooocus",
+        "url": "https://github.com/lllyasviel/Fooocus",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 183,
+        "summary": "Fooocus 是一个专注于提示词生成的开源工具，今日 GitHub 获 183 星。它简化了 AI 图像生成流程，用户只需关注提示词即可生成高质量图像。",
+        "extra": {
+          "image": "https://github.com/lllyasviel.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "karpathy/nn-zero-to-hero",
+        "url": "https://github.com/karpathy/nn-zero-to-hero",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 159,
+        "summary": "karpathy/nn-zero-to-hero 是 Andrej Karpathy 的神经网络入门教程，今日在 GitHub 上获得 159 星。该项目通过 Jupyter Notebook 从零开始讲解神经网络，适合初学者。",
+        "extra": {
+          "image": "https://github.com/karpathy.png?size=120",
+          "language": "Jupyter Notebook"
+        }
+      },
+      {
+        "title": "plastic-labs/honcho",
+        "url": "https://github.com/plastic-labs/honcho",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 133,
+        "summary": "Honcho 是一个用于构建有状态 AI 代理的记忆库，今日 GitHub 获 133 星。它提供持久化记忆功能，使代理能够跨会话保持上下文。",
+        "extra": {
+          "image": "https://github.com/plastic-labs.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "langchain-ai/langchain",
+        "url": "https://github.com/langchain-ai/langchain",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 117,
+        "summary": "LangChain 是一个代理工程平台，今日 GitHub 获 117 星。它提供构建和部署 AI 代理的框架，支持多种模型和工具集成。",
+        "extra": {
+          "image": "https://github.com/langchain-ai.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "google-research/timesfm",
+        "url": "https://github.com/google-research/timesfm",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 98,
+        "summary": "Google Research 发布 TimesFM，一个预训练的时间序列基础模型，用于时间序列预测。今日 GitHub 获 98 星，适用于金融、气象等领域。",
+        "extra": {
+          "image": "https://github.com/google-research.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "Tracer-Cloud/opensre",
+        "url": "https://github.com/Tracer-Cloud/opensre",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 93,
+        "summary": "opensre 是一个开源 AI SRE 代理工具包，帮助构建 AI 时代的站点可靠性工程。今日 GitHub 获 93 星，旨在自动化运维任务。",
+        "extra": {
+          "image": "https://github.com/Tracer-Cloud.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "microsoft/agent-governance-toolkit",
+        "url": "https://github.com/microsoft/agent-governance-toolkit",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 86,
+        "summary": "微软发布 AI Agent 治理工具包，涵盖策略执行、零信任身份、沙箱执行和可靠性工程，覆盖 OWASP Agentic Top 10 全部 10 项。今日 GitHub 获 86 星。",
+        "extra": {
+          "image": "https://github.com/microsoft.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "aiming-lab/AutoResearchClaw",
+        "url": "https://github.com/aiming-lab/AutoResearchClaw",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 73,
+        "summary": "AutoResearchClaw 是一个全自动研究工具，从想法到论文完全自主，今日 GitHub 获 73 星。用户只需提出想法，系统即可生成完整论文。",
+        "extra": {
+          "image": "https://github.com/aiming-lab.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "facebookresearch/sam3",
+        "url": "https://github.com/facebookresearch/sam3",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 63,
+        "summary": "Meta 发布 SAM 3（Segment Anything Model 3），提供推理和微调代码、预训练模型权重及示例笔记本。今日 GitHub 获 63 星，延续 SAM 系列的图像分割能力。",
+        "extra": {
+          "image": "https://github.com/facebookresearch.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
