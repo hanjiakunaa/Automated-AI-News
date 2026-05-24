@@ -1,0 +1,294 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T10:00:48+08:00",
+  "stats": {
+    "new_count": 26,
+    "total_seen": 1126
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "SignalLEMO - Ai Outreach Made Simple",
+        "url": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-23T02:56:16",
+        "score": 0,
+        "summary": "SignalLEMO 是一款面向现场服务承包商的 AI 驱动的潜在客户拓展工具，旨在简化外联流程。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/955fa282-4255-4ec3-a77f-20ae93031b85.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Vibedock",
+        "url": "https://www.producthunt.com/products/vibedock",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T13:28:39",
+        "score": 0,
+        "summary": "Vibedock 是一款菜单栏工具，可让用户快速切换 Claude Code 的 MCP 服务器，提升开发效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/7b5244c1-91d3-468f-beb7-50c9e85d8f4d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "Italy moves to Airbus A330 tankers",
+        "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-23T16:02:43",
+        "score": 235,
+        "summary": "意大利决定采购空客 A330 加油机，引发关于军事采购和欧洲防务合作的讨论。",
+        "extra": {
+          "image": "https://images.euronews.com/articles/stories/09/76/64/52/1200x675_cmsv2_6886fa64-cf51-57a6-859f-6991f60d99c4-9766452.jpg"
+        }
+      },
+      {
+        "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+        "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-23T20:09:13",
+        "score": 11,
+        "summary": "法航和空客因 2009 年空难被判过失杀人罪，引发对航空安全的讨论。",
+        "extra": {
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d5b5/live/0f7f6c10-5511-11f1-9e5e-fb37d8c40e64.jpg"
+        }
+      },
+      {
+        "title": "NeuralNote",
+        "url": "https://github.com/DamRsn/NeuralNote",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-23T18:51:01",
+        "score": 8,
+        "summary": "NeuralNote 是一款 AI 驱动的笔记工具，支持语音转文字和智能整理。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/4c329ffa61341fed18b4ef4ebbc1d5831d559cc30ab42ff6512af5e51347c571/DamRsn/NeuralNote"
+        }
+      },
+      {
+        "title": "AI didn't kill your junior pipeline. You did",
+        "url": "https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-24T01:00:49",
+        "score": 7,
+        "summary": "Hacker News 讨论认为 AI 并非导致初级开发者岗位消失的原因，而是公司自身的管理和培训问题。",
+        "extra": {
+          "image": "https://andrewmurphy.io/api/og/blog/9c50175b-1dbb-4454-bc3b-ed3629198b5a?v=2026-05-22T05%3A10%3A38.356Z"
+        }
+      },
+      {
+        "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
+        "url": "https://36kr.com/newsflashes/3822612389941383?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-24T02:00:17",
+        "score": 0,
+        "summary": "华泰证券研报看好 2026 年起交换芯片在 AI 驱动下开启二次成长，万卡级集群推动 Scale out 交换芯片量价齐升，超节点架构或成国产算力破局之道。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3821714896408713?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-23T10:10:00",
+        "score": 0,
+        "summary": "圆桌对话认为下一个杀手级 AI 产品可能出现在 AI 眼镜或 Agent 赛道，共识是纯套壳应用注定短命，只有长期在线、连接物理世界、完成真实交互闭环的产品才能成为百亿级赛道。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260523/v2_44886f53240244c6904ea0187cba40b5@6381723_oswg133918oswg1000oswg666_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+        }
+      },
+      {
+        "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
+        "url": "https://www.qbitai.com/2026/05/423202.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-23T10:09:58",
+        "score": 0,
+        "summary": "昆仑万维方汉在 AIGC2026 上表示，AI 时代经验不再是护城河，五类人难以被替代，企业做第二名最稳妥。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "OpenAI大神教你如何榨干Codex",
+        "url": "https://www.qbitai.com/2026/05/423179.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-23T09:50:51",
+        "score": 0,
+        "summary": "一位拥有 13k 星开源库的作者分享了如何最大化利用 OpenAI Codex 的技巧，帮助开发者提升编码效率。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI",
+        "url": "https://www.qbitai.com/2026/05/423162.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-23T09:46:37",
+        "score": 0,
+        "summary": "DeepSeek V4 大幅降价，吸引宁王、京东、网易等企业入场，梁文锋承诺坚持开源路线，目标是 AGI。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "DeepSeek-V4-Pro API永久降价",
+        "url": "https://36kr.com/newsflashes/3821591669166214?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-23T08:04:04",
+        "score": 0,
+        "summary": "DeepSeek-V4-Pro 模型 API 将于 2026 年 5 月 31 日结束 2.5 折优惠后，正式调整为原定价的 1/4，实现永久降价。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3821542483857801?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-23T07:14:29",
+        "score": 0,
+        "summary": "圆桌对话指出未来最稀缺的 AI 人才是能在关键低频决策中做出判断的人，懂 AI 正在快速贬值，企业 AI 转型最大卡点是想不到应用场景。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260523/v2_db81f7450e454d90a26d141c38d9c98d@6381723_oswg142298oswg1000oswg666_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+        }
+      },
+      {
+        "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3821533415985283?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-23T07:05:47",
+        "score": 0,
+        "summary": "圆桌对话探讨了 AI 原生人才与产业老炮的共生，仅 1% 企业是 AI 原生，20% 积极转型，80% 挣扎，并分享了通过黑客松挖掘人才、事业留人等策略。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260523/v2_f07df67ae7a04a409e21cf624bef3e30@6381723_oswg125082oswg1000oswg666_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Microsoft starts canceling Claude Code licenses",
+        "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T17:32:04",
+        "score": 452,
+        "summary": "微软开始取消 Claude Code 许可证，引发 441 条评论，讨论科技巨头间的竞争和开发者工具生态。",
+        "extra": {
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        }
+      },
+      {
+        "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
+        "url": "https://www.qbitai.com/2026/05/423159.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-23T02:48:28",
+        "score": 0,
+        "summary": "美团外卖前负责人入局餐饮具身模型，成立元节智能，获千万级种子轮融资，专注餐饮后厨场景而非人形机器人。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "mukul975/Anthropic-Cybersecurity-Skills",
+        "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 281,
+        "summary": "mukul975/Anthropic-Cybersecurity-Skills 是一个包含 754 个结构化网络安全技能的开源项目，映射到 MITRE ATT&CK 等 5 个框架，支持 Claude Code、GitHub Copilot 等 20+ 平台，采用 Apache 2.0 协议。",
+        "extra": {
+          "image": "https://github.com/mukul975.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "presenton/presenton",
+        "url": "https://github.com/presenton/presenton",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 241,
+        "summary": "presenton/presenton 是一个开源 AI 演示文稿生成器及 API，作为 Gamma、Beautiful AI 的替代品，今日获 241 星。",
+        "extra": {
+          "image": "https://github.com/presenton.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "crewAIInc/crewAI",
+        "url": "https://github.com/crewAIInc/crewAI",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 53,
+        "summary": "crewAIInc/crewAI 是一个编排角色扮演、自主 AI 代理的框架，通过协作智能处理复杂任务，今日获 53 星。",
+        "extra": {
+          "image": "https://github.com/crewAIInc.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "OpenPipe/ART",
+        "url": "https://github.com/OpenPipe/ART",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 44,
+        "summary": "OpenPipe/ART 是一个代理强化训练器，使用 GRPO 训练多步代理完成真实世界任务，支持 Qwen3.6、GPT-OSS、Llama 等模型，今日获 44 星。",
+        "extra": {
+          "image": "https://github.com/OpenPipe.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "pydantic/pydantic-ai",
+        "url": "https://github.com/pydantic/pydantic-ai",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 19,
+        "summary": "pydantic/pydantic-ai 是一个基于 Pydantic 的 AI 代理框架，今日获 19 星。",
+        "extra": {
+          "image": "https://github.com/pydantic.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "databricks-solutions/ai-dev-kit",
+        "url": "https://github.com/databricks-solutions/ai-dev-kit",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 4,
+        "summary": "databricks-solutions/ai-dev-kit 是 Databricks 提供的编码代理工具包，由现场工程团队维护，今日获 4 星。",
+        "extra": {
+          "image": "https://github.com/databricks-solutions.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
