@@ -1,0 +1,268 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T10:00:52+08:00",
+  "stats": {
+    "new_count": 21,
+    "total_seen": 1147
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "ModelHub",
+        "url": "https://www.producthunt.com/products/modelhub",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T16:29:50",
+        "score": 0,
+        "summary": "ModelHub 是一款 Mac 菜单栏应用，用于本地运行和管理大型语言模型（LLMs），提供便捷的模型切换和交互体验。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/b25678cd-2051-4c3b-9354-42dc1ba7c955.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Edgee Fallback Models",
+        "url": "https://www.producthunt.com/products/edgee",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-21T21:20:06",
+        "score": 0,
+        "summary": "Edgee Fallback Models 为 Claude Code 提供永不中断的备用模型支持，确保在主要模型不可用时自动切换，提升可靠性。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/5e1ef19e-550f-4462-9f97-df7a27899196.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Stitch 3.0 by Google",
+        "url": "https://www.producthunt.com/products/stitch-by-google",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-20T05:55:36",
+        "score": 0,
+        "summary": "Google 的 Stitch 3.0 允许用户在实时画布上通过 AI 生成和迭代 UI 界面，加速设计流程。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/d6a442ee-346a-47a2-8b88-ae597db9c773.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-24T13:02:06",
+        "score": 439,
+        "summary": "Hacker News 热议 DeepSeek reasonix，一款原生编码代理，以高缓存和低成本为特点，获得 439 分。",
+        "extra": {
+          "image": "https://raw.githubusercontent.com/esengine/reasonix/main/docs/assets/hero-terminal.svg"
+        }
+      },
+      {
+        "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+        "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-24T16:31:29",
+        "score": 295,
+        "summary": "Hacker News 讨论指出，内存已占 AI 芯片组件成本的近三分之二，凸显内存瓶颈对 AI 硬件成本的影响。",
+        "extra": {
+          "image": "https://epoch.ai/assets/images/data-insights/ai-chip-component-cost-shares/t-ai-chip-component-cost-shares.png"
+        }
+      },
+      {
+        "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+        "url": "https://arxiv.org/abs/2605.06445",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-24T12:55:53",
+        "score": 175,
+        "summary": "Hacker News 讨论约束衰减问题，揭示 LLM 代理在后端代码生成中的脆弱性，获得 175 分。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+        "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-24T15:21:28",
+        "score": 152,
+        "summary": "Hacker News 讨论“AI 洗白”现象，许多公司急于将自己重新定位为技术驱动，引发对 AI 炒作真实性的质疑。",
+        "extra": {
+          "image": "https://i.guim.co.uk/img/media/6c4dd4b2880760003ffbd14e8d6884b367237ad3/1844_305_2349_1879/master/2349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ae6c8a540881dcdf228bf87820a2733"
+        }
+      },
+      {
+        "title": "高德问店选址Skill接入钉钉悟空",
+        "url": "https://36kr.com/newsflashes/3824063200301449?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T01:58:14",
+        "score": 0,
+        "summary": "钉钉悟空平台上线高德问店选址智能助手，通过自然语言对话为连锁品牌加盟商提供位置推荐、点位评估等全流程选址服务。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "香港交易所回应“算力期货布局规划”：暂无评论可提供，将来如有相关信息将及时公布",
+        "url": "https://36kr.com/newsflashes/3824047189971332?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T01:41:57",
+        "score": 0,
+        "summary": "香港交易所回应算力期货布局规划，称暂无评论，未来如有相关信息将及时公布。此前芝加哥商品交易所宣布计划推出 AI 算力期货市场。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "“具脑磐石”完成新一轮亿元级融资",
+        "url": "https://36kr.com/newsflashes/3824042643771523?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T01:37:20",
+        "score": 0,
+        "summary": "具身智能大脑公司具脑磐石完成新一轮亿元级融资，由产业资本领投，资金将用于认知世界模型研发、人才团队扩容及全球化市场拓展。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "华为具身大脑一号位做类脑智能世界模型，对标JEPA，获亿元级融资｜硬氪首发",
+        "url": "https://36kr.com/p/3819931562414467?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T01:30:00",
+        "score": 0,
+        "summary": "华为具身大脑一号位团队研发类脑智能世界模型，对标 JEPA，并完成亿元级融资，资金将加速认知世界模型的工程化落地与真实场景验证。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260522/v2_c9e63416f89647e6bbe7def9da2c8fb9@6022551_oswg193361oswg832oswg566_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+        }
+      },
+      {
+        "title": "从服务沉默玩家，到技术外溢至千行百业：游戏+AI的下一站是什么？",
+        "url": "https://36kr.com/p/3822747968196993?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T01:16:04",
+        "score": 0,
+        "summary": "GDC 大会上，《和平精英》披露 AI 队友周末活跃玩家突破 1770 万，累计 1.1 亿人体验，麦克风开启率 75% 超真人双排，显示游戏 AI 技术正外溢至千行百业。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260524/v2_75d8204a35b540288b4ee4e36c667ab8@6371858_oswg118042oswg1080oswg607_img_000?x-oss-process=image/format,jpg/interlace,1"
+        }
+      },
+      {
+        "title": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
+        "url": "https://www.qbitai.com/2026/05/423421.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-24T10:50:44",
+        "score": 0,
+        "summary": "AIGC2026 圆桌论坛探讨 Agent 含金量持续提升，大厂集体下场后创业公司仍有机会，聚焦 Agent 技术落地与差异化竞争。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "谷歌CEO承认Coding落后了",
+        "url": "https://www.qbitai.com/2026/05/423390.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-24T06:20:35",
+        "score": 0,
+        "summary": "谷歌 CEO 承认在编码领域落后，搜索迎来 25 年来最大改版，但谷歌仍谨慎推进 AI 集成，未完全转向 AI 驱动。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+        "url": "https://www.qbitai.com/2026/05/423382.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-24T06:14:05",
+        "score": 0,
+        "summary": "硅谷投资人张璐在 AIGC2026 上预测，未来推理将消耗 70% 算力，训练仅占 30%，强调产业整合速度是 AI 落地的关键。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      }
+    ],
+    "models": [],
+    "github": [
+      {
+        "title": "manaflow-ai/cmux",
+        "url": "https://github.com/manaflow-ai/cmux",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 696,
+        "summary": "manaflow-ai/cmux 是基于 Ghostty 的 macOS 终端，专为 AI 编码代理设计，支持垂直标签和通知功能，今日星标增长 696+。",
+        "extra": {
+          "image": "https://github.com/manaflow-ai.png?size=120",
+          "language": "Swift"
+        }
+      },
+      {
+        "title": "anthropics/knowledge-work-plugins",
+        "url": "https://github.com/anthropics/knowledge-work-plugins",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 550,
+        "summary": "Anthropic 开源 knowledge-work-plugins 仓库，包含面向知识工作者的 Claude Cowork 插件，今日 GitHub 星标增长 550+。",
+        "extra": {
+          "image": "https://github.com/anthropics.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "earendil-works/pi",
+        "url": "https://github.com/earendil-works/pi",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 456,
+        "summary": "earendil-works/pi 是一个 AI 代理工具包，包含编码代理 CLI、统一 LLM API、TUI/Web UI 库、Slack 机器人和 vLLM Pods，今日星标增长 456+。",
+        "extra": {
+          "image": "https://github.com/earendil-works.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "Aider-AI/aider",
+        "url": "https://github.com/Aider-AI/aider",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 33,
+        "summary": "Aider-AI/aider 是终端中的 AI 结对编程工具，支持多种 LLM，今日 GitHub 星标增长 33+。",
+        "extra": {
+          "image": "https://github.com/Aider-AI.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "elder-plinius/OBLITERATUS",
+        "url": "https://github.com/elder-plinius/OBLITERATUS",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 30,
+        "summary": "elder-plinius/OBLITERATUS 是一个 Python 项目，旨在打破束缚，今日星标增长 30+。",
+        "extra": {
+          "image": "https://github.com/elder-plinius.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
