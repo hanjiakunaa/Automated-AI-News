@@ -1,0 +1,386 @@
+{
+  "date": "2026-05-26",
+  "generated_at": "2026-05-26T10:01:02+08:00",
+  "stats": {
+    "new_count": 45,
+    "total_seen": 1192
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "MashuPack",
+        "url": "https://www.producthunt.com/products/mashupack",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T06:30:11",
+        "score": 0,
+        "summary": "MashuPack 可将代码库转换为干净文件，方便 Claude 和 ChatGPT 处理。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/1a3b6f73-2b64-4aea-b0eb-51b86e58d3d7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Pi Coding Agent",
+        "url": "https://www.producthunt.com/products/pi-coding-agent-3",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T03:24:52",
+        "score": 0,
+        "summary": "Pi Coding Agent 是一个可定制的编码 Agent 框架，让开发者打造自己的编程助手。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/132e30a5-12b3-4688-88d9-19f7f387e776.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "tldx",
+        "url": "https://www.producthunt.com/products/tldx",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-24T14:53:43",
+        "score": 0,
+        "summary": "tldx 是一个快速 CLI 工具，通过 RDAP 和 MCP 批量检查域名状态。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/d4d05bf2-c6f3-4a52-b220-10b52f6c0e9b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Yansu",
+        "url": "https://www.producthunt.com/products/yansu",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-24T01:28:56",
+        "score": 0,
+        "summary": "Yansu 是一个 AI 工具，学习用户工作方式并将其转化为软件。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/3ce3774a-1e42-48b8-9e74-d89b30f42baf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Orchestria",
+        "url": "https://www.producthunt.com/products/orchestria",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T15:00:33",
+        "score": 0,
+        "summary": "Orchestria 是一个 AI 音乐引擎，支持精细的音轨控制。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/cd3d3394-e5ca-4f9e-9bef-142e1456150b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "LLMTest",
+        "url": "https://www.producthunt.com/products/llmtest-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T08:28:23",
+        "score": 0,
+        "summary": "LLMTest 帮助应用选择合适的大模型并设置回退策略，确保可靠性。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/1867727b-ce99-4c28-a1b7-ff9c66fe1dc6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+        "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-25T13:56:39",
+        "score": 266,
+        "summary": "荷兰扣押 800 台服务器并逮捕 2 人，涉嫌协助网络攻击，引发 69 条评论，评分 266。",
+        "extra": {
+          "image": "https://krebsonsecurity.com/wp-content/uploads/2026/05/the-hosting-outage.png"
+        }
+      },
+      {
+        "title": "Microsoft Copilot Cowork Exfiltrates Files",
+        "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-25T21:45:57",
+        "score": 187,
+        "summary": "Microsoft Copilot 被曝可外泄文件，引发 38 条评论，评分 187。",
+        "extra": {
+          "image": "https://framerusercontent.com/images/Fz2grPJZYphlPnkqBBNJrqqyNs.png?width=6679&height=4694"
+        }
+      },
+      {
+        "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+        "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-25T19:37:57",
+        "score": 162,
+        "summary": "挪威使用 2 PB 华为闪存存储进行大模型训练，引发 75 条评论，评分 162。",
+        "extra": {
+          "image": "https://image.blocksandfiles.com/5244912.jpg?imageId=5244912&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        }
+      },
+      {
+        "title": "Using AI to write better code more slowly",
+        "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-25T23:16:59",
+        "score": 145,
+        "summary": "文章探讨如何用 AI 更慢地写出更好的代码，引发 43 条评论，评分 145。",
+        "extra": {
+          "image": "https://nolanlawson.com/wp-content/uploads/2025/01/favicon.png?w=32"
+        }
+      },
+      {
+        "title": "AI errno(2) values",
+        "url": "https://www.netmeister.org/blog/ai-errno.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T14:56:57",
+        "score": 119,
+        "summary": "文章讨论 AI 错误码 errno(2) 的值，引发 18 条评论，评分 119。",
+        "extra": {}
+      },
+      {
+        "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+        "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-25T19:43:45",
+        "score": 97,
+        "summary": "日本成功测试 Mach-5 超燃冲压发动机，引发 86 条评论，评分 97。",
+        "extra": {
+          "image": "https://www.bgr.com/img/gallery/japans-new-hypersonic-engine-could-make-2-hour-flights-to-the-us-a-reality/l-intro-1779312403.jpg"
+        }
+      },
+      {
+        "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+        "url": "https://support.apple.com/en-us/127115",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-25T23:40:40",
+        "score": 64,
+        "summary": "Claude 发现 Apple macOS 26.5 内核漏洞 CVE-2026-28952，引发 22 条评论，评分 64。",
+        "extra": {}
+      },
+      {
+        "title": "The physicists who convinced Fermilab to send Brazil's emails",
+        "url": "https://buttondown.com/blog/brazil-fermilab-email",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-21T08:06:45",
+        "score": 49,
+        "summary": "物理学家说服 Fermilab 发送巴西的电子邮件，引发 17 条评论，评分 49。",
+        "extra": {
+          "image": "https://marketing.buttondown.com/og/generic?title=The+physicists+who+convinced+Fermilab+to+send+Brazil%27s+emails&subtitle=Ryan+Farley&date=July+3%2C+2025&category=just+for+fun"
+        }
+      },
+      {
+        "title": "CPPL: A Circuit Prompt Programming Language",
+        "url": "https://arxiv.org/abs/2605.17892",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-21T11:50:56",
+        "score": 37,
+        "summary": "CPPL 是一种电路提示编程语言，引发 6 条评论，评分 37。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Every Frontier AI Is INTJ",
+        "url": "https://zonted.com/posts/every-ai-is-intj/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-25T22:43:16",
+        "score": 15,
+        "summary": "文章称所有前沿 AI 都是 INTJ 人格类型，引发 5 条评论，评分 15。",
+        "extra": {
+          "image": "https://img.zonted.com/resources/every-ai-is-intj/grok-4-3-result.png"
+        }
+      },
+      {
+        "title": "Agentic Patterns",
+        "url": "https://veso.ai/research/agentic-patterns/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-25T22:32:57",
+        "score": 14,
+        "summary": "讨论 Agentic Patterns（代理模式），仅有 3 条评论，评分 14。",
+        "extra": {
+          "image": "https://veso.ai/images/veso-ai-blog-placeholder.svg"
+        }
+      },
+      {
+        "title": "Cox Media fined after bragging it spied on users through their phones",
+        "url": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-25T23:10:05",
+        "score": 12,
+        "summary": "Cox Media 因吹嘘通过手机监视用户被罚款，但 HN 上暂无评论。",
+        "extra": {
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13959620/acastro_190204_1777_privacy_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026",
+        "url": "https://www.qbitai.com/2026/05/424584.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T06:56:42",
+        "score": 0,
+        "summary": "蚂蚁灵波沈宇军认为 VLA 和世界模型非终局，物理世界需独有模型，目标是做机器人时代的安卓系统。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
+        "url": "https://www.qbitai.com/2026/05/424551.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T04:38:24",
+        "score": 0,
+        "summary": "2026 智源大会将集结图灵奖得主及中国大模型第一梯队，探讨 AI 下一程，报名已开启。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想",
+        "url": "https://www.qbitai.com/2026/05/424277.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T03:29:41",
+        "score": 0,
+        "summary": "SaaS-Bench 评测显示，Claude 等大模型在真实办公任务中完全通过率最高仅 3.8%，AI 全自动办公远未落地。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资",
+        "url": "https://www.qbitai.com/2026/05/423455.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T02:28:17",
+        "score": 0,
+        "summary": "华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+        "url": "https://huggingface.co/blog/agent-glossary",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T00:00:00",
+        "score": 0,
+        "summary": "Hugging Face 发文探讨 AI Agent 领域的关键术语，如 Harness、Scaffold 等，旨在厘清概念，推动行业共识。",
+        "extra": {
+          "image": "https://huggingface.co/blog/assets/agent-glossary/thumbnail.png"
+        }
+      },
+      {
+        "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+        "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T00:00:00",
+        "score": 0,
+        "summary": "OpenAI 与巴西媒体集团 Grupo Folha 和 Grupo UOL 达成战略合作，将可信的巴西新闻引入 ChatGPT，并确保内容归属与透明度。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/5r2QUTvY5Zjg2vjOFVqbFA/63060b11739247750d8eabb3d029e7ae/Grup-SEO-Image.png?w=1600&h=900&fit=fill"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "affaan-m/ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 2025,
+        "summary": "GitHub 项目 ECC 是一个 Agent 性能优化系统，支持技能、直觉、记忆、安全等功能，兼容 Claude Code、Codex 等工具，今日获 2025 星。",
+        "extra": {
+          "image": "https://github.com/affaan-m.png?size=120",
+          "language": "JavaScript"
+        }
+      },
+      {
+        "title": "hardikpandya/stop-slop",
+        "url": "https://github.com/hardikpandya/stop-slop",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 345,
+        "summary": "Stop-Slop 项目提供技能文件，用于去除 AI 写作中的常见套路痕迹，今日获 345 星。",
+        "extra": {
+          "image": "https://github.com/hardikpandya.png?size=120",
+          "language": ""
+        }
+      },
+      {
+        "title": "Leonxlnx/taste-skill",
+        "url": "https://github.com/Leonxlnx/taste-skill",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 264,
+        "summary": "Taste-Skill 项目通过 Shell 脚本赋予 AI 审美品味，避免生成无聊、套路化的内容，今日获 264 星。",
+        "extra": {
+          "image": "https://github.com/Leonxlnx.png?size=120",
+          "language": "Shell"
+        }
+      },
+      {
+        "title": "anthropics/claude-cookbooks",
+        "url": "https://github.com/anthropics/claude-cookbooks",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 141,
+        "summary": "Anthropic 发布 Claude Cookbooks 集合，包含 Jupyter Notebook 示例，展示 Claude 的有趣高效用法，今日获 141 星。",
+        "extra": {
+          "image": "https://github.com/anthropics.png?size=120",
+          "language": "Jupyter Notebook"
+        }
+      },
+      {
+        "title": "moeru-ai/airi",
+        "url": "https://github.com/moeru-ai/airi",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 62,
+        "summary": "Airi 是一个自托管的 Grok 伴侣，支持实时语音聊天、Minecraft 和 Factorio 游戏，兼容 Web/macOS/Windows，今日获 62 星。",
+        "extra": {
+          "image": "https://github.com/moeru-ai.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "OpenBB-finance/OpenBB",
+        "url": "https://github.com/OpenBB-finance/OpenBB",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 43,
+        "summary": "OpenBB 是一个面向分析师、量化交易者和 AI Agent 的金融数据平台，今日获 43 星。",
+        "extra": {
+          "image": "https://github.com/OpenBB-finance.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
