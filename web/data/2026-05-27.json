@@ -1,0 +1,384 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T10:01:01+08:00",
+  "stats": {
+    "new_count": 42,
+    "total_seen": 1234
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "SelectPrism",
+        "url": "https://www.producthunt.com/products/selectprism",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-26T02:26:22",
+        "score": 0,
+        "summary": "SelectPrism 是一个 AI 招聘代理，可自动筛选和面试候选人，帮助团队更快完成招聘流程。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/45e26253-9f86-4ad4-a351-4bfa8585245a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Parrot Speech-to-text API",
+        "url": "https://www.producthunt.com/products/parrot-speech-to-text-api",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T19:49:34",
+        "score": 0,
+        "summary": "Parrot Speech-to-text API 提供快速、准确的语音转文本服务，专为生产级语音代理设计。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/560c5ac6-5e86-4314-8355-ddcaf4b7f222.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Ajar",
+        "url": "https://www.producthunt.com/products/ajar",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T13:29:46",
+        "score": 0,
+        "summary": "Ajar 是一款 Mac 应用，可同步 Lid Angle 并保持 AI 代理唤醒状态，提升工作效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/6b4098d8-c565-416b-818c-80f8ca010a23.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "ReplylessAI Sequences",
+        "url": "https://www.producthunt.com/products/replylessai",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T09:15:07",
+        "score": 0,
+        "summary": "ReplylessAI Sequences 提供外发邮件序列功能，避免传统销售工具的臃肿，简化流程。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/30fc8a51-f95c-469f-8525-5f5c43ca5793.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Ormedo",
+        "url": "https://www.producthunt.com/products/ormedo",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T07:08:10",
+        "score": 0,
+        "summary": "Ormedo 让 AI 代理自动处理整个外发销售管道，从线索生成到跟进，减少人工干预。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/64876bd2-8156-468d-89ea-1258d8595587.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "marpy.io",
+        "url": "https://www.producthunt.com/products/marpy-io-python-first-ai-dev-platform",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-24T17:10:41",
+        "score": 0,
+        "summary": "marpy.io 是一个专为 Python 技术栈打造的 AI 编码平台，提供智能代码生成和调试功能。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/79f607fb-c5a5-4196-829f-902d478fa0eb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "NoteCove",
+        "url": "https://www.producthunt.com/products/notecove",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-24T14:51:21",
+        "score": 0,
+        "summary": "NoteCove 是一款离线优先的笔记和任务管理应用，集成 AI 功能，无需 SaaS 订阅费用。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/5d695473-9a61-4c1a-a2a4-ac5bb162d686.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Parsewise API",
+        "url": "https://www.producthunt.com/products/parsewise",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T21:59:32",
+        "score": 0,
+        "summary": "Parsewise API 提供代理式多文档处理能力，支持复杂文档的解析和提取。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/cccafac7-5bb9-42af-a631-e62578386bcd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "AI Shadowing",
+        "url": "https://www.producthunt.com/products/ai-shadowing",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-22T15:07:49",
+        "score": 0,
+        "summary": "AI Shadowing 可将任意 YouTube 视频转化为语言影子跟读课程，辅助语言学习。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/e1776173-9410-4bd4-bd82-ee30b6d0d260.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+        "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-26T13:08:13",
+        "score": 780,
+        "summary": "Hacker News 高热度讨论（780 分）西班牙因缺乏赌博牌照封锁预测市场 Polymarket 和 Kalshi。",
+        "extra": {}
+      },
+      {
+        "title": "Uber president says AI spending is getting 'harder to justify'",
+        "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-26T10:01:39",
+        "score": 262,
+        "summary": "Hacker News 讨论（262 分）Uber 总裁表示 AI 支出越来越难以证明其合理性。",
+        "extra": {
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2245764686.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
+        }
+      },
+      {
+        "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+        "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-26T12:08:33",
+        "score": 246,
+        "summary": "Hacker News 讨论（246 分）认为外包加本地 AI 将比前沿实验室更具经济性。",
+        "extra": {}
+      },
+      {
+        "title": "A sleep-like consolidation mechanism for LLMs",
+        "url": "https://arxiv.org/abs/2605.26099",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-26T15:36:24",
+        "score": 185,
+        "summary": "Hacker News 热门讨论（185 分）提出类似睡眠的巩固机制用于 LLM，以提升模型性能。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Use boring languages with LLMs",
+        "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-22T15:10:22",
+        "score": 176,
+        "summary": "Hacker News 热门讨论（176 分）建议使用无聊的语言与 LLM 交互，以提高可靠性和可预测性。",
+        "extra": {
+          "image": "https://jry.io/writing/use-boring-languages-with-llms/python_environment_2x.png"
+        }
+      },
+      {
+        "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
+        "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-26T11:46:10",
+        "score": 64,
+        "summary": "Hacker News 讨论 Eagle 3.1，EAGLE 团队、vLLM 团队和 TorchSpec 团队合作推出。",
+        "extra": {
+          "image": "https://vllm.ai/og?title=EAGLE%203.1%3A%20Advancing%20Speculative%20Decoding%20Through%20Collaboration%20Between%20the%20EAGLE%20Team%2C%20vLLM%2C%20and%20TorchSpec&authors=EAGLE%20Team%2C%20vLLM%20Team%2C%20and%20TorchSpec%20Team&date=2026-05-26&path=/blog"
+        }
+      },
+      {
+        "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
+        "url": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-26T20:23:40",
+        "score": 32,
+        "summary": "Hacker News 报道旧金山湾区母亲因骗子使用 AI 模仿女儿声音而被骗数千美元，引发对 AI 语音诈骗的担忧。",
+        "extra": {
+          "image": "https://cdn.abcotvs.com/dip/images/19163624_052426-kgo-ai-kidnap-scam-img.jpg?w=1600"
+        }
+      },
+      {
+        "title": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
+        "url": "https://deepswe.datacurve.ai/blog",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-26T19:40:59",
+        "score": 29,
+        "summary": "Hacker News 讨论 DeepSWE 基准测试，用于评估长周期编码代理，避免数据污染。",
+        "extra": {
+          "image": "https://deepswe.datacurve.ai/og/deepswe-card.webp"
+        }
+      },
+      {
+        "title": "AI Tools Are Only as Good as Your Judgment – and That's the Point",
+        "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T00:00:35",
+        "score": 13,
+        "summary": "Hacker News 讨论指出 AI 工具的效果取决于用户判断力，强调人类判断在 AI 应用中的核心作用。",
+        "extra": {}
+      },
+      {
+        "title": "Liverpool and Manchester Railway",
+        "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-24T15:56:26",
+        "score": 12,
+        "summary": "Hacker News 上关于利物浦和曼彻斯特铁路的讨论。",
+        "extra": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Opening_Liverpool_and_Manchester_Railway.jpg"
+        }
+      },
+      {
+        "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war",
+        "url": "https://platform.xiaomimimo.com/docs/en-US/welcome",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-26T23:02:59",
+        "score": 11,
+        "summary": "Hacker News 讨论小米 MiMo-v2.5 价格下降 99%，引发 AI 价格战讨论。",
+        "extra": {
+          "image": "https://platform.xiaomimimo.com/og-image.jpg"
+        }
+      },
+      {
+        "title": "ALPR Mission Creep: School Residency, Background Checks, and Noise Complaints",
+        "url": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-26T23:51:01",
+        "score": 7,
+        "summary": "Hacker News 讨论 ALPR 功能滥用，涉及学校居住地检查、背景调查和噪音投诉，引发隐私担忧。",
+        "extra": {
+          "image": "https://www.eff.org/files/banner_library/flockbanner2_davemaass_ccby.png"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
+        "url": "https://www.qbitai.com/2026/05/425296.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-26T06:52:33",
+        "score": 0,
+        "summary": "华为发布 AI DC 数据基础设施全栈方案，旨在加速行业智能化转型。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起",
+        "url": "https://www.qbitai.com/2026/05/425155.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-26T05:50:01",
+        "score": 0,
+        "summary": "荣耀 600 系列手机发布，配备 4K 闪光微单 Live，国补价 2294.15 元起，采用独特“幸运星”设计。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "刚刚，国产Agent模型闯入全球第一梯队！限时免费",
+        "url": "https://www.qbitai.com/2026/05/424851.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-26T04:13:32",
+        "score": 0,
+        "summary": "国产 Agent 模型闯入全球第一梯队，深度适配 OpenClaw、Claude Code 等工具，限时免费。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "DigitalPlatDev/FreeDomain",
+        "url": "https://github.com/DigitalPlatDev/FreeDomain",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 1219,
+        "summary": "DigitalPlatDev/FreeDomain 是一个免费域名项目，今日 GitHub 星标增长 +1219，提供免费域名服务。",
+        "extra": {
+          "image": "https://github.com/DigitalPlatDev.png?size=120",
+          "language": "HTML"
+        }
+      },
+      {
+        "title": "thedotmack/claude-mem",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 352,
+        "summary": "thedotmack/claude-mem 为 AI 代理提供跨会话持久上下文，压缩并注入相关信息，支持 Claude Code 等工具，今日 GitHub 星标 +352。",
+        "extra": {
+          "image": "https://github.com/thedotmack.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "shareAI-lab/learn-claude-code",
+        "url": "https://github.com/shareAI-lab/learn-claude-code",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 246,
+        "summary": "shareAI-lab/learn-claude-code 是一个从零构建的轻量级代理框架，类似 Claude Code，今日 GitHub 星标 +246。",
+        "extra": {
+          "image": "https://github.com/shareAI-lab.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "twentyhq/twenty",
+        "url": "https://github.com/twentyhq/twenty",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 216,
+        "summary": "twentyhq/twenty 是 Salesforce 的开源替代品，专为 AI 设计，今日 GitHub 星标 +216，使用 TypeScript 构建。",
+        "extra": {
+          "image": "https://github.com/twentyhq.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "Open-Dev-Society/OpenStock",
+        "url": "https://github.com/Open-Dev-Society/OpenStock",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 156,
+        "summary": "Open-Dev-Society/OpenStock 是开源股票市场平台，提供实时价格、个性化提醒和公司洞察，今日 GitHub 星标 +156。",
+        "extra": {
+          "image": "https://github.com/Open-Dev-Society.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "modelscope/FunASR",
+        "url": "https://github.com/modelscope/FunASR",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 42,
+        "summary": "modelscope/FunASR 是工业级语音识别工具包，支持 170 倍实时率、50+ 语言、说话人分离和情感检测，今日 GitHub 星标 +42。",
+        "extra": {
+          "image": "https://github.com/modelscope.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
