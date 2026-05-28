@@ -1,0 +1,481 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T10:01:12+08:00",
+  "stats": {
+    "new_count": 54,
+    "total_seen": 1288
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "zero.xyz",
+        "url": "https://www.producthunt.com/products/zero-xyz",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-26T18:33:09",
+        "score": 0,
+        "summary": "zero.xyz 为 AI Agent 提供约 8000 个工具、API 和服务的访问接口，覆盖多种功能，旨在扩展 Agent 的能力边界。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/bdc72f94-9d9f-48bc-8c03-645e706eb834.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Harbor",
+        "url": "https://www.producthunt.com/products/habor",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-26T16:29:14",
+        "score": 0,
+        "summary": "Harbor 提供 CLI 和配套应用，用于快速搭建完整的本地 LLM 开发栈，简化本地模型部署和调试流程。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/4a8c4d64-ebaa-4c8a-a931-7de51ac79294.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Extend",
+        "url": "https://www.producthunt.com/products/extend-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-26T15:41:04",
+        "score": 0,
+        "summary": "Extend 能以 SOTA 精度解析任意 PDF 布局，专为 AI 流水线设计，提升文档处理效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/1f9a77ca-d5da-498c-acd7-70801ff0dd1e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Chunk sidecars",
+        "url": "https://www.producthunt.com/products/circleci",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-26T13:49:27",
+        "score": 0,
+        "summary": "Chunk sidecars 在代码进入 CI 前验证 Agent 生成的代码，提前发现错误，减少集成风险。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/4ccf9f24-23d4-416c-8c98-629e7912944d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "AgenticCalling AI",
+        "url": "https://www.producthunt.com/products/agenticcalling-ai",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-26T10:43:30",
+        "score": 0,
+        "summary": "AgenticCalling AI 赋予 AI 拨打电话的能力，支持语音交互，扩展 Agent 的通信渠道。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/47ec74b3-f4fc-4eef-95dd-83f60e81083a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Pawse.ai",
+        "url": "https://www.producthunt.com/products/pawse-ai",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-26T10:02:57",
+        "score": 0,
+        "summary": "Pawse.ai 是一款针对狗的声学调节系统，通过声音干预改善犬只行为。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/9369a662-8441-4836-b6c9-a08200d2a6e1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Calling Skills for AI Agents",
+        "url": "https://www.producthunt.com/products/cometchat-skills",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-26T09:59:31",
+        "score": 0,
+        "summary": "Calling Skills for AI Agents 允许通过编码 Agent 添加语音和视频通话功能，增强交互方式。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/f2942e52-773b-4c5d-9f06-8efa3a090882.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Octolane",
+        "url": "https://www.producthunt.com/products/octolane",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-26T07:00:40",
+        "score": 0,
+        "summary": "Octolane 是一款可对话的自动驾驶 AI CRM，通过自然语言交互管理客户关系。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/854ecaab-a3bd-4938-a5e1-b26a29d43b39.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "BobCA",
+        "url": "https://www.producthunt.com/products/bob-s-workshop",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-26T04:17:14",
+        "score": 0,
+        "summary": "BobCA 是一个自主 Agent，能学习用户的编码偏好并据此编写代码，实现个性化开发辅助。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/5ce7c413-f1a8-4b63-878b-b03414939a92.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Curlo",
+        "url": "https://www.producthunt.com/products/curlo",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T06:25:21",
+        "score": 0,
+        "summary": "Curlo 提供本地 AI 搜索，通过描述查找音效和音乐，无需联网即可检索。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/73723489-310a-468f-be10-a1ee28e6600d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Bluedot 2.1",
+        "url": "https://www.producthunt.com/products/bluedot-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-24T11:15:12",
+        "score": 0,
+        "summary": "Bluedot 2.1 支持在 Apple Watch 上录音并与 Claude 同步，方便移动端记录和 AI 处理。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/3af61d15-8017-4c76-b7b0-40fab4eef895.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "I'm Tired of Talking to AI",
+        "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T10:43:25",
+        "score": 1843,
+        "summary": "用户表达对与 AI 对话的厌倦，获 1843 分高赞，反映 AI 交互疲劳。",
+        "extra": {}
+      },
+      {
+        "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+        "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T16:28:41",
+        "score": 675,
+        "summary": "DuckDuckGo 搜索访问量增长 28%，因 Google 推广 AI 模式引发用户迁移。",
+        "extra": {
+          "image": "https://cdn.mos.cms.futurecdn.net/CiEBkxLPHniUeZDcJCDbD7-1920-80.jpg"
+        }
+      },
+      {
+        "title": "I think Anthropic and OpenAI have found product-market fit",
+        "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T16:39:13",
+        "score": 656,
+        "summary": "观点认为 Anthropic 和 OpenAI 已找到产品市场契合点，获 656 分高赞。",
+        "extra": {}
+      },
+      {
+        "title": "Tech CEOs are apparently suffering from AI psychosis",
+        "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T15:20:47",
+        "score": 574,
+        "summary": "科技 CEO 被指患有“AI 精神病”，过度炒作 AI 能力，获 574 分热议。",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1265000101.jpg?resize=1200,857"
+        }
+      },
+      {
+        "title": "YouTube to automatically label AI-generated videos",
+        "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T20:00:51",
+        "score": 544,
+        "summary": "YouTube 将自动标记 AI 生成视频，提升透明度，获 544 分高热度讨论。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/en_HowThisWasMade_WithPopout.max-1440x810.png"
+        }
+      },
+      {
+        "title": "Rust (and Slint) on a Jailbroken Kindle",
+        "url": "https://sverre.me/blog/rust-on-kindle/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T19:51:47",
+        "score": 105,
+        "summary": "开发者成功在越狱 Kindle 上运行 Rust 和 Slint，展示嵌入式系统新可能。",
+        "extra": {
+          "image": "https://sverre.me/processed_images/kindle_slint.4fe7d110ed3ed9bf.webp"
+        }
+      },
+      {
+        "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+        "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T17:24:25",
+        "score": 92,
+        "summary": "讨论 Gemini、Gophers 等替代 HTTPS 的互联网协议，探索去中心化网络。",
+        "extra": {
+          "image": "https://brennan.day/assets/images/blog/gemini.jpg"
+        }
+      },
+      {
+        "title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+        "url": "https://tinycld.org/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T14:36:41",
+        "score": 70,
+        "summary": "开源工作空间应用发布，包含邮件、文档、表格和云盘，支持 Web 和 iOS。",
+        "extra": {
+          "image": "https://tinycld.org/logo.svg"
+        }
+      },
+      {
+        "title": "Fully in-browser container builds",
+        "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-25T13:00:27",
+        "score": 45,
+        "summary": "实现完全在浏览器内进行容器构建，无需本地环境，提升便捷性。",
+        "extra": {
+          "image": "https://ochagavia.nl/images/headshot.jpg"
+        }
+      },
+      {
+        "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+        "url": "https://arxiv.org/abs/2605.21779",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T17:42:24",
+        "score": 40,
+        "summary": "多 Agent LLM 系统用于自动化漏洞发现和复现，提升安全测试效率。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Ripgrep AI Policy",
+        "url": "https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T11:40:49",
+        "score": 40,
+        "summary": "Ripgrep 项目发布 AI 政策，规范 AI 使用和贡献。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/675cf0f0f56a2f47f5273e5f2e8400c4b08aaa262386d3419eb7018df2f4d89b/BurntSushi/ripgrep"
+        }
+      },
+      {
+        "title": "Show HN: Open-Source AI Racing Harness",
+        "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T20:37:42",
+        "score": 16,
+        "summary": "开源 AI 赛车框架发布，支持训练和部署赛车 AI Agent，获社区关注。",
+        "extra": {
+          "image": "https://cdn.prod.website-files.com/65b83ac4cf86c236d2b91487/65bacca1717fa2751d674cef_Logo.svg"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+        "url": "https://arps18.github.io/posts/claude-code-mastery/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T05:13:39",
+        "score": 375,
+        "summary": "Claude Code 作为日常工具，支持 Claude.md、技能、子 Agent、插件和 MCP，获 375 分。",
+        "extra": {
+          "image": "https://arps18.github.io/images/profile.png"
+        }
+      },
+      {
+        "title": "Training our own AI models",
+        "url": "https://posthog.com/blog/training-ai-models",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T16:08:42",
+        "score": 194,
+        "summary": "讨论训练自有 AI 模型的实践和挑战，涉及数据、算力和成本。",
+        "extra": {
+          "image": "https://d36j3rcgc2qfsv.cloudfront.net/blogtraining-ai-models.jpeg"
+        }
+      },
+      {
+        "title": "Getting Claude to extract data from a 1997 football manager game",
+        "url": "https://bennuttall.com/blog/2026/04/fsm97/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T21:21:15",
+        "score": 9,
+        "summary": "用户尝试用 Claude 从 1997 年足球经理游戏中提取数据，展示 AI 处理旧格式数据的能力。",
+        "extra": {
+          "image": "https://bennuttall.com/blog/2026/04/fsm97/images/fsm-website.webp"
+        }
+      },
+      {
+        "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+        "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-27T17:20:29",
+        "score": 0,
+        "summary": "ITBench-AA 是首个针对企业 IT 任务的 Agent 基准，前沿模型得分低于 50%，由 Artificial Analysis 和 IBM 发布。",
+        "extra": {
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/QzGxABeEDggNYzvgSLQqU.png"
+        }
+      },
+      {
+        "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+        "url": "https://openai.com/index/cisco",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-27T11:00:00",
+        "score": 0,
+        "summary": "Cisco 与 OpenAI 合作利用 Codex 重新定义企业工程，加速 AI 原生开发、AI Defense 工作并自动化缺陷修复。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/6biPCt1l6a2vedPJey5inM/67b80b0750688b948c1fd9b9427cccbd/oai_Cisco_SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "Building self-improving tax agents with Codex",
+        "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-27T07:00:00",
+        "score": 0,
+        "summary": "OpenAI、Thrive 和 Crete 使用 Codex 构建了自我改进的税务 Agent，自动化申报、提升准确率并加速工作流。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/3upo248JfOrgp0fahNLrkt/10f9e23a8be06e38fb21d29faf5e320d/SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "Reachy Mini goes fully local",
+        "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-27T00:00:00",
+        "score": 0,
+        "summary": "Reachy Mini 实现完全本地运行，无需云端依赖，提升隐私和响应速度。",
+        "extra": {
+          "image": "https://huggingface.co/blog/assets/local-reachy-mini-conversation/thumbnail.png"
+        }
+      },
+      {
+        "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+        "url": "https://huggingface.co/blog/delta-weight-sync",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-05-27T00:00:00",
+        "score": 0,
+        "summary": "TRL 引入 Delta Weight Sync 方法，通过 Hub Bucket 高效同步万亿参数模型，减少存储和传输开销。",
+        "extra": {
+          "image": "https://huggingface.co/blog/assets/delta-weight-sync/thumbnail.png"
+        }
+      },
+      {
+        "title": "Warp’s big bet on building open source with GPT-5.5",
+        "url": "https://openai.com/index/warp",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-27T00:00:00",
+        "score": 0,
+        "summary": "Warp 押注开源，利用 GPT-5.5 和 OpenAI 模型协调本地、云端和开源开发工作流中的编码 Agent。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/7H0xxotNq29rPNCbEeOmXP/13f456fbb5b2c39b6cea84ce6647dafc/oai_Warp_SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "Election information and safeguards in 2026",
+        "url": "https://openai.com/index/election-safeguards-2026",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-27T00:00:00",
+        "score": 0,
+        "summary": "OpenAI 在 2026 年全球选举前采取措施，帮助获取选举信息、支持网络防御并提高 AI 透明度。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/2dvhkO8Np9OWEp2HogwXgV/02e53a0aaad16044ed65fd0d8dc7a981/Election-information-and-safeguards-2026-16x9.png?w=1600&h=900&fit=fill"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "harry0703/MoneyPrinterTurbo",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 1742,
+        "summary": "MoneyPrinterTurbo 利用 AI 大模型一键生成高清短视频，今日 GitHub 获 1742 星，Python 实现。",
+        "extra": {
+          "image": "https://github.com/harry0703.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "unclecode/crawl4ai",
+        "url": "https://github.com/unclecode/crawl4ai",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 210,
+        "summary": "Crawl4AI 是开源 LLM 友好的网络爬虫和抓取工具，今日 GitHub 获 210 星，Python 实现。",
+        "extra": {
+          "image": "https://github.com/unclecode.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "Chachamaru127/claude-code-harness",
+        "url": "https://github.com/Chachamaru127/claude-code-harness",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 87,
+        "summary": "claude-code-harness 提供 Claude Code 专用开发框架，通过自主计划→工作→审查循环实现高质量开发，今日获 87 星。",
+        "extra": {
+          "image": "https://github.com/Chachamaru127.png?size=120",
+          "language": "Shell"
+        }
+      },
+      {
+        "title": "agentscope-ai/agentscope",
+        "url": "https://github.com/agentscope-ai/agentscope",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 86,
+        "summary": "agentscope 提供可构建、运行和信任的 Agent 框架，今日 GitHub 获 86 星，Python 实现。",
+        "extra": {
+          "image": "https://github.com/agentscope-ai.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "NVIDIA-NeMo/Megatron-Bridge",
+        "url": "https://github.com/NVIDIA-NeMo/Megatron-Bridge",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 7,
+        "summary": "Megatron-Bridge 支持基于 Megatron 的模型训练，并实现与 Hugging Face 的双向转换，今日获 7 星。",
+        "extra": {
+          "image": "https://github.com/NVIDIA-NeMo.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
