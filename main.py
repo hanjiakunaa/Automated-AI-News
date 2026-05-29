@@ -18,7 +18,7 @@ from core.enrich import fetch_og_images
 from core.filter import filter_items
 from core.report import render
 from core.summarize import summarize
-from sources import github_trending, hackernews, reddit, rss
+from sources import github_trending, hackernews, hf_papers, html_pages, reddit, rss
 from sources.base import Item
 
 
@@ -43,15 +43,19 @@ def _fetch_reddit_serial() -> list[Item]:
 
 
 def fetch_all() -> list[Item]:
-    """RSS / HN / GitHub 并发，Reddit 串行。"""
+    """RSS / HN / GitHub / HF Papers / HTML 并发，Reddit 串行。"""
     all_items: list[Item] = []
-    with ThreadPoolExecutor(max_workers=8) as pool:
+    with ThreadPoolExecutor(max_workers=10) as pool:
         jobs = []
         for name, url in RSS_FEEDS.items():
             jobs.append(pool.submit(_safe, f"RSS · {name}", rss.fetch, name, url))
         jobs.append(pool.submit(_safe, "Hacker News", hackernews.fetch))
         for name, url in GH_TRENDING_URLS:
             jobs.append(pool.submit(_safe, f"GitHub · {name}", github_trending.fetch, name, url))
+        # v0.4: HF Papers + HTML 页面爬虫
+        jobs.append(pool.submit(_safe, "HF Papers", hf_papers.fetch))
+        for site in html_pages.SITES:
+            jobs.append(pool.submit(_safe, f"HTML · {site.name}", html_pages.fetch_one, site))
         # Reddit 串行单独跑
         jobs.append(pool.submit(_fetch_reddit_serial))
 

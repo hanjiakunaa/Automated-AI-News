@@ -1,23 +1,44 @@
-"""AI 关键词过滤 + 时间窗口过滤 + 每源限量。"""
+"""AI 关键词过滤 + 时间窗口过滤 + 每源限量 + 负向词排除。"""
 from datetime import datetime, timedelta
 
-from config import AI_KEYWORDS, MAX_PER_SOURCE, RECENT_DAYS
+from config import AI_KEYWORDS, EXCLUDE_KEYWORDS, MAX_PER_SOURCE, RECENT_DAYS
 from sources.base import Item
 
 _KEYWORDS_LOWER = [k.lower() for k in AI_KEYWORDS]
+_EXCLUDE_LOWER = [k.lower() for k in EXCLUDE_KEYWORDS]
 
-# 这些源全是 AI 内容，跳过关键词过滤
+# 这些源全是 AI 原生内容，跳过 AI 关键词过滤（但负向词仍然过滤）
 _AI_NATIVE_SOURCES = {
-    "量子位",
-    "OpenAI Blog", "Google AI", "DeepMind", "Hugging Face",
+    # 中文 AI 媒体
+    "量子位", "AI科技评论",
+    # 国外 AI 媒体（专做 AI）
+    "The Decoder",
+    # 模型厂官方
+    "OpenAI Blog", "Anthropic News", "Google AI", "DeepMind", "Hugging Face",
+    "NVIDIA AI", "Mistral News", "xAI News", "Microsoft Research",
+    # Reddit AI 子版
     "r/LocalLLaMA", "r/MachineLearning", "r/OpenAI",
+    "r/ClaudeAI", "r/AI_Agents", "r/mcp", "r/cursor", "r/singularity",
+    # 工具
+    "Cursor Changelog", "Vercel AI",  # GitHub Blog 全量需要走关键词过滤
+    # 论文 / Newsletter
+    "arXiv cs.AI", "arXiv cs.CL", "arXiv cs.LG", "HF Papers",
+    "Latent Space", "Import AI", "Interconnects",
 }
 
 
+def _has_excluded_word(text: str) -> bool:
+    if not _EXCLUDE_LOWER:
+        return False
+    return any(kw in text for kw in _EXCLUDE_LOWER)
+
+
 def is_ai_related(item: Item) -> bool:
+    haystack = f"{item.title} {item.summary}".lower()
+    if _has_excluded_word(haystack):
+        return False
     if item.source in _AI_NATIVE_SOURCES:
         return True
-    haystack = f"{item.title} {item.summary}".lower()
     return any(kw in haystack for kw in _KEYWORDS_LOWER)
 
 

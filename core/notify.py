@@ -33,7 +33,7 @@ from config import (
     PUSH_TOP_PER_SECTION,
     WEB_URL,
 )
-from core.classify import GITHUB, MODELS, NEWS, PRODUCTS, SECTION_TITLES
+from core.classify import GITHUB, MODELS, NEWS, PAPERS, PRODUCTS, SKILLS_MCP, TOOLS, SECTION_TITLES
 from sources.base import Item
 
 _API = "https://www.pushplus.plus/send"
@@ -80,6 +80,28 @@ _THEME = {
         "gradient": "linear-gradient(135deg,#22c55e 0%,#15803d 100%)",
         "subtitle": "今日开发者最关注的开源项目",
         "icon":     "💻",
+    },
+    # v0.4 新增板块
+    SKILLS_MCP: {
+        "main":     "#ec4899",
+        "soft":     "#fdf2f8",
+        "gradient": "linear-gradient(135deg,#ec4899 0%,#be185d 100%)",
+        "subtitle": "MCP 协议 / Claude Skills / Agent SDK 生态动态",
+        "icon":     "🧩",
+    },
+    TOOLS: {
+        "main":     "#0ea5e9",
+        "soft":     "#f0f9ff",
+        "gradient": "linear-gradient(135deg,#0ea5e9 0%,#0369a1 100%)",
+        "subtitle": "Coding Agent 与 AI 开发工具更新",
+        "icon":     "🛠️",
+    },
+    PAPERS: {
+        "main":     "#14b8a6",
+        "soft":     "#f0fdfa",
+        "gradient": "linear-gradient(135deg,#14b8a6 0%,#0f766e 100%)",
+        "subtitle": "今日值得读的 AI 论文",
+        "icon":     "📜",
     },
 }
 
@@ -278,7 +300,7 @@ def _banner(today: date, *, new_count: int, total_seen: int, buckets: dict, imag
     cov_pct = int(image_count * 100 / max(new_count, 1)) if new_count else 0
     bars_html = ""
     if with_bars:
-        counts = [(SECTION_TITLES.get(k, k), len(buckets.get(k, [])), _THEME[k]["main"]) for k in (PRODUCTS, NEWS, MODELS, GITHUB)]
+        counts = [(SECTION_TITLES.get(k, k), len(buckets.get(k, [])), _THEME.get(k, _THEME[NEWS])["main"]) for k in (SKILLS_MCP, MODELS, NEWS, PRODUCTS, TOOLS, PAPERS, GITHUB)]
         max_n = max((c for _, c, _ in counts), default=1) or 1
         rows = ""
         for label, n, color in counts:
@@ -839,20 +861,27 @@ def _render_with_caps(buckets: dict, today: date, *, new_count: int, total_seen:
     sub = caps.get("with_subtitle", True)
     compact = caps.get("compact_cards", False)
     # 各板块按各自风格渲染（rich 模式各异；compact 模式统一走 _card_slim）
+    # v0.4: 新板块（MCP/Skills、Tools、Papers）复用新闻/模型的渲染风格
     if compact:
         with_source = caps.get("with_source", True)
         renderers = [
-            (PRODUCTS, lambda items: _render_section_slim(items, PRODUCTS, summary_max=sm, with_subtitle=sub, with_source=with_source)),
-            (NEWS,     lambda items: _render_section_slim(items, NEWS,     summary_max=sm, with_subtitle=sub, with_source=with_source)),
-            (MODELS,   lambda items: _render_section_slim(items, MODELS,   summary_max=sm, with_subtitle=sub, with_source=with_source)),
-            (GITHUB,   lambda items: _render_section_slim(items, GITHUB,   summary_max=sm, with_subtitle=sub, with_source=with_source)),
+            (SKILLS_MCP, lambda items: _render_section_slim(items, SKILLS_MCP, summary_max=sm, with_subtitle=sub, with_source=with_source)),
+            (MODELS,     lambda items: _render_section_slim(items, MODELS,     summary_max=sm, with_subtitle=sub, with_source=with_source)),
+            (NEWS,       lambda items: _render_section_slim(items, NEWS,       summary_max=sm, with_subtitle=sub, with_source=with_source)),
+            (PRODUCTS,   lambda items: _render_section_slim(items, PRODUCTS,   summary_max=sm, with_subtitle=sub, with_source=with_source)),
+            (TOOLS,      lambda items: _render_section_slim(items, TOOLS,      summary_max=sm, with_subtitle=sub, with_source=with_source)),
+            (PAPERS,     lambda items: _render_section_slim(items, PAPERS,     summary_max=sm, with_subtitle=sub, with_source=with_source)),
+            (GITHUB,     lambda items: _render_section_slim(items, GITHUB,     summary_max=sm, with_subtitle=sub, with_source=with_source)),
         ]
     else:
         renderers = [
-            (PRODUCTS, lambda items: _render_products(items, summary_max=min(sm, 110), with_subtitle=sub)),
-            (NEWS,     lambda items: _render_news(items, summary_max=sm, with_subtitle=sub)),
-            (MODELS,   lambda items: _render_models(items, summary_max=sm, with_subtitle=sub)),
-            (GITHUB,   lambda items: _render_github(items, summary_max=min(sm, 240), with_subtitle=sub)),
+            (SKILLS_MCP, lambda items: _render_news(items, summary_max=sm, with_subtitle=sub)),
+            (MODELS,     lambda items: _render_models(items, summary_max=sm, with_subtitle=sub)),
+            (NEWS,       lambda items: _render_news(items, summary_max=sm, with_subtitle=sub)),
+            (PRODUCTS,   lambda items: _render_products(items, summary_max=min(sm, 110), with_subtitle=sub)),
+            (TOOLS,      lambda items: _render_news(items, summary_max=sm, with_subtitle=sub)),
+            (PAPERS,     lambda items: _render_news(items, summary_max=sm, with_subtitle=sub)),
+            (GITHUB,     lambda items: _render_github(items, summary_max=min(sm, 240), with_subtitle=sub)),
         ]
     per_section = caps.get("per_section", 10)
     for key, fn in renderers:

@@ -9,7 +9,15 @@ export async function generateStaticParams() {
   return dates.map((date) => ({ date }));
 }
 
-const SECTION_ORDER = ["products", "news", "models", "github"] as const;
+const SECTION_ORDER = [
+  "skills_mcp",
+  "models",
+  "news",
+  "products",
+  "tools",
+  "papers",
+  "github",
+] as const;
 
 function hostOf(url: string): string {
   try {
@@ -39,6 +47,9 @@ function sectionTag(key: string): string {
       news: "新闻",
       models: "模型",
       github: "GitHub",
+      skills_mcp: "MCP/Skills",
+      tools: "工具",
+      papers: "论文",
     } as Record<string, string>
   )[key] ?? "";
 }
