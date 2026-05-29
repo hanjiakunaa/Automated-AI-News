@@ -899,7 +899,8 @@ def render_html(buckets: dict, today: date, *, new_count: int, total_seen: int) 
     """自适应裁剪：双闸门 ≤ 19000 字符 且 ≤ 60000 字节（PushPlus 双重上限：2 万字 / 64KB）。
 
     从最丰富开始逐级降密度，第一个同时满足两个上限的档位即返回。
-    板块数永远是 4，每板块至少 5 条——保证「全面」基线，被压缩的是摘要字数和装饰元素。
+    v0.4 起板块从 4 增至 7（多了 MCP/Skills、工具、论文），整体内容增长 ~75%，
+    因此 ladder 末尾加了 L14-L17 几档极简兜底。
     """
     CHAR_LIMIT = 19_000   # PushPlus 上限 2 万字，留 1000 字余量
     BYTE_LIMIT = 60_000   # PushPlus 上限 64KB，留 4KB 余量
@@ -922,7 +923,12 @@ def render_html(buckets: dict, today: date, *, new_count: int, total_seen: int) 
         (10, 0, 80,  0,  False, False, False, False, True,  False),  # L10 去 source
         (8,  0, 60,  0,  False, False, False, False, True,  False),  # L11
         (6,  0, 40,  0,  False, False, False, False, True,  False),  # L12
-        (5,  0, 20,  0,  False, False, False, False, True,  False),  # L13 最低兜底
+        (5,  0, 20,  0,  False, False, False, False, True,  False),  # L13
+        # ——— L14-L17: 7 板块下进一步压缩 ———
+        (4,  0, 20,  0,  False, False, False, False, True,  False),  # L14 每板块 4 条
+        (3,  0, 20,  0,  False, False, False, False, True,  False),  # L15 每板块 3 条
+        (3,  0, 0,   0,  False, False, False, False, True,  False),  # L16 去摘要
+        (2,  0, 0,   0,  False, False, False, False, True,  False),  # L17 极简兜底
     ]
     last = ""
     last_chars = 0
