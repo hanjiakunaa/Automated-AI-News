@@ -1,0 +1,448 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T10:01:13+08:00",
+  "stats": {
+    "new_count": 51,
+    "total_seen": 1339
+  },
+  "section_titles": {
+    "products": "🔥 爆款 AI 产品",
+    "news": "📰 AI 重要新闻",
+    "models": "🚀 大模型动态",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "products": [
+      {
+        "title": "Robinhood Agentic Trading",
+        "url": "https://www.producthunt.com/products/robinhood",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-28T05:21:51",
+        "score": 0,
+        "summary": "Robinhood 推出 Agentic Trading 功能，允许用户通过 AI 代理自动执行交易策略。该功能将交易决策权交给智能体，用户只需设定目标即可自动完成买卖操作，旨在提升交易效率和响应速度。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/d80cb8ca-9889-4be4-9eda-c1bad412b34f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Angel Match 4.0",
+        "url": "https://www.producthunt.com/products/angel-match",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-28T02:18:30",
+        "score": 0,
+        "summary": "Angel Match 4.0 发布，这是一个包含超过 12.5 万天使投资人和风投机构的数据库，专为种子轮融资设计。创业者可快速筛选匹配投资者，大幅缩短融资周期，提高成功率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/bfec8915-3627-4eaa-9a9f-0fd858b4e092.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "NeuralAgent 2.5",
+        "url": "https://www.producthunt.com/products/neuralagent",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-27T23:23:44",
+        "score": 0,
+        "summary": "NeuralAgent 2.5 上线，用户通过自然语言与计算机对话，AI 能理解指令并自动执行任务，如文件操作、应用控制等。该工具将人机交互从图形界面转向对话式，提升操作效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/deff7552-d815-45fc-8dab-1e8e2555db84.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Parastore",
+        "url": "https://www.producthunt.com/products/parastore",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-27T08:53:37",
+        "score": 0,
+        "summary": "Parastore 推出 LLM 驱动的合成消费者模拟器，可模拟真实商店中的顾客行为。零售商无需真实用户即可测试营销策略、产品摆放等，降低实验成本并加速决策。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/90deb231-104e-446e-a564-cae76754a14e.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Crew44",
+        "url": "https://www.producthunt.com/products/crew44",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-27T07:32:57",
+        "score": 0,
+        "summary": "Crew44 发布，该工具将编码代理转化为专业化团队，每个代理负责特定任务（如前端、后端、测试）。通过协作分工，提升复杂项目的开发效率和代码质量。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/50673b0a-607b-4d8d-87ba-ea4ffc3a90f0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Pitch Agent",
+        "url": "https://www.producthunt.com/products/pitch",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-25T11:04:57",
+        "score": 0,
+        "summary": "Pitch Agent 上线，用户输入关键信息后，AI 可在数秒内生成符合品牌风格的演示文稿。该工具支持模板定制和内容优化，大幅节省制作时间，适合销售和路演场景。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/8eb8db40-dd8f-40bc-b85f-3c2053fa6170.png?auto=format&frame=1"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+        "url": "https://www.anthropic.com/news/series-h",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-28T18:09:44",
+        "score": 256,
+        "summary": "Anthropic 完成 H 轮 650 亿美元融资，投后估值 9650 亿美元，超越 OpenAI。该轮融资创 AI 领域纪录，凸显市场对安全 AI 的看好。",
+        "extra": {}
+      },
+      {
+        "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+        "url": "https://llmgame.scalex.dev",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-28T13:02:00",
+        "score": 242,
+        "summary": "Continue? Y/N 是一款 60 秒游戏，模拟 AI 代理权限疲劳场景。玩家需快速决定是否授权，引发对 AI 权限管理的思考。",
+        "extra": {
+          "image": "https://llmgame.scalex.dev/continuegame.png"
+        }
+      },
+      {
+        "title": "Various LLM Smells",
+        "url": "https://shvbsle.in/various-llm-smells/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-28T19:02:18",
+        "score": 228,
+        "summary": "文章列举了各种 LLM 的“气味”（不良特征），如过度自信、重复等。开发者可据此识别模型问题，改进应用质量。",
+        "extra": {
+          "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/shiv-1652679517.jpg"
+        }
+      },
+      {
+        "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+        "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-28T19:43:14",
+        "score": 179,
+        "summary": "Sam Altman 和 Dario Amodei 均收回此前关于 AI 导致大规模失业的预测，认为影响将更渐进。讨论热度高，反映行业对 AI 就业影响的重新评估。",
+        "extra": {
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2265445220-e1779827097282.jpg?resize=1200,600"
+        }
+      },
+      {
+        "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+        "url": "https://arxiv.org/abs/2510.04950",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-26T07:43:22",
+        "score": 138,
+        "summary": "研究调查提示礼貌程度对 LLM 准确性的影响，发现礼貌提示可能降低性能。该结果对提示工程有重要指导意义。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+        "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-28T23:42:47",
+        "score": 76,
+        "summary": "旧金山初创公司被指控在 Airbnb 中测试机器人并造成损坏，面临诉讼。事件引发对机器人测试伦理和责任的讨论。",
+        "extra": {
+          "image": "https://assets.sfstandard.com/image/994911177489/image_pfsno2a8ul7hf7iv1mbd0gmq51/-S1200x630-FPNG"
+        }
+      },
+      {
+        "title": "About LLMs at Zig Days",
+        "url": "https://kristoff.it/blog/llms-at-zig-days/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-28T18:20:34",
+        "score": 68,
+        "summary": "Zig Days 会议上讨论了 LLM 相关话题，包括在 Zig 语言中的应用。社区关注 LLM 与系统编程语言的结合。",
+        "extra": {
+          "image": "https://kristoff.it/logo.png"
+        }
+      },
+      {
+        "title": "Using Tailscale with an OrbStack VM on macOS",
+        "url": "https://github.com/highpost/tailscale-macos-vm",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-25T22:10:08",
+        "score": 61,
+        "summary": "教程介绍如何在 macOS 的 OrbStack VM 上使用 Tailscale，实现安全网络连接。适合开发者在隔离环境中管理网络。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/add456a068a399128176030da3119e3bcafd88bd6435474665a0e68074e96c09/highpost/tailscale-macos-vm"
+        }
+      },
+      {
+        "title": "Show HN: Ktx – Open-source executable context layer for data agents",
+        "url": "https://github.com/Kaelio/ktx",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-28T15:05:06",
+        "score": 55,
+        "summary": "Ktx 是一个开源可执行上下文层，专为数据代理设计。它提供标准化上下文管理，简化数据代理的开发和部署。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/3a82d77fdf3d76cc5858ab08061ba68cfc3b34edff1397635427a62618c5567c/Kaelio/ktx"
+        }
+      },
+      {
+        "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores",
+        "url": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-28T21:14:22",
+        "score": 38,
+        "summary": "亚马逊取消 AI 排行榜，以防止员工追逐使用分数。此举旨在避免指标驱动行为，确保 AI 工具的实际效用。",
+        "extra": {
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F23bfbafa-f678-4dc0-9df8-b6c7345e0b15.jpg?source=next-barrier-page"
+        }
+      },
+      {
+        "title": "Protestware for Coding Agents",
+        "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-28T21:03:24",
+        "score": 27,
+        "summary": "出现针对编码代理的抗议软件，旨在干扰 AI 编码工具的正常运行。社区对此反应两极，讨论 AI 伦理与安全。",
+        "extra": {
+          "image": "https://nesbitt.io/images/boxes.png"
+        }
+      },
+      {
+        "title": "Microsoft data suggests using AI is more expensive than hiring people",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-29T00:49:05",
+        "score": 7,
+        "summary": "微软数据显示，使用 AI 的成本高于雇佣人类员工。该结论引发关于 AI 经济性的讨论，提示企业在部署 AI 时需权衡成本效益。",
+        "extra": {
+          "image": "https://s.yimg.com/ny/api/res/1.2/iwMGvG3B6lySHpIlOeK4kw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/f1dcf213ed6f57e4a0b0e5a35ecf81f4"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Claude Opus 4.8",
+        "url": "https://www.anthropic.com/news/claude-opus-4-8",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-28T16:49:14",
+        "score": 1237,
+        "summary": "Claude Opus 4.8 发布，获得社区高度关注（1004 评论，1237 分）。该版本在推理、编码等能力上显著提升，成为热门讨论话题。",
+        "extra": {}
+      },
+      {
+        "title": "Dynamic Workflows in Claude Code",
+        "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-28T16:52:21",
+        "score": 139,
+        "summary": "Claude Code 引入动态工作流功能，允许用户自定义任务流程。该更新增强了工具的灵活性和适应性，适用于复杂开发场景。",
+        "extra": {
+          "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a1871a9d0a0bd93c860cda7_og-dynamic-workflows.jpg"
+        }
+      },
+      {
+        "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+        "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-29T00:09:35",
+        "score": 8,
+        "summary": "神秘模型 Hy3 在 OpenRouter 排行榜上大幅领先，引发社区对其来源和能力的猜测。该模型性能突出但细节未公开。",
+        "extra": {
+          "image": "https://minimaxir.com/2026/05/openrouter-hy3/featured.png"
+        }
+      },
+      {
+        "title": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行",
+        "url": "https://www.qbitai.com/2026/05/426314.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-28T23:57:47",
+        "score": 0,
+        "summary": "Claude 4.8 发布，部分能力超越 Mythos，支持数百个子智能体并行执行任务，可长时间自主工作，减少人类干预。该版本显著提升了多任务处理能力和自主性。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "Catch up on 12 major I/O 2026 moments",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-28T15:00:00",
+        "score": 0,
+        "summary": "Google 总结了 I/O 2026 的 12 个重大时刻，涵盖 AI、Android、Cloud 等更新。亮点包括 Gemini 模型升级、新硬件发布以及开发者工具改进，展示了 Google 在 AI 领域的全面布局。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”",
+        "url": "https://www.qbitai.com/2026/05/426237.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-28T13:01:16",
+        "score": 0,
+        "summary": "某公司首创物理 AGI“双金字塔”体系，将世界模型与语言模型结合，目标在 12 个月内实现物理 AGI 的“GPT-3 时刻”。该体系推动通用机器人进入家庭场景。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "How Endava builds an agentic organization with Codex",
+        "url": "https://openai.com/index/endava",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-28T12:00:00",
+        "score": 0,
+        "summary": "Endava 利用 OpenAI Codex 构建代理型组织，将需求分析从数周缩短至数小时。通过 AI 代理自动处理编码任务，加速软件交付，提升团队效率。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/4gxDAOkxUXKVkAcM8eGhNj/03482b84b74c225d36ad173865b67b14/oai_Endava_SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”",
+        "url": "https://www.qbitai.com/2026/05/426150.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-28T08:01:57",
+        "score": 0,
+        "summary": "一个 7B 参数的医学 AI 智能体在多项任务上超越 o3 和 GPT-5，通过“看哪里、怎么看”的注意力机制提升诊断准确性。该成果标志着医学 AI Agent 进入关键拐点。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "OpenAI’s Frontier Governance Framework",
+        "url": "https://openai.com/index/openai-frontier-governance-framework",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-28T00:00:00",
+        "score": 0,
+        "summary": "OpenAI 发布前沿治理框架，详细说明其 AI 安全、安保和风险管理实践，并与欧盟及加州新法规对齐。该框架旨在确保 AGI 开发过程中的责任与透明度。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/1I1Nqkk5i2cjTAtdxBXoiY/526a8c54d8f856b83c36d40397a9e503/Frame.png?w=1600&h=900&fit=fill"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "anthropics/claude-code",
+        "url": "https://github.com/anthropics/claude-code",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 319,
+        "summary": "Claude Code 是 Anthropic 推出的代理型编码工具，运行在终端中，能理解代码库并通过自然语言执行任务、解释代码、管理 Git 工作流。基于 Python，今日获 319 星。",
+        "extra": {
+          "image": "https://github.com/anthropics.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "EveryInc/compound-engineering-plugin",
+        "url": "https://github.com/EveryInc/compound-engineering-plugin",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 184,
+        "summary": "EveryInc/compound-engineering-plugin 是 Compound Engineering 的官方插件，支持 Claude Code、Codex、Cursor 等工具。基于 TypeScript，今日获 184 星，用于增强 AI 编码能力。",
+        "extra": {
+          "image": "https://github.com/EveryInc.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "adithya-s-k/omniparse",
+        "url": "https://github.com/adithya-s-k/omniparse",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 100,
+        "summary": "adithya-s-k/omniparse 可摄取、解析并优化任何数据格式（文档到多媒体），增强与 GenAI 框架的兼容性。基于 Python，今日获 100 星，简化数据预处理。",
+        "extra": {
+          "image": "https://github.com/adithya-s-k.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "apurvsinghgautam/robin",
+        "url": "https://github.com/apurvsinghgautam/robin",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 91,
+        "summary": "apurvsinghgautam/robin 是 AI 驱动的暗网开源情报工具，用于收集和分析暗网数据。基于 Python，今日获 91 星，适用于网络安全威胁监测。",
+        "extra": {
+          "image": "https://github.com/apurvsinghgautam.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "ariadng/metatrader-mcp-server",
+        "url": "https://github.com/ariadng/metatrader-mcp-server",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 83,
+        "summary": "ariadng/metatrader-mcp-server 实现模型上下文协议（MCP），使 AI 大模型能通过 MetaTrader 平台进行交易。基于 Python，今日获 83 星，连接 LLM 与金融交易。",
+        "extra": {
+          "image": "https://github.com/ariadng.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "OpenMOSS/MOSS-TTS",
+        "url": "https://github.com/OpenMOSS/MOSS-TTS",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 71,
+        "summary": "MOSS-TTS 是开源语音和声音生成模型家族，由 MOSI.AI 和 OpenMOSS 团队开发。支持长语音、多说话人对话、声音设计等，适用于高保真、高表现力的复杂场景。",
+        "extra": {
+          "image": "https://github.com/OpenMOSS.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "revfactory/harness",
+        "url": "https://github.com/revfactory/harness",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 65,
+        "summary": "revfactory/harness 是一个元技能工具，可设计领域特定的代理团队、定义专业代理并生成其技能。基于 HTML，今日获 65 星，适合构建复杂 AI 协作系统。",
+        "extra": {
+          "image": "https://github.com/revfactory.png?size=120",
+          "language": "HTML"
+        }
+      },
+      {
+        "title": "microsoft/RAMPART",
+        "url": "https://github.com/microsoft/RAMPART",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 62,
+        "summary": "microsoft/RAMPART 是一个基于 pytest 的安全测试框架，专为代理型 AI 应用设计。它提供自动化安全与防护测试，确保 AI 系统在生产中的可靠性。基于 Python，今日获 62 星。",
+        "extra": {
+          "image": "https://github.com/microsoft.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
