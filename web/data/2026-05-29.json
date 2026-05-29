@@ -1,9 +1,9 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T16:50:32+08:00",
+  "generated_at": "2026-05-29T17:30:25+08:00",
   "stats": {
-    "new_count": 309,
-    "total_seen": 1609
+    "new_count": 306,
+    "total_seen": 1630
   },
   "section_titles": {
     "skills_mcp": "🧩 MCP & Skills 生态",
@@ -22,22 +22,10 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-28T13:02:00",
-        "score": 315,
-        "summary": "“Continue? Y/N”是一款60秒游戏，关于AI代理权限疲劳。展示者引发对AI代理频繁请求确认的用户体验讨论。",
+        "score": 319,
+        "summary": "Hacker News 展示：Continue? Y/N——一个 60 秒游戏，关于 AI 代理权限疲劳。评论 130 条，得分 319，以游戏形式反思 AI 授权问题。",
         "extra": {
           "image": "https://llmgame.scalex.dev/continuegame.png"
-        }
-      },
-      {
-        "title": "Molecular Lead Optimization via Agentic Tool Planning",
-        "url": "https://arxiv.org/abs/2605.28862",
-        "source": "arXiv cs.LG",
-        "source_kind": "rss",
-        "published_at": "2026-05-29T04:00:00",
-        "score": 0,
-        "summary": "分子先导优化通过代理工具规划，加速药物发现中的先导化合物优化阶段。",
-        "extra": {
-          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       },
       {
@@ -47,7 +35,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-29T04:00:00",
         "score": 0,
-        "summary": "通过代理AI、嵌套学习和语义缓存减轻幻觉，提升生产LLM系统的可靠性。",
+        "summary": "arXiv 论文：通过代理 AI、嵌套学习和语义缓存缓解幻觉。提升多代理管道的可靠性。",
         "extra": {
           "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
@@ -59,7 +47,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-29T04:00:00",
         "score": 0,
-        "summary": "强调带外元数据对安全自主代理的重要性，Redpanda代理数据平面确保企业数据安全。",
+        "summary": "arXiv 论文：带外元数据对安全自主代理的重要性——Redpanda 代理数据平面。确保代理安全访问企业数据。",
         "extra": {
           "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
@@ -71,7 +59,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-29T04:00:00",
         "score": 0,
-        "summary": "PRO-CUA使用过程奖励优化计算机使用代理，减少对昂贵实时环境训练的依赖。",
+        "summary": "arXiv 论文：PRO-CUA——计算机使用代理的过程奖励优化。通过过程奖励训练提升代理性能。",
         "extra": {
           "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
@@ -83,7 +71,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-29T04:00:00",
         "score": 0,
-        "summary": "管理代理AI系统中的技术债务，将其视为生产基础设施，需要治理。",
+        "summary": "arXiv 论文：管理代理 AI 系统中的技术债务。探讨生产级代理系统的维护挑战。",
         "extra": {
           "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
@@ -95,7 +83,19 @@
         "source_kind": "rss",
         "published_at": "2026-05-29T04:00:00",
         "score": 0,
-        "summary": "异步代理框架协调实时约束和长时域推理，用于动态调度问题。",
+        "summary": "arXiv 论文：协调实时约束与长时程推理——异步代理框架用于动态调度。解决动态柔性作业车间调度问题。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Molecular Lead Optimization via Agentic Tool Planning",
+        "url": "https://arxiv.org/abs/2605.28862",
+        "source": "arXiv cs.LG",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文：通过代理工具规划进行分子先导优化。AI 驱动的药物发现中的先导化合物优化。",
         "extra": {
           "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
@@ -107,7 +107,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T14:00:00",
         "score": 0,
-        "summary": "Visa投资Replit，为开发者提供代理支付能力。Visa表示超过1000名员工已使用Replit进行原型设计和开发，凸显AI在金融科技领域的应用潜力。",
+        "summary": "Visa 投资 Replit，为开发者提供代理支付能力。Visa 表示已有超过 1000 名员工使用 Replit 进行原型开发，旨在推动 AI 代理的金融交易自动化。",
         "extra": {
           "image": "https://techcrunch.com/wp-content/uploads/2025/09/Replit-founder-CEO-Amjad-Masad.png?resize=1200,715"
         }
@@ -119,7 +119,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T12:00:00",
         "score": 0,
-        "summary": "Endava使用Codex构建代理型组织，将需求分析从数周缩短至数小时，加速软件交付。展示了AI编码代理在企业中的应用价值。",
+        "summary": "Endava 使用 Codex 构建代理型组织，将需求分析从数周缩短至数小时。AI 加速了软件交付，提升了开发效率。",
         "extra": {
           "image": "https://images.ctfassets.net/kftzwdyauwt9/4gxDAOkxUXKVkAcM8eGhNj/03482b84b74c225d36ad173865b67b14/oai_Endava_SEO.png?w=1600&h=900&fit=fill"
         }
@@ -131,7 +131,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T05:21:51",
         "score": 0,
-        "summary": "Robinhood推出代理交易功能，允许AI代理自主交易股票。",
+        "summary": "Robinhood Agentic Trading：让 AI 代理进行交易。用户可创建代理账户，授权其自主买卖股票。",
         "extra": {
           "image": "https://ph-files.imgix.net/d80cb8ca-9889-4be4-9eda-c1bad412b34f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -143,7 +143,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-27T14:36:10",
         "score": 0,
-        "summary": "Robinhood开放交易平台给AI代理，用户可为AI代理创建独立账户并注入资金，让其自主交易股票。这标志着AI在金融交易领域的应用迈出重要一步。",
+        "summary": "Robinhood 开放交易平台给 AI 代理，用户可为 AI 代理创建独立账户并注入资金，允许其自主交易股票。此举旨在探索 AI 在金融投资领域的应用，但风险自负。",
         "extra": {
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acastro_STK049_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
         }
@@ -155,7 +155,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-26T19:50:33",
         "score": 0,
-        "summary": "开源包Starlette中发现严重漏洞“BadHost”，影响数百万AI代理。该包每周下载量达3.25亿次，凸显开源软件安全风险。",
+        "summary": "开源包 Starlette 中发现严重漏洞“BadHost”，影响数百万 AI 代理。该包每周下载量达 3.25 亿次，漏洞可能导致代理被攻击。",
         "extra": {
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg"
         }
@@ -168,8 +168,8 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-28T16:49:14",
-        "score": 1491,
-        "summary": "Claude Opus 4.8发布，获得大量关注和评论。讨论聚焦于其性能提升、Dynamic Workflows功能及与竞品的对比。",
+        "score": 1517,
+        "summary": "Hacker News 讨论：Claude Opus 4.8 发布。评论 1178 条，得分 1517，社区高度关注新模型性能。",
         "extra": {
           "image": "https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg"
         }
@@ -180,8 +180,8 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-29T00:09:35",
-        "score": 72,
-        "summary": "神秘的Hy3 LLM在OpenRouter模型排行榜上大幅领先，引发社区好奇和猜测。讨论其来源和性能真实性。",
+        "score": 76,
+        "summary": "Hacker News 讨论：神秘的 Hy3 LLM 在 OpenRouter 模型排行榜上大幅领先。评论 49 条，得分 76，社区猜测其来源和性能。",
         "extra": {
           "image": "https://minimaxir.com/2026/05/openrouter-hy3/featured.png"
         }
@@ -193,7 +193,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-29T07:17:14",
         "score": 0,
-        "summary": "OPPO发布Reno16系列，主打3D悬浮星球和实况随心贴功能，引领潮流手机新风向，同时推出平板、耳机等生态产品。",
+        "summary": "OPPO 发布 Reno16 系列，主打“3D 悬浮星球+实况随心贴”潮流设计。同时推出平板、耳机等生态产品，聚焦年轻用户全场景需求。",
         "extra": {
           "image": "https://img.36krcdn.com/hsossms/20260529/v2_2e3cfe969f9e47ae8c209f469702e622@517825446_oswg946306oswg1265oswg633_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
         }
@@ -205,7 +205,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-29T07:02:05",
         "score": 0,
-        "summary": "全球首个“事件级预测”具身智能世界模型发布，从按帧学动作转向按事件理解世界，提升机器人对复杂场景的预测能力。",
+        "summary": "全球首个“事件级预测”具身智能世界模型发布，从按帧学动作转向按事件理解世界。该模型能预测物理事件序列，提升机器人交互能力。",
         "extra": {
           "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
         }
@@ -217,7 +217,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-29T02:47:09",
         "score": 0,
-        "summary": "清华系团队构建“智能算力电网”，实现单位Token成本降低40%，优化大模型训练和推理的算力调度。",
+        "summary": "清华系团队推出“智能算力电网”，单位 Token 成本降低 40%。通过动态调度算力资源，优化大模型推理效率。",
         "extra": {
           "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
         }
@@ -229,7 +229,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-29T02:07:24",
         "score": 0,
-        "summary": "Anthropic完成9650亿美元估值融资并发布Opus 4.8和Dynamic Workflows，被形容为“全面胜利”。",
+        "summary": "Anthropic 以 9650 亿美元估值完成 H 轮融资，并发布 Opus 4.8 和 Dynamic Workflows/ultracode。Latent Space 称其为“Anthropic 的全面胜利”。",
         "extra": {
           "image": "https://substackcdn.com/image/fetch/$s_!9YXV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeb0a3a2-e744-4174-a24b-be1fd75961bc_1888x1630.png"
         }
@@ -241,7 +241,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T23:57:47",
         "score": 0,
-        "summary": "Claude 4.8发布，部分能力超越Mythos，支持数百个子智能体并行执行，可长时间运行任务，减少人类干预。",
+        "summary": "Claude 4.8 发布，部分能力超越 Mythos，支持数百个子智能体并行工作。可长时间执行任务，减少人类检查频率。",
         "extra": {
           "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
         }
@@ -253,7 +253,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T21:30:58",
         "score": 0,
-        "summary": "Anthropic完成650亿美元H轮融资，估值9650亿美元，年化收入超470亿美元。资金将用于安全研究、计算和扩张，公司接近万亿美元估值。",
+        "summary": "Anthropic 以 9650 亿美元估值完成 650 亿美元 H 轮融资，年化收入超 470 亿美元。资金将用于安全研究、计算和产品扩展。",
         "extra": {
           "image": "https://the-decoder.com/wp-content/uploads/2026/02/anthropic_logos-4.png"
         }
@@ -265,7 +265,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T21:20:09",
         "score": 0,
-        "summary": "Anthropic发布Claude Opus 4.8，在多数基准测试中超越GPT-5.5和Gemini 3.1 Pro，捕捉自身编码错误的频率是前代的4倍。同时推出Dynamic Workflows工具。",
+        "summary": "Anthropic 发布 Claude Opus 4.8，在多数基准测试中超越 GPT-5.5 和 Gemini 3.1 Pro，自称“适度但切实的改进”。模型发现自身编码错误的频率是前代的 4 倍。",
         "extra": {
           "image": "https://the-decoder.com/wp-content/uploads/2026/05/claude_opus_48_title-scaled.webp"
         }
@@ -277,7 +277,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T18:41:24",
         "score": 0,
-        "summary": "Cognition的Walden Yan和OpenInspect的Cole Murray讨论异步代理时代，涉及80% Devin提交、Spec-to-PR工作流、完整VM、代理记忆和PM编写代码。",
+        "summary": "Cognition 的 Walden Yan 和 OpenInspect 的 Cole Murray 讨论异步代理时代：80% Devin 提交、Spec-to-PR 工作流、完整虚拟机、代理记忆以及 PM 编写代码。",
         "extra": {
           "image": "https://substackcdn.com/image/fetch/$s_!QPqO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c0a0107-653e-4c83-a249-c3308b1ed019_1498x844.png"
         }
@@ -289,7 +289,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T18:30:48",
         "score": 0,
-        "summary": "苹果正努力将Gemini模型压缩到iPhone中，以驱动新版Siri，但云组件可能不可避免。这表明端侧AI与云端AI的混合方案是现实选择。",
+        "summary": "苹果正努力将 Gemini 模型压缩到 iPhone 中，以驱动新 Siri，但云组件可能不可避免。此举旨在提升设备端 AI 能力，同时平衡性能与隐私。",
         "extra": {
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/apple-google-logo-500x500.jpg"
         }
@@ -301,7 +301,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T17:00:09",
         "score": 0,
-        "summary": "Anthropic发布Opus 4.8，配备名为Dynamic Workflows的新工具，用于协调子代理集群。该模型在多数基准测试中超越GPT-5.5和Gemini 3.1 Pro，捕捉自身编码错误的频率是前代的4倍。",
+        "summary": "Anthropic 发布 Opus 4.8，附带新工具 Dynamic Workflows，用于协调子代理集群。该模型支持长时间执行任务，减少人类干预，提升复杂工作流的自动化水平。",
         "extra": {
           "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024"
         }
@@ -314,8 +314,8 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-28T18:09:44",
-        "score": 338,
-        "summary": "Anthropic完成650亿美元H轮融资，投后估值9650亿美元，引发大量讨论。社区关注其估值合理性及IPO前景。",
+        "score": 341,
+        "summary": "Hacker News 讨论：Anthropic 以 9650 亿美元估值融资 650 亿美元。评论 360 条，得分 341，热议 AI 公司估值泡沫。",
         "extra": {
           "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=coral"
         }
@@ -326,8 +326,8 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-28T19:02:18",
-        "score": 298,
-        "summary": "文章列举了各种LLM的“气味”或问题迹象，帮助开发者识别模型输出中的潜在问题。讨论热烈，涉及模型行为分析。",
+        "score": 303,
+        "summary": "Hacker News 讨论：各种 LLM 的“气味”（代码异味）。评论 241 条，得分 303，社区分享 LLM 生成代码中的常见问题。",
         "extra": {
           "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/shiv-1652679517.jpg"
         }
@@ -338,8 +338,8 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-28T23:42:47",
-        "score": 201,
-        "summary": "旧金山初创公司被指控在Airbnb中测试机器人并破坏房间，引发法律诉讼。讨论涉及机器人测试的伦理和法律问题。",
+        "score": 206,
+        "summary": "Hacker News 讨论：旧金山初创公司被指控在 Airbnb 测试机器人并破坏房屋。评论 99 条，得分 206，引发对机器人测试伦理的争议。",
         "extra": {
           "image": "https://assets.sfstandard.com/image/994911177489/image_pfsno2a8ul7hf7iv1mbd0gmq51/-S1200x630-FPNG"
         }
@@ -350,8 +350,8 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-26T07:43:22",
-        "score": 142,
-        "summary": "研究调查提示礼貌如何影响LLM准确性，发现礼貌可能影响模型输出。社区讨论提示工程的社会语言学维度。",
+        "score": 143,
+        "summary": "Hacker News 讨论：研究提示礼貌如何影响 LLM 准确性（2025）。评论 191 条，得分 143，探讨礼貌用语对模型输出的影响。",
         "extra": {
           "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
@@ -363,9 +363,9 @@
         "source_kind": "hackernews",
         "published_at": "2026-05-28T15:05:06",
         "score": 73,
-        "summary": "Ktx是一个开源可执行上下文层，用于数据代理。展示者介绍其功能，社区讨论其应用场景和优势。",
+        "summary": "Hacker News 展示：Ktx——开源可执行上下文层，用于数据代理。评论 17 条，得分 73，项目旨在简化数据代理的上下文管理。",
         "extra": {
-          "image": "https://opengraph.githubassets.com/19fb641b05c837bfab6906af7359016a286ab483eeb75e16db5d15cd8b4cc829/Kaelio/ktx"
+          "image": "https://opengraph.githubassets.com/f154abc5999c5975014ace045e481b125380dfd896b72f5e48d237b6cc5620eb/Kaelio/ktx-ai-data-agents-mcp-context-skills"
         }
       },
       {
@@ -374,22 +374,10 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-25T22:10:08",
-        "score": 70,
-        "summary": "如何在macOS上使用Tailscale与OrbStack VM，提供技术指南。社区分享网络配置经验。",
+        "score": 71,
+        "summary": "Hacker News 讨论：在 macOS 上使用 OrbStack VM 与 Tailscale。评论 16 条，得分 71，技术分享网络配置经验。",
         "extra": {
           "image": "https://opengraph.githubassets.com/83b6c5968d7f8e661961600ad5a339e7fe330bf046b998cde0753610fb3547d9/highpost/tailscale-macos-vm"
-        }
-      },
-      {
-        "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores",
-        "url": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6",
-        "source": "Hacker News",
-        "source_kind": "hackernews",
-        "published_at": "2026-05-28T21:14:22",
-        "score": 59,
-        "summary": "亚马逊取消AI排行榜，以阻止员工追逐使用分数。此举旨在避免指标游戏化，确保AI工具的有效使用。",
-        "extra": {
-          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F23bfbafa-f678-4dc0-9df8-b6c7345e0b15.jpg?source=next-barrier-page"
         }
       },
       {
@@ -398,8 +386,8 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-29T00:49:05",
-        "score": 52,
-        "summary": "微软数据显示使用AI的成本高于雇佣人类，引发关于AI经济性的讨论。这挑战了AI普遍降低成本的假设。",
+        "score": 56,
+        "summary": "Hacker News 讨论：微软数据显示使用 AI 比雇佣人类更昂贵。评论 8 条，得分 56，引发对 AI 成本效益的质疑。",
         "extra": {
           "image": "https://s.yimg.com/ny/api/res/1.2/iwMGvG3B6lySHpIlOeK4kw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/f1dcf213ed6f57e4a0b0e5a35ecf81f4"
         }
@@ -410,8 +398,8 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-28T21:03:24",
-        "score": 41,
-        "summary": "针对编码代理的抗议软件出现，引发关于AI代理安全性和开发者责任的讨论。社区担忧恶意代码注入风险。",
+        "score": 43,
+        "summary": "Hacker News 讨论：针对编码代理的抗议软件（Protestware）。评论 29 条，得分 43，讨论开发者如何在代码中嵌入政治抗议。",
         "extra": {
           "image": "https://nesbitt.io/images/boxes.png"
         }
@@ -422,34 +410,46 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-29T07:05:31",
-        "score": 31,
-        "summary": "jqwik中未公开的附加功能指示AI编码代理删除应用输出，引发讨论。社区关注AI代理的安全性和意外行为。",
+        "score": 36,
+        "summary": "Hacker News 讨论：jqwik 中未披露的附加内容指示 AI 编码代理删除应用输出。评论 37 条，得分 36，引发对 AI 代理安全性的担忧。",
         "extra": {
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-1152x648.jpg"
         }
       },
       {
-        "title": "苹果据悉将在WWDC重点展示端侧AI能力",
-        "url": "https://36kr.com/newsflashes/3830102509889417?f=rss",
-        "source": "36氪",
+        "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+        "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+        "source": "TechCrunch AI",
         "source_kind": "rss",
-        "published_at": "2026-05-29T08:21:45",
+        "published_at": "2026-05-29T00:44:37",
         "score": 0,
-        "summary": "苹果将在WWDC重点展示端侧AI能力，推进Gemini模型轻量化以本地运行，但部分任务仍需云端处理，新版Siri将使用谷歌Gemini授权版本。",
+        "summary": "企业 AI 搜索初创公司 Glean 年收入突破 3 亿美元，同比增长 3 倍，尽管科技巨头纷纷进入该领域。Glean 将 AI 预算削减作为主要卖点，帮助企业优化 AI 支出。",
         "extra": {
-          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183614.jpg?resize=1200,800"
         }
       },
       {
-        "title": "广州“十五五”规划纲要：培育壮大具身智能产业",
-        "url": "https://36kr.com/newsflashes/3830085811545731?f=rss",
-        "source": "36氪",
+        "title": "LLMs believe false statements even after explicit warnings that they're false",
+        "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+        "source": "Ars Technica AI",
         "source_kind": "rss",
-        "published_at": "2026-05-29T08:04:45",
+        "published_at": "2026-05-28T21:29:43",
         "score": 0,
-        "summary": "广州“十五五”规划纲要提出培育壮大具身智能产业，强化智慧大脑、精密小脑、灵活肢体和操作系统研发，完善企业梯度培育机制。",
+        "summary": "研究表明，LLM 在微调后即使被明确警告信息为假，仍会倾向于相信并自信地将其表述为真。这种“偏见”对 AI 安全性构成挑战。",
         "extra": {
-          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-500x500.jpg"
+        }
+      },
+      {
+        "title": "The internet is being rebuilt for machines",
+        "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-28T21:24:01",
+        "score": 0,
+        "summary": "随着 AI 代理从实验走向生产，AWS、Cloudflare 等公司正在重新设计云基础设施，以适应机器生成流量主导的未来。互联网正被重建为以机器为中心的网络，而非人类用户。",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
         }
       }
     ],
@@ -461,7 +461,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-29T06:41:50",
         "score": 0,
-        "summary": "PromptLayer提供AI请求、工作流和成本的时间线追踪，帮助开发者监控和优化AI使用。",
+        "summary": "PromptLayer：在一个时间线中追踪 AI 请求、工作流和成本。帮助开发者监控和优化 AI 应用性能。",
         "extra": {
           "image": "https://ph-files.imgix.net/fa5a5ead-ce01-4b3b-a0ee-edce520bca47.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -473,7 +473,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T22:56:59",
         "score": 0,
-        "summary": "Firecrawl的/monitor功能可在网页变化时通知AI代理，实现实时数据更新。",
+        "summary": "Firecrawl 的 /monitor：当网页变化时通知你的 AI 代理。实现实时数据监控，驱动代理响应。",
         "extra": {
           "image": "https://ph-files.imgix.net/158875df-1a0c-436f-9372-74aba00d844b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -485,7 +485,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T15:05:48",
         "score": 0,
-        "summary": "GPS为LLM提供记忆层，存储仓库规则和过往经验，提升代理的长期记忆能力。",
+        "summary": "GPS：LLM 的记忆层，存储仓库规则和过往经验。增强模型对项目上下文的记忆能力。",
         "extra": {
           "image": "https://ph-files.imgix.net/d3996a42-4098-48b2-b877-3899de001196.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -497,7 +497,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T15:00:52",
         "score": 0,
-        "summary": "Ahrefs推出Agent A，基于Ahrefs数据的AI营销代理，自动化营销任务。",
+        "summary": "Ahrefs 推出 Agent A：基于 Ahrefs 数据的 AI 营销代理。自动化营销任务，利用 SEO 数据驱动决策。",
         "extra": {
           "image": "https://ph-files.imgix.net/71a245d8-4d7b-42f0-a448-8d6e87724bf7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -509,7 +509,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T14:59:17",
         "score": 0,
-        "summary": "TrackNotch在Mac的刘海区域显示LLM使用追踪，方便开发者监控API调用。",
+        "summary": "TrackNotch：在 Mac 的刘海区域显示 LLM 使用追踪。轻量级工具，方便开发者实时监控 API 调用。",
         "extra": {
           "image": "https://ph-files.imgix.net/7583094d-5f89-43bc-a5e4-dea545e9038c.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -521,7 +521,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T14:56:30",
         "score": 0,
-        "summary": "Clipline是AI视频剪辑工具，可在Telegram中为Shorts、Reels、TikTok生成病毒式视频。",
+        "summary": "Clipline：Telegram 中的 AI 视频剪辑工具，用于制作病毒式短视频（Shorts、Reels、TikTok）。自动化视频编辑流程。",
         "extra": {
           "image": "https://ph-files.imgix.net/0f179ed0-b495-482f-8759-69ee327ee2af.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -533,7 +533,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T09:24:39",
         "score": 0,
-        "summary": "Vibeocus Lens将实时前端直接桥接到AI代理，实现前端与AI的实时交互。",
+        "summary": "Vibeocus Lens：将实时前端直接桥接到 AI 代理。实现前端与 AI 的无缝交互。",
         "extra": {
           "image": "https://ph-files.imgix.net/a1db6d9f-0f1f-45f8-874b-e37d6bcfd569.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -545,7 +545,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T02:18:30",
         "score": 0,
-        "summary": "Angel Match 4.0提供12.5万+天使投资人和VC数据库，帮助初创公司完成种子轮融资。",
+        "summary": "Angel Match 4.0：包含 12.5 万+天使投资人和风投的数据库，帮助初创公司完成种子轮融资。",
         "extra": {
           "image": "https://ph-files.imgix.net/bfec8915-3627-4eaa-9a9f-0fd858b4e092.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -557,7 +557,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-27T23:23:44",
         "score": 0,
-        "summary": "NeuralAgent 2.5允许用户与计算机对话，计算机响应并执行任务，实现语音控制。",
+        "summary": "NeuralAgent 2.5：与电脑对话，它响应并完成任务。语音驱动的 AI 代理，自动化桌面操作。",
         "extra": {
           "image": "https://ph-files.imgix.net/deff7552-d815-45fc-8dab-1e8e2555db84.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -569,7 +569,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-27T22:10:18",
         "score": 0,
-        "summary": "Ava 2.0是AI业务发展代表，可自主运行外呼销售，自动化销售流程。",
+        "summary": "Ava 2.0：AI 业务开发代表，自主运行外呼销售。自动化销售流程，提升效率。",
         "extra": {
           "image": "https://ph-files.imgix.net/4d066ffc-be7a-4ebb-8fd7-66e4d5b33f70.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -581,7 +581,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-27T08:53:37",
         "score": 0,
-        "summary": "Parastore使用LLM驱动的合成消费者模拟真实商店，用于零售测试和优化。",
+        "summary": "Parastore：用 LLM 驱动的合成消费者模拟真实商店。用于市场研究和消费者行为分析。",
         "extra": {
           "image": "https://ph-files.imgix.net/90deb231-104e-446e-a564-cae76754a14e.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -593,7 +593,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-27T07:32:57",
         "score": 0,
-        "summary": "Crew44将编码代理转化为专业团队，实现多代理协作开发。",
+        "summary": "Crew44：将编码代理转变为专家团队。协调多个 AI 代理协作完成复杂开发任务。",
         "extra": {
           "image": "https://ph-files.imgix.net/50673b0a-607b-4d8d-87ba-ea4ffc3a90f0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -606,8 +606,8 @@
         "source": "Hacker News",
         "source_kind": "hackernews",
         "published_at": "2026-05-29T02:13:20",
-        "score": 66,
-        "summary": "Claude Code的配置选项文档未提及的内容被揭示，帮助开发者更好地利用该工具。讨论聚焦于Claude Code的实际使用技巧。",
+        "score": 78,
+        "summary": "Hacker News 讨论：Claude Code 的配置技巧，文档未提及的内容。评论 15 条，得分 78，开发者分享如何优化 Claude Code 的使用。",
         "extra": {
           "image": "https://substackcdn.com/image/fetch/$s_!uQxS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde864c42-7eee-46ec-af2d-c111064bc767_1920x1035.png"
         }
@@ -619,7 +619,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-29T00:01:00",
         "score": 0,
-        "summary": "Vercel Sandboxes现在支持在8080端口上打开和绑定作为入口域名，原控制器端口移至23456。",
+        "summary": "Vercel Sandboxes 现在支持端口 8080 作为入口域名，原控制器端口移至 23456。提升开发灵活性。",
         "extra": {
           "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7MQjvJas6oedTUR6biGeaC/c43266c47c05899e5dcc092f380886b9/23279__1_.png"
         }
@@ -631,7 +631,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T07:00:00",
         "score": 0,
-        "summary": "Claude Opus 4.8现已在Vercel AI Gateway上可用，专为长时域代理执行设计，处理复杂多步编码任务。",
+        "summary": "Claude Opus 4.8 现已在 Vercel AI Gateway 上可用，专为长时程代理执行设计，处理复杂多步编码任务。",
         "extra": {
           "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3QL3sh1TJhTTI5HyJ3xz65/c4f22db29c762cad66200662ce54213a/Vercel_x_Anthropic.jpeg"
         }
@@ -643,7 +643,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T00:00:00",
         "score": 0,
-        "summary": "AI Gateway新增团队级提供商允许列表，限制流量仅路由到批准的提供商。",
+        "summary": "Vercel AI Gateway 新增团队级提供商白名单，限制流量仅路由到批准的提供商。增强安全性和合规性。",
         "extra": {
           "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4ZKkmSbyrUHAnR8QvvEkts/4f06915f526c6a577eb9750b9120d9fe/image__49_.png"
         }
@@ -655,7 +655,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-28T00:00:00",
         "score": 0,
-        "summary": "Amazon OpenSearch Serverless现已在Vercel Marketplace中可用，提供引导设置和自动项目配置，适用于代理基础设施。",
+        "summary": "Amazon OpenSearch Serverless 现已在 Vercel Marketplace 上线，提供引导设置和自动项目配置。适用于代理基础设施。",
         "extra": {
           "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4Vm60U5JY6R2UwuMSf8qmb/eb705031344ccf67d62b68439fa718a7/34348.png"
         }
@@ -667,7 +667,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-27T18:09:51",
         "score": 0,
-        "summary": "AI编码代理Devin的开发商Cognition估值在不到9个月内翻倍至260亿美元，融资超10亿美元。投资者对AI编码工具的热情高涨。",
+        "summary": "AI 编码代理 Devin 的制造商 Cognition 在不到 9 个月内估值翻倍至 260 亿美元，融资超 10 亿美元。显示投资者对 AI 编码工具的热情。",
         "extra": {
           "image": "https://the-decoder.com/wp-content/uploads/2026/05/cognition_logo.jpg"
         }
@@ -679,7 +679,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-27T00:00:00",
         "score": 0,
-        "summary": "Vercel CLI推出实验性原生二进制文件，启动更快、更安全，无需Node.js运行时依赖。",
+        "summary": "Vercel CLI 实验性原生二进制版本，启动更快、更安全，无需 Node.js 运行时。代码签名确保安全。",
         "extra": {
           "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2VWoAhquEefTBDKzuqIYYC/b8b9acb6234736c4742663e5ed764ae9/experimental_native_binaries_for_vercel_cli_og_card_1_.jpg"
         }
@@ -691,7 +691,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-27T00:00:00",
         "score": 0,
-        "summary": "Vercel部署列表重新设计，采用更密集布局，按环境分组显示状态，使分支和提交更易识别。",
+        "summary": "Vercel 重新设计部署列表，采用更密集布局，环境分组显示状态，分支和提交信息更清晰。",
         "extra": {
           "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/AgWNEQ18QovvI9nXijPBZ/2aabe74700caca59e57cd97adbb828df/image.png"
         }
@@ -703,7 +703,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-26T00:01:00",
         "score": 0,
-        "summary": "Vercel Sandboxes持久化功能正式发布，自动保存和恢复会话间的文件系统状态，默认开启。",
+        "summary": "Vercel Sandboxes 持久化功能正式 GA，自动保存和恢复文件系统状态，无需手动管理快照。",
         "extra": {
           "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6yIXghv4oztgANf5KwG7hP/dee1c66648c9d39e62a80cea2c13baaa/85451.png"
         }
@@ -715,7 +715,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-26T00:00:00",
         "score": 0,
-        "summary": "Vercel Domains新增价格排序和可用性过滤，帮助用户快速找到预算内的域名。",
+        "summary": "Vercel Domains 新增价格排序和可用性过滤，帮助用户快速找到预算内的域名。",
         "extra": {
           "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6Qt48XmmBsLUf7NeEu6RFF/50160b7c5391eb46885b5b9cdd4cdc27/image__6_.png"
         }
@@ -727,7 +727,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-26T00:00:00",
         "score": 0,
-        "summary": "Firecrawl加入Vercel Marketplace，为Vercel团队提供结构化网页数据，无需管理爬取基础设施。",
+        "summary": "Firecrawl 加入 Vercel Marketplace，为 AI 代理和应用提供结构化网页数据，无需管理爬虫基础设施。",
         "extra": {
           "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7xMwfLcauWJn3rBSgyiChu/ec92a6301ffdeb7c8f990acdc81f5122/firecrawl_is_now_available_in_the_vercel_marketpla_og_card.jpg"
         }
@@ -739,7 +739,7 @@
         "source_kind": "rss",
         "published_at": "2026-05-26T00:00:00",
         "score": 0,
-        "summary": "Vercel微前端路由更新，别名和分支分配域名现在继承微前端路由规则。",
+        "summary": "Vercel 微前端路由更新，现在适用于别名和分支分配域名，继承微前端路由规则。",
         "extra": {
           "image": "https://vercel.com/api/dynamic-og?title=Microfrontends%20routing%20now%20applies%20to%20vc%20alias%20and%20branch%20domains&format=changelog"
         }
@@ -751,9 +751,9 @@
         "url": "https://huggingface.co/papers/2605.29801",
         "source": "HF Papers",
         "source_kind": "hfpapers",
-        "published_at": "2026-05-29T08:48:41.727300",
-        "score": 71,
-        "summary": "AgentDoG 1.5是一个轻量级可扩展对齐框架，用于AI代理安全和安保，在Hugging Face Papers上获71票。",
+        "published_at": "2026-05-29T09:28:22.554170",
+        "score": 73,
+        "summary": "HF Papers: AgentDoG 1.5——轻量级可扩展 AI 代理安全对齐框架。arXiv 2605.29801，得分 73。",
         "extra": {
           "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.29801.png",
           "arxiv_id": "2605.29801"
@@ -764,9 +764,9 @@
         "url": "https://huggingface.co/papers/2605.29250",
         "source": "HF Papers",
         "source_kind": "hfpapers",
-        "published_at": "2026-05-29T08:48:41.727300",
-        "score": 45,
-        "summary": "OmniRetrieval实现跨异构知识源的统一检索，在HF Papers上获45票。",
+        "published_at": "2026-05-29T09:28:22.554170",
+        "score": 46,
+        "summary": "HF Papers: OmniRetrieval——跨异构知识源的统一检索。arXiv 2605.29250，得分 46。",
         "extra": {
           "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.29250.png",
           "arxiv_id": "2605.29250"
@@ -777,9 +777,9 @@
         "url": "https://huggingface.co/papers/2605.25378",
         "source": "HF Papers",
         "source_kind": "hfpapers",
-        "published_at": "2026-05-29T08:48:41.727300",
+        "published_at": "2026-05-29T09:28:22.554170",
         "score": 34,
-        "summary": "CollectionLoRA通过多教师在线策略蒸馏，在单个LoRA中收集50种效果，获34票。",
+        "summary": "HF Papers: CollectionLoRA——通过多教师在线蒸馏收集 50 种效果于一个 LoRA。arXiv 2605.25378，得分 34。",
         "extra": {
           "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.25378.png",
           "arxiv_id": "2605.25378"
@@ -790,9 +790,9 @@
         "url": "https://huggingface.co/papers/2605.30263",
         "source": "HF Papers",
         "source_kind": "hfpapers",
-        "published_at": "2026-05-29T08:48:41.727300",
-        "score": 22,
-        "summary": "minWM是一个全栈开源框架，用于实时交互式视频世界模型，获22票。",
+        "published_at": "2026-05-29T09:28:22.554170",
+        "score": 29,
+        "summary": "HF Papers: minWM——全栈开源实时交互视频世界模型框架。arXiv 2605.30263，得分 29。",
         "extra": {
           "arxiv_id": "2605.30263",
           "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30263/gradient.png"
@@ -803,25 +803,12 @@
         "url": "https://huggingface.co/papers/2605.30346",
         "source": "HF Papers",
         "source_kind": "hfpapers",
-        "published_at": "2026-05-29T08:48:41.727300",
-        "score": 20,
-        "summary": "YoCausal从因果关系角度探讨视频生成与世界模型的距离，获20票。",
+        "published_at": "2026-05-29T09:28:22.554170",
+        "score": 22,
+        "summary": "HF Papers: YoCausal——从因果关系视角看视频生成距离世界模型有多远。arXiv 2605.30346，得分 22。",
         "extra": {
           "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30346.png",
           "arxiv_id": "2605.30346"
-        }
-      },
-      {
-        "title": "GenClaw: Code-Driven Agentic Image Generation",
-        "url": "https://huggingface.co/papers/2605.30248",
-        "source": "HF Papers",
-        "source_kind": "hfpapers",
-        "published_at": "2026-05-29T08:48:41.727300",
-        "score": 20,
-        "summary": "GenClaw是代码驱动的代理图像生成框架，获20票。",
-        "extra": {
-          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30248.png",
-          "arxiv_id": "2605.30248"
         }
       },
       {
@@ -829,25 +816,38 @@
         "url": "https://huggingface.co/papers/2605.30280",
         "source": "HF Papers",
         "source_kind": "hfpapers",
-        "published_at": "2026-05-29T08:48:41.727300",
-        "score": 19,
-        "summary": "Qwen-VLA统一视觉-语言-动作建模，跨任务、环境和机器人本体，获19票。",
+        "published_at": "2026-05-29T09:28:22.554170",
+        "score": 22,
+        "summary": "HF Papers: Qwen-VLA——统一视觉-语言-动作建模，跨任务、环境和机器人本体。arXiv 2605.30280，得分 22。",
         "extra": {
           "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30280.png",
           "arxiv_id": "2605.30280"
         }
       },
       {
-        "title": "How LoRA Remembers? A Parametric Memory Law for LLM Finetuning",
-        "url": "https://huggingface.co/papers/2605.30260",
+        "title": "GenClaw: Code-Driven Agentic Image Generation",
+        "url": "https://huggingface.co/papers/2605.30248",
         "source": "HF Papers",
         "source_kind": "hfpapers",
-        "published_at": "2026-05-29T08:48:41.727300",
-        "score": 16,
-        "summary": "研究LoRA如何记忆，提出参数记忆定律用于LLM微调，获16票。",
+        "published_at": "2026-05-29T09:28:22.554170",
+        "score": 21,
+        "summary": "HF Papers: GenClaw——代码驱动的代理图像生成。arXiv 2605.30248，得分 21。",
         "extra": {
-          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30260.png",
-          "arxiv_id": "2605.30260"
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30248.png",
+          "arxiv_id": "2605.30248"
+        }
+      },
+      {
+        "title": "UniSteer: Text-Guided Flow Matching in Activation Space for Versatile LLM Steering",
+        "url": "https://huggingface.co/papers/2605.30076",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-05-29T09:28:22.554170",
+        "score": 16,
+        "summary": "HF Papers: UniSteer——文本引导的激活空间流匹配，用于通用 LLM 控制。arXiv 2605.30076，得分 16。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30076.png",
+          "arxiv_id": "2605.30076"
         }
       },
       {
@@ -855,12 +855,25 @@
         "url": "https://huggingface.co/papers/2605.30265",
         "source": "HF Papers",
         "source_kind": "hfpapers",
-        "published_at": "2026-05-29T08:48:41.727300",
-        "score": 15,
-        "summary": "LoMo通过局部模态替换实现更深层的视觉-语言融合，获15票。",
+        "published_at": "2026-05-29T09:28:22.554170",
+        "score": 16,
+        "summary": "HF Papers: LoMo——局部模态替换，实现更深层的视觉-语言融合。arXiv 2605.30265，得分 16。",
         "extra": {
           "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30265.png",
           "arxiv_id": "2605.30265"
+        }
+      },
+      {
+        "title": "How LoRA Remembers? A Parametric Memory Law for LLM Finetuning",
+        "url": "https://huggingface.co/papers/2605.30260",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-05-29T09:28:22.554170",
+        "score": 16,
+        "summary": "HF Papers: LoRA 如何记忆？LLM 微调的参数记忆定律。arXiv 2605.30260，得分 16。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30260.png",
+          "arxiv_id": "2605.30260"
         }
       },
       {
@@ -868,25 +881,12 @@
         "url": "https://huggingface.co/papers/2605.30073",
         "source": "HF Papers",
         "source_kind": "hfpapers",
-        "published_at": "2026-05-29T08:48:41.727300",
-        "score": 14,
-        "summary": "原生音视频对齐用于生成，获14票。",
+        "published_at": "2026-05-29T09:28:22.554170",
+        "score": 15,
+        "summary": "HF Papers: 原生视听对齐用于生成。arXiv 2605.30073，得分 15。",
         "extra": {
           "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30073.png",
           "arxiv_id": "2605.30073"
-        }
-      },
-      {
-        "title": "Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning",
-        "url": "https://huggingface.co/papers/2605.28424",
-        "source": "HF Papers",
-        "source_kind": "hfpapers",
-        "published_at": "2026-05-29T08:48:41.727300",
-        "score": 14,
-        "summary": "Skill0.5联合技能内化和利用，用于代理强化学习中的分布外泛化，获14票。",
-        "extra": {
-          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.28424.png",
-          "arxiv_id": "2605.28424"
         }
       },
       {
@@ -894,9 +894,9 @@
         "url": "https://huggingface.co/papers/2605.29888",
         "source": "HF Papers",
         "source_kind": "hfpapers",
-        "published_at": "2026-05-29T08:48:41.727300",
-        "score": 13,
-        "summary": "LaRA通过层表示分析检测RL后训练中的数据污染，获13票。",
+        "published_at": "2026-05-29T09:28:22.554170",
+        "score": 14,
+        "summary": "HF Papers: LaRA——逐层表示分析检测 RL 后训练中的数据污染。arXiv 2605.29888，得分 14。",
         "extra": {
           "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.29888.png",
           "arxiv_id": "2605.29888"
@@ -911,7 +911,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 319,
-        "summary": "anthropics/claude-code是终端中的代理编码工具，理解代码库，通过自然语言执行常规任务、解释复杂代码和处理git工作流，今日获319星。",
+        "summary": "GitHub 趋势：anthropics/claude-code——终端中的代理编码工具，理解代码库，通过自然语言加速编码，Python，今日 +319 星。",
         "extra": {
           "image": "https://github.com/anthropics.png?size=120",
           "language": "Python"
@@ -924,7 +924,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 269,
-        "summary": "NangoHQ/nango用于构建产品集成与AI，今日获269星。",
+        "summary": "GitHub 趋势：NangoHQ/nango——用 AI 构建产品集成，TypeScript，今日 +269 星。",
         "extra": {
           "image": "https://github.com/NangoHQ.png?size=120",
           "language": "TypeScript"
@@ -933,11 +933,11 @@
       {
         "title": "EveryInc/compound-engineering-plugin",
         "url": "https://github.com/EveryInc/compound-engineering-plugin",
-        "source": "GitHub Trending (daily / 全语言)",
+        "source": "GitHub Trending (daily / TypeScript)",
         "source_kind": "github",
         "published_at": null,
         "score": 184,
-        "summary": "EveryInc/compound-engineering-plugin是Claude Code、Codex、Cursor等的官方复合工程插件，今日获184星。",
+        "summary": "GitHub 趋势：EveryInc/compound-engineering-plugin——Claude Code、Codex、Cursor 等的官方 Compound Engineering 插件，TypeScript 编写，今日 +184 星。",
         "extra": {
           "image": "https://github.com/EveryInc.png?size=120",
           "language": "TypeScript"
@@ -950,7 +950,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 176,
-        "summary": "iOfficeAI/AionUi是免费、本地、开源的24/7协同应用，支持OpenClaw、Hermes Agent等20+CLI，今日获176星。",
+        "summary": "GitHub 趋势：iOfficeAI/AionUi——免费、本地、开源的 24/7 协作应用，支持 OpenClaw、Hermes Agent、Claude Code 等 20+ CLI，TypeScript，今日 +176 星。",
         "extra": {
           "image": "https://github.com/iOfficeAI.png?size=120",
           "language": "TypeScript"
@@ -963,7 +963,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 100,
-        "summary": "adithya-s-k/omniparse可摄取、解析和优化任何数据格式，从文档到多媒体，增强GenAI框架兼容性，今日获100星。",
+        "summary": "GitHub 趋势：adithya-s-k/omniparse——解析和优化任何数据格式，从文档到多媒体，增强 GenAI 框架兼容性，Python，今日 +100 星。",
         "extra": {
           "image": "https://github.com/adithya-s-k.png?size=120",
           "language": "Python"
@@ -976,7 +976,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 91,
-        "summary": "apurvsinghgautam/robin是AI驱动的暗网OSINT工具，今日获91星。",
+        "summary": "GitHub 趋势：apurvsinghgautam/robin——AI 驱动的暗网 OSINT 工具，Python，今日 +91 星。",
         "extra": {
           "image": "https://github.com/apurvsinghgautam.png?size=120",
           "language": "Python"
@@ -989,7 +989,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 83,
-        "summary": "ariadng/metatrader-mcp-server实现MCP协议，使AI LLM能通过MetaTrader平台交易，今日获83星。",
+        "summary": "GitHub 趋势：ariadng/metatrader-mcp-server——MCP 服务器，使 AI LLM 能通过 MetaTrader 平台交易，Python，今日 +83 星。",
         "extra": {
           "image": "https://github.com/ariadng.png?size=120",
           "language": "Python"
@@ -1002,23 +1002,10 @@
         "source_kind": "github",
         "published_at": null,
         "score": 71,
-        "summary": "MOSS-TTS是开源语音和声音生成模型家族，支持高保真、高表现力，覆盖长语音、多说话人对话、声音设计等场景。",
+        "summary": "GitHub 趋势：OpenMOSS/MOSS-TTS——开源语音和声音生成模型家族，支持长文本、多说话人对话、声音设计等，今日 +65 星。",
         "extra": {
           "image": "https://github.com/OpenMOSS.png?size=120",
           "language": "Python"
-        }
-      },
-      {
-        "title": "revfactory/harness",
-        "url": "https://github.com/revfactory/harness",
-        "source": "GitHub Trending (daily / 全语言)",
-        "source_kind": "github",
-        "published_at": null,
-        "score": 65,
-        "summary": "revfactory/harness是一个元技能，可设计特定领域的代理团队、定义专业代理并生成其使用的技能。今日获65星。",
-        "extra": {
-          "image": "https://github.com/revfactory.png?size=120",
-          "language": "HTML"
         }
       },
       {
@@ -1028,10 +1015,23 @@
         "source_kind": "github",
         "published_at": null,
         "score": 65,
-        "summary": "mastra-ai/mastra是来自Gatsby团队的框架，用于构建AI应用和代理，基于现代TypeScript栈，今日获65星。",
+        "summary": "GitHub 趋势：mastra-ai/mastra——来自 Gatsby 团队，用现代 TypeScript 栈构建 AI 应用和代理的框架，今日 +65 星。",
         "extra": {
           "image": "https://github.com/mastra-ai.png?size=120",
           "language": "TypeScript"
+        }
+      },
+      {
+        "title": "revfactory/harness",
+        "url": "https://github.com/revfactory/harness",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 65,
+        "summary": "GitHub 趋势：revfactory/harness——设计领域特定代理团队的元技能，定义专业代理并生成技能，HTML，今日 +65 星。",
+        "extra": {
+          "image": "https://github.com/revfactory.png?size=120",
+          "language": "HTML"
         }
       },
       {
@@ -1041,7 +1041,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 62,
-        "summary": "microsoft/RAMPART是pytest原生的安全测试框架，用于代理AI应用，今日获62星。",
+        "summary": "GitHub 趋势：microsoft/RAMPART——pytest 原生的代理 AI 应用安全测试框架，Python，今日 +62 星。",
         "extra": {
           "image": "https://github.com/microsoft.png?size=120",
           "language": "Python"
@@ -1054,7 +1054,7 @@
         "source_kind": "github",
         "published_at": null,
         "score": 45,
-        "summary": "Sync-in/server是开源文件存储、共享、协作和同步平台，今日获45星。",
+        "summary": "GitHub 趋势：Sync-in/server——开源文件存储、共享、协作和同步平台，TypeScript，今日 +45 星。",
         "extra": {
           "image": "https://github.com/Sync-in.png?size=120",
           "language": "TypeScript"
