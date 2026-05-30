@@ -1,0 +1,655 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T10:01:08+08:00",
+  "stats": {
+    "new_count": 74,
+    "total_seen": 1704
+  },
+  "section_titles": {
+    "skills_mcp": "🧩 MCP & Skills 生态",
+    "models": "🚀 大模型动态",
+    "news": "📰 AI 重要新闻",
+    "products": "🔥 爆款 AI 产品",
+    "tools": "🛠️ AI 工具 & Coding Agent",
+    "papers": "📜 论文与研究",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "skills_mcp": [
+      {
+        "title": "Robinhood now lets your AI agents trade stocks",
+        "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-29T17:46:27",
+        "score": 88,
+        "summary": "Robinhood 现在允许你的 AI 代理交易股票，获得 164 条评论和 88 分。",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/Agentic-trading-feat.jpg?resize=1200,675"
+        }
+      },
+      {
+        "title": "MCP is dead?",
+        "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-29T22:56:49",
+        "score": 85,
+        "summary": "Hacker News 上关于 MCP 是否已死的讨论，获得 69 条评论和 85 分。",
+        "extra": {
+          "image": "https://cdn.prod.website-files.com/668aa55ff9fc77f31f6cc2f0/6a0f2926a73de3ec41126467_post%20image%20b.webp"
+        }
+      },
+      {
+        "title": "CAPTCHAs can still detect AI agents",
+        "url": "https://research.roundtable.ai/captchas-detect-ai/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-29T15:57:37",
+        "score": 64,
+        "summary": "CAPTCHA 仍然可以检测 AI 代理，获得 52 条评论和 64 分。",
+        "extra": {
+          "image": "https://research.roundtable.ai/images/model-performance.png"
+        }
+      },
+      {
+        "title": "New review paper argues code is how AI agents think and act, not just what they produce",
+        "url": "https://the-decoder.com/new-review-paper-argues-code-is-how-ai-agents-think-and-act-not-just-what-they-produce/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T13:10:59",
+        "score": 0,
+        "summary": "一篇新的综述论文认为，自主 AI 代理的真正瓶颈不是语言模型本身，而是围绕它的软件层，包括工具、内存、测试和权限边界。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/05/Code-Agent-Harness-Nano-Banana-Pro.jpg"
+        }
+      },
+      {
+        "title": "Adobe’s conversational AI agent is a mediocre design intern",
+        "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+        "source": "The Verge AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T10:00:00",
+        "score": 0,
+        "summary": "Adobe 的对话式 AI 代理被描述为平庸的设计实习生，主要面向没有设计经验的人。",
+        "extra": {
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Adobe-Firefly-AI-Assistant-hands-on-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "[AINews] Founders and Forward Deployed Engineers",
+        "url": "https://www.latent.space/p/ainews-founders-and-forward-deployed",
+        "source": "Latent Space",
+        "source_kind": "rss",
+        "published_at": "2026-05-30T01:57:15",
+        "score": 0,
+        "summary": "AINews 聚焦创始人和前向部署工程师，以及新的 AIE WF 重点。",
+        "extra": {
+          "image": "https://substackcdn.com/image/fetch/$s_!SpLP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb92541e3-151a-4f10-8226-b86cb12eaca0_2332x1344.png"
+        }
+      },
+      {
+        "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T19:00:00",
+        "score": 0,
+        "summary": "我们使用 Google AI Studio 以“氛围编码”方式制作了一个关于 I/O 2026 公告的测验。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "OpenAI gives GPT-5.5 Instant a readability upgrade while phasing out two older models",
+        "url": "https://the-decoder.com/openai-gives-gpt-5-5-instant-a-readability-upgrade-while-phasing-out-two-older-models/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T18:11:34",
+        "score": 0,
+        "summary": "OpenAI 更新 GPT-5.5 Instant 以获得更自然的回复，并逐步淘汰两个旧模型，同时从最新模型中移除 Canvas 功能。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/04/openai_logo_orange.png"
+        }
+      },
+      {
+        "title": "Google fixes several bugs in Gemini usage limits that burned through quotas too fast",
+        "url": "https://the-decoder.com/google-fixes-several-bugs-in-gemini-usage-limits-that-burned-through-quotas-too-fast/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T17:51:46",
+        "score": 0,
+        "summary": "Google 修复了 Gemini 使用限制中的多个错误，这些错误导致一两个 Omni 视频就消耗完整个配额，Ultra 成员现在获得两倍的视频生成次数。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png"
+        }
+      },
+      {
+        "title": "One company reportedly spent $500 million on Claude in one month after failing to cap AI usage",
+        "url": "https://the-decoder.com/one-company-reportedly-spent-500-million-on-claude-in-one-month-after-failing-to-cap-ai-usage/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T17:35:26",
+        "score": 0,
+        "summary": "一家未具名公司据称在一个月内因未设置使用限制而在 Claude 许可证上花费了 5 亿美元。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2024/05/money_server_room.png"
+        }
+      },
+      {
+        "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T17:30:00",
+        "score": 0,
+        "summary": "展示了 Gemini Omni 和 Gemini 3.5 的 9 个演示。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "OpenAI is giving away its life sciences AI model to help governments prepare for the next pandemic",
+        "url": "https://the-decoder.com/openai-is-giving-away-its-life-sciences-ai-model-to-help-governments-prepare-for-the-next-pandemic/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T16:51:30",
+        "score": 0,
+        "summary": "OpenAI 通过新的 Rosalind Biodefense 计划免费提供其生命科学模型 GPT-Rosalind，用于大流行防范。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/04/openai_gpt_rosalind_bio.png"
+        }
+      },
+      {
+        "title": "Check out real-life AI prototypes from the Futures Lab.",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T12:00:00",
+        "score": 0,
+        "summary": "滑铁卢大学的学生开发了 AI 原型，如手语导师，以重塑教育和工作的未来。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "Boston Children’s uses AI to unlock new diagnoses",
+        "url": "https://openai.com/index/boston-childrens-hospital",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T12:00:00",
+        "score": 0,
+        "summary": "波士顿儿童医院使用 OpenAI 技术改善患者护理，减少运营负担，并诊断了 40 多例罕见疾病。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/30rCYJwrLmxJa0mwAW1suo/af215de4b370e0310026dadd6085431c/boston-childrens-seo.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "理想再调基座模型组织，新增3个具身智能部门",
+        "url": "https://36kr.com/newsflashes/3830316535572354?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T11:59:28",
+        "score": 0,
+        "summary": "理想汽车基座模型部门调整，新增 3 个具身智能部门，自动驾驶成为独立二级部门。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
+        "url": "https://www.qbitai.com/2026/05/426479.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T09:05:30",
+        "score": 0,
+        "summary": "全球首个商用 AI 主机发布，赠送 5 亿 Tokens，可放开烧 Token。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
+        "url": "https://www.qbitai.com/2026/05/426400.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T08:32:52",
+        "score": 0,
+        "summary": "腾讯发布智能体创意工作室 Miora，让一个人拥有整个创意工作室。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "Notes from the Mistral AI Now Summit",
+        "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-29T16:22:01",
+        "score": 311,
+        "summary": "来自 Mistral AI Now 峰会的笔记，获得 110 条评论和 311 分。",
+        "extra": {
+          "image": "https://koenvangilst.nl/og?title=Notes%20from%20the%20AI%20Now%20Summit%20by%20Mistral&description=A%20few%20days%20in%20Paris%20for%20the%20Mistral%20AI%20Now%20Summit%3A%20open%20models%2C%20on-prem%20deployment%2C%20agentic%20harnesses%2C%20and%20why%20Mistral%20wants%20to%20be%20the%20European%20full-stack%20AI%20partner.&type=blog"
+        }
+      },
+      {
+        "title": "Is AI causing a repeat of frontend’s lost decade?",
+        "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-29T11:09:32",
+        "score": 292,
+        "summary": "AI 是否导致前端失去的十年重演？获得 247 条评论和 292 分。",
+        "extra": {
+          "image": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/og.png"
+        }
+      },
+      {
+        "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+        "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-29T09:47:23",
+        "score": 196,
+        "summary": "在标准 GPU 上实现实时 LLM 推理：每个请求 3k tokens/s，获得 90 条评论和 196 分。",
+        "extra": {
+          "image": "https://storage.ghost.io/c/07/80/0780d8de-243c-4e4d-9876-7e3ee2a55df5/content/images/size/w1200/2026/05/blog-post-reduced-2.png"
+        }
+      },
+      {
+        "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+        "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-29T16:19:54",
+        "score": 152,
+        "summary": "Liquid AI 发布了在 38T 数据上训练的 8B-A1B MoE 模型，获得 52 条评论和 152 分。",
+        "extra": {
+          "image": "https://cdn.prod.website-files.com/67cb8aa6e9184b6e44813189/6a17874a7db7a603d7eb3627_lfm2_5_8b_a1b_benchmarks.png"
+        }
+      },
+      {
+        "title": "Orchestrating AI code review at scale",
+        "url": "https://blog.cloudflare.com/ai-code-review/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-26T07:06:28",
+        "score": 133,
+        "summary": "大规模编排 AI 代码审查，获得 51 条评论和 133 分。",
+        "extra": {
+          "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3g2Vqql5biqvjvXwxhDb3b/b0c7fd707437eff2a7acb9d3172368e4/BLOG-3284_OG.png"
+        }
+      },
+      {
+        "title": "Expertise in the age of AI",
+        "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-29T13:35:13",
+        "score": 103,
+        "summary": "关于 AI 时代专业知识的讨论，获得 97 条评论和 103 分。",
+        "extra": {
+          "image": "https://www.moderndescartes.com/static/rss_icon.gif"
+        }
+      },
+      {
+        "title": "Shift will clean homes for free to train future robots",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-29T19:16:32",
+        "score": 85,
+        "summary": "Shift 将免费清洁房屋以训练未来机器人，获得 117 条评论和 85 分。",
+        "extra": {
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-29-at-12.44.12.png?quality=90&strip=all&crop=0,1.3015853110533,100,97.396829377893"
+        }
+      },
+      {
+        "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+        "url": "https://github.com/jmaczan/tiny-vllm",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-29T19:38:27",
+        "score": 84,
+        "summary": "Show HN: Tiny-vLLM – 用 C++ 和 CUDA 实现的高性能 LLM 推理引擎，获得 84 分。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/e7369f3fab7a5b8cdcffad4a66e35eace9d942a83ba7a6cb069a0232015461ca/jmaczan/tiny-vllm"
+        }
+      },
+      {
+        "title": "Show HN: Zot – Yet another coding agent harness",
+        "url": "https://www.zot.sh",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-29T05:48:21",
+        "score": 62,
+        "summary": "Show HN: Zot – 又一个编码代理工具，获得 64 条评论和 62 分。",
+        "extra": {
+          "image": "https://www.zot.sh/og.png"
+        }
+      },
+      {
+        "title": "What Did the Hudson River School Painters See?",
+        "url": "https://www.nytimes.com/2026/05/25/travel/hudson-valley-painting-thomas-cole-frederic-church.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-27T16:42:04",
+        "score": 6,
+        "summary": "哈德逊河画派画家看到了什么？获得 3 条评论和 6 分。",
+        "extra": {}
+      },
+      {
+        "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+        "url": "https://36kr.com/p/3831135917107075?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-30T01:53:46",
+        "score": 0,
+        "summary": "乘物机器人完成天使轮融资，由和椿科技战略投资，专注工业具身智能，服务富士康，半年营收超两千万。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260530/v2_ab23dbd36ba34964bedeb8f969450d14@5920579_oswg270130oswg1080oswg505_img_000?x-oss-process=image/format,jpg/interlace,1"
+        }
+      },
+      {
+        "title": "MiniMax启动A股上市辅导",
+        "url": "https://36kr.com/newsflashes/3831103200192134?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-05-30T01:19:42",
+        "score": 0,
+        "summary": "MiniMax 于 5 月 29 日与中信证券签署辅导协议，正式启动 A 股 IPO 进程。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      }
+    ],
+    "products": [
+      {
+        "title": "Drafted",
+        "url": "https://www.producthunt.com/products/drafted-4",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T05:25:33",
+        "score": 0,
+        "summary": "Drafted：用 AI 即时设计家居。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/da9cc9cf-9c0d-447d-b1ca-66aa26ce3960.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Hyper: Self-driving Company Brain",
+        "url": "https://www.producthunt.com/products/hyper-11",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-27T20:25:45",
+        "score": 0,
+        "summary": "Hyper：自驾驶公司大脑，将 AI 代理从实习生转变为专家。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/2403292b-a4d8-43bb-ba50-77d089dedfd5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "How Braintrust turns customer requests into code with Codex",
+        "url": "https://openai.com/index/braintrust",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T12:00:00",
+        "score": 0,
+        "summary": "Braintrust 工程师使用 Codex 和 GPT-5.5 更快地运行实验和编写代码。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/5RgT3cPhA5Fs0Nm9sjhmwV/bfa31b3a64ed1689da20b7ae1fc8a3d1/oai_Braintrust_SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "Function invocations now billed per unit",
+        "url": "https://vercel.com/changelog/function-invocations-now-billed-per-unit",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T10:00:00",
+        "score": 0,
+        "summary": "Vercel 函数调用从基于包定价改为按单位计费，适用于 Pro 和新企业客户。",
+        "extra": {
+          "image": "https://vercel.com/api/dynamic-og?title=Function%20invocations%20now%20billed%20per%20unit&format=changelog"
+        }
+      },
+      {
+        "title": "Protecting against inference theft",
+        "url": "https://vercel.com/blog/protecting-against-inference-theft",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T04:00:00",
+        "score": 0,
+        "summary": "Vercel 讨论如何防止推理盗窃，指出 AI 调用成本是 HTTP 请求的百万倍。",
+        "extra": {}
+      },
+      {
+        "title": "Run Docker containers inside Vercel Sandbox",
+        "url": "https://vercel.com/changelog/run-docker-containers-inside-vercel-sandbox",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T00:01:00",
+        "score": 0,
+        "summary": "Vercel Sandbox 现在支持在沙箱内安装和运行 Docker 容器，代理可以构建容器、安装系统包。",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5CAI3c5oCGv4clXL75hNaP/9dc90f701366327d4d459c52a0e932ac/image.png"
+        }
+      },
+      {
+        "title": "Building a real-time power outage map with Next.js on Vercel",
+        "url": "https://vercel.com/blog/building-a-real-time-power-outage-map-with-next-js-on-vercel",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-28T14:00:00",
+        "score": 0,
+        "summary": "Endeavour Energy 使用 Vercel 构建实时停电地图，实现亚秒级页面加载和 38% 更快的部署。",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5TkWfEUVvkvdygKRRu0Ak3/b43d3ca65a64b5113c35cc21b06fe3b6/64700.png"
+        }
+      },
+      {
+        "title": "How Conductor moved parallel coding agents from the laptop to the cloud with Vercel Sandbox",
+        "url": "https://vercel.com/blog/how-conductor-moved-parallel-coding-agents-from-the-laptop-to-the-cloud-with-vercel-sandbox",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-27T14:00:00",
+        "score": 0,
+        "summary": "Conductor 使用 Vercel Sandbox 将并行编码代理从笔记本电脑迁移到云端，支持 Claude Code、Codex 等。",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4RFcj9cPFzYr9lItOGbkao/4864a27806abc7d974be06bf4023c24a/vercel-conductor-og.png"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "title": "EarlyTom: Early Token Compression Completes Fast Video Understanding",
+        "url": "https://huggingface.co/papers/2605.30010",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-05-30T02:00:34.890230",
+        "score": 23,
+        "summary": "EarlyTom：早期 Token 压缩实现快速视频理解，arXiv 2605.30010。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30010.png",
+          "arxiv_id": "2605.30010"
+        }
+      },
+      {
+        "title": "Why Far Looks Up: Probing Spatial Representation in Vision-Language Models",
+        "url": "https://huggingface.co/papers/2605.30161",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-05-30T02:00:34.890230",
+        "score": 20,
+        "summary": "Why Far Looks Up：探究视觉语言模型中的空间表示，arXiv 2605.30161。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30161.png",
+          "arxiv_id": "2605.30161"
+        }
+      },
+      {
+        "title": "Xetrieval: Mechanistically Explaining Dense Retrieval",
+        "url": "https://huggingface.co/papers/2605.29507",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-05-30T02:00:34.890230",
+        "score": 15,
+        "summary": "Xetrieval：机制性解释密集检索，arXiv 2605.29507。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.29507.png",
+          "arxiv_id": "2605.29507"
+        }
+      },
+      {
+        "title": "PRISM: A Multi-Dimensional Benchmark for Evaluating LLM Peer Reviewers",
+        "url": "https://huggingface.co/papers/2605.26730",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-05-30T02:00:34.890230",
+        "score": 6,
+        "summary": "PRISM：评估 LLM 同行评审的多维基准，arXiv 2605.26730。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.26730.png",
+          "arxiv_id": "2605.26730"
+        }
+      },
+      {
+        "title": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
+        "url": "https://huggingface.co/papers/2605.30350",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-05-30T02:00:34.890230",
+        "score": 4,
+        "summary": "DynaFLIP：通过三模态动态引导表示重新思考机器人感知，arXiv 2605.30350。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30350.png",
+          "arxiv_id": "2605.30350"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "run-llama/liteparse",
+        "url": "https://github.com/run-llama/liteparse",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 701,
+        "summary": "liteparse：快速、有用的开源文档解析器，Rust，今日获 701 星。",
+        "extra": {
+          "image": "https://github.com/run-llama.png?size=120",
+          "language": "Rust"
+        }
+      },
+      {
+        "title": "galilai-group/stable-worldmodel",
+        "url": "https://github.com/galilai-group/stable-worldmodel",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 362,
+        "summary": "stable-worldmodel：可复现世界模型研究和评估平台，Python，今日获 362 星。",
+        "extra": {
+          "image": "https://github.com/galilai-group.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "Crosstalk-Solutions/project-nomad",
+        "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 318,
+        "summary": "Project N.O.M.A.D：自包含离线生存计算机，内置关键工具、知识和 AI，今日获 318 星。",
+        "extra": {
+          "image": "https://github.com/Crosstalk-Solutions.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "cursor/plugins",
+        "url": "https://github.com/cursor/plugins",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 134,
+        "summary": "Cursor 插件规范和官方插件，TypeScript 实现，今日获 134 星。",
+        "extra": {
+          "image": "https://github.com/cursor.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "zakirkun/deep-eye",
+        "url": "https://github.com/zakirkun/deep-eye",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 47,
+        "summary": "Deep Eye：编排多个 AI 提供商进行智能负载生成和漏洞扫描，Python，今日获 47 星。",
+        "extra": {
+          "image": "https://github.com/zakirkun.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "bia-pain-bache/BPB-Worker-Panel",
+        "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 44,
+        "summary": "BPB-Worker-Panel：提供 VLESS、Trojan 和 Warp 配置的 GUI 面板，支持多平台客户端，今日获星。",
+        "extra": {
+          "image": "https://github.com/bia-pain-bache.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "ai-boost/awesome-harness-engineering",
+        "url": "https://github.com/ai-boost/awesome-harness-engineering",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 38,
+        "summary": "awesome-harness-engineering：AI 代理工具、模式、评估、内存、MCP 等精选列表，Python，今日获 38 星。",
+        "extra": {
+          "image": "https://github.com/ai-boost.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "ronisarkarexe/story-spark-ai",
+        "url": "https://github.com/ronisarkarexe/story-spark-ai",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 20,
+        "summary": "StorySparkAI：开源平台，从单个提示生成和分享多个故事变体，今日获 20 星。",
+        "extra": {
+          "image": "https://github.com/ronisarkarexe.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "GH05TCREW/pentestagent",
+        "url": "https://github.com/GH05TCREW/pentestagent",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 19,
+        "summary": "PentestAgent：AI 代理框架用于黑盒安全测试，支持漏洞赏金和渗透测试，Python，今日获 19 星。",
+        "extra": {
+          "image": "https://github.com/GH05TCREW.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
