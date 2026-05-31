@@ -1,0 +1,392 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:01:00+08:00",
+  "stats": {
+    "new_count": 43,
+    "total_seen": 1747
+  },
+  "section_titles": {
+    "skills_mcp": "🧩 MCP & Skills 生态",
+    "models": "🚀 大模型动态",
+    "news": "📰 AI 重要新闻",
+    "products": "🔥 爆款 AI 产品",
+    "tools": "🛠️ AI 工具 & Coding Agent",
+    "papers": "📜 论文与研究",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "skills_mcp": [
+      {
+        "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
+        "url": "https://openenvelope.org/docs/schema/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-28T20:30:20",
+        "score": 25,
+        "summary": "Show HN: Open Envelope——一个用于定义AI智能体团队的开放模式，获得25分。",
+        "extra": {
+          "image": "https://openenvelope.org/og-image.png"
+        }
+      },
+      {
+        "title": "Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents",
+        "url": "https://the-decoder.com/salesforce-claims-ai-agents-cut-a-231-day-migration-to-13-days-with-fewer-incidents/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-05-30T09:32:57",
+        "score": 0,
+        "summary": "Salesforce声称使用Anthropic的Claude Code将231天的迁移缩短至13天，事故更少，开发者PR数量增加79%，速度提升5倍。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/05/salesforce-logo-wall.png"
+        }
+      },
+      {
+        "title": "Openstatus MCP Health Checker",
+        "url": "https://www.producthunt.com/products/openstatus-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-28T14:14:25",
+        "score": 0,
+        "summary": "Openstatus MCP Health Checker：像真实AI客户端一样测试MCP服务器，而不仅仅是ping。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/d3eb6dc9-29bf-4cea-aaf6-544828ba01e8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
+        "url": "https://arxiv.org/abs/2605.29135",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-30T21:05:40",
+        "score": 20,
+        "summary": "Rotary GPU项目探索在有限VRAM下本地执行大型MoE模型的方法，获得20分。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+        "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-30T15:30:00",
+        "score": 0,
+        "summary": "谷歌的24/7 AI助手Gemini Spark被测试为相当有用，可自动执行收件箱摘要、本地活动规划等日常任务，但尚不清楚谷歌为何将其作为独立产品推出。",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024"
+        }
+      },
+      {
+        "title": "Attackers abuse shared ChatGPT and Claude chats to spread malware",
+        "url": "https://the-decoder.com/attackers-abuse-shared-chatgpt-and-claude-chats-to-spread-malware/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-05-30T10:32:22",
+        "score": 0,
+        "summary": "攻击者滥用ChatGPT和Claude的聊天分享功能，通过共享对话传播恶意软件，绕过安全工具。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2025/06/neural_network_attack_cybersecurity.png"
+        }
+      },
+      {
+        "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+        "url": "https://www.qbitai.com/2026/05/426662.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-30T06:33:58",
+        "score": 0,
+        "summary": "英伟达清华团队提出Gamma-World，将世界模型从单智能体扩展到多智能体交互仿真。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+        "url": "https://www.qbitai.com/2026/05/426643.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-30T03:17:17",
+        "score": 0,
+        "summary": "英伟达清华团队提出Gamma-World，将世界模型从单智能体扩展到多智能体交互仿真。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "OpenRouter raises $113M Series B",
+        "url": "https://openrouter.ai/announcements/series-b",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-30T17:27:28",
+        "score": 359,
+        "summary": "OpenRouter完成1.13亿美元B轮融资，获得359分和172条评论。",
+        "extra": {
+          "image": "https://openrouter.ai/dynamic-og?title=OpenRouter+Raises+%24113M+Series+B&description=OpenRouter+has+raised+a+%24113M+Series+B+led+by+CapitalG%2C+with+participation+from+NVentures%2C+ServiceNow+Ventures%2C+MongoDB+Ventures%2C+Snowflake+Ventures%2C+Databricks"
+        }
+      },
+      {
+        "title": "Domain expertise has always been the real moat",
+        "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-30T20:40:57",
+        "score": 286,
+        "summary": "Hacker News上高赞讨论（286分）认为领域专业知识一直是真正的护城河，而非AI技术本身。",
+        "extra": {
+          "image": "https://www.brethorsting.com/images/icons/photo-film-solid.svg"
+        }
+      },
+      {
+        "title": "Navier-Stokes fluid simulation explained with Godot game engine",
+        "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-26T22:15:28",
+        "score": 185,
+        "summary": "使用Godot游戏引擎解释Navier-Stokes流体模拟，获得185分。",
+        "extra": {
+          "image": "https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_beige.png"
+        }
+      },
+      {
+        "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+        "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-30T18:19:23",
+        "score": 167,
+        "summary": "霍尔木兹危机导致集装箱航运费率急剧上升，获得167分。",
+        "extra": {
+          "image": "https://www.lloydslist.com/-/media/lloyds-list/images/containers/2026-new-pictures/msc-zoe-in-piraeus-by-adobe.png?rev=0784eabe25ea4a59bcff9adf942f9386"
+        }
+      },
+      {
+        "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+        "url": "https://helios.southlondonscientific.com/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-30T11:08:37",
+        "score": 114,
+        "summary": "Show HN: Helios项目可估算英国任何地址的插电式太阳能发电潜力，获得114分。",
+        "extra": {}
+      },
+      {
+        "title": "AI job grief: A psychological crisis hitting tech workers",
+        "url": "https://jackmaguire.org/blog/ai-job-grief/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-30T14:41:26",
+        "score": 105,
+        "summary": "AI带来的职业悲伤正在科技工作者中引发心理危机，获得105分。",
+        "extra": {
+          "image": "https://jackmaguire.org/og-ai-job-grief.png"
+        }
+      },
+      {
+        "title": "Algebraic Effects for the Rest of Us",
+        "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-26T17:38:51",
+        "score": 91,
+        "summary": "文章“Algebraic Effects for the Rest of Us”获得91分，介绍代数效应概念。",
+        "extra": {
+          "image": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/opengraph-image?5b0b970dfd19bb8c"
+        }
+      },
+      {
+        "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
+        "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-30T09:18:49",
+        "score": 72,
+        "summary": "文章讨论德皇与“平庸之人”的历史理论，获得72分。",
+        "extra": {
+          "image": "https://substackcdn.com/image/fetch/$s_!uWlL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18c436f1-91ce-4c67-ab2c-0da35a82783d_410x600.jpeg"
+        }
+      },
+      {
+        "title": "I am against GenAI and everything it stands for",
+        "url": "https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-30T23:17:52",
+        "score": 38,
+        "summary": "Hacker News上一位用户发帖“我反对GenAI及其代表的一切”，获得38分和28条评论，引发对生成式AI的批评讨论。",
+        "extra": {}
+      },
+      {
+        "title": "Meta is reportedly developing an AI pendant",
+        "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-30T19:05:29",
+        "score": 26,
+        "summary": "据报道Meta正在开发一款AI挂坠，获得26分和27条评论。",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024"
+        }
+      },
+      {
+        "title": "Starbucks Abandons Borked AI Inventory Tool That Couldn't Count",
+        "url": "https://gizmodo.com/starbucks-abandons-borked-ai-inventory-tool-that-couldnt-count-report-2000762252",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-30T22:27:52",
+        "score": 17,
+        "summary": "星巴克放弃了无法正常计数的AI库存管理工具，该工具存在故障，获得17分。",
+        "extra": {}
+      },
+      {
+        "title": "AI grifters are creating fake Black people to sell Shein junk",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-31T00:23:33",
+        "score": 13,
+        "summary": "Hacker News上讨论AI骗子创建虚假黑人形象来推销Shein廉价商品的现象，获得13分。",
+        "extra": {
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268550_Crying_AI_avatars_AParkin_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        }
+      }
+    ],
+    "products": [
+      {
+        "title": "Step 3.7 Flash",
+        "url": "https://www.producthunt.com/products/step-3-5-flash",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T12:47:02",
+        "score": 0,
+        "summary": "Step 3.7 Flash：一款快速智能体模型，能够视觉感知并采取行动。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/ba3df7fa-39eb-4ea2-a18f-da48c18b7877.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "Memory decline after menopause linked to loss of estrogen production in brain",
+        "url": "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-30T14:03:31",
+        "score": 139,
+        "summary": "研究发现绝经后记忆力下降与大脑中雌激素产生减少有关，获得139分。",
+        "extra": {
+          "image": "https://news.northwestern.edu/assets/Stories/2026/05/estrogen1940__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTIwMCw2MzBd.jpg"
+        }
+      },
+      {
+        "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+        "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-30T16:30:00",
+        "score": 0,
+        "summary": "GitHub Copilot新的基于token的计费方式引发开发者强烈不满，有评论称“真是个笑话”，认为微软GitHub Copilot的黄金时代似乎已经结束。",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=1200"
+        }
+      },
+      {
+        "title": "OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own",
+        "url": "https://the-decoder.com/openais-codex-can-now-operate-your-windows-pc-autonomously-hunting-bugs-and-testing-apps-on-its-own/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-05-30T10:16:39",
+        "score": 0,
+        "summary": "OpenAI的Codex现在可以自主操作Windows PC，独立控制程序、测试应用和寻找漏洞，并通过ChatGPT移动应用远程启动。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/05/openai_mouse_cursor.png"
+        }
+      },
+      {
+        "title": "Protecting against token theft",
+        "url": "https://vercel.com/blog/protecting-against-token-theft",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T04:00:00",
+        "score": 0,
+        "summary": "Vercel讨论保护token免遭盗窃，指出AI请求成本远高于传统HTTP请求，一个前沿模型提示可能花费2美元。",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/557aRLUgsmtVQUDZAst7IP/43d911cd732c5ebb7ad6e869d286a48e/47189.png"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "title": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair",
+        "url": "https://huggingface.co/papers/2605.30052",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-05-31T02:00:36.626494",
+        "score": 5,
+        "summary": "REPOT: 通过检查点修复实现可恢复的思维链，论文arXiv 2605.30052。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30052.png",
+          "arxiv_id": "2605.30052"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "anomalyco/opencode",
+        "url": "https://github.com/anomalyco/opencode",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 379,
+        "summary": "anomalyco/opencode：开源编码智能体，今日获得379颗星。",
+        "extra": {
+          "image": "https://github.com/anomalyco.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "FareedKhan-dev/train-llm-from-scratch",
+        "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 327,
+        "summary": "FareedKhan-dev/train-llm-from-scratch：从头训练LLM的简明方法，涵盖数据下载到文本生成，今日获得327颗星。",
+        "extra": {
+          "image": "https://github.com/FareedKhan-dev.png?size=120",
+          "language": "Jupyter Notebook"
+        }
+      },
+      {
+        "title": "RealKai42/qwerty-learner",
+        "url": "https://github.com/RealKai42/qwerty-learner",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 61,
+        "summary": "RealKai42/qwerty-learner：为键盘工作者设计的单词记忆与英语肌肉记忆训练软件，今日获得61颗星。",
+        "extra": {
+          "image": "https://github.com/RealKai42.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "apache/airflow",
+        "url": "https://github.com/apache/airflow",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 11,
+        "summary": "Apache Airflow：用于编程编写、调度和监控工作流的平台，今日获得11颗星。",
+        "extra": {
+          "image": "https://github.com/apache.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
