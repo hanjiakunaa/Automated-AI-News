@@ -1,0 +1,388 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T10:01:16+08:00",
+  "stats": {
+    "new_count": 46,
+    "total_seen": 1793
+  },
+  "section_titles": {
+    "skills_mcp": "🧩 MCP & Skills 生态",
+    "models": "🚀 大模型动态",
+    "news": "📰 AI 重要新闻",
+    "products": "🔥 爆款 AI 产品",
+    "tools": "🛠️ AI 工具 & Coding Agent",
+    "papers": "📜 论文与研究",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "skills_mcp": [],
+    "models": [
+      {
+        "title": "机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品",
+        "url": "https://www.qbitai.com/2026/05/426984.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-31T10:13:21",
+        "score": 0,
+        "summary": "复旦系团队推出机器人原生世界动作模型，首创时空一体架构。该团队半年内获得 5 轮融资，模型旨在提升机器人对物理世界的理解与交互能力。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
+        "url": "https://www.qbitai.com/2026/05/426970.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-31T10:03:40",
+        "score": 0,
+        "summary": "亚马逊专家王晓野在 AIGC2026 上指出，Token 成本高昂的原因在于输入数据包含大量垃圾信息。他呼吁优化数据质量以降低推理成本。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "τ0-WM：最大规模预训练的开源具身世界模型来了",
+        "url": "https://www.qbitai.com/2026/05/426832.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-05-31T07:38:43",
+        "score": 0,
+        "summary": "τ0-WM 发布，是目前最大规模预训练的开源具身世界模型，基于 17800 小时真机数据训练。该模型可提升机器人对环境的预测与规划能力。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+        "url": "https://prismml.com/news/bonsai-image-4b",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-31T15:04:52",
+        "score": 287,
+        "summary": "1-Bit Bonsai 图像模型可在本地设备上生成 4B 像素图像，效率极高。HN 评论 99 条，获得 287 分。",
+        "extra": {
+          "image": "https://cdn.prod.website-files.com/697a3312d33c2cc715ec3899/69961847735f3ec32aafc18e_prism-logo.svg"
+        }
+      },
+      {
+        "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+        "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-31T12:41:19",
+        "score": 267,
+        "summary": "美联航 767 客机因蓝牙名称引发警报而返回纽瓦克机场。HN 评论 423 条，获得 267 分，讨论航空安全与电子设备干扰。",
+        "extra": {
+          "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/770-united-airlines-boeing-767-400-alexandre-rotenberg-_-shutterstock.jpg?w=1600&h=900&fit=crop"
+        }
+      },
+      {
+        "title": "Atherton spent $145K to delay train electrification. The rest of us paid $400M",
+        "url": "https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-31T21:55:33",
+        "score": 179,
+        "summary": "Atherton 花费 14.5 万美元推迟铁路电气化，而公众却承担了 4 亿美元的总体成本。HN 评论 79 条，讨论地方政治与公共资源浪费。",
+        "extra": {
+          "image": "https://d38cycikt2ca4e.cloudfront.net/images/PeninsulaForEveryone_zMYLdhr.height-100.png"
+        }
+      },
+      {
+        "title": "Daily pill can double survival time for deadliest cancer, trial shows",
+        "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-31T15:43:29",
+        "score": 150,
+        "summary": "临床试验显示，每日服用药片可将最致命癌症的生存期延长一倍。HN 评论 44 条，获得 150 分。",
+        "extra": {
+          "image": "https://i.guim.co.uk/img/media/a3a4d2bc41dd8dfd8d59136ef6221e082dff6f2a/364_0_3944_3157/master/3944.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4884c8e1b2744f26946a7a2feb46c8d4"
+        }
+      },
+      {
+        "title": "Odysseus – self-hosted AI workspace",
+        "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-31T15:50:34",
+        "score": 116,
+        "summary": "Odysseus 是一个自托管的 AI 工作空间，提供集成 AI 助手。HN 评论 61 条，获得 116 分。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/ca6fa037bc35b9603a17dd6be134043d5103a2ea80d655f86751b2acc9ba6cca/pewdiepie-archdaemon/odysseus"
+        }
+      },
+      {
+        "title": "The Speed of Prototyping in the Age of AI",
+        "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-31T16:37:34",
+        "score": 113,
+        "summary": "文章讨论 AI 时代原型设计的速度，认为 AI 工具大幅缩短了从概念到原型的时间。HN 评论 62 条，获得 113 分。",
+        "extra": {
+          "image": "https://darylcecile.net/og?slug=speed-of-prototyping-age-of-ai"
+        }
+      },
+      {
+        "title": "ChatGPT for Google Sheets is vulnerable to data exfiltration and phishing",
+        "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-31T20:35:38",
+        "score": 106,
+        "summary": "ChatGPT for Google Sheets 被曝存在数据泄露和钓鱼漏洞。HN 评论 39 条，讨论 AI 插件安全风险。",
+        "extra": {
+          "image": "https://framerusercontent.com/images/eJKU8yDyAKTNNHfYvQqWDm5e25s.png?width=6679&height=4516"
+        }
+      },
+      {
+        "title": "What if remote working, not AI, is to blame for weak junior hiring?",
+        "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-29T17:50:11",
+        "score": 87,
+        "summary": "文章质疑远程工作而非 AI 是否导致初级员工招聘疲软。HN 评论 125 条，获得 87 分，讨论远程工作对人才培养的影响。",
+        "extra": {
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbbbb7bb6-d71b-49e6-8ae0-bb08c48ecc91.jpg?source=next-barrier-page"
+        }
+      },
+      {
+        "title": "The History of \"Prisencolinensinainciusol\"",
+        "url": "https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-31T19:14:23",
+        "score": 24,
+        "summary": "文章回顾了歌曲“Prisencolinensinainciusol”的历史，该歌曲由意大利音乐人创作，旨在模拟英语听感。HN 评论 7 条。",
+        "extra": {
+          "image": "https://dirkdeklein.net/wp-content/uploads/2025/02/gibber.png"
+        }
+      },
+      {
+        "title": "Remove all LLM generated commits before people get hurt by this nonsense",
+        "url": "https://github.com/RsyncProject/rsync/issues/934",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-31T15:44:30",
+        "score": 24,
+        "summary": "文章呼吁在造成伤害前移除所有 LLM 生成的提交，批评 AI 代码质量。HN 评论 2 条，获得 24 分。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/3d6a8dee653b5e58e7a1e0e2191739dca284d0ce8ed223b381349e6ba0348419/RsyncProject/rsync/issues/934"
+        }
+      },
+      {
+        "title": "With Claude: Less Coding, More Testing",
+        "url": "https://henrikwarne.com/2026/05/31/with-claude-less-coding-more-testing/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-31T11:56:54",
+        "score": 21,
+        "summary": "文章介绍如何使用 Claude 减少编码量、增加测试量，提升代码质量。HN 评论 2 条，获得 21 分。",
+        "extra": {
+          "image": "https://henrikwarne.com/wp-content/uploads/2026/05/syrener-e1780212708726.jpg"
+        }
+      },
+      {
+        "title": "The UI problem of AI coding agents",
+        "url": "https://cate.cero-ai.com/blog/ui-problem-ai-coding-agents",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-31T19:33:58",
+        "score": 9,
+        "summary": "文章探讨 AI 编码代理的 UI 问题，指出当前界面不够直观，影响开发效率。HN 评论 0 条，但获得 9 分。",
+        "extra": {}
+      }
+    ],
+    "products": [
+      {
+        "title": "Marqly 5.0",
+        "url": "https://www.producthunt.com/products/marqly",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-30T09:30:11",
+        "score": 0,
+        "summary": "Marqly 5.0 是一款 AI 驱动的书签管理器，可智能分类和搜索书签。它利用 AI 自动提取关键信息，提升浏览效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/5c662ea4-e18b-40dc-a2c6-694926321f13.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "Creatine raises brain energy levels and slows cognitive decline: study",
+        "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-31T16:19:34",
+        "score": 477,
+        "summary": "研究表明肌酸可提高大脑能量水平并减缓认知衰退。HN 评论 320 条，获得 477 分，讨论补充剂对认知健康的影响。",
+        "extra": {
+          "image": "http://thesciverse.org/wp-content/uploads/2026/05/Scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-Alzheimers-cognitive-decline-by-30.webp"
+        }
+      },
+      {
+        "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+        "url": "https://twitter.com/i/status/2060746160558543217",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-31T18:57:48",
+        "score": 382,
+        "summary": "Codex 发现了一种绕过 PC 上 sudo 权限的“变通方法”，引发安全担忧。HN 评论 183 条，获得 382 分，讨论 AI 代码生成的风险。",
+        "extra": {
+          "image": "https://abs.twimg.com/emoji/v2/svg/26a0.svg"
+        }
+      },
+      {
+        "title": "MiniMax M3 on AI Gateway",
+        "url": "https://vercel.com/changelog/minimax-m3-on-ai-gateway",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-31T07:00:00",
+        "score": 0,
+        "summary": "MiniMax M3 现已在 Vercel AI Gateway 上可用。M3 是 MiniMax 首个拥有 100 万 Token 上下文窗口和原生多模态的模型，基于 MiniMax Sparse Attention (MSA) 架构。",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/20yZQiIRVIrL4Y5mvQlsTe/3c8935388762292ca142432e205b9b9f/Vercel_x_MiniMax.png"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis",
+        "url": "https://huggingface.co/papers/2605.30434",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-01T02:00:39.753511",
+        "score": 3,
+        "summary": "论文 LongDS-Bench 研究长时域 Agent 数据分析的失败原因，指出当前模型在长时间任务中容易丢失上下文。该基准测试揭示了现有方法的局限性。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30434.png",
+          "arxiv_id": "2605.30434"
+        }
+      },
+      {
+        "title": "Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring",
+        "url": "https://huggingface.co/papers/2605.30834",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-01T02:00:39.753511",
+        "score": 2,
+        "summary": "论文提出 Hide-and-Seek in Trajectories 方法，通过轨迹中的隐藏信号发现 VLA（视觉-语言-行动）模型的运行时失败。该方法可提升机器人系统的可靠性。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30834.png",
+          "arxiv_id": "2605.30834"
+        }
+      },
+      {
+        "title": "Function2Scene: 3D Indoor Scene Layout from Functional Specifications",
+        "url": "https://huggingface.co/papers/2605.30819",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-01T02:00:39.753511",
+        "score": 1,
+        "summary": "论文 Function2Scene 提出从功能规格生成 3D 室内场景布局的方法。用户只需描述功能需求，模型即可自动生成合理的室内布局。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30819.png",
+          "arxiv_id": "2605.30819"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "nesquena/hermes-webui",
+        "url": "https://github.com/nesquena/hermes-webui",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 357,
+        "summary": "Hermes WebUI 是使用 Hermes Agent 的最佳 Web/手机界面。今日 GitHub 星标增长 +357，采用 Python 编写。",
+        "extra": {
+          "image": "https://github.com/nesquena.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "supermemoryai/supermemory",
+        "url": "https://github.com/supermemoryai/supermemory",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 264,
+        "summary": "Supermemory 是一个极快、可扩展的内存引擎和应用程序，提供 AI 时代的 Memory API。今日 GitHub 星标增长 +264，采用 TypeScript 编写。",
+        "extra": {
+          "image": "https://github.com/supermemoryai.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "mattpocock/sandcastle",
+        "url": "https://github.com/mattpocock/sandcastle",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 174,
+        "summary": "Sandcastle 使用 TypeScript 编排沙盒化编码代理，通过 sandcastle.run() 函数运行。今日 GitHub 星标增长 +174。",
+        "extra": {
+          "image": "https://github.com/mattpocock.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "Comfy-Org/ComfyUI",
+        "url": "https://github.com/Comfy-Org/ComfyUI",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 122,
+        "summary": "ComfyUI 是最强大的模块化扩散模型 GUI、API 和后端，采用图/节点界面。今日 GitHub 星标增长 +122，采用 Python 编写。",
+        "extra": {
+          "image": "https://github.com/Comfy-Org.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "nicobailon/pi-subagents",
+        "url": "https://github.com/nicobailon/pi-subagents",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 69,
+        "summary": "Pi-subagents 是 Pi 的扩展，支持异步子代理委托、截断、工件和会话共享。今日 GitHub 星标增长 +69，采用 TypeScript 编写。",
+        "extra": {
+          "image": "https://github.com/nicobailon.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "jamwithai/production-agentic-rag-course",
+        "url": "https://github.com/jamwithai/production-agentic-rag-course",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 33,
+        "summary": "Production Agentic RAG Course 是一个关于生产级 Agentic RAG 的课程项目。今日 GitHub 星标增长 +33，采用 Python 编写。",
+        "extra": {
+          "image": "https://github.com/jamwithai.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "firecrawl/open-lovable",
+        "url": "https://github.com/firecrawl/open-lovable",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 29,
+        "summary": "Open-lovable 可克隆并重建任何网站为现代 React 应用，仅需数秒。今日 GitHub 星标增长 +29，采用 TypeScript 编写。",
+        "extra": {
+          "image": "https://github.com/firecrawl.png?size=120",
+          "language": "TypeScript"
+        }
+      }
+    ]
+  }
+}
