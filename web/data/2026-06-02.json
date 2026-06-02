@@ -1,0 +1,768 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T10:02:11+08:00",
+  "stats": {
+    "new_count": 174,
+    "total_seen": 1967
+  },
+  "section_titles": {
+    "skills_mcp": "🧩 MCP & Skills 生态",
+    "models": "🚀 大模型动态",
+    "news": "📰 AI 重要新闻",
+    "products": "🔥 爆款 AI 产品",
+    "tools": "🛠️ AI 工具 & Coding Agent",
+    "papers": "📜 论文与研究",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "skills_mcp": [
+      {
+        "title": "AI Agent Guidelines for CS336 at Stanford",
+        "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-01T16:41:49",
+        "score": 324,
+        "summary": "Hacker News 上关于斯坦福大学 CS336 课程 AI 智能体指南的讨论获得 115 条评论和 324 分。用户讨论指南的实用性和教育意义，以及 AI 智能体在学术环境中的使用规范。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/f02217c13f79094cdc1599420ce53227f59921784aa9d530dce2424bad956302/stanford-cs336/assignment1-basics"
+        }
+      },
+      {
+        "title": "Build a Basic AI Agent from Scratch: Tools",
+        "url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-01T17:40:00",
+        "score": 16,
+        "summary": "Hacker News 上关于“从零开始构建基本 AI 智能体：工具”的讨论获得 0 条评论和 16 分。可能是一篇技术教程，但未引起广泛关注。",
+        "extra": {
+          "image": "https://ruxu.dev"
+        }
+      },
+      {
+        "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+        "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T21:35:00",
+        "score": 0,
+        "summary": "Nvidia 正与微软、戴尔、惠普合作，推出面向 AI 智能体的 PC 芯片，瞄准 2000 亿美元的 CPU 市场。如果 Nvidia 成功将 AI 智能体以简单、安全、有用的方式带给大众，这将是一个巨大的市场机会。此举可能改变 PC 行业的竞争格局，挑战英特尔和 AMD 的统治地位。",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828"
+        }
+      },
+      {
+        "title": "Gemini’s new AI agent is about as good as Google’s demo",
+        "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+        "source": "The Verge AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T20:00:00",
+        "score": 0,
+        "summary": "Google 的 Gemini Spark AI 智能体号称“24/7”全天候运行，能代表用户执行任务，效果与演示相当。但测试者对其财务成本和隐私权衡表示担忧。该智能体在某些场景下表现出色，但用户需谨慎评估是否值得付出代价。",
+        "extra": {
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        }
+      },
+      {
+        "title": "Nvidia pitches RTX Spark as the chip that finally makes local AI agents practical on Windows devices",
+        "url": "https://the-decoder.com/nvidia-pitches-rtx-spark-as-the-chip-that-finally-makes-local-ai-agents-practical-on-windows-devices/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T13:17:03",
+        "score": 0,
+        "summary": "Nvidia 推出 RTX Spark 芯片，旨在使本地 AI 智能体在 Windows 设备上实用化。该芯片结合 Blackwell GPU、Arm Grace CPU 和高达 128GB 共享内存，计算性能强劲，直接挑战 Apple Silicon 和 Qualcomm。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/06/nvidia-rtx-spark.png"
+        }
+      },
+      {
+        "title": "Exploring Autonomous Agentic Data Engineering for Model Specialization",
+        "url": "https://arxiv.org/abs/2605.30407",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文探索自主智能体数据工程用于模型专业化，解决 LLM 在通用任务上表现良好但难以适应专业领域的问题。该方法通过智能体自动构建高质量训练数据。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
+        "url": "https://arxiv.org/abs/2605.30738",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文提出 MAVEN，用于提高智能体工具调用中的泛化能力。尽管 LLM 在工具调用上取得进展，但跨环境泛化仍是挑战。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Industrializing Prediction-Powered Inference: The GLIDE Library for Reliable GenAI and Agentic Systems Evaluation",
+        "url": "https://arxiv.org/abs/2605.31278",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文介绍 GLIDE 库，用于可靠评估生成式 AI 和智能体系统。该库结合预测驱动推理，提供无偏估计和有效不确定性。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs",
+        "url": "https://arxiv.org/abs/2605.31370",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文提出 HypoAgent，一个用于知识图谱上交互式溯因假设生成的智能体框架。现有方法缺乏交互性，HypoAgent 支持迭代假设生成。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+        "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-01T20:55:15",
+        "score": 108,
+        "summary": "Hacker News 上关于 Alphabet 宣布 800 亿美元股权融资以扩展 AI 基础设施的讨论获得 106 条评论和 108 分。评论者质疑融资规模和回报前景，部分人认为这是 AI 泡沫的迹象。",
+        "extra": {
+          "image": "https://s206.q4cdn.com/479360582/files/design/alphabet_logo.png"
+        }
+      },
+      {
+        "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
+        "url": "https://36kr.com/p/3834292242130825?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T01:57:17",
+        "score": 0,
+        "summary": "前美团外卖技术负责人创业成立元节智能（AtomBite.AI），专注于餐饮后厨的具身世界模型。公司已完成千万级种子轮融资，由英诺科创基金领投。目标是打造具身智能时代的“餐饮世界模型”。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_24d121a07ea1430391f2b75c4cd8da30@5920579_oswg3235683oswg2560oswg1440_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
+        }
+      },
+      {
+        "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+        "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+        "source": "Ars Technica AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T18:52:19",
+        "score": 0,
+        "summary": "佛罗里达州总检察长起诉 OpenAI 和 Sam Altman，指控其产品与多起谋杀案有关，称 Altman“完全漠视”人类生命。这是首例州政府针对 AI 公司的此类诉讼，可能对 AI 责任法律产生深远影响。",
+        "extra": {
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2265991640-500x500-1780337784.jpg"
+        }
+      },
+      {
+        "title": "Claude maker Anthropic files for IPO with the SEC",
+        "url": "https://the-decoder.com/claude-maker-anthropic-files-for-ipo-with-the-sec/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T17:26:59",
+        "score": 0,
+        "summary": "Anthropic 已向 SEC 秘密提交 IPO 注册文件，估值接近 1 万亿美元。该公司是 Claude 聊天机器人的开发商，此举可能使其成为首家上市的顶级 AI 公司。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/05/Anthropic-US-Leadership.png"
+        }
+      },
+      {
+        "title": "Our views on AI policy and political advocacy",
+        "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T17:00:00",
+        "score": 0,
+        "summary": "OpenAI 发布了其 AI 政策和政治倡导的立场，强调透明度、支持审慎监管和 AI 安全，并声明没有任何外部政治团体代表公司发言。此举旨在明确 OpenAI 在政策领域的独立性和责任。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/2t7PnZhv9RSkCpyADp8h6J/8e94542c974c268eac270cd244dd6055/Political-advocacy-16x9.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "How we used Gemini to build Google I/O 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T16:00:00",
+        "score": 0,
+        "summary": "Google 分享了如何使用 Gemini 构建 Google I/O 2026 大会的幕后故事，包括 Antigravity Coffee Co. 快闪店、彩色水母和 Timmy TPU 视频等元素。文章展示了 AI 在大型活动策划和内容生成中的应用。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+        "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T15:45:17",
+        "score": 0,
+        "summary": "JetBrains 在 Hugging Face 上发布了 Mellum2，一个 12B 参数的混合专家（MoE）模型。该模型旨在提升代码和语言任务性能，为开发者提供更强大的 AI 辅助工具。",
+        "extra": {
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/60ef2a438432bc401cd0abbe/tFjSaWUOM_pVsgKjHrAHt.png"
+        }
+      },
+      {
+        "title": "Why Video Agent models are next — Ethan He, xAI Grok Imagine",
+        "url": "https://www.latent.space/p/video-agents",
+        "source": "Latent Space",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T15:41:48",
+        "score": 0,
+        "summary": "Latent Space 深度访谈 xAI 的 Ethan He，讨论 Grok Imagine 视频生成模型的开发过程。文章探讨了视频生成与世界模型的关系，以及 Grok Imagine 为何被低估。",
+        "extra": {
+          "image": "https://substackcdn.com/image/fetch/$s_!VqZ9!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F200078058%2F18b60925-5d6b-45ed-8314-dbe0dd70fc79%2Ftranscoded-1780294263.png"
+        }
+      },
+      {
+        "title": "Microsoft to unveil new AI models and Windows improvements at Build",
+        "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+        "source": "The Verge AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T14:39:03",
+        "score": 0,
+        "summary": "微软将在 Build 大会上发布新的 AI 模型和 Windows 改进，旨在赢回开发者。作者自 Professional Developers Conference 时代就开始参加 Build，此次大会被视为微软在 AI 领域巩固开发者生态的关键举措。",
+        "extra": {
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/MS_BUILD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        }
+      },
+      {
+        "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+        "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T13:51:18",
+        "score": 0,
+        "summary": "Hugging Face 上的一篇文章讨论超越 LLM，认为可扩展的企业 AI 采用取决于智能体逻辑。文章强调智能体架构对于企业级 AI 部署的重要性，而非仅仅依赖更大的模型。",
+        "extra": {
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/65b12ed52be9660f0b7e5f72/mu_IH3lDD1qGRQZptFmPP.png"
+        }
+      },
+      {
+        "title": "MiniMax M3: Open-weight model with a million-token context challenges proprietary leaders",
+        "url": "https://the-decoder.com/minimax-m3-open-weight-model-with-a-million-token-context-challenges-proprietary-leaders/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T13:38:52",
+        "score": 0,
+        "summary": "中国 AI 公司 MiniMax 发布了 M3 模型，号称首个结合顶级编码性能、百万 token 上下文窗口和原生多模态能力的开源权重模型。该模型挑战了闭源模型的领先地位。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/06/MiniMax-Logo-Silhouette-Nano-Banana-Pro.jpg"
+        }
+      },
+      {
+        "title": "Nvidia's Nemotron 3 Ultra becomes the smartest open US model, but China still leads",
+        "url": "https://the-decoder.com/nvidias-nemotron-3-ultra-becomes-the-smartest-open-us-model-but-china-still-leads/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T13:32:51",
+        "score": 0,
+        "summary": "根据基准平台 Artificial Analysis，Nvidia 的 Nemotron 3 Ultra 成为美国最强大的开源 AI 模型，但中国模型仍整体领先。这反映了中美 AI 开源竞争的格局。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+        "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-01T14:16:41",
+        "score": 512,
+        "summary": "Hacker News 上关于海盗湾在突袭 20 年后依然坚韧的讨论获得 251 条评论和 512 分。用户讨论其技术韧性、法律挑战和去中心化网络的价值。",
+        "extra": {
+          "image": "https://torrentfreak.com/images/tpbraidfeat.png"
+        }
+      },
+      {
+        "title": "Anthropic confidentially submits draft S-1 to the SEC",
+        "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-01T16:00:40",
+        "score": 450,
+        "summary": "Hacker News 上关于 Anthropic 秘密向 SEC 提交 S-1 文件的讨论获得 372 条评论和 450 分。用户热议其估值、上市时机以及对 AI 行业的影响。",
+        "extra": {
+          "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+        }
+      },
+      {
+        "title": "GitHub and the crime against software",
+        "url": "https://eblog.fly.dev/githubbad.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-01T18:54:55",
+        "score": 200,
+        "summary": "Hacker News 上关于“GitHub and the crime against software”的讨论获得 93 条评论和 200 分。文章批评 GitHub 的某些做法，用户讨论其对企业软件开发的负面影响。",
+        "extra": {
+          "image": "https://www.eblog.fly.dev/tt_tt.png"
+        }
+      },
+      {
+        "title": "Florida sues OpenAI and Sam Altman over AI risks",
+        "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-01T16:02:04",
+        "score": 179,
+        "summary": "Hacker News 上关于佛罗里达州起诉 OpenAI 和 Sam Altman 的讨论获得 159 条评论和 179 分。用户深入讨论 AI 责任、法律先例和监管必要性。",
+        "extra": {}
+      },
+      {
+        "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+        "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-01T23:45:46",
+        "score": 73,
+        "summary": "Hacker News 上关于股票市场能否容纳 Anthropic、SpaceX 和 OpenAI 等公司的讨论获得 120 条评论和 73 分。核心观点是这些公司估值过高，市场可能无法同时消化。分歧在于哪些公司能成功上市并维持估值。",
+        "extra": {}
+      },
+      {
+        "title": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
+        "url": "https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-29T14:53:27",
+        "score": 72,
+        "summary": "Hacker News 上关于 SurrealDB 3.x 与 Postgres、Mongo、Neo4j 和 Redis 的基准测试（含 fsync）的讨论获得 29 条评论和 72 分。用户讨论性能差异和适用场景。",
+        "extra": {
+          "image": "https://cdn.surrealdb.com/x7nk2jo3hcahhf5cx69mlbps.auto"
+        }
+      },
+      {
+        "title": "Handmade Hawaiian Islands Map",
+        "url": "https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-05-30T13:02:56",
+        "score": 58,
+        "summary": "Hacker News 上关于手工制作的夏威夷群岛地图的讨论获得 18 条评论和 58 分。可能涉及地图制作技术或艺术价值。",
+        "extra": {
+          "image": "https://www.notesfromtheroad.com/files/hawaiian-islands-map.jpg"
+        }
+      },
+      {
+        "title": "Florida AG files lawsuit against OpenAI, CEO Sam Altman for deceptive practices",
+        "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-first-nation-state-led-lawsuit-against-openai-ceo",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-01T18:44:09",
+        "score": 46,
+        "summary": "Hacker News 上关于佛罗里达州总检察长起诉 OpenAI 和 Sam Altman 的讨论获得 12 条评论和 46 分。用户讨论诉讼的法律依据和潜在影响。",
+        "extra": {
+          "image": "https://www.myfloridalegal.com/img/oag-seal-left.png"
+        }
+      },
+      {
+        "title": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?",
+        "url": "https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-01T13:39:38",
+        "score": 46,
+        "summary": "Hacker News 上关于 Radxa Dragon Q8B 笔记本电脑伪装成 SBC 的讨论获得 37 条评论和 46 分。用户讨论其硬件规格和适用场景。",
+        "extra": {
+          "image": "https://bret.dk/wp-content/uploads/2026/05/radxa-dragon-q8b-review-top-side-cooler.jpg"
+        }
+      },
+      {
+        "title": "Chipotlai Max",
+        "url": "https://github.com/cyberpapiii/chipotlai-max",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-01T23:06:35",
+        "score": 33,
+        "summary": "Hacker News 上关于“Chipotlai Max”的讨论获得 8 条评论和 33 分。内容可能涉及 AI 在快餐行业的应用，但具体细节不详。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/1a13147915c9a5d8a77df0eb3ed30387245dd5ca498e4fcbd28768aca98828e3/cyberpapiii/chipotlai-max"
+        }
+      },
+      {
+        "title": "中信建投：算力等高频高速需求快速增长，电子级PTFE有望大规模应用",
+        "url": "https://36kr.com/newsflashes/3835309248247176?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T00:38:19",
+        "score": 0,
+        "summary": "中信建投研报指出，随着算力基建对高频高速传输需求增长，电子级 PTFE 材料有望大规模应用。英伟达新一代服务器 Rubin ultra 可能使用 PTFE 作为正交背板，国内生益科技正积极验证。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "华西证券：关注电子铜箔国产化以及锂电铜箔进入涨价周期机遇",
+        "url": "https://36kr.com/newsflashes/3835298267870601?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T00:27:09",
+        "score": 0,
+        "summary": "华西证券研报认为，AI 技术升级推动高端电子铜箔放量，国内厂商有望进入量利双升阶段。同时，锂电铜箔因产能紧张和需求上行，价格有望持续上涨。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      }
+    ],
+    "products": [
+      {
+        "title": "Mistral Vibe",
+        "url": "https://www.producthunt.com/products/mistral-7b",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T03:25:48",
+        "score": 0,
+        "summary": "Mistral 发布 Vibe，一个用于长时间、多步骤工作和编码的 AI 智能体。该产品旨在帮助开发者处理复杂任务，提高生产力。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/bf6499c7-8d30-4f91-b883-d11b29b4703b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Paint By JSON | Figma API Client",
+        "url": "https://www.producthunt.com/products/paint-by-json-an-api-client-for-figma",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-31T21:45:07",
+        "score": 0,
+        "summary": "Paint By JSON 是一个 Figma API 客户端，允许用户在原型中轻松使用真实 API 数据，如同使用 lorem ipsum 一样简单。该工具旨在简化设计到开发的衔接。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/7431cbfd-5764-40ea-b1b6-1c7c04d821c2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Tokenwise",
+        "url": "https://www.producthunt.com/products/tokenwise",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-31T14:36:39",
+        "score": 0,
+        "summary": "Tokenwise 是一个智能 LLM 代理，能够显示用户在哪里过度支付。通过分析 token 使用情况，帮助用户优化成本。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/4ab4ceeb-aee7-4cd4-9292-01458558af01.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Typeahead",
+        "url": "https://www.producthunt.com/products/typeahead",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-30T23:47:44",
+        "score": 0,
+        "summary": "Typeahead 是一款 Mac 应用，为所有应用提供 AI 自动补全功能。它能在用户输入时智能预测并补全文本，提升效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/786bc323-17b5-4b76-9d19-2a75cfbee5fd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Tabstack Web Research",
+        "url": "https://www.producthunt.com/products/tabstack",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T23:25:35",
+        "score": 0,
+        "summary": "Tabstack Web Research 提供单一 API 调用即可运行研究智能体并获取带引用的答案。该服务简化了网络研究流程，适合开发者集成。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/5e31d247-7eb7-4606-af0b-c0cf816c5c31.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Emily by Co-Desk",
+        "url": "https://www.producthunt.com/products/co-desk",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T10:21:55",
+        "score": 0,
+        "summary": "Emily by Co-Desk 是一个语音 AI 副驾驶，专为共享办公和共享居住运营商设计。它通过语音交互帮助管理日常运营。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/8a4101fc-4093-4c45-b0a3-e2dd01f9b36a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "OpenAI frontier models and Codex are now available on AWS",
+        "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-01T21:50:02",
+        "score": 132,
+        "summary": "Hacker News 上关于 OpenAI 前沿模型和 Codex 现已在 AWS 上可用的讨论获得 46 条评论和 132 分。用户关注定价、性能以及与 AWS 生态的集成。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/2Tbsus4QAtPDAlsIM3vYO2/87f4c6894832d7937e54ecb3c245fdbe/OAI_AWS_Partnership_16x9_Art_Card.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+        "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+        "source": "Ars Technica AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T22:18:09",
+        "score": 0,
+        "summary": "GitHub Copilot 推出基于使用量的新定价系统后，用户反映 AI 积分消耗过快，有人一天就用完了整个月的配额。新定价模式引发争议，用户担心成本失控。GitHub 表示将根据反馈调整。",
+        "extra": {
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2254059922-500x500.jpg"
+        }
+      },
+      {
+        "title": "Elastic Build Machines now protect against out of memory builds",
+        "url": "https://vercel.com/changelog/elastic-build-machines-now-protect-against-out-of-memory-builds",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T18:30:00",
+        "score": 0,
+        "summary": "Vercel 的 Elastic Build Machines 现在可监控构建内存使用并自动调整，防止内存不足（OOM）失败。如果构建快速但内存密集，系统不会降级，而是自动扩展。",
+        "extra": {
+          "image": "https://vercel.com/api/dynamic-og?title=Elastic%20Build%20Machines%20now%20protect%20against%20out%20of%20memory%20builds&format=changelog"
+        }
+      },
+      {
+        "title": "Qwen 3.7 Plus now available on AI Gateway",
+        "url": "https://vercel.com/changelog/qwen-3-7-plus-now-available-on-ai-gateway",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T07:00:00",
+        "score": 0,
+        "summary": "阿里云的通义千问 3.7 Plus 现已在 Vercel AI Gateway 上可用。该模型统一视觉和语言，支持 GUI 和 CLI 操作、编码和编程，可作为单一智能体基础。",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2aBIEKewKIpdYSPv9E76Wn/5a0957249bafced81d33df0534df0187/Vercel_x_Qwen.png"
+        }
+      },
+      {
+        "title": "Vercel Blob now supports OIDC authentication",
+        "url": "https://vercel.com/changelog/vercel-blob-now-supports-oidc-authentication",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T00:00:00",
+        "score": 0,
+        "summary": "Vercel Blob 现在支持 OIDC 认证，并默认用于新项目。Vercel 颁发的 OIDC token 短生命周期且自动轮换，无需长期访问密钥。",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5WKee8jmObxrpwfoX9UisT/bdae928f7f8761335aceb7f73fefb03b/vercel_blob_supports_oidc_authentication_og_card_1_.jpg"
+        }
+      },
+      {
+        "title": "Chat SDK adds Lark and Feishu support",
+        "url": "https://vercel.com/changelog/chat-sdk-adds-lark-feishu-support",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-05-31T14:00:00",
+        "score": 0,
+        "summary": "Chat SDK 新增对 Lark 和飞书的支持，通过官方适配器可构建机器人，支持消息发布、编辑、删除、流式回复和交互卡片。",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1NmqweicQnNxjnOLAjVcHo/996f72458c3ce0456f3e324828272355/image.png"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "title": "Which Pretraining Paradigm Better Serves Spatial Intelligence? An Empirical Comparison of Vision-Language and Video Generation Models",
+        "url": "https://huggingface.co/papers/2605.28132",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-02T02:00:38.206442",
+        "score": 9,
+        "summary": "arXiv 论文实证比较视觉-语言模型和视频生成模型在空间智能方面的预训练范式。结果表明不同范式各有优劣。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.28132.png",
+          "arxiv_id": "2605.28132"
+        }
+      },
+      {
+        "title": "Speculative Pipeline Decoding: Higher-Accruacy and Zero-Bubble Speculation via Pipeline Parallelism",
+        "url": "https://huggingface.co/papers/2605.30852",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-02T02:00:38.206442",
+        "score": 2,
+        "summary": "arXiv 论文提出推测流水线解码，通过流水线并行实现更高精度和零气泡推测。该方法在保持准确性的同时提高推理吞吐量。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.30852.png",
+          "arxiv_id": "2605.30852"
+        }
+      },
+      {
+        "title": "Brain-IT-VQA: From Brain Signals to Answers",
+        "url": "https://huggingface.co/papers/2605.29588",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-02T02:00:38.206442",
+        "score": 1,
+        "summary": "arXiv 论文提出 Brain-IT-VQA，从脑信号到答案的视觉问答系统。该方法利用脑信号辅助模型理解视觉内容。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.29588.png",
+          "arxiv_id": "2605.29588"
+        }
+      },
+      {
+        "title": "Protocol for evaluating ChatGPT in biomedical association generation and verification using a RAG-enabled, cross-model majority voting workflow",
+        "url": "https://arxiv.org/abs/2605.30400",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文提出一个协议，利用 RAG 和跨模型多数投票工作流评估 ChatGPT 在生物医学关联生成和验证中的能力。该协议旨在提高 AI 在生物医学领域的可靠性。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Domain Adaptation and Reasoning Frameworks in Language Models: A Controlled Experiment with Historical Cosmology",
+        "url": "https://arxiv.org/abs/2605.30415",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文使用历史宇宙学作为受控实验，研究领域适应如何重塑语言模型的解释行为。实验分为两个阶段，揭示了模型在特定领域知识下的推理变化。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Cross-Lingual Steering for Figurative Language Generation",
+        "url": "https://arxiv.org/abs/2605.30443",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文研究跨语言引导生成比喻语言，探讨驱动比喻行为的内部信号是语言特定还是可复用。实验表明，某些引导信号可跨语言迁移。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Can LLM Teams Play What? Where? When?",
+        "url": "https://arxiv.org/abs/2605.30459",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文测试 LLM 团队在需要间接推理、文化知识和协调假设测试的任务上的表现，例如“谁在哪里什么时候做什么”游戏。结果显示 LLM 在这些方面仍有局限。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Knowledge Graph-Enhanced Zero-Shot Topic Classification: A Multi-Strategy Comparative Study",
+        "url": "https://arxiv.org/abs/2605.30465",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文比较多种知识图谱增强的零样本主题分类策略，解决无标注数据下的多标签分类问题。实验表明，知识图谱能显著提升分类性能。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Your Multimodal Speech Model Says I Have a Face for Radio",
+        "url": "https://arxiv.org/abs/2605.30472",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文指出多模态语音模型在处理非语音模态时存在不足，例如“我有张适合广播的脸”这类表达。研究呼吁改进多模态融合技术。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "When English Rewrites Local Knowledge: Global Narrative Dominance in Large Language Models",
+        "url": "https://arxiv.org/abs/2605.30481",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文发现 LLM 在跨语言知识接口中倾向于全球叙事主导，压制本地知识。文化相关问题的回答往往反映英语世界的视角，存在知识不平等。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Configurable Reward Model for Balanced Safety Alignment",
+        "url": "https://arxiv.org/abs/2605.30487",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文提出可配置奖励模型，用于平衡 LLM 的安全对齐。现有指令微调方法难以适应异构和快速变化的安全需求，新方法提供了灵活的安全控制。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "CanLegalRAGBench: Evaluating Retrieval-Augmented Generation on Canadian Case Law",
+        "url": "https://arxiv.org/abs/2605.30497",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文发布 CanLegalRAGBench，一个评估 RAG 在加拿大判例法中应用的基准。LLM 幻觉在法律领域可能损害司法公正，该基准旨在推动更可靠的 AI 法律助手。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "pbakaus/impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 485,
+        "summary": "GitHub 项目 pbakaus/impeccable 是一个设计语言库，使 AI 工具在设计中表现更好。今日获得 +485 star，使用 JavaScript。",
+        "extra": {
+          "image": "https://github.com/pbakaus.png?size=120",
+          "language": "JavaScript"
+        }
+      },
+      {
+        "title": "dmtrKovalenko/fff",
+        "url": "https://github.com/dmtrKovalenko/fff",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 135,
+        "summary": "GitHub 项目 dmtrKovalenko/fff 是用于 AI 智能体、Neovim、Rust、C 和 NodeJS 的最快最准确的文件搜索工具。今日获得 +135 star，使用 Rust。",
+        "extra": {
+          "image": "https://github.com/dmtrKovalenko.png?size=120",
+          "language": "Rust"
+        }
+      },
+      {
+        "title": "jimuzhe/tiez-clipboard",
+        "url": "https://github.com/jimuzhe/tiez-clipboard",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 116,
+        "summary": "GitHub 项目 jimuzhe/tiez-clipboard 是一个基于 Tauri 的跨平台剪贴板管理器，支持历史、标签、同步、隐私保护和快速工作流。今日获得 +116 star，使用 TypeScript。",
+        "extra": {
+          "image": "https://github.com/jimuzhe.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "iptv-org/iptv",
+        "url": "https://github.com/iptv-org/iptv",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 60,
+        "summary": "GitHub 项目 iptv-org/iptv 收集了全球公开的 IPTV 频道。今日获得 +60 star，使用 TypeScript。",
+        "extra": {
+          "image": "https://github.com/iptv-org.png?size=120",
+          "language": "TypeScript"
+        }
+      }
+    ]
+  }
+}
