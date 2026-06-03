@@ -1,0 +1,752 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T10:01:59+08:00",
+  "stats": {
+    "new_count": 176,
+    "total_seen": 2143
+  },
+  "section_titles": {
+    "skills_mcp": "🧩 MCP & Skills 生态",
+    "models": "🚀 大模型动态",
+    "news": "📰 AI 重要新闻",
+    "products": "🔥 爆款 AI 产品",
+    "tools": "🛠️ AI 工具 & Coding Agent",
+    "papers": "📜 论文与研究",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "skills_mcp": [
+      {
+        "title": "Now AI agents need what RSS does",
+        "url": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T20:19:11",
+        "score": 60,
+        "summary": "💬 50 评论 · ⭐ 60 分",
+        "extra": {
+          "image": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/og.png"
+        }
+      },
+      {
+        "title": "Microsoft offers devs a better way to control AI agent behavior",
+        "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T18:00:00",
+        "score": 0,
+        "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2276155467.jpg?resize=1200,833"
+        }
+      },
+      {
+        "title": "Microsoft&#8217;s Project Solara is an OS for AI agent gadgets",
+        "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+        "source": "The Verge AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T17:31:02",
+        "score": 0,
+        "summary": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven exp…",
+        "extra": {
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/projectsolara.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        }
+      },
+      {
+        "title": "Acting with AI: An Interaction-Based Framework for Agentic Tort Liability",
+        "url": "https://arxiv.org/abs/2606.00518",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.00518v1 Announce Type: new Abstract: Agentic AI systems can plan over multiple steps, use tools, and execute tasks over time. When such systems cause harm, tort law struggles to allocate re…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Paste MCP & AI Tools",
+        "url": "https://www.producthunt.com/products/paste",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T17:55:40",
+        "score": 0,
+        "summary": "Infinite clipboard for Claude, Codex and other AI tools",
+        "extra": {
+          "image": "https://ph-files.imgix.net/5db77145-bcfd-4406-8253-24f7cc76321c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
+        "url": "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T17:52:48",
+        "score": 80,
+        "summary": "💬 7 评论 · ⭐ 80 分",
+        "extra": {
+          "image": "https://fergusfinn.com/saral-og.jpg"
+        }
+      },
+      {
+        "title": "Launch HN: Rudus (YC P26) – AI for concrete contractors",
+        "url": "https://news.ycombinator.com/item?id=48374528",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T18:51:09",
+        "score": 32,
+        "summary": "💬 16 评论 · ⭐ 32 分",
+        "extra": {
+          "image": "y18.svg"
+        }
+      },
+      {
+        "title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合作推出统一技术栈",
+        "url": "https://36kr.com/p/3836703946257542?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T00:21:18",
+        "score": 0,
+        "summary": "今日热点导览 豆包付费或专注复杂任务， 定价锚定ChatGPT 英伟达CEO黄仁勋：Vera CPU将比GPU更受欢迎，将成为公司新的主要增长动力 中国内地航线燃油附加费将下调 标签上存在拼写错误，瑞幸客服称遇到“HeeloKitty”可退款 马尔代夫将限制16岁以下青少年访问部分社媒平台 TOP 3大新闻 腾讯股价暴涨：创2021年1月以来单日最高涨幅纪录 6月2日午后，香港恒生科技指数一度涨超…",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260603/v2_db1ff206c16943e7946397ca848150a6@1200352198_oswg82800oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center"
+        }
+      },
+      {
+        "title": "Trump signs executive order to review AI models before they’re released",
+        "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+        "source": "The Verge AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T18:33:42",
+        "score": 0,
+        "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promot…",
+        "extra": {
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        }
+      },
+      {
+        "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+        "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T18:02:44",
+        "score": 0,
+        "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?resize=1200,863"
+        }
+      },
+      {
+        "title": "GitHub's plan for Agents — Kyle Daigle, GitHub",
+        "url": "https://www.latent.space/p/github",
+        "source": "Latent Space",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T16:48:21",
+        "score": 0,
+        "summary": "GitHub pioneered the modern AI coding era with Copilot, and the resulting explosion in agentic coding has led to notable strains on the most popular developer platform in the world. Here's the plan.",
+        "extra": {
+          "image": "https://substackcdn.com/image/fetch/$s_!MG5m!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec41954-9498-4c2f-b23a-81e2bae29f82_2761x1579.png"
+        }
+      },
+      {
+        "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+        "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T14:44:21",
+        "score": 0,
+        "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthc…",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024"
+        }
+      },
+      {
+        "title": "Farewell Ai2",
+        "url": "https://www.interconnects.ai/p/farewell-ai2",
+        "source": "Interconnects",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T14:15:59",
+        "score": 0,
+        "summary": "This was my last week at the Allen Institute for AI (Ai2), where I got the great privilege to work on the Olmo models, to grow, to learn, and to have broad lasting impacts.",
+        "extra": {
+          "image": "https://substack-post-media.s3.amazonaws.com/public/images/04d1f8be-c112-47a8-9a5b-251653b5951e_3182x1790.png"
+        }
+      },
+      {
+        "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+        "source": "The Verge AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T12:38:08",
+        "score": 0,
+        "summary": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will…",
+        "extra": {
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Gemini-Spark.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        }
+      },
+      {
+        "title": "ZeroDrift raises $10M to protect AI models from themselves",
+        "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T12:32:59",
+        "score": 0,
+        "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Kumesh-headshot.jpg?resize=1200,800"
+        }
+      },
+      {
+        "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+        "url": "https://openai.com/index/travelers",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T12:00:00",
+        "score": 0,
+        "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/1TKzfygwesdyzOr4VDrizK/11ece0fda61af10b34d4127f7a977eac/oai_Travelers_SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+        "url": "https://www.qbitai.com/2026/06/427810.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T09:28:00",
+        "score": 0,
+        "summary": "AI视频编辑先理解再动手",
+        "extra": {}
+      }
+    ],
+    "news": [
+      {
+        "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+        "url": "https://blog.adafruit.com/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T10:00:56",
+        "score": 624,
+        "summary": "💬 253 评论 · ⭐ 624 分",
+        "extra": {
+          "image": "https://cdn-blog.adafruit.com/uploads/2026/06/ptlimor.jpeg"
+        }
+      },
+      {
+        "title": "Gmail thinks I'm stupid, so I left",
+        "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T19:27:40",
+        "score": 622,
+        "summary": "💬 391 评论 · ⭐ 622 分",
+        "extra": {
+          "image": "https://moddedbear.com/images/share.png"
+        }
+      },
+      {
+        "title": "MAI-Code-1-Flash",
+        "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T18:47:07",
+        "score": 389,
+        "summary": "💬 177 评论 · ⭐ 389 分",
+        "extra": {
+          "image": "https://microsoft.ai/wp-content/themes/wp-base-theme/images/social.jpg"
+        }
+      },
+      {
+        "title": "Three Ways to Get Paid (2018)",
+        "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T17:09:04",
+        "score": 201,
+        "summary": "💬 134 评论 · ⭐ 201 分",
+        "extra": {
+          "image": "https://jasonzweig.com/wp-content/uploads/2018/07/ForSale2.png"
+        }
+      },
+      {
+        "title": "Trump signs downsized AI order after weeks of reversals",
+        "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T16:40:16",
+        "score": 175,
+        "summary": "💬 122 评论 · ⭐ 175 分",
+        "extra": {}
+      },
+      {
+        "title": "MAI-Thinking-1",
+        "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T18:39:34",
+        "score": 174,
+        "summary": "💬 74 评论 · ⭐ 174 分",
+        "extra": {
+          "image": "https://microsoft.ai/wp-content/themes/wp-base-theme/images/social.jpg"
+        }
+      },
+      {
+        "title": "Different attitudes towards AI in California's university system",
+        "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T07:46:20",
+        "score": 102,
+        "summary": "💬 89 评论 · ⭐ 102 分",
+        "extra": {}
+      },
+      {
+        "title": "Open Repair Data Standard – Open Repair Alliance",
+        "url": "https://openrepair.org/open-data/open-standard/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T19:37:10",
+        "score": 91,
+        "summary": "💬 3 评论 · ⭐ 91 分",
+        "extra": {
+          "image": "https://openrepair.org/wp-content/uploads/2025/01/ords-data-collected.png"
+        }
+      },
+      {
+        "title": "How we index images for RAG",
+        "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T16:13:41",
+        "score": 89,
+        "summary": "💬 13 评论 · ⭐ 89 分",
+        "extra": {
+          "image": "https://framerusercontent.com/images/LJwUi6OIskYSaLLXynnJExGaA.png?width=993&height=670"
+        }
+      },
+      {
+        "title": "AI outperforms law professors in Stanford Law study",
+        "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T23:43:12",
+        "score": 88,
+        "summary": "💬 81 评论 · ⭐ 88 分",
+        "extra": {
+          "image": "https://law.stanford.edu/wp-content/uploads/2026/02/GettyImages-2224544837-1200x630.jpg"
+        }
+      },
+      {
+        "title": "More than 6 out of 10 people turn to AI for psychological support",
+        "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T23:55:04",
+        "score": 51,
+        "summary": "💬 41 评论 · ⭐ 51 分",
+        "extra": {
+          "image": "https://www.axa.com/base/images/default_social_image.jpg"
+        }
+      },
+      {
+        "title": "LLMs are not the black box you were promised",
+        "url": "https://www.jay.ai/blog/llms-are-not-a-black-box",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T23:27:30",
+        "score": 41,
+        "summary": "💬 24 评论 · ⭐ 41 分",
+        "extra": {
+          "image": "https://jay.ai/blog/images/llms-are-not-a-black-box/header.png"
+        }
+      }
+    ],
+    "products": [
+      {
+        "title": "HumToBeats",
+        "url": "https://www.producthunt.com/products/humtobeats",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T05:47:49",
+        "score": 0,
+        "summary": "Turn humming into AI-generated beats",
+        "extra": {
+          "image": "https://ph-files.imgix.net/9b1635ff-d923-488f-b5f6-7a137946dacc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Moxie Docs",
+        "url": "https://www.producthunt.com/products/moxie-docs",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T00:07:00",
+        "score": 0,
+        "summary": "Living docs + MCP context for your GitHub repos",
+        "extra": {
+          "image": "https://ph-files.imgix.net/6525916a-e8e8-40eb-a65c-e3fad359b564.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Enshittifier",
+        "url": "https://www.producthunt.com/products/enshittifier",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-30T13:26:52",
+        "score": 0,
+        "summary": "Chrome extension that replaces \"AI\" with 💩",
+        "extra": {
+          "image": "https://ph-files.imgix.net/99ee65b7-f8cd-4922-8d23-10b396663099.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Gusto Cofounder",
+        "url": "https://www.producthunt.com/products/gusto-cofounder",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T23:35:06",
+        "score": 0,
+        "summary": "If Gusto, OpenClaw, and Claude Cowork had a baby...",
+        "extra": {
+          "image": "https://ph-files.imgix.net/143db511-dd0d-4acc-ba76-f1084c25505f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Overline",
+        "url": "https://www.producthunt.com/products/overline-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-05-29T02:02:40",
+        "score": 0,
+        "summary": "Real-time AI captions and translation for any browser video",
+        "extra": {
+          "image": "https://ph-files.imgix.net/0ae23758-636c-458b-b32a-15d6786e665b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "GitHub Copilot App",
+        "url": "https://github.com/features/preview/github-app",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T17:58:55",
+        "score": 99,
+        "summary": "💬 68 评论 · ⭐ 99 分",
+        "extra": {
+          "image": "https://github.githubassets.com/assets/github-app-waitlist-cee758d24d8d.jpg"
+        }
+      },
+      {
+        "title": "Codex Discovered a Hidden HTTP/2 Bomb",
+        "url": "https://blog.calif.io/p/codex-discovered-a-hidden-http2-bomb",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T19:51:21",
+        "score": 21,
+        "summary": "💬 2 评论 · ⭐ 21 分",
+        "extra": {
+          "image": "https://substackcdn.com/image/fetch/$s_!oj_T!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bedabfd-d72a-4e69-9121-5abe45efeab0_1200x630.png"
+        }
+      },
+      {
+        "title": "OpenAI expands Codex with role-specific plugins to build a general-purpose app for non-developers",
+        "url": "https://the-decoder.com/openai-expands-codex-with-role-specific-plugins-to-build-a-general-purpose-app-for-non-developers/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T18:34:15",
+        "score": 0,
+        "summary": "OpenAI is expanding Codex with role-specific plugins for data analysis, sales, and investment banking. Five million people use the tool each week, and one in five isn't a developer, the company says.…",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/05/openai_chatgpt.png"
+        }
+      },
+      {
+        "title": "GitHub Copilot app: The agent-native desktop experience",
+        "url": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
+        "source": "GitHub Blog",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T17:30:03",
+        "score": 0,
+        "summary": "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first…",
+        "extra": {
+          "image": "https://github.blog/wp-content/uploads/2026/06/CCRPlatform_BlogImage_01.jpg?resize=1024%2C637"
+        }
+      },
+      {
+        "title": "OpenAI launches new Codex tools for white-collar work",
+        "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T16:00:00",
+        "score": 0,
+        "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app,…",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+        }
+      },
+      {
+        "title": "Codex for every role, tool, and workflow",
+        "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T09:00:00",
+        "score": 0,
+        "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/4Dvw4ZQ90swvHAxpe8tf49/b38745978bd83b554ac8e4f5865cee37/16x9_SEO_Preview.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "Edit Git settings for all projects in a repo",
+        "url": "https://vercel.com/changelog/edit-git-settings-for-all-projects-in-a-repo",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T06:00:00",
+        "score": 0,
+        "summary": "Monorepos that deploy many projects can now configure all of their project's Git settings more conveniently. Previously, if you wanted to consistently configure each project's settings for commit stat…",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2dzkETGpXotFIqaMCjnWRr/657c0febb3f911fa5b8160c853898d71/git-settings-og.png"
+        }
+      },
+      {
+        "title": "Codex is becoming a productivity tool for everyone",
+        "url": "https://openai.com/index/codex-for-knowledge-work",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T02:00:00",
+        "score": 0,
+        "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/4W7LyNXXbMY32R9h4xxI7L/9bdd4188f7e7c50815df1e5218adc9c0/codex_for_knowledge_16x9.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "Signed URLs are now available for Vercel Blob",
+        "url": "https://vercel.com/changelog/signed-urls-are-now-available-for-vercel-blob",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T00:00:00",
+        "score": 0,
+        "summary": "You can now generate time-bound signed URLs for Vercel Blob . A signed URL is a scoped URL with an expiry that allows you to upload, download, inspect, or delete a specific object without giving acces…",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2AiqtB9YE2tswM47YhRW7Z/088168f1be2b39910057c3625632183b/signed_urls_available_for_vercel_blob_og_card_3_.jpg"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "title": "DraDDP: A Multimodal Multi-Party Dialogue Discourse Parsing Dataset",
+        "url": "https://arxiv.org/abs/2606.00012",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.00012v1 Announce Type: new Abstract: Multi-party dialogue discourse parsing aims to identify dependency structures and relation types between utterances in conversations. Previous studies a…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Toward Robust In-Context Learning: Leveraging Out-of-distribution Proxies for Target Inaccessible Demonstration Retrieval",
+        "url": "https://arxiv.org/abs/2606.00014",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.00014v1 Announce Type: new Abstract: Although studies have demonstrated that Large Language Models (LLMs) can perform well on Out-of-Distribution (OOD) tasks, their advantage tends to dimin…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "AEyeDE: An Attention-Based Attribution Framework for AI-Generated Text Detection",
+        "url": "https://arxiv.org/abs/2606.00016",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.00016v1 Announce Type: new Abstract: Detecting AI-generated text is becoming increasingly challenging as modern language models approach human-level fluency and can evade detectors that rel…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "CSRP: Chain-of-Thought Reasoning for Chinese Text Correction via Reinforcement Learning with Efficiency-Aware Rewards",
+        "url": "https://arxiv.org/abs/2606.00020",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.00020v1 Announce Type: new Abstract: Large Language Model (LLM) based Chinese Grammatical Error Correction (CGEC) systems face two critical challenges: general-purpose models lack specializ…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "SENSE: Semantic Embedding Navigation with Soft-gated Evaluation for Retrieval-based Speculative Decoding",
+        "url": "https://arxiv.org/abs/2606.00021",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.00021v1 Announce Type: new Abstract: Speculative Decoding (SD) accelerates Large Language Model (LLM) inference by employing a lightweight draft model to propose candidate tokens, which are…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "lmfaoooo at SemEval-2026 Task 1: Humor Is an Audience. Preference Modeling for Constrained Humor Generation",
+        "url": "https://arxiv.org/abs/2606.00022",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.00022v1 Announce Type: new Abstract: Humor generation remains difficult not only because producing fluent, novel jokes is hard, but because \"funny\" is audience-dependent and supervision is…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "TrustLDM: Benchmarking Trustworthiness in Language Diffusion Models",
+        "url": "https://arxiv.org/abs/2606.00023",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.00023v1 Announce Type: new Abstract: The rapid development of Language Diffusion Models (LDMs) challenges the dominant position of auto-regressive competitors in language processing. Howeve…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "ART: Attention Run-time Termination for Efficient Large Language Model Decoding",
+        "url": "https://arxiv.org/abs/2606.00024",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.00024v1 Announce Type: new Abstract: Long-context decoding in Large Language Models (LLMs) is severely constrained by the memory bandwidth required to fetch the extensive Key-Value (KV) cac…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Cognitive-Linguistic Indicators of Depression in Online Communities: Analysed by DistilBERT and Holographic Reduced Representation",
+        "url": "https://arxiv.org/abs/2606.00026",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.00026v1 Announce Type: new Abstract: This paper investigates whether combining cognitively grounded linguistic features with transformer-based embeddings improves automated detection of dep…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "A Multi-Domain Red Teaming Framework for Safety, Robustness, and Fairness Evaluation of Medical Large Language Models",
+        "url": "https://arxiv.org/abs/2606.00027",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.00027v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed across healthcare, yet existing benchmarks fail to capture model behavior under adversarial or et…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "TCAR-Gen: Temporal Graph Retrieval with Evidence Fusion for Knowledge-Grounded Generation",
+        "url": "https://arxiv.org/abs/2606.00029",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.00029v1 Announce Type: new Abstract: Retrieval-augmented generation systems struggle with temporal reasoning and evidence fusion when answering complex questions over historical criminal ca…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "LLMs for Cardiovascular Risk Prediction from Structured Clinical Data",
+        "url": "https://arxiv.org/abs/2606.00031",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.00031v1 Announce Type: new Abstract: Coronary artery disease (CAD) remains one of the leading causes of death globally, highlighting the need for reliable predictive systems to support earl…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "chopratejas/headroom",
+        "url": "https://github.com/chopratejas/headroom",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 1265,
+        "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. · Python · ⭐ +1265 今日",
+        "extra": {
+          "image": "https://github.com/chopratejas.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "koala73/worldmonitor",
+        "url": "https://github.com/koala73/worldmonitor",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 175,
+        "summary": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface · TypeScript · ⭐ +175 今日",
+        "extra": {
+          "image": "https://github.com/koala73.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "JCodesMore/ai-website-cloner-template",
+        "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 118,
+        "summary": "Clone any website with one command using AI coding agents · TypeScript · ⭐ +118 今日",
+        "extra": {
+          "image": "https://github.com/JCodesMore.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "nanocoai/nanoclaw",
+        "url": "https://github.com/nanocoai/nanoclaw",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 44,
+        "summary": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK · TypeScript · ⭐ +44 今日",
+        "extra": {
+          "image": "https://github.com/nanocoai.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "janhq/jan",
+        "url": "https://github.com/janhq/jan",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 33,
+        "summary": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. · TypeScript · ⭐ +33 今日",
+        "extra": {
+          "image": "https://github.com/janhq.png?size=120",
+          "language": "TypeScript"
+        }
+      }
+    ]
+  }
+}
