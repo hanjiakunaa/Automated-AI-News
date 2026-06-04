@@ -1,0 +1,906 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T10:02:18+08:00",
+  "stats": {
+    "new_count": 193,
+    "total_seen": 2336
+  },
+  "section_titles": {
+    "skills_mcp": "🧩 MCP & Skills 生态",
+    "models": "🚀 大模型动态",
+    "news": "📰 AI 重要新闻",
+    "products": "🔥 爆款 AI 产品",
+    "tools": "🛠️ AI 工具 & Coding Agent",
+    "papers": "📜 论文与研究",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "skills_mcp": [
+      {
+        "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+        "url": "https://news.ycombinator.com/item?id=48387095",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-03T17:39:53",
+        "score": 51,
+        "summary": "💬 54 评论 · ⭐ 51 分",
+        "extra": {
+          "image": "y18.svg"
+        }
+      },
+      {
+        "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+        "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T13:40:00",
+        "score": 0,
+        "summary": "WhatsApp will charge businesses for using its AI agent based on token usage.",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800"
+        }
+      },
+      {
+        "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+        "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T13:02:51",
+        "score": 0,
+        "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and prov…",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/coralogix-co-founders.jpg?resize=1200,800"
+        }
+      },
+      {
+        "title": "Nous Research releases Hermes Desktop, an open-source AI agent for every platform",
+        "url": "https://the-decoder.com/nous-research-releases-hermes-desktop-an-open-source-ai-agent-for-every-platform/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T10:56:38",
+        "score": 0,
+        "summary": "Nous Research has released Hermes Desktop, an open-source AI agent app under the MIT license. The article Nous Research releases Hermes Desktop, an open-source AI agent for every platform appeared fir…",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/06/hermes-og-image-blue.png"
+        }
+      },
+      {
+        "title": "Adaptive Latent Agentic Reasoning",
+        "url": "https://arxiv.org/abs/2606.02871",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.02871v1 Announce Type: new Abstract: Large reasoning models improve performance by generating extended chain-of-thought (CoT) reasoning, but this behavior becomes inefficient when applied t…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "PhotoCraft: Agentic Reasoning with Hierarchical Self-Evolving Memory for Deep Image Search",
+        "url": "https://arxiv.org/abs/2606.03099",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.03099v1 Announce Type: new Abstract: Deep Image Search requires multi-step reasoning over rich contextual cues, such as time, location, and event relations. However, most existing LLM-based…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Toward a Modular Architecture for Embedded AI Agent Systems at the Edge",
+        "url": "https://arxiv.org/abs/2606.02862",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.02862v1 Announce Type: new Abstract: The rise of Large Language Models (LLMs) has enabled agentic AI capable of complex reasoning and tool use; however, deploying such autonomy in pervasive…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "SkillDAG: Self-Evolving Typed Skill Graphs for LLM Skill Selection at Scale",
+        "url": "https://arxiv.org/abs/2606.03056",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.03056v1 Announce Type: new Abstract: As LLM agents adopt large skill libraries, selecting the right subset becomes a structural problem rather than a similarity-matching one: skills depend…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "EvoTrainer: Co-Evolving LLM Policies and Training Harnesses for Autonomous Agentic Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2606.03108",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.03108v1 Announce Type: new Abstract: Autonomous LLM training is often framed as recipe search, which leaves the training harness largely static. This limitation sharpens in agentic RL, wher…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Adding MCP Tools to Reachy Mini",
+        "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T00:00:00",
+        "score": 0,
+        "summary": "",
+        "extra": {
+          "image": "https://huggingface.co/blog/assets/adding-mcp-tools-to-reachy-mini/reachy_mini_remote_spaces_thumbnail.png"
+        }
+      },
+      {
+        "title": "Holo3.1: Fast & Local Computer Use Agents",
+        "url": "https://huggingface.co/blog/Hcompany/holo31",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T14:13:23",
+        "score": 0,
+        "summary": "",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/Hcompany/holo31.png"
+        }
+      },
+      {
+        "title": "Carbone Skill for AI",
+        "url": "https://www.producthunt.com/products/carbone",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T09:39:46",
+        "score": 0,
+        "summary": "Teach your AI to build document templates",
+        "extra": {
+          "image": "https://ph-files.imgix.net/a68ab033-4edd-4e62-bad1-1ca5b9fb0ee0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-03T16:04:42",
+        "score": 687,
+        "summary": "💬 289 评论 · ⭐ 687 分",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Image_G4_12B.width-1300.png"
+        }
+      },
+      {
+        "title": "The ways we contain Claude across products",
+        "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-04T00:27:52",
+        "score": 37,
+        "summary": "💬 8 评论 · ⭐ 37 分",
+        "extra": {
+          "image": "https://cdn.sanity.io/images/4zrzovbb/website/82d2262129af025d98a46411fbd42ee970a95cb4-2400x1260.heif"
+        }
+      },
+      {
+        "title": "香港推出首个生产力级超级智能体",
+        "url": "https://36kr.com/newsflashes/3838218104604936?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T01:57:21",
+        "score": 0,
+        "summary": "香港生成式人工智能研发中心（HKGAI）3日举行“HKGAIV3大模型发布暨生态合作大会”，正式发布最新版本的本地大模型HKGAIV3，并推出香港首个生产力级超级智能体，助力香港人工智能发展。（新华社）",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "刚刚，李飞飞亲自下场定义世界模型",
+        "url": "https://www.qbitai.com/2026/06/428752.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T00:44:04",
+        "score": 0,
+        "summary": "渲染、模拟、规划，三大功能的边界正在消融",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "🔬Scaling Past Informal AI - Carina Hong, Axiom Math",
+        "url": "https://www.latent.space/p/axiom",
+        "source": "Latent Space",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T19:27:49",
+        "score": 0,
+        "summary": "Verified Generation and Compounding Intelligence",
+        "extra": {
+          "image": "https://substackcdn.com/image/fetch/$s_!4FCX!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F199994886%2F244113ab-be8c-4812-a35e-c466379a1b26%2Ftranscoded-1780242597.png"
+        }
+      },
+      {
+        "title": "Ideogram 4.0 drops as an open-weight model with native 2K resolution and improved text rendering",
+        "url": "https://the-decoder.com/ideogram-4-0-drops-as-an-open-weight-model-with-native-2k-resolution-and-improved-text-rendering/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T18:34:36",
+        "score": 0,
+        "summary": "Ideogram releases version 4.0 of its text-to-image model as an open-weight model with native 2K resolution, bounding box control, and improved text rendering. On the DesignArena leaderboard, it ranks…",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/06/ideogram_4_astronaut-2.webp"
+        }
+      },
+      {
+        "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
+        "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+        "source": "Ars Technica AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T18:11:15",
+        "score": 0,
+        "summary": "Critics say Trump plan to test AI models is short-sighted, performative.",
+        "extra": {
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/trump-terminator-monkey-cymbals-500x500.jpg"
+        }
+      },
+      {
+        "title": "Trump's new executive order wants AI companies to voluntarily submit models for government safety reviews",
+        "url": "https://the-decoder.com/trumps-new-executive-order-wants-ai-companies-to-voluntarily-submit-models-for-government-safety-reviews/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T17:55:21",
+        "score": 0,
+        "summary": "The White House has issued an executive order requiring agencies like the Pentagon and CISA to strengthen cyber defense with AI tools within 30 days. AI developers can voluntarily submit models for se…",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_neural_network-2.png"
+        }
+      },
+      {
+        "title": "⚡️Satya Nadella: No Priors x Latent Space Crossover Special at Microsoft Build",
+        "url": "https://www.latent.space/p/satya-2026",
+        "source": "Latent Space",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T17:13:57",
+        "score": 0,
+        "summary": "The legendary Microsoft CEO makes his first Latent Space appearance!",
+        "extra": {
+          "image": "https://substackcdn.com/image/fetch/$s_!m1Ex!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F200432443%2Fb1555f23-4e23-49b0-bf8b-5665ee7f0b65%2Ftranscoded-1780505664.png"
+        }
+      },
+      {
+        "title": "Perplexity announces hybrid AI system that decides what runs locally or in the cloud",
+        "url": "https://the-decoder.com/perplexity-announces-hybrid-ai-system-that-decides-what-runs-locally-or-in-the-cloud/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T13:40:16",
+        "score": 0,
+        "summary": "Perplexity has announced an orchestrator that combines AI models running on your own computer with powerful cloud models and automatically decides which task gets processed where. The article Perplexi…",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/02/perplexity_computer.png"
+        }
+      },
+      {
+        "title": "Introducing new capabilities to GPT-Rosalind",
+        "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T13:15:00",
+        "score": 0,
+        "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/3fieJVeKCR31cbZa1xIuNt/adbb14a236da2942035f43ef7b392ca3/GPT-Rosalind_SEO_Card.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "5 ways Google Search can level up your thrift and vintage shopping",
+        "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T13:00:00",
+        "score": 0,
+        "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglas…",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
+        "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-03T12:43:43",
+        "score": 375,
+        "summary": "💬 344 评论 · ⭐ 375 分",
+        "extra": {
+          "image": "https://cdn.mos.cms.futurecdn.net/G4YHFng8EzKzoEAcjKCD8k-2560-80.jpg"
+        }
+      },
+      {
+        "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+        "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-03T12:25:14",
+        "score": 367,
+        "summary": "💬 481 评论 · ⭐ 367 分",
+        "extra": {}
+      },
+      {
+        "title": "Artificial intelligence is not conscious – Ted Chiang",
+        "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-03T17:51:37",
+        "score": 236,
+        "summary": "💬 421 评论 · ⭐ 236 分",
+        "extra": {
+          "image": "https://cdn.theatlantic.com/thumbor/fdONLsUPMiSaP_UQenVaAXAt2nI=/40x45:1998x1065/1200x625/media/img/mt/2026/06/2026_06_01_chiang_Consciousness_Trap_final_horizontal/original.gif"
+        }
+      },
+      {
+        "title": "Mathematicians issue warning as AI rapidly gains ground",
+        "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-03T10:05:48",
+        "score": 174,
+        "summary": "💬 223 评论 · ⭐ 174 分",
+        "extra": {}
+      },
+      {
+        "title": "U of T researchers demonstrate AI worm could target any online device",
+        "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-03T03:47:21",
+        "score": 133,
+        "summary": "💬 45 评论 · ⭐ 133 分",
+        "extra": {
+          "image": "https://www.utoronto.ca/sites/default/files/2026-06/0521NicolasPapernot019-crop.jpg"
+        }
+      },
+      {
+        "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+        "url": "https://leidendeclaration.ai/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-03T06:33:27",
+        "score": 122,
+        "summary": "💬 75 评论 · ⭐ 122 分",
+        "extra": {
+          "image": "https://leidendeclaration.ai/static/img/og-card.png?v=tulips-purple-yellow-1"
+        }
+      },
+      {
+        "title": "How turkey hacked the hair-transplant industry",
+        "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-01T07:02:23",
+        "score": 98,
+        "summary": "💬 166 评论 · ⭐ 98 分",
+        "extra": {
+          "image": "https://media.wired.com/photos/6a15b365e372bcf500f31f9b/191:100/w_1280,c_limit/GettyImages-1280800924.jpg"
+        }
+      },
+      {
+        "title": "Rootshell: A new E2EE email service hosted in Iceland",
+        "url": "https://rootshell.is",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-03T18:58:05",
+        "score": 43,
+        "summary": "💬 38 评论 · ⭐ 43 分",
+        "extra": {}
+      },
+      {
+        "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+        "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-04T00:56:32",
+        "score": 37,
+        "summary": "💬 13 评论 · ⭐ 37 分",
+        "extra": {
+          "image": "https://kasra.blog/favicon-512.png"
+        }
+      },
+      {
+        "title": "Demand Is Booming for New No Tech, Repairable Tractor",
+        "url": "https://www.404media.co/demand-is-booming-for-ursa-ag-new-no-tech-repairable-tractor/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-03T22:44:10",
+        "score": 36,
+        "summary": "💬 10 评论 · ⭐ 36 分",
+        "extra": {
+          "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-03-at-11.06.42@2x.png"
+        }
+      },
+      {
+        "title": "Iran war drains US oil stocks to lowest level since 2004",
+        "url": "https://www.ft.com/content/d0be73c8-b8d8-4ffd-874e-e97a6ecffef7",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-03T21:06:30",
+        "score": 31,
+        "summary": "💬 7 评论 · ⭐ 31 分",
+        "extra": {
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3cb993db-ce36-479b-ab06-fb5c591c1e06.jpg?source=next-barrier-page"
+        }
+      },
+      {
+        "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+        "url": "https://github.com/zaydmulani09/mnemo",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-03T20:32:10",
+        "score": 25,
+        "summary": "💬 15 评论 · ⭐ 25 分",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/83670e6ecb4a3d4637d3faecb058e176fa6aadb82b7a14c64c933df3e80228b2/zaydmulani09/mnemo"
+        }
+      }
+    ],
+    "products": [
+      {
+        "title": "Composer",
+        "url": "https://www.producthunt.com/products/composer-3",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T06:41:12",
+        "score": 0,
+        "summary": "Multiplayer markdown for you, your team, and your agents.",
+        "extra": {
+          "image": "https://ph-files.imgix.net/13c2095e-08f8-4a47-99b1-eb69f4c45746.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Dropstone 1.5",
+        "url": "https://www.producthunt.com/products/dropstone-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T03:59:22",
+        "score": 0,
+        "summary": "2× Claude Code Pro's usage at $15/mo",
+        "extra": {
+          "image": "https://ph-files.imgix.net/e53f7cae-637d-4e09-ab94-56acb0056141.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Replicas",
+        "url": "https://www.producthunt.com/products/replicas",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T02:10:40",
+        "score": 0,
+        "summary": "Run Claude Code and Codex in the cloud",
+        "extra": {
+          "image": "https://ph-files.imgix.net/1c663a8d-ddef-43dc-8574-f422ad25b8c3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Hermes Desktop",
+        "url": "https://www.producthunt.com/products/hermes-4",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T22:20:36",
+        "score": 0,
+        "summary": "The agent that grows with you",
+        "extra": {
+          "image": "https://ph-files.imgix.net/904098e8-419c-4692-bb23-3191bd29c78e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "EchoFlow",
+        "url": "https://www.producthunt.com/products/echoflow-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T17:18:19",
+        "score": 0,
+        "summary": "Native Android AI chat with chats stored locally",
+        "extra": {
+          "image": "https://ph-files.imgix.net/e24bd33a-0e57-4fbe-b465-33edfcce332a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "TaskGPT",
+        "url": "https://www.producthunt.com/products/taskgpt-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T15:24:37",
+        "score": 0,
+        "summary": "Voice agent for MacOS",
+        "extra": {
+          "image": "https://ph-files.imgix.net/77c5effe-73e0-4491-97b1-5a7213c9504f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Handler",
+        "url": "https://www.producthunt.com/products/handler",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T12:37:56",
+        "score": 0,
+        "summary": "Review AI edits like stacked PRs at generation time.",
+        "extra": {
+          "image": "https://ph-files.imgix.net/ee6d62d2-68c0-4c0c-bba4-05ec29012e3a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Brand Context API",
+        "url": "https://www.producthunt.com/products/brandfetch",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T09:33:35",
+        "score": 0,
+        "summary": "Ship AI that stays on-brand",
+        "extra": {
+          "image": "https://ph-files.imgix.net/8688e134-bfe3-4e68-b004-9f0de6985478.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Franz 6",
+        "url": "https://www.producthunt.com/products/franz-messenger",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T19:56:42",
+        "score": 0,
+        "summary": "All your messaging apps in one window — with private AI",
+        "extra": {
+          "image": "https://ph-files.imgix.net/9f9e186a-b5f7-4a34-9ba3-3b575b0b9487.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+        "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T22:56:51",
+        "score": 0,
+        "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800"
+        }
+      },
+      {
+        "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+        "url": "https://openai.com/index/wasmer",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T12:00:00",
+        "score": 0,
+        "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/4F1wJcjKLMpeQRDFerXS0q/24b7a1f737acdce2b86ea350fd9ebce6/oai_wasmer_SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "Organizations",
+        "url": "https://cursor.com/changelog/enterprise-organizations",
+        "source": "Cursor Changelog",
+        "source_kind": "html",
+        "published_at": "2026-06-03T00:00:00",
+        "score": 0,
+        "summary": "Jun 3, 2026 · Changelog",
+        "extra": {
+          "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/opengraph-changelog-06-03-2026.png"
+        }
+      },
+      {
+        "title": "Grok Imagine Video 1.5 on AI Gateway",
+        "url": "https://vercel.com/changelog/grok-imagine-video-1-5-on-ai-gateway",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T00:00:00",
+        "score": 0,
+        "summary": "Grok Imagine Video 1.5 from xAI is now available on AI Gateway. The model generates video from an input image with synchronized audio in a single pass. This release improves audio quality, prompt foll…",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3uPYJwKOF0WwcurlTBY2Ya/f08abe27da129f05364bd63f6883058e/Vercel_x_xAI.png"
+        }
+      },
+      {
+        "title": "Devin Desktop",
+        "url": "https://www.producthunt.com/products/devin-by-cognition",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-02T20:00:47",
+        "score": 0,
+        "summary": "Manage fleets of local and cloud agents from one surface",
+        "extra": {
+          "image": "https://ph-files.imgix.net/729b98bb-f1b3-4f42-aeaa-be039e1c83a2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "title": "Eliciting Complex Spatial Reasoning in MLLMs through Wide-Baseline Matching",
+        "url": "https://huggingface.co/papers/2606.03577",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-04T02:00:35.200947",
+        "score": 4,
+        "summary": "⬆ 4 · arXiv 2606.03577",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.03577.png",
+          "arxiv_id": "2606.03577"
+        }
+      },
+      {
+        "title": "BenchEvolver: Frontier Task Synthesis via Solution-Centric Evolution",
+        "url": "https://huggingface.co/papers/2606.01286",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-04T02:00:35.200947",
+        "score": 2,
+        "summary": "⬆ 2 · arXiv 2606.01286",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.01286.png",
+          "arxiv_id": "2606.01286"
+        }
+      },
+      {
+        "title": "MemTrain: Self-Supervised Context Memory Training",
+        "url": "https://huggingface.co/papers/2606.03197",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-04T02:00:35.200947",
+        "score": 1,
+        "summary": "⬆ 1 · arXiv 2606.03197",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.03197.png",
+          "arxiv_id": "2606.03197"
+        }
+      },
+      {
+        "title": "Self-Distilled Policy Gradient",
+        "url": "https://huggingface.co/papers/2606.04036",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-04T02:00:35.200947",
+        "score": 1,
+        "summary": "⬆ 1 · arXiv 2606.04036",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.04036.png",
+          "arxiv_id": "2606.04036"
+        }
+      },
+      {
+        "title": "Cosmos 3: Omnimodal World Models for Physical AI",
+        "url": "https://huggingface.co/papers/2606.02800",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-04T02:00:35.200947",
+        "score": 1,
+        "summary": "⬆ 1 · arXiv 2606.02800",
+        "extra": {
+          "arxiv_id": "2606.02800",
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.02800/gradient.png"
+        }
+      },
+      {
+        "title": "IdiomX A Multilingual Benchmark for Idiom Understanding, Retrieval, and Interpretation",
+        "url": "https://arxiv.org/abs/2606.02584",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.02584v1 Announce Type: new Abstract: Idiomatic expressions remain a persistent challenge for natural language processing because their meanings are often non-compositional, context-dependen…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Greener Than Humans? Environmental Attitudes in Large Language Models",
+        "url": "https://arxiv.org/abs/2606.02741",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.02741v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used in sustainability-related decision support, reporting, and public communication, yet little systemati…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "On the Persistent Effects of Lexicality in Large Language Mod",
+        "url": "https://arxiv.org/abs/2606.02750",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.02750v1 Announce Type: new Abstract: Representations extracted from large language models (LLMs) play an important role in many downstream applications. However, the structure of these repr…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Topics as Proxies for Sociodemographics: How Conversational Context Affects LLM Answers",
+        "url": "https://arxiv.org/abs/2606.02776",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.02776v1 Announce Type: new Abstract: When large language models (LLMs) are used in high-stakes scenarios, such as legal, medical and financial advice, even a single conversation history is…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Do Value Vectors in Deep Layers Need Context from the Residual Stream?",
+        "url": "https://arxiv.org/abs/2606.02780",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.02780v1 Announce Type: new Abstract: The success of the transformer architecture as the backbone of modern LLMs is in large part due to its use of attention layers. An attention layer follo…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Translating Classical Poetry into Modern Prose",
+        "url": "https://arxiv.org/abs/2606.02806",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.02806v1 Announce Type: new Abstract: We introduce Padyam2Gadyam, a dataset for the task of poem-to-prose translation from 13th-17th Century Telugu Classical Poetry to contemporary Telugu an…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Fixing FOLIO and MALLS: Verified Annotations and an LLM-assisted Framework to Focus Human Relabeling",
+        "url": "https://arxiv.org/abs/2606.02837",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T04:00:00",
+        "score": 0,
+        "summary": "arXiv:2606.02837v1 Announce Type: new Abstract: Accurate translation from Natural Language to First-Order Logic (NL-to-FOL) underpins neurosymbolic AI systems and Natural Language Inference (NLI), mak…",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "opendataloader-project/opendataloader-pdf",
+        "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 570,
+        "summary": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. · Java · ⭐ +570 今日",
+        "extra": {
+          "image": "https://github.com/opendataloader-project.png?size=120",
+          "language": "Java"
+        }
+      },
+      {
+        "title": "heygen-com/hyperframes",
+        "url": "https://github.com/heygen-com/hyperframes",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 393,
+        "summary": "Write HTML. Render video. Built for agents. · TypeScript · ⭐ +393 今日",
+        "extra": {
+          "image": "https://github.com/heygen-com.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "clash-verge-rev/clash-verge-rev",
+        "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 276,
+        "summary": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience · TypeScript · ⭐ +276 今日",
+        "extra": {
+          "image": "https://github.com/clash-verge-rev.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "lyogavin/airllm",
+        "url": "https://github.com/lyogavin/airllm",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 208,
+        "summary": "AirLLM 70B inference with single 4GB GPU · Jupyter Notebook · ⭐ +208 今日",
+        "extra": {
+          "image": "https://github.com/lyogavin.png?size=120",
+          "language": "Jupyter Notebook"
+        }
+      },
+      {
+        "title": "HKUDS/Vibe-Trading",
+        "url": "https://github.com/HKUDS/Vibe-Trading",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 197,
+        "summary": "\"Vibe-Trading: Your Personal Trading Agent\" · Python · ⭐ +197 今日",
+        "extra": {
+          "image": "https://github.com/HKUDS.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "EbookFoundation/free-programming-books",
+        "url": "https://github.com/EbookFoundation/free-programming-books",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 148,
+        "summary": "📚 Freely available programming books · Python · ⭐ +148 今日",
+        "extra": {
+          "image": "https://github.com/EbookFoundation.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "interviewstreet/hiring-agent",
+        "url": "https://github.com/interviewstreet/hiring-agent",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 119,
+        "summary": "AI agent to evaluate and score resumes. · Python · ⭐ +119 今日",
+        "extra": {
+          "image": "https://github.com/interviewstreet.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "0x4m4/hexstrike-ai",
+        "url": "https://github.com/0x4m4/hexstrike-ai",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 38,
+        "summary": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities. · Python · ⭐ +38 今日",
+        "extra": {
+          "image": "https://github.com/0x4m4.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "aquasecurity/trivy",
+        "url": "https://github.com/aquasecurity/trivy",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 24,
+        "summary": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more · Go · ⭐ +24 今日",
+        "extra": {
+          "image": "https://github.com/aquasecurity.png?size=120",
+          "language": "Go"
+        }
+      },
+      {
+        "title": "NVIDIA-NeMo/Gym",
+        "url": "https://github.com/NVIDIA-NeMo/Gym",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 1,
+        "summary": "Evaluate and improve models and agents using environments · Python · ⭐ +1 今日",
+        "extra": {
+          "image": "https://github.com/NVIDIA-NeMo.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
