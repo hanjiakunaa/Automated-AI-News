@@ -1,0 +1,906 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T10:02:13+08:00",
+  "stats": {
+    "new_count": 192,
+    "total_seen": 2528
+  },
+  "section_titles": {
+    "skills_mcp": "🧩 MCP & Skills 生态",
+    "models": "🚀 大模型动态",
+    "news": "📰 AI 重要新闻",
+    "products": "🔥 爆款 AI 产品",
+    "tools": "🛠️ AI 工具 & Coding Agent",
+    "papers": "📜 论文与研究",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "skills_mcp": [
+      {
+        "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+        "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-04T00:18:02",
+        "score": 733,
+        "summary": "伯克利 CS 课程中 AI 使用导致不及格率飙升，数学技能下降，HN 上获得 733 分和 716 条评论，成为最热话题。",
+        "extra": {
+          "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/c/40/c40f11cf-dfb0-4973-a534-c64044165f16/6a206ddeec122.image.jpg?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize"
+        }
+      },
+      {
+        "title": "Bumblebees show advanced problem-solving skills in new experiment",
+        "url": "https://www.cnn.com/2026/06/04/science/bumble-bees-insight-problem-solving",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-05T01:05:36",
+        "score": 4,
+        "summary": "新实验显示熊蜂展现出高级问题解决能力，引发对昆虫智能的讨论。HN 评论较少但评分中等。",
+        "extra": {}
+      },
+      {
+        "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+        "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T19:20:58",
+        "score": 0,
+        "summary": "Apple 批准 AI 初创公司 Poke 成为首个在其 Messages for Business 平台上运行的 AI 代理。Poke 允许用户通过短信与 AI 代理交互，这标志着苹果在商业消息领域正式引入第三方 AI 代理。",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.57.33-PM.jpg?resize=1200,604"
+        }
+      },
+      {
+        "title": "GitHub Universe is back: All together now, in the agentic era",
+        "url": "https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/",
+        "source": "GitHub Blog",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T16:00:00",
+        "score": 0,
+        "summary": "GitHub Universe 2026 将于 10 月 28-29 日在旧金山 Fort Mason Center 举行，主题聚焦“代理时代”。大会将探讨 AI 代理如何改变软件开发流程。",
+        "extra": {
+          "image": "https://github.blog/wp-content/uploads/2026/06/1200x630-U25-Blog-Hero_x2.png?fit=2400%2C1260"
+        }
+      },
+      {
+        "title": "How Endava is redesigning software delivery around AI agents",
+        "url": "https://openai.com/index/endava-frontiers",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T12:00:00",
+        "score": 0,
+        "summary": "Endava 正在利用 AI 代理、ChatGPT Enterprise 和 Codex 重构软件交付流程，加速开发、自动化工作流，并构建企业级 AI 原生文化。案例展示了 AI 在软件工程中的深度应用。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/4gxDAOkxUXKVkAcM8eGhNj/03482b84b74c225d36ad173865b67b14/oai_Endava_SEO.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "Deliberate Evolution: Agentic Reasoning for Sample-Efficient Symbolic Regression with LLMs",
+        "url": "https://arxiv.org/abs/2606.04360",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:00:00",
+        "score": 0,
+        "summary": "Deliberate Evolution 结合 LLM 的代理推理与符号回归，提高样本效率，发现更紧凑的数学表达式。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+        "url": "https://arxiv.org/abs/2606.04037",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:00:00",
+        "score": 0,
+        "summary": "论文提出基于本体仿真的预部署保证框架，用于企业 AI 代理的信任认证，填补 LLM 能力基准与实际部署之间的差距。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline",
+        "url": "https://arxiv.org/abs/2606.04315",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:00:00",
+        "score": 0,
+        "summary": "研究诊断代理记忆系统的跨场景泛化能力，并提出一个强基线，为通用记忆系统设计提供参考。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "The Digital Apprentice: A Framework for Human-Directed Agentic AI Development",
+        "url": "https://arxiv.org/abs/2606.04321",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:00:00",
+        "score": 0,
+        "summary": "论文提出“数字学徒”框架，平衡人类监督与代理自主性，解决代理 AI 部署中的设计张力。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval",
+        "url": "https://arxiv.org/abs/2606.04391",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:00:00",
+        "score": 0,
+        "summary": "研究提出基于状态接地动态检索的在线技能学习方法，使 Web 代理能跨任务复用技能。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2606.04484",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:00:00",
+        "score": 0,
+        "summary": "AgentJet 是一个灵活的分布式群体训练框架，用于 LLM 代理的强化学习，支持去中心化训练。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Beyond Prompt-Based Planning: MCP-Native Graph Planning-based Biomedical Agent System",
+        "url": "https://arxiv.org/abs/2606.04494",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:00:00",
+        "score": 0,
+        "summary": "论文提出基于 MCP 原生图规划的生物医学代理系统，解决生物信息学工具集成和规划瓶颈。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+        "url": "https://github.com/schildep/verified-polygon-intersection",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-04T22:06:18",
+        "score": 35,
+        "summary": "Show HN 展示形式化验证的多边形交集算法，基于 Opus 4.8，解决先前失败案例，获得 35 分。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/aee8d0b0f18a3c23eafd7c5a79fa480a86ab847e697e8691028bc79a92c68e84/schildep/verified-polygon-intersection"
+        }
+      },
+      {
+        "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+        "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T22:29:50",
+        "score": 0,
+        "summary": "Airbnb CEO Brian Chesky 计划成立新 AI 实验室，去年他曾表示因现有产品不够成熟而未达成 LLM 合作。此举表明 Airbnb 正加速自研 AI 能力，可能用于优化搜索、定价或客服等场景。",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-652988834.jpg?w=1024"
+        }
+      },
+      {
+        "title": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs",
+        "url": "https://www.latent.space/p/andon",
+        "source": "Latent Space",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T20:39:18",
+        "score": 0,
+        "summary": "Latent Space 播客与 Andon Labs 的 Lukas Petersson 和 Axel Backlund 讨论 VendingBench 评估，涵盖从 Haiku 到 Mythos 的 Claude 模型，以及如何构建前沿评估。",
+        "extra": {
+          "image": "https://substackcdn.com/image/fetch/$s_!KHFV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F569da387-7ec3-4c06-a66d-d662ce1d3f78_1686x1060.png"
+        }
+      },
+      {
+        "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T18:57:45",
+        "score": 0,
+        "summary": "NVIDIA 发布 Nemotron 3.5 Content Safety，一个可定制的多模态安全模型，专为企业级 AI 应用设计，支持图像、文本等多种输入的安全审核。该模型旨在帮助企业满足全球合规要求。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-3-5-content-safety.png"
+        }
+      },
+      {
+        "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T12:24:58",
+        "score": 0,
+        "summary": "EVA-Bench 发布 Data 2.0 版本，覆盖 3 个领域、121 个工具和 213 个场景，为 AI 代理评估提供更全面的基准数据集。该版本扩展了任务多样性，有助于更准确地衡量代理能力。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow-AI/eva-bench-data.png"
+        }
+      },
+      {
+        "title": "氪星晚报 ｜OpenAI首席财务官谈公司AI设备：今年年底前将正式发布；腾讯客服回应与华为、小米等合作；香港推出首个生产力级超级智能体",
+        "url": "https://36kr.com/p/3838652242823687?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T09:37:38",
+        "score": 0,
+        "summary": "OpenAI CFO 透露公司 AI 设备将于今年年底前正式发布；腾讯客服回应与华为、小米等合作；香港推出首个生产力级超级智能体。其他动态包括 LG Innotek 扩建半导体基板工厂等。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260604/v2_5f90191b133547ca868b58e6a6846105@5724308@ai_oswg842189oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg"
+        }
+      },
+      {
+        "title": "Dreaming: Better memory for a more helpful ChatGPT",
+        "url": "https://openai.com/index/chatgpt-memory-dreaming",
+        "source": "OpenAI Blog",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T09:00:00",
+        "score": 0,
+        "summary": "ChatGPT 推出名为“Dreaming”的新记忆系统，能更好地记住用户偏好，跨对话保持上下文新鲜和相关性。该系统通过构建连贯的用户画像而非零散要点，提升个性化体验。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/41T8ZOansyDZGCqmwOkuOY/3cdeb6ab147c08fa9b313b677fb5318e/16x9_SEO__1_.png?w=1600&h=900&fit=fill"
+        }
+      },
+      {
+        "title": "LeCun 10亿押注的方向，全球领先视觉大模型团队早已布局",
+        "url": "https://www.qbitai.com/2026/06/428790.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T03:43:37",
+        "score": 0,
+        "summary": "LeCun 押注 10 亿美元的隐空间世界模型方向，全球领先视觉大模型团队早已布局。该团队认为隐空间世界模型虽难但必须攻克，是物理 AI 的关键。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "[AINews] Reve 2 and Ideogram 4: Layouts in Imagegen",
+        "url": "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
+        "source": "Latent Space",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T03:24:07",
+        "score": 0,
+        "summary": "AINews 报道 Reve 2 和 Ideogram 4 在图像生成布局方面的进展，但当天整体平静。",
+        "extra": {
+          "image": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/khye4hsl8xurczaxecv5"
+        }
+      },
+      {
+        "title": "一个GPT Plus会员的钱，够机器人跑一个月世界模型了",
+        "url": "https://www.qbitai.com/2026/06/428791.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T03:10:23",
+        "score": 0,
+        "summary": "一个 GPT Plus 会员的费用（约 150 元）足以让机器人运行一个月世界模型。这展示了世界模型在成本上的突破，可能加速机器人自主决策的普及。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型",
+        "url": "https://www.qbitai.com/2026/06/428778.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T03:06:59",
+        "score": 0,
+        "summary": "戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型。公司旨在摆脱视觉内卷，聚焦物理世界模型研发。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+        "url": "https://huggingface.co/blog/hf-cli-for-agents",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T00:00:00",
+        "score": 0,
+        "summary": "Hugging Face 正在设计新的 hf CLI，作为面向 AI 代理的 Hub 交互方式，优化代理与 Hub 的协作效率。该工具旨在简化模型、数据集和 Spaces 的管理流程。",
+        "extra": {
+          "image": "https://huggingface.co/blog/assets/hf-cli-for-agents/thumbnail.png"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+        "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-04T08:45:36",
+        "score": 360,
+        "summary": "调查显示英国媒体在近 60% 的案例中未披露与国防部门的关联，引发媒体独立性讨论，HN 评分 360 分。",
+        "extra": {}
+      },
+      {
+        "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+        "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-04T16:20:17",
+        "score": 332,
+        "summary": "文章探讨 AI 递归自我改进的进展，在 HN 上获得 332 分和 440 条评论，成为热门讨论。",
+        "extra": {
+          "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+        }
+      },
+      {
+        "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+        "url": "https://github.com/anthropics/defending-code-reference-harness",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-04T20:11:20",
+        "score": 268,
+        "summary": "Anthropic 开源 AI 漏洞发现框架，在 HN 上获得 268 分和 94 条评论，讨论其效果和安全性。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/6d3535f5720aa2193f5118494c9a30e4f3355b19bf584d111386b575bd48e913/anthropics/defending-code-reference-harness"
+        }
+      },
+      {
+        "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+        "url": "https://github.com/huawei-csl/KVarN",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-04T15:18:00",
+        "score": 114,
+        "summary": "华为发布 KVarN，一个基于 vLLM 的 KV 缓存量化后端，在 HN 上获得 114 分，讨论其性能提升。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/0d3a749b8384e9e571e1ef61180d6ccb5cc347ece2a0e4277227ce1beef94ce3/huawei-csl/KVarN"
+        }
+      },
+      {
+        "title": "Samurai City",
+        "url": "https://worksinprogress.co/issue/samurai-city/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T04:32:19",
+        "score": 100,
+        "summary": "Samurai City 项目在 HN 上获得 100 分，但内容未明确，可能涉及游戏或文化。",
+        "extra": {
+          "image": "https://worksinprogress.co/wip-image/uploads/2026/06/Samurai-city-i24-share-card-.jpg"
+        }
+      },
+      {
+        "title": "Do transformers need three projections? Systematic study of QKV variants",
+        "url": "https://arxiv.org/abs/2606.04032",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-04T23:11:56",
+        "score": 92,
+        "summary": "论文系统研究 Transformer 是否需要三个投影（QKV），探讨变体设计，在 HN 上获得 92 分和 13 条评论。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "NSA using Anthropic's Mythos for cyber attacks",
+        "url": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-04T20:33:02",
+        "score": 77,
+        "summary": "报道称 NSA 使用 Anthropic 的 Mythos 模型进行网络攻击，引发安全与伦理争议，HN 评分 77 分。",
+        "extra": {
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5301a9c9-36ba-41d3-b7be-5ef5c3bd3692.jpg?source=next-barrier-page"
+        }
+      },
+      {
+        "title": "3D-printed book turns its own G-code into raised lettering",
+        "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-02T14:15:15",
+        "score": 77,
+        "summary": "3D 打印书籍将自身 G 代码转化为凸起文字，实现触觉阅读，HN 评分 77 分。",
+        "extra": {
+          "image": "https://www.designboom.com/twitterimages/uploads/2026/05/darius-ou-manual-3D-printed-book-designboom-FB.jpg"
+        }
+      },
+      {
+        "title": "Show HN: Prela – Purely Algebraic Relation Combinators",
+        "url": "https://github.com/remysucre/prela",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-01T13:26:01",
+        "score": 63,
+        "summary": "Show HN: Prela 提出纯代数关系组合子，用于函数式编程，HN 评分 63 分。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/b25e2162891e45ac8d6a750ce30b7fb0e32651fc32509df5255d807b79952b47/remysucre/prela"
+        }
+      },
+      {
+        "title": "AI, Ashby Engineering, and the future",
+        "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-04T14:48:44",
+        "score": 56,
+        "summary": "文章讨论 AI 对 Ashby 工程和未来的影响，HN 评分 56 分，涉及 AI 在招聘软件中的应用。",
+        "extra": {
+          "image": "https://a-us.storyblok.com/f/1017310/2398x1256/3c1f9b9162/ai-ashby-engineering-and-the-future.png"
+        }
+      },
+      {
+        "title": "Castor: CERN Advanced STORage Manager",
+        "url": "https://castor.web.cern.ch/content/home.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-04T19:52:02",
+        "score": 43,
+        "summary": "Castor 是 CERN 的高级存储管理器，用于管理大规模数据，HN 评分 43 分。",
+        "extra": {
+          "image": "../sites/castor.web.cern.ch/files/castor_transparent_icon_smaller.png"
+        }
+      },
+      {
+        "title": "Open Code Review – An AI-powered code review CLI tool",
+        "url": "https://github.com/alibaba/open-code-review",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-05T00:04:29",
+        "score": 33,
+        "summary": "Open Code Review 是一个 AI 驱动的代码审查 CLI 工具，在 HN 上获得 33 分和 4 条评论，讨论其与现有工具的对比。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/0cb878eb52878c93b5dff639d81459c3611734f9795f41457afe152820ffc096/alibaba/open-code-review"
+        }
+      }
+    ],
+    "products": [
+      {
+        "title": "DotBGE",
+        "url": "https://www.producthunt.com/products/dotbge",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T06:40:04",
+        "score": 0,
+        "summary": "DotBGE 是一款本地优先的文件加密工具，支持 iOS、命令行和 AI 代理，确保数据在设备端加密后再同步或共享。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/3d5e5808-b586-405c-ae2b-ba1b08c342a8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Intelligent Terminal",
+        "url": "https://www.producthunt.com/products/microsoft-terminal",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:39:14",
+        "score": 0,
+        "summary": "Intelligent Terminal 是集成原生 AI 代理的 Windows 终端，用户可直接在终端中调用 AI 能力，提升命令行工作效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/f340649f-f23a-4f38-8397-1fd3ded798b0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Boxes.dev",
+        "url": "https://www.producthunt.com/products/boxes-dev",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T01:25:01",
+        "score": 0,
+        "summary": "Boxes.dev 允许用户在自有云环境中运行 Claude Code 和 Codex，提供安全、可控的 AI 编码代理运行环境。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/6632ca6f-fd43-4f1d-968f-84c67ad0f889.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "ChatPilot",
+        "url": "https://www.producthunt.com/products/chatpilot-2",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T20:47:05",
+        "score": 0,
+        "summary": "ChatPilot 支持批量删除、归档和添加时间戳 ChatGPT 对话，帮助用户管理大量聊天记录，提升隐私和效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/d553a698-0b56-41df-af1e-686b3165f6ed.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Smart Runner",
+        "url": "https://www.producthunt.com/products/smart-runner",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T19:38:03",
+        "score": 0,
+        "summary": "Smart Runner 是一款 AI 训练计划应用，每次跑步后自动调整计划，实现个性化动态训练方案。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/1fef15d6-88f9-4d22-b519-d62d94eb4720.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Carbon Voice Speed Dial",
+        "url": "https://www.producthunt.com/products/carbon-voice",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T18:29:41",
+        "score": 0,
+        "summary": "Carbon Voice Speed Dial 支持将整个团队（包括人类和 AI 代理）设为快速拨号，实现一键呼叫。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/fa0c1e65-e3c7-4864-aca3-666584bfa29f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Cignara",
+        "url": "https://www.producthunt.com/products/cignara",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T17:38:03",
+        "score": 0,
+        "summary": "Cignara 提供面向财富 500 强级别的 AI 代理客服解决方案，旨在提升大型企业客户支持效率。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/1bc7c3c2-d00f-4b92-9ec0-d248e3536a63.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Perplexity Personal Computer for Windows",
+        "url": "https://www.producthunt.com/products/perplexity-personal-computer-for-windows",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T16:32:40",
+        "score": 0,
+        "summary": "Perplexity Personal Computer for Windows 允许用户在 Windows 上运行 AI 代理，访问本地文件和应用程序，实现跨应用自动化。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/5b63385d-7484-4444-8d78-6da3736a6776.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Google Gemma 4 12B",
+        "url": "https://www.producthunt.com/products/gemma-4-12b",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T16:15:55",
+        "score": 0,
+        "summary": "Google Gemma 4 12B 采用无编码器架构，可在本地运行多模态 AI，降低部署门槛。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/7007b159-b458-45d0-8ff0-074d4fd43299.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Walrus Memory",
+        "url": "https://www.producthunt.com/products/walrus-memory",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T15:40:08",
+        "score": 0,
+        "summary": "Walrus Memory 使 AI 代理能够跨应用和会话保持上下文，实现持久化记忆和连续工作。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/dc6ae901-7a9a-4a50-8b6b-861b1d3a1296.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Curata",
+        "url": "https://www.producthunt.com/products/curata-3",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T15:27:22",
+        "score": 0,
+        "summary": "Curata 是一个 AI 代理与人类共享的工作空间，支持协作编辑和任务管理。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/d5ccce76-b2e6-4f1b-af23-3b748dcf1bfa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Keen Code",
+        "url": "https://www.producthunt.com/products/keen-code-a-cli-coding-agent",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T14:44:19",
+        "score": 0,
+        "summary": "Keen Code 是一个上下文高效的 CLI 编码代理，由 AI 代理自身构建，专注于减少 token 消耗。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/b34e611c-f324-458c-b35b-2c4fde89f374.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "Updates to Legal Terms",
+        "url": "https://vercel.com/changelog/updates-to-legal-terms-june-2026",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T18:00:00",
+        "score": 0,
+        "summary": "Vercel 更新法律条款，适应代理工作流普及，开发者需注意 AI 工具直接访问基础设施的合规性。",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2Ee6L4zc0UzFTh3L1IZ14A/1d0fc8f92b64245116674c009193a50c/image__39_.png"
+        }
+      },
+      {
+        "title": "Nemotron 3 Ultra now available on AI Gateway",
+        "url": "https://vercel.com/changelog/nemotron-3-ultra-now-available-on-ai-gateway",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T07:00:00",
+        "score": 0,
+        "summary": "NVIDIA Nemotron 3 Ultra 现已在 Vercel AI Gateway 上可用，这是一个开源的 MoE 推理模型，支持 1M token 上下文，专为长时代理工作流设计。",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7EsijHwLe82ymQ7G7HWQRs/9b268423fcf43ffab7bd76507505412e/image__52_.png"
+        }
+      },
+      {
+        "title": "Design Mode in canvases",
+        "url": "https://cursor.com/changelog/canvas-improvements",
+        "source": "Cursor Changelog",
+        "source_kind": "html",
+        "published_at": "2026-06-04T00:00:00",
+        "score": 0,
+        "summary": "Cursor 3.7 版本于 2026 年 6 月 4 日发布，新增画布设计模式，提升 UI 编辑体验。",
+        "extra": {
+          "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-june-4-2026.png"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "title": "Personal AI Agent for Camera Roll VQA",
+        "url": "https://huggingface.co/papers/2606.05275",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-05T02:00:39.021704",
+        "score": 3,
+        "summary": "论文提出个人 AI 代理用于相册视觉问答，支持用户查询照片内容。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.05275.png",
+          "arxiv_id": "2606.05275"
+        }
+      },
+      {
+        "title": "Unsupervised Skill Discovery for Agentic Data Analysis",
+        "url": "https://huggingface.co/papers/2606.06416",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-05T02:00:39.021704",
+        "score": 1,
+        "summary": "论文提出无监督技能发现方法，用于代理数据分析，自动提取可复用分析技能。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.06416.png",
+          "arxiv_id": "2606.06416"
+        }
+      },
+      {
+        "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
+        "url": "https://huggingface.co/papers/2606.06473",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-05T02:00:39.021704",
+        "score": 0,
+        "summary": "MLEvolve 是一个自进化框架，用于自动发现机器学习算法，实现自动化算法设计。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.06473.png",
+          "arxiv_id": "2606.06473"
+        }
+      },
+      {
+        "title": "OPRD: On-Policy Representation Distillation",
+        "url": "https://huggingface.co/papers/2606.06021",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-05T02:00:39.021704",
+        "score": 0,
+        "summary": "OPRD 提出在线策略表示蒸馏，将教师模型的知识蒸馏到学生策略中。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.06021.png",
+          "arxiv_id": "2606.06021"
+        }
+      },
+      {
+        "title": "POLARIS: Guiding Small Models to Write Long Stories",
+        "url": "https://arxiv.org/abs/2606.04095",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:00:00",
+        "score": 0,
+        "summary": "POLARIS 提出一种引导小模型生成长篇故事的方法，解决小模型在长文本创作中长度不足或质量下降的问题。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Discourse-Role Labels as Presentation-Time Variables for Context Use in Language Models",
+        "url": "https://arxiv.org/abs/2606.04109",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:00:00",
+        "score": 0,
+        "summary": "论文研究话语角色标签（如 Reference、Evidence）作为上下文变量对语言模型的影响，发现标签设计可显著影响模型对信息的利用方式。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Computational conceptual history of scientific concepts: From early digital methods to LLMs",
+        "url": "https://arxiv.org/abs/2606.04118",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:00:00",
+        "score": 0,
+        "summary": "文章将 LLM 置于计算概念分析的历史中，探讨从早期数字方法到 LLM 的演变，为理解科学概念提供新视角。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "SaliMory: Orchestrating Cognitive Memory for Conversational Agents",
+        "url": "https://arxiv.org/abs/2606.04120",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:00:00",
+        "score": 0,
+        "summary": "SaliMory 提出一种认知记忆编排框架，使对话代理能在所有交互中维持持久记忆，超越简单扩展上下文窗口。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "When Retrieval Doesn't Help: A Large-Scale Study of Biomedical RAG",
+        "url": "https://arxiv.org/abs/2606.04127",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:00:00",
+        "score": 0,
+        "summary": "大规模研究显示，在生物医学问答中，检索增强生成（RAG）并不总是有帮助，有时甚至降低性能。该研究对高风险的医疗场景具有重要警示意义。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Expert-Aware Refusal Steering",
+        "url": "https://arxiv.org/abs/2606.04160",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:00:00",
+        "score": 0,
+        "summary": "论文提出“专家感知拒绝引导”方法，增强 LLM 对有害或违规请求的拒绝能力，提升安全对齐的可靠性。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "A Systematic Analysis of Linguistic Features in AI-Generated Text Detection Across Domains and Models",
+        "url": "https://arxiv.org/abs/2606.04177",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:00:00",
+        "score": 0,
+        "summary": "系统分析跨领域和模型的可解释语言特征，用于检测 AI 生成文本，为非专业用户提供解释依据。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "ACAT: A Collaborative Platform for Efficient Aspect-Based Sentiment Dataset Annotation",
+        "url": "https://arxiv.org/abs/2606.04189",
+        "source": "arXiv cs.CL",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T04:00:00",
+        "score": 0,
+        "summary": "ACAT 是一个协作平台，用于高效标注基于方面的情感分析数据集，支持更复杂的标注结构。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "fathah/hermes-desktop",
+        "url": "https://github.com/fathah/hermes-desktop",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 387,
+        "summary": "fathah/hermes-desktop 是 Hermes Agent 的桌面伴侣，今日星增 387+，增长迅速。",
+        "extra": {
+          "image": "https://github.com/fathah.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "DayuanJiang/next-ai-draw-io",
+        "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 333,
+        "summary": "next-ai-draw-io 是一个 Next.js 应用，集成 AI 与 draw.io 图表，支持自然语言创建和修改图表。今日星增 333+。",
+        "extra": {
+          "image": "https://github.com/DayuanJiang.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "Fission-AI/OpenSpec",
+        "url": "https://github.com/Fission-AI/OpenSpec",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 258,
+        "summary": "Fission-AI/OpenSpec 提出规范驱动开发（SDD），用于 AI 编码助手，今日星增 258+。",
+        "extra": {
+          "image": "https://github.com/Fission-AI.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "mvanhorn/last30days-skill",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 199,
+        "summary": "last30days-skill 是一个 AI 代理技能，可跨 Reddit、X、YouTube 等平台研究任意主题并生成摘要。今日星增 199+。",
+        "extra": {
+          "image": "https://github.com/mvanhorn.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "langgenius/dify",
+        "url": "https://github.com/langgenius/dify",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 160,
+        "summary": "Dify 是一个生产级代理工作流开发平台，今日星增 160+，广受开发者欢迎。",
+        "extra": {
+          "image": "https://github.com/langgenius.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "NVIDIA/cosmos",
+        "url": "https://github.com/NVIDIA/cosmos",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 133,
+        "summary": "NVIDIA Cosmos 是一个开放的世界模型平台，包含数据集和工具，用于构建机器人、自动驾驶等物理 AI。今日 GitHub 星增 133+。",
+        "extra": {
+          "image": "https://github.com/NVIDIA.png?size=120",
+          "language": "Jupyter Notebook"
+        }
+      },
+      {
+        "title": "NVIDIA/NemoClaw",
+        "url": "https://github.com/NVIDIA/NemoClaw",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 53,
+        "summary": "NVIDIA NemoClaw 允许在 NVIDIA OpenShell 中更安全地运行 Hermes 和 OpenClaw 等代理，支持托管推理。今日星增 53+。",
+        "extra": {
+          "image": "https://github.com/NVIDIA.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "github/copilot-sdk",
+        "url": "https://github.com/github/copilot-sdk",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 38,
+        "summary": "GitHub Copilot SDK 是多平台 SDK，用于将 Copilot Agent 集成到应用和服务中。今日星增 38+。",
+        "extra": {
+          "image": "https://github.com/github.png?size=120",
+          "language": "Java"
+        }
+      },
+      {
+        "title": "NginxProxyManager/nginx-proxy-manager",
+        "url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 20,
+        "summary": "NginxProxyManager 提供 Docker 容器，用于管理 Nginx 代理主机，界面简单强大。今日星增 20+。",
+        "extra": {
+          "image": "https://github.com/NginxProxyManager.png?size=120",
+          "language": "TypeScript"
+        }
+      }
+    ]
+  }
+}
