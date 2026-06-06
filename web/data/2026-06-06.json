@@ -1,0 +1,794 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T10:02:00+08:00",
+  "stats": {
+    "new_count": 164,
+    "total_seen": 2692
+  },
+  "section_titles": {
+    "skills_mcp": "🧩 MCP & Skills 生态",
+    "models": "🚀 大模型动态",
+    "news": "📰 AI 重要新闻",
+    "products": "🔥 爆款 AI 产品",
+    "tools": "🛠️ AI 工具 & Coding Agent",
+    "papers": "📜 论文与研究",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "skills_mcp": [
+      {
+        "title": "My Agent Skill for Test-Driven Development",
+        "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-04T14:10:40",
+        "score": 133,
+        "summary": "Hacker News展示测试驱动开发的Agent技能，获得133分，53条评论。AI辅助TDD实践。",
+        "extra": {
+          "image": "https://www.saturnci.com/images/og-image.png"
+        }
+      },
+      {
+        "title": "Satya Nadella publicly torches a VP's plan to make Microsoft's AI agent deliberately addictive",
+        "url": "https://the-decoder.com/satya-nadella-publicly-torches-a-vps-plan-to-make-microsofts-ai-agent-deliberately-addictive/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T15:33:56",
+        "score": 0,
+        "summary": "微软CEO Satya Nadella公开批评内部VP让AI代理故意上瘾的计划。Nadella称“不知道谁在写并泄露这些废话”，强调伦理底线。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/06/microsoft_logo_red_pink.png"
+        }
+      },
+      {
+        "title": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
+        "url": "https://www.qbitai.com/2026/06/431027.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T10:46:59",
+        "score": 0,
+        "summary": "华为云发布Agentic AI系列新品，旨在打造智能时代的“硅基黑土地”。华为云聚焦国产化算力健康度而非token总量。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "Agentic Monte Carlo: Simulating Reinforcement Learning for Black-Box Agents",
+        "url": "https://arxiv.org/abs/2606.05296",
+        "source": "arXiv cs.LG",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T04:00:00",
+        "score": 0,
+        "summary": "arXiv论文提出Agentic Monte Carlo：模拟黑盒代理的强化学习。开放权重代理可RL，黑盒代理需约束行为。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Cascading Hallucination in Agentic RAG: The CHARM Framework for Detection and Mitigation",
+        "url": "https://arxiv.org/abs/2606.04435",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T04:00:00",
+        "score": 0,
+        "summary": "arXiv论文提出CHARM框架：检测和缓解代理RAG中的级联幻觉。多步代理RAG管道易受幻觉影响。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "Did Claude increase bugs in rsync?",
+        "url": "https://alexispurslane.github.io/rsync-analysis/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-05T12:43:33",
+        "score": 307,
+        "summary": "Hacker News讨论“Claude是否增加了rsync中的bug？”，获得307分，312条评论。AI生成代码质量引发争议。",
+        "extra": {
+          "image": "images/github-issue.png"
+        }
+      },
+      {
+        "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+        "url": "https://36kr.com/p/3840996342073604?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T01:07:19",
+        "score": 0,
+        "summary": "豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发；罗永浩卸任锤子软件公司执行董事。",
+        "extra": {
+          "image": "https://img.36krcdn.com/hsossms/20260606/v2_eeee6a12f7a54a2e9c9f96bc11c7b0cd@000000_oswg37473oswg899oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center"
+        }
+      },
+      {
+        "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+        "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T22:18:46",
+        "score": 0,
+        "summary": "Hugging Face上发布了一个项目，在3B模型上实现多智能体经济。展示了小模型也能支持复杂多智能体系统。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/build-small-hackathon/thousand-token-wood-sim.png"
+        }
+      },
+      {
+        "title": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
+        "url": "https://www.latent.space/p/bad-envs",
+        "source": "Latent Space",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T18:49:40",
+        "score": 0,
+        "summary": "Latent Space文章指出，损坏的强化学习环境会主动使模型变差。作者分享多年观察轨迹后的常见问题及修复方法。",
+        "extra": {
+          "image": "https://substackcdn.com/image/fetch/$s_!NbXz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe58868ac-23a0-453d-81e5-5ca830f7454d_1456x1394.png"
+        }
+      },
+      {
+        "title": "The latest AI news we announced in May 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+        "source": "Google AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T14:45:00",
+        "score": 0,
+        "summary": "谷歌AI在2026年5月发布了一系列AI新闻。具体内容未详述，但涵盖AI最新进展。",
+        "extra": {
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp"
+        }
+      },
+      {
+        "title": "Microsoft trained its MAI models on unlicensed web data despite promising \"enterprise grade, clean and commercially licensed data\"",
+        "url": "https://the-decoder.com/microsoft-trained-its-mai-models-on-unlicensed-web-data-despite-promising-enterprise-grade-clean-and-commercially-licensed-data/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T12:10:26",
+        "score": 0,
+        "summary": "微软MAI模型使用未授权网络数据训练，尽管承诺“企业级、干净、商业许可数据”。微软的LLM训练方法与其他AI公司并无不同。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/06/microsoft_logo_plain.png"
+        }
+      },
+      {
+        "title": "Anthropic's Mythos model is reportedly powering NSA offensive cyber ops against China and Iran",
+        "url": "https://the-decoder.com/anthropics-mythos-model-is-reportedly-powering-nsa-offensive-cyber-ops-against-china-and-iran/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T11:15:28",
+        "score": 0,
+        "summary": "Anthropic的Mythos模型据报正为NSA提供对中国和伊朗的进攻性网络行动支持。约6名工程师驻扎NSA适配模型。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/03/anthropic_head_benchmark_knowing-1.jpeg"
+        }
+      },
+      {
+        "title": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+        "url": "https://www.qbitai.com/2026/06/431033.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T10:53:01",
+        "score": 0,
+        "summary": "智源与清华合作成果登上Science：脑科学多模态基础模型Brainμ揭示记忆-睡眠调控神经机制。该研究为理解记忆与睡眠双向作用提供新证据。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程",
+        "url": "https://www.qbitai.com/2026/06/431014.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T09:16:04",
+        "score": 0,
+        "summary": "WPS笔记正式发布，AI贯穿记录、整理与复用全过程。AI笔记不是聊天框，而是信息入口。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "从超级个体到超级团队，腾讯云发布WorkBuddy企业版",
+        "url": "https://www.qbitai.com/2026/06/430758.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T08:55:29",
+        "score": 0,
+        "summary": "腾讯云发布WorkBuddy企业版，从超级个体到超级团队，打造企业AI效率工具新标配。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "Anthropic says Claude now writes over 90% of its code and wants the world to have an AI pause button",
+        "url": "https://the-decoder.com/anthropic-says-claude-now-writes-over-90-of-its-code-and-wants-the-world-to-have-an-ai-pause-button/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T08:45:29",
+        "score": 0,
+        "summary": "Anthropic称Claude现在编写其90%以上的代码，并希望全球拥有AI暂停按钮。内部数据显示工程师效率提升8倍。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/06/anthropic_claude_clone.png"
+        }
+      },
+      {
+        "title": "[AINews] not much happened today",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
+        "source": "Latent Space",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T06:44:49",
+        "score": 0,
+        "summary": "AINews报道今天没什么大事发生。AI圈相对平静的一天。",
+        "extra": {
+          "image": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+        "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-05T15:00:31",
+        "score": 359,
+        "summary": "Hacker News报道宇航员在修复空气泄漏后被告知返回国际空间站，获得359分，232条评论。太空任务安全讨论。",
+        "extra": {
+          "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de4c/live/1c088020-60f1-11f1-89a3-d1f559421220.png"
+        }
+      },
+      {
+        "title": "Conventional Commits encourages focus on the wrong things",
+        "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-05T15:39:38",
+        "score": 267,
+        "summary": "Hacker News讨论Conventional Commits鼓励关注错误的事情，获得267分，209条评论。开发者对提交规范有分歧。",
+        "extra": {
+          "image": "https://sumnerevans.com/profile_hu_ec6b45997520a46d.webp"
+        }
+      },
+      {
+        "title": "Fine-tuning an LLM to write docs like it's 1995",
+        "url": "https://passo.uno/fine-tuning-docs-llm/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-05T05:46:06",
+        "score": 176,
+        "summary": "Hacker News展示微调LLM以像1995年那样写文档，获得176分，64条评论。怀旧风格引发共鸣。",
+        "extra": {
+          "image": "https://passo.uno/uploads/finetuned.png"
+        }
+      },
+      {
+        "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+        "url": "https://news.ycombinator.com/item?id=48406174",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-04T23:42:20",
+        "score": 168,
+        "summary": "Hacker News提问“你用GenAI时的‘哦糟了’时刻？”，获得168分，395条评论。开发者分享AI翻车经历。",
+        "extra": {
+          "image": "y18.svg"
+        }
+      },
+      {
+        "title": "Hacker News, Sans AI",
+        "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-05T20:38:40",
+        "score": 148,
+        "summary": "Hacker News讨论“无AI的Hacker News”，获得148分，77条评论。反映部分用户对AI内容泛滥的厌倦。",
+        "extra": {}
+      },
+      {
+        "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
+        "url": "https://news.ycombinator.com/item?id=48413629",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-05T15:13:54",
+        "score": 117,
+        "summary": "Hacker News上提问“你的AI开发技术栈/工作流是什么？”，获得117分，106条评论。开发者分享AI开发实践。",
+        "extra": {
+          "image": "y18.svg"
+        }
+      },
+      {
+        "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+        "url": "https://github.com/zdk/lowfat",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-05T09:10:42",
+        "score": 115,
+        "summary": "Hacker News展示Lowfat：可插拔CLI过滤器，节省91.8%的LLM token。获得115分，58条评论。",
+        "extra": {
+          "image": "https://opengraph.githubassets.com/3e79fdbb53cf34a8f8a774a2b21972c6763e2ccd845db0ef22f4ec2db556e627/zdk/lowfat"
+        }
+      },
+      {
+        "title": "Transformers are inherently succinct",
+        "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-05T18:50:26",
+        "score": 90,
+        "summary": "Hacker News讨论“Transformer本质上是简洁的”，获得90分，30条评论。探讨Transformer模型的理论特性。",
+        "extra": {}
+      },
+      {
+        "title": "Inside FAISS: Billion-Scale Similarity Search",
+        "url": "https://fremaconsulting.ch/blog/faiss",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-04T13:54:28",
+        "score": 46,
+        "summary": "Hacker News讨论FAISS内部：十亿级相似性搜索，获得46分，3条评论。技术深度文章。",
+        "extra": {
+          "image": "https://fremaconsulting.ch/faiss-schemas/FAISS_OG_card_v2.png"
+        }
+      },
+      {
+        "title": "The intracies of modern camera lens repair (2024)",
+        "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-06T00:33:26",
+        "score": 41,
+        "summary": "Hacker News讨论现代相机镜头维修的复杂性。获得41分，2条评论。",
+        "extra": {
+          "image": "https://salvagedcircuitry.com/img/sigma-45mm/med/20240228_145227c.JPG"
+        }
+      },
+      {
+        "title": "Microsoft Compromised Again. Shuts Down Azure Function GitHub Actions",
+        "url": "https://opensourcemalware.com/blog/miasma-reaches-azure",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-05T21:08:39",
+        "score": 29,
+        "summary": "Hacker News报道微软再次被入侵，关闭Azure Function GitHub Actions。获得29分，2条评论。",
+        "extra": {
+          "image": "https://opensourcemalware.com/blog-posts/images/microsoft-azure-functions-hacked-banner.png"
+        }
+      },
+      {
+        "title": "She won a religious exemption from using AI at work",
+        "url": "https://www.businessinsider.com/worker-got-religious-exemption-using-ai-at-work-2026-6",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-06T00:21:48",
+        "score": 14,
+        "summary": "Hacker News报道一名员工因宗教原因获得豁免，不在工作中使用AI。获得14分，5条评论。",
+        "extra": {
+          "image": "https://i.insider.com/6a20a6852e5a80cfe050344a?width=1200&format=jpeg"
+        }
+      }
+    ],
+    "products": [
+      {
+        "title": "Microsoft MAI-Voice-2",
+        "url": "https://www.producthunt.com/products/mai-image-2-3",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T21:38:54",
+        "score": 0,
+        "summary": "Microsoft MAI-Voice-2：支持15种语言的情感语音合成与声音克隆。Product Hunt上发布。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/0fa2658f-7808-408a-b376-c954e58b772b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Agent Browser Shield",
+        "url": "https://www.producthunt.com/products/agent-browser-shield",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T20:50:10",
+        "score": 0,
+        "summary": "Agent Browser Shield：阻止提示注入并降低AI浏览器代理的token成本。Product Hunt上发布。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/2d7373c1-997c-41c7-9d8e-b245a71270a2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Nemotron 3 Ultra by NVIDIA",
+        "url": "https://www.producthunt.com/products/nvidia",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T20:02:11",
+        "score": 0,
+        "summary": "NVIDIA Nemotron 3 Ultra：为长时间运行的代理提供更快、更高效的推理。Product Hunt上发布。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/3510c708-7531-485b-bed4-2530fcbcdd03.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Leni",
+        "url": "https://www.producthunt.com/products/leni",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T11:54:13",
+        "score": 0,
+        "summary": "Leni：号称世界上最准确的AI投资者工具。Product Hunt上发布。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/0cc77175-bf74-412d-9882-428247aa87c1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Minimi",
+        "url": "https://www.producthunt.com/products/shram",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T08:29:10",
+        "score": 0,
+        "summary": "Minimi：为Claude提供环境记忆。Product Hunt上发布。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/a620a4e0-e814-4817-bc77-3b64de305485.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      },
+      {
+        "title": "Agent Mode on Arena",
+        "url": "https://www.producthunt.com/products/arena-5",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-01T18:22:20",
+        "score": 0,
+        "summary": "Agent Mode on Arena：通过自主AI代理完成真实世界任务。Product Hunt上发布。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/8c8e5e76-1a6d-4b41-836b-540456c36287.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "Drives for Vercel Sandbox in Private Beta",
+        "url": "https://vercel.com/changelog/drives-for-vercel-sandbox-in-private-beta",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T00:01:00",
+        "score": 0,
+        "summary": "Vercel Sandbox私有测试版支持Drives：持久化可附加存储，生命周期独立于沙盒。",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/52zwd22w1QzMupysv5VCF4/cfdb57211d4f76a23c047edcbca0ba46/30950.png"
+        }
+      },
+      {
+        "title": "The skills.sh API is now available",
+        "url": "https://vercel.com/changelog/the-skills-sh-api-is-now-available",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-05T00:00:00",
+        "score": 0,
+        "summary": "skills.sh API现已可用：查询超过60万个开源技能，支持搜索和详细信息获取。",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6UWwMeC3AUV1xVI6fljePi/3123f362bbb51ee355eab5237a7b8cf4/skillssh_api_is_generally_available_og_card.jpg"
+        }
+      },
+      {
+        "title": "Multi-select elements",
+        "url": "https://cursor.com/changelog/design-mode-improvements",
+        "source": "Cursor Changelog",
+        "source_kind": "html",
+        "published_at": "2026-06-05T00:00:00",
+        "score": 0,
+        "summary": "Cursor 3.7版本更新：支持多选元素。2026年6月5日发布。",
+        "extra": {
+          "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/opengraph-changelog-june-5-2026.png"
+        }
+      },
+      {
+        "title": "Build and deploy Shopify storefronts on Vercel",
+        "url": "https://vercel.com/changelog/build-and-deploy-shopify-storefronts-on-vercel",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T00:00:00",
+        "score": 0,
+        "summary": "Vercel上可构建和部署Shopify店面：从Vercel创建Shopify商店，几分钟内搭建生产就绪店面。",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2LE2aBgOFlPXvltu8DKUVB/a5ae47366c239ba00d1239f1eddff92d/35922.png"
+        }
+      },
+      {
+        "title": "Custom tools",
+        "url": "https://cursor.com/changelog/sdk-updates-jun-2026",
+        "source": "Cursor Changelog",
+        "source_kind": "html",
+        "published_at": "2026-06-04T00:00:00",
+        "score": 0,
+        "summary": "Cursor更新：支持自定义工具。2026年6月4日发布。",
+        "extra": {
+          "image": "https://cursor.com/public/opengraph-image.png"
+        }
+      },
+      {
+        "title": "Trace any Vercel request from the CLI",
+        "url": "https://vercel.com/changelog/trace-any-vercel-request-from-the-cli",
+        "source": "Vercel AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-03T00:00:00",
+        "score": 0,
+        "summary": "Vercel CLI支持追踪任何请求：使用vercel curl --trace生成OpenTelemetry追踪。",
+        "extra": {
+          "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6jVPg01pQ0YFQl8Mke0d9N/e7377bfa45ab1d943d5ac58bec770621/30900.png"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+        "url": "https://huggingface.co/papers/2606.06492",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-06T02:00:45.416983",
+        "score": 46,
+        "summary": "arXiv论文Code2LoRA：超网络生成适配器用于代码语言模型在软件演化中的适应。获得46分。",
+        "extra": {
+          "arxiv_id": "2606.06492",
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.06492/gradient.png"
+        }
+      },
+      {
+        "title": "ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?",
+        "url": "https://huggingface.co/papers/2606.05553",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-06T02:00:45.416983",
+        "score": 40,
+        "summary": "arXiv论文ArcANE：角色扮演语言代理是否在正确时机保持角色？获得40分。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.05553.png",
+          "arxiv_id": "2606.05553"
+        }
+      },
+      {
+        "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration",
+        "url": "https://huggingface.co/papers/2606.04743",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-06T02:00:45.416983",
+        "score": 36,
+        "summary": "arXiv论文TIDE：通过模板引导迭代主动发现多问题。获得36分。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.04743.png",
+          "arxiv_id": "2606.04743"
+        }
+      },
+      {
+        "title": "AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints",
+        "url": "https://huggingface.co/papers/2606.05622",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-06T02:00:45.416983",
+        "score": 32,
+        "summary": "arXiv论文AdaPlanBench：评估LLM代理在世界和用户约束下的自适应规划。获得32分。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.05622.png",
+          "arxiv_id": "2606.05622"
+        }
+      },
+      {
+        "title": "VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding",
+        "url": "https://huggingface.co/papers/2606.05259",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-06T02:00:45.416983",
+        "score": 31,
+        "summary": "arXiv论文VideoKR：面向知识和推理密集的视频理解。获得31分。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.05259.png",
+          "arxiv_id": "2606.05259"
+        }
+      },
+      {
+        "title": "Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation",
+        "url": "https://huggingface.co/papers/2606.06428",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-06T02:00:45.416983",
+        "score": 23,
+        "summary": "arXiv论文强化学习引发未见语言翻译的上下文学习。获得23分。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.06428.png",
+          "arxiv_id": "2606.06428"
+        }
+      },
+      {
+        "title": "RobotValues: Evaluating Household Robots When Human Values Conflict",
+        "url": "https://huggingface.co/papers/2606.03312",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-06T02:00:45.416983",
+        "score": 22,
+        "summary": "arXiv论文RobotValues：评估人类价值观冲突时的家用机器人。获得22分。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.03312.png",
+          "arxiv_id": "2606.03312"
+        }
+      },
+      {
+        "title": "LoomVideo: Unifying Multimodal Inputs into Video Generation and Editing",
+        "url": "https://huggingface.co/papers/2606.06042",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-06T02:00:45.416983",
+        "score": 16,
+        "summary": "arXiv论文LoomVideo：统一多模态输入到视频生成和编辑。获得16分。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.06042.png",
+          "arxiv_id": "2606.06042"
+        }
+      },
+      {
+        "title": "Complexity-Balanced Diffusion Splitting",
+        "url": "https://huggingface.co/papers/2606.06477",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-06T02:00:45.416983",
+        "score": 15,
+        "summary": "arXiv论文复杂度平衡扩散分裂。获得15分。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.06477.png",
+          "arxiv_id": "2606.06477"
+        }
+      },
+      {
+        "title": "Rethinking Continual Experience Internalization for Self-Evolving LLM Agents",
+        "url": "https://huggingface.co/papers/2606.04703",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-06T02:00:45.416983",
+        "score": 15,
+        "summary": "arXiv论文重新思考持续经验内化用于自进化LLM代理。获得15分。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.04703.png",
+          "arxiv_id": "2606.04703"
+        }
+      },
+      {
+        "title": "Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?",
+        "url": "https://huggingface.co/papers/2606.04811",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-06T02:00:45.416983",
+        "score": 12,
+        "summary": "arXiv论文Dream.exe：视频生成模型能否梦到可执行机器人操作？获得12分。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.04811.png",
+          "arxiv_id": "2606.04811"
+        }
+      },
+      {
+        "title": "The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset",
+        "url": "https://huggingface.co/papers/2606.02956",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-06T02:00:45.416983",
+        "score": 12,
+        "summary": "arXiv论文自动驾驶之路：KITScenes多模态数据集。获得12分。",
+        "extra": {
+          "arxiv_id": "2606.02956",
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.02956/gradient.png"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "CopilotKit/CopilotKit",
+        "url": "https://github.com/CopilotKit/CopilotKit",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 366,
+        "summary": "CopilotKit：代理和生成式UI的前端栈，支持React和Angular。今日获366星。",
+        "extra": {
+          "image": "https://github.com/CopilotKit.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "openclaw/openclaw",
+        "url": "https://github.com/openclaw/openclaw",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 350,
+        "summary": "openclaw/openclaw：个人AI助手，跨平台。今日获350星。",
+        "extra": {
+          "image": "https://github.com/openclaw.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "MemPalace/mempalace",
+        "url": "https://github.com/MemPalace/mempalace",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 227,
+        "summary": "GitHub项目MemPalace：最佳基准开源AI记忆系统，免费。今日获227星。",
+        "extra": {
+          "image": "https://github.com/MemPalace.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "Panniantong/Agent-Reach",
+        "url": "https://github.com/Panniantong/Agent-Reach",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 148,
+        "summary": "GitHub项目Agent-Reach：让AI代理看到整个互联网，支持搜索Twitter、Reddit、YouTube等，零API费用。今日获148星。",
+        "extra": {
+          "image": "https://github.com/Panniantong.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "withastro/flue",
+        "url": "https://github.com/withastro/flue",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 126,
+        "summary": "withastro/flue：沙盒代理框架。今日获126星。",
+        "extra": {
+          "image": "https://github.com/withastro.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "backnotprop/plannotator",
+        "url": "https://github.com/backnotprop/plannotator",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 41,
+        "summary": "backnotprop/plannotator：可视化注释和审查编码代理计划与代码差异，支持团队协作。今日获41星。",
+        "extra": {
+          "image": "https://github.com/backnotprop.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "microsoft/BitNet",
+        "url": "https://github.com/microsoft/BitNet",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 39,
+        "summary": "微软BitNet：1-bit LLM的官方推理框架。今日获39星。",
+        "extra": {
+          "image": "https://github.com/microsoft.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "microsoft/agent-framework",
+        "url": "https://github.com/microsoft/agent-framework",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 26,
+        "summary": "微软开源agent-framework：构建、编排和部署AI代理及多代理工作流，支持Python和.NET。今日获26星。",
+        "extra": {
+          "image": "https://github.com/microsoft.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "vllm-project/vllm-omni",
+        "url": "https://github.com/vllm-project/vllm-omni",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 21,
+        "summary": "vllm-project/vllm-omni：全模态模型的高效推理框架。今日获21星。",
+        "extra": {
+          "image": "https://github.com/vllm-project.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
