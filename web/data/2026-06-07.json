@@ -1,0 +1,599 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T10:01:21+08:00",
+  "stats": {
+    "new_count": 75,
+    "total_seen": 2767
+  },
+  "section_titles": {
+    "skills_mcp": "🧩 MCP & Skills 生态",
+    "models": "🚀 大模型动态",
+    "news": "📰 AI 重要新闻",
+    "products": "🔥 爆款 AI 产品",
+    "tools": "🛠️ AI 工具 & Coding Agent",
+    "papers": "📜 论文与研究",
+    "github": "💻 GitHub AI 热门项目"
+  },
+  "sections": {
+    "skills_mcp": [
+      {
+        "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+        "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-06T20:24:29",
+        "score": 24,
+        "summary": "Computex 2026 探讨是否将进入 Agentic PC 时代，获得 27 条评论和 24 分。",
+        "extra": {}
+      },
+      {
+        "title": "Meta's Hatch AI agent could cost up to $200 a month and marks its first paid AI product",
+        "url": "https://the-decoder.com/metas-hatch-ai-agent-could-cost-up-to-200-a-month-and-marks-its-first-paid-ai-product/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T11:42:08",
+        "score": 0,
+        "summary": "Meta 开发付费 AI 智能体产品“Hatch”，月费最高 200 美元，用户可用自然语言构建工具、安排日程等，这是 Meta 首个付费 AI 产品。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/04/meta_ai_logo_wall_muse.png"
+        }
+      },
+      {
+        "title": "Insurance of Agentic AI",
+        "url": "https://arxiv.org/abs/2606.05449",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文探讨智能体 AI 的保险问题，分析其自主规划、工具使用等能力带来的新风险。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "SciVisAgentSkills: Design and Evaluation of Agent Skills for Scientific Data Analysis and Visualization",
+        "url": "https://arxiv.org/abs/2606.05525",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文设计并评估 SciVisAgentSkills，用于科学数据分析和可视化的智能体技能，支持自然语言到可视化工作流的转换。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      }
+    ],
+    "models": [
+      {
+        "title": "US House lawmakers release draft bill to prohibit state AI rules",
+        "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-06T13:40:22",
+        "score": 112,
+        "summary": "美国众议院议员发布草案，拟禁止各州制定 AI 法规，获得 112 分和 72 条评论。",
+        "extra": {}
+      },
+      {
+        "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+        "url": "https://arxiv.org/abs/2605.00414",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-06T12:59:59",
+        "score": 44,
+        "summary": "论文《Trees to Flows and Back》统一了决策树与扩散模型，在 Hacker News 上获得 44 分和 8 条评论。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+        "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T20:32:24",
+        "score": 0,
+        "summary": "OpenAI 推出 Lockdown Mode，旨在保护敏感数据免受提示注入攻击。该模式虽不能完全消除漏洞，但能降低敏感数据在攻击过程中泄露的风险。",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201630077.jpg?resize=1200,798"
+        }
+      },
+      {
+        "title": "Five labs, five minds: building a multi-model finance drama on small models",
+        "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+        "source": "Hugging Face",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T19:02:33",
+        "score": 0,
+        "summary": "Hugging Face 上发布了一个项目，使用五个小模型构建多模型金融剧情，探索小型模型的协作潜力。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/build-small-hackathon/thousand-token-wood-sim-v2.png"
+        }
+      },
+      {
+        "title": "Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting cut off",
+        "url": "https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T11:22:28",
+        "score": 0,
+        "summary": "Elon Musk 的 xAI 被曝数月来使用 Anthropic 的 Claude 训练其编码模型，甚至在 Anthropic 切断访问后仍通过私人账户和 Blackbox AI 服务继续使用。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/06/xai_logo_wakk.png"
+        }
+      },
+      {
+        "title": "New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent",
+        "url": "https://the-decoder.com/new-open-source-voice-model-listens-nonstop-and-decides-every-0-4-seconds-whether-to-speak-or-stay-silent/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T10:50:21",
+        "score": 0,
+        "summary": "开源语音模型 Audio Interaction 可连续监听，每 0.4 秒决定是否说话，支持翻译、转录、聊天和识别环境音，代码和权重已开源。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/06/audio-interaction-model-generated-image-nano-banana-pro.jpg"
+        }
+      },
+      {
+        "title": "特锐德：推出算力中心供电站“算电岛” Token成本可降低30%",
+        "url": "https://36kr.com/newsflashes/3841455348746496?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T08:50:27",
+        "score": 0,
+        "summary": "特锐德推出算力中心供电站“算电岛”，Token 成本可降低 30%，建设周期缩至 150 天，供电效率 98.5%。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+        "url": "https://www.qbitai.com/2026/06/431287.html",
+        "source": "量子位",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T07:15:13",
+        "score": 0,
+        "summary": "大模型发展三年半后，AI 圈迎来一场“不要大厂，只赌脑洞”的比赛，观众投币决定前十名。",
+        "extra": {
+          "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png"
+        }
+      },
+      {
+        "title": "Qwen3.7-Plus is Alibaba's bid to turn multimodal AI into a full-blown autonomous agent",
+        "url": "https://the-decoder.com/qwen3-7-plus-is-alibabas-bid-to-turn-multimodal-ai-into-a-full-blown-autonomous-agent/",
+        "source": "The Decoder",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T06:54:29",
+        "score": 0,
+        "summary": "阿里 Qwen 团队发布 Qwen3.7-Plus，一个多模态智能体模型，融合视觉感知、GUI 操作和编码，在演示中能自主完成复杂任务。",
+        "extra": {
+          "image": "https://the-decoder.com/wp-content/uploads/2026/06/alibaba-qwen3.7-plus-banner.jpg"
+        }
+      },
+      {
+        "title": "[AINews] not much happened today",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
+        "source": "Latent Space",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T04:34:47",
+        "score": 0,
+        "summary": "Latent Space 的 AINews 简报称当天 AI 领域平静，主要围绕递归自我改进（RSI）。",
+        "extra": {
+          "image": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png"
+        }
+      }
+    ],
+    "news": [
+      {
+        "title": "How LLMs work",
+        "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-03T20:15:13",
+        "score": 848,
+        "summary": "一篇解释 LLM 工作原理的文章在 Hacker News 上获得 848 分和 236 条评论，成为当日最高分。",
+        "extra": {
+          "image": "https://www.0xkato.xyz/assets/transformer-pipeline.png"
+        }
+      },
+      {
+        "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+        "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-06T18:35:27",
+        "score": 435,
+        "summary": "Meta 确认数千个 Instagram 账户因滥用其 AI 聊天机器人而被黑，该事件在 Hacker News 上获得 435 分和 153 条评论。",
+        "extra": {
+          "image": "https://storage.ghost.io/c/ed/a2/eda2c6f7-faef-48b4-9ed4-86a4fa4dca68/content/images/size/w1200/2026/06/meta-ai-chatbot-twis-story-2.jpg"
+        }
+      },
+      {
+        "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+        "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-06T18:21:06",
+        "score": 410,
+        "summary": "消息称五角大楼将以色列对美间谍威胁提升至最高级别，引发 410 分和 307 条评论。",
+        "extra": {
+          "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260604-trump-netanyahu-vsb-1755-912832.jpg"
+        }
+      },
+      {
+        "title": "Ask HN: Why is the HN crowd so anti-AI?",
+        "url": "https://news.ycombinator.com/item?id=48420827",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-06T02:31:51",
+        "score": 393,
+        "summary": "Hacker News 社区讨论为何对 AI 持反对态度，获得 393 分和 652 条评论，成为热门话题。",
+        "extra": {
+          "image": "y18.svg"
+        }
+      },
+      {
+        "title": "New U.S. college grads now have higher unemployment than the average worker",
+        "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-06T20:35:40",
+        "score": 151,
+        "summary": "最新数据显示，美国新大学毕业生的失业率已高于平均工人水平，引发 156 条评论和 151 分讨论。",
+        "extra": {}
+      },
+      {
+        "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+        "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-05T20:06:36",
+        "score": 151,
+        "summary": "据称 Google 每月向 SpaceX 支付 9.2 亿美元，以获取 xAI 数据中心的计算能力，该消息获得 151 分和 717 条评论。",
+        "extra": {
+          "image": "https://image.cnbcfm.com/api/v1/image/108089110-1737388354894-gettyimages-2194353996-AFP_36UV3WH.jpeg?v=1737388378&w=1920&h=1080"
+        }
+      },
+      {
+        "title": "The back cover of C++: The Language raises questions not answered by front cover",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-06T03:23:47",
+        "score": 143,
+        "summary": "C++ 语言书籍的封底引发了对封面未解答问题的讨论，获得 143 分和 48 条评论。",
+        "extra": {
+          "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg"
+        }
+      },
+      {
+        "title": "Public Domain Image Archive",
+        "url": "https://pdimagearchive.org/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-07T00:22:51",
+        "score": 12,
+        "summary": "Public Domain Image Archive 是一个公共领域图像存档项目，在 Hacker News 上获得 12 分和 1 条评论。",
+        "extra": {
+          "image": "https://images.pdimagearchive.org/pdia/main-opengraph.jpg"
+        }
+      },
+      {
+        "title": "Law Professors Prefer AI over Peer Answers",
+        "url": "https://law.stanford.edu/publications/law-professors-prefer-ai-over-peer-answers/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-06T18:29:06",
+        "score": 11,
+        "summary": "一项研究显示，法学教授更倾向于 AI 生成的答案而非同行答案，获得 11 分和 1 条评论。",
+        "extra": {
+          "image": "https://law.stanford.edu/wp-content/themes/stanford-law-school/img/sls-social-default.jpg"
+        }
+      },
+      {
+        "title": "Show HN: DomainTasker – avoid losing domains and surprise renewals",
+        "url": "https://domaintasker.com/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-07T00:50:13",
+        "score": 9,
+        "summary": "DomainTasker 是一个帮助用户避免域名丢失和意外续费的工具，在 Hacker News 上获得 9 分和 5 条评论。",
+        "extra": {
+          "image": "https://domaintasker.com/img/social-image.jpg"
+        }
+      },
+      {
+        "title": "韩国投资者持续买入中国硬科技",
+        "url": "https://36kr.com/newsflashes/3842433670941190?f=rss",
+        "source": "36氪",
+        "source_kind": "rss",
+        "published_at": "2026-06-07T01:47:31",
+        "score": 0,
+        "summary": "韩国投资者持续买入中国硬科技，过去一个月寒武纪获近 2000 万美元净买入，多只中国科技 ETF 资金流入显著。",
+        "extra": {
+          "image": "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"
+        }
+      },
+      {
+        "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+        "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+        "source": "TechCrunch AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T17:42:15",
+        "score": 0,
+        "summary": "Sriram Krishnan 辞去白宫 AI 顾问职务，据称将成立新机构继续影响特朗普的 AI 政策。",
+        "extra": {
+          "image": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2021-02-03-at-1.18.03-PM-1.webp?resize=1200,833"
+        }
+      }
+    ],
+    "products": [
+      {
+        "title": "MAI-Image-2.5",
+        "url": "https://www.producthunt.com/products/mai-image-2-5",
+        "source": "Product Hunt",
+        "source_kind": "rss",
+        "published_at": "2026-06-04T03:20:01",
+        "score": 0,
+        "summary": "MAI-Image-2.5 在 Product Hunt 上发布，支持通过精确场景控制生成和编辑图像。",
+        "extra": {
+          "image": "https://ph-files.imgix.net/b1a509c0-42fe-4467-b4c9-de34d9f041f2.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "Harness engineering: Leveraging Codex in an agent-first world",
+        "url": "https://openai.com/index/harness-engineering/",
+        "source": "Hacker News",
+        "source_kind": "hackernews",
+        "published_at": "2026-06-05T18:20:06",
+        "score": 61,
+        "summary": "文章探讨在智能体优先的世界中利用 Codex 进行工程优化，获得 61 分和 24 条评论。",
+        "extra": {
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/2TjayW57xam6dBbbV28sae/887861e21b8d205c2c392ec5315d3681/SEO.png?w=1600&h=900&fit=fill"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "title": "Latent Reasoning with Normalizing Flows",
+        "url": "https://huggingface.co/papers/2606.06447",
+        "source": "HF Papers",
+        "source_kind": "hfpapers",
+        "published_at": "2026-06-07T02:00:38.510622",
+        "score": 6,
+        "summary": "论文《Latent Reasoning with Normalizing Flows》在 Hugging Face Papers 上获得 6 分，探索使用归一化流进行潜在推理。",
+        "extra": {
+          "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.06447.png",
+          "arxiv_id": "2606.06447"
+        }
+      },
+      {
+        "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+        "url": "https://arxiv.org/abs/2606.05256",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文分析 Reddit r/ChangeMyView 上一个已终止的现场实验，研究隐蔽 LLM 智能体的说服策略。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+        "url": "https://arxiv.org/abs/2606.05304",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文提出“动作-状态通信”方法，用于提升多智能体系统的通信效率，减少冗余信息。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
+        "url": "https://arxiv.org/abs/2606.05316",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文提出开放世界知识获取方法，用于理解不断演变的模因，即使模因刚刚出现也能识别。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
+        "url": "https://arxiv.org/abs/2606.05332",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文提出 GITCO 框架，通过门控推理时上下文优化解决时间序列基础模型中的上下文中毒问题。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
+        "url": "https://arxiv.org/abs/2606.05334",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文提出不确定性感知的功能行为预测方法，用于循环工厂中材料疲劳评估，支持异质退化状态下的重用决策。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+        "url": "https://arxiv.org/abs/2606.05342",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文发布 SentinelBench 基准，用于评估长时间运行的监控智能体，填补了连续动作模型在长周期任务中的评估空白。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
+        "url": "https://arxiv.org/abs/2606.05357",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文开发了一个可解释且可信的 AI 框架，用于大规模纵向结构-疼痛关联研究，基于骨关节炎倡议数据。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Synthetic Contrastive Reasoning for Multi-Table Q&A",
+        "url": "https://arxiv.org/abs/2606.05382",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文提出合成对比推理方法，用于多表问答，提升模型在关系表上的检索和组合推理能力。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Stability vs. Manipulability: Evaluating Robustness Under Post-Decision Interaction in LLM Judges",
+        "url": "https://arxiv.org/abs/2606.05384",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文评估 LLM 作为评判者的鲁棒性，发现后决策交互可操纵排名，稳定性与可操纵性之间存在权衡。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "Residual Modeling for High-Fidelity Learned Compression of Scientific Data",
+        "url": "https://arxiv.org/abs/2606.05389",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文提出残差建模方法，用于科学数据的高保真有损压缩，在保持高压缩比的同时提升重建质量。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      },
+      {
+        "title": "LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization",
+        "url": "https://arxiv.org/abs/2606.05400",
+        "source": "arXiv cs.AI",
+        "source_kind": "rss",
+        "published_at": "2026-06-06T04:00:00",
+        "score": 0,
+        "summary": "arXiv 论文提出 LeanMarathon，通过长视界自动形式化提升 AI 数学家的可靠性，解决语句漂移和依赖纠缠问题。",
+        "extra": {
+          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        }
+      }
+    ],
+    "github": [
+      {
+        "title": "microsoft/VibeVoice",
+        "url": "https://github.com/microsoft/VibeVoice",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 216,
+        "summary": "微软开源 VibeVoice，一个前沿语音 AI 项目，今日在 GitHub 上获得 216 星，使用 Python。",
+        "extra": {
+          "image": "https://github.com/microsoft.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "santifer/career-ops",
+        "url": "https://github.com/santifer/career-ops",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 193,
+        "summary": "santifer/career-ops 是一个基于 Claude Code 的 AI 求职系统，支持 14 种技能模式、Go 仪表盘、PDF 生成和批处理，今日获 193 星。",
+        "extra": {
+          "image": "https://github.com/santifer.png?size=120",
+          "language": "JavaScript"
+        }
+      },
+      {
+        "title": "microsoft/mxc",
+        "url": "https://github.com/microsoft/mxc",
+        "source": "GitHub Trending (daily / 全语言)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 64,
+        "summary": "微软开源 mxc，一个基于策略的分层隔离和容器化工具，使用 Rust 编写，今日获 64 星。",
+        "extra": {
+          "image": "https://github.com/microsoft.png?size=120",
+          "language": "Rust"
+        }
+      },
+      {
+        "title": "supabase/supabase",
+        "url": "https://github.com/supabase/supabase",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 56,
+        "summary": "Supabase 是一个 Postgres 开发平台，提供专用数据库用于构建 Web、移动和 AI 应用，今日在 GitHub 上获 56 星。",
+        "extra": {
+          "image": "https://github.com/supabase.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "khoj-ai/khoj",
+        "url": "https://github.com/khoj-ai/khoj",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 46,
+        "summary": "khoj-ai/khoj 是一个可自托管的 AI 第二大脑，支持从网页或文档获取答案、构建自定义智能体、自动化任务，兼容多种 LLM，今日获 46 星。",
+        "extra": {
+          "image": "https://github.com/khoj-ai.png?size=120",
+          "language": "Python"
+        }
+      },
+      {
+        "title": "anthropics/claude-code-action",
+        "url": "https://github.com/anthropics/claude-code-action",
+        "source": "GitHub Trending (daily / TypeScript)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 12,
+        "summary": "Anthropic 开源 claude-code-action，一个用于 Claude Code 的 GitHub Action，今日获 12 星。",
+        "extra": {
+          "image": "https://github.com/anthropics.png?size=120",
+          "language": "TypeScript"
+        }
+      },
+      {
+        "title": "IBM/mcp-context-forge",
+        "url": "https://github.com/IBM/mcp-context-forge",
+        "source": "GitHub Trending (daily / Python)",
+        "source_kind": "github",
+        "published_at": null,
+        "score": 3,
+        "summary": "IBM 开源 mcp-context-forge，一个 AI 网关和代理，统一管理 MCP、A2A、REST/gRPC API，提供集中发现和防护，今日获 3 星。",
+        "extra": {
+          "image": "https://github.com/IBM.png?size=120",
+          "language": "Python"
+        }
+      }
+    ]
+  }
+}
